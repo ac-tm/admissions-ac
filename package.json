@@ -23,7 +23,7 @@
     "@nuxt/content": "^1.14.0",
     "@nuxtjs/composition-api": "^0.22.4",
     "animejs": "^3.2.1",
-    "core-js": "^3.9.1",
+    "core-js": "^3.10.0",
     "lodash": "^4.17.21",
     "netlify-cms": "^2.10.102",
     "nuxt": "^2.15.3"
