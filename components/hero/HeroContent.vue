@@ -1,12 +1,14 @@
 <script lang="ts">
 import { defineComponent, reactive, toRefs } from '@nuxtjs/composition-api'
 import { Stack, Row } from '@/components/ui/layout'
+import { Button } from '@/components/ui/forms'
 
 export default defineComponent({
   name: 'HeroContent',
   components: {
     Stack,
     Row,
+    Button,
   },
   setup() {
     const data = reactive({
@@ -47,12 +49,12 @@ export default defineComponent({
     </p>
 
     <Row flex>
-      <nuxt-link :to="primaryAction.to">
+      <Button :to="primaryAction.to" theme="primary" size="lg">
         {{ primaryAction.label }}
-      </nuxt-link>
-      <nuxt-link :to="primaryAction.to">
+      </Button>
+      <Button :to="primaryAction.to" theme="light" size="lg">
         {{ secondaryAction.label }}
-      </nuxt-link>
+      </Button>
     </Row>
   </Stack>
 </template>

@@ -1,3 +1,5 @@
+const plugin = require('tailwindcss/plugin')
+
 module.exports = {
   darkMode: false, // or 'media' or 'class'
   theme: {
@@ -39,5 +41,15 @@ module.exports = {
       hero: 700,
     },
   },
-  plugins: [],
+  plugins: [
+    plugin(({ addUtilities }) => {
+      const utilities = {
+        '.will-change': {
+          'will-change': 'transform',
+        },
+      }
+
+      addUtilities(utilities)
+    }),
+  ],
 }
