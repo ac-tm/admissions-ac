@@ -8,8 +8,14 @@ export default defineNuxtConfig({
   },
   components: false,
 
+  env: {
+    env: process.env.NODE_ENV || 'development',
+    baseURL: process.env.URL || 'http://localhost:3000'
+  },
+
   head: {
     title: 'Admitere',
+    titleTemplate: '%s - Automatică și Calculatoare',
     htmlAttrs: {
       lang: 'ro'
     },

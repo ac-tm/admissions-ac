@@ -16,7 +16,7 @@ export default defineComponent({
   },
   setup (props) {
     const sizes: Record<Size, string> = {
-      sm: 'h-6 rounded px-2 text-sm',
+      sm: 'h-8 rounded px-2 text-sm !font-medium',
       normal: 'h-10 rounded-lg px-4 text-base',
       lg: 'h-12 rounded-lg px-4 text-lg'
     }
