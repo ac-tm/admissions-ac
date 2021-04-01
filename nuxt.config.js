@@ -4,21 +4,21 @@ export default defineNuxtConfig({
   target: 'static',
   generate: {
     fallback: true,
-    interval: 2000,
+    interval: 2000
   },
   components: false,
 
   head: {
     title: 'Admitere',
     htmlAttrs: {
-      lang: 'ro',
+      lang: 'ro'
     },
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: '' },
+      { hid: 'description', name: 'description', content: '' }
     ],
-    link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.png' }],
+    link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.png' }]
   },
 
   buildModules: [
@@ -26,7 +26,7 @@ export default defineNuxtConfig({
     '@nuxt/typescript-build',
     '@nuxtjs/composition-api',
     '@nuxtjs/tailwindcss',
-    '@nuxtjs/google-fonts',
+    '@nuxtjs/google-fonts'
   ],
   modules: ['@nuxt/content'],
 
@@ -34,17 +34,17 @@ export default defineNuxtConfig({
   plugins: [],
 
   content: {
-    liveEdit: false,
+    liveEdit: false
   },
   tailwindcss: {
-    jit: true,
+    jit: true
   },
   googleFonts: {
     families: {
-      'Work+Sans': [400, 500, 600, 700],
+      'Work+Sans': [400, 500, 600, 700]
     },
-    display: 'swap',
+    display: 'swap'
   },
 
-  build: {},
+  build: {}
 })

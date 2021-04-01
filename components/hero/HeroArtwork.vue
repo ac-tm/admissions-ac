@@ -10,22 +10,22 @@ export default defineComponent({
     ShSquare: Square,
     ShCircle: Circle,
     ShTriangle: Triangle,
-    ShQuarterCircle: QuarterCircle,
+    ShQuarterCircle: QuarterCircle
   },
-  setup() {
+  setup () {
     onMounted(() => {
       anime({
         targets: '.shape',
         scale: [0, 1],
         rotateZ: ['20deg', '0deg'],
-        delay: anime.stagger(75),
+        delay: anime.stagger(75)
       })
     })
 
     return {
-      shapes,
+      shapes
     }
-  },
+  }
 })
 </script>
 

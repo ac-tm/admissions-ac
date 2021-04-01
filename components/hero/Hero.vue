@@ -7,8 +7,8 @@ export default defineComponent({
   name: 'Hero',
   components: {
     Content,
-    Artwork,
-  },
+    Artwork
+  }
 })
 </script>
 

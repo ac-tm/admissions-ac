@@ -8,7 +8,7 @@ const spacing: Record<Spacing, string> = {
   normal: 'space-x-4',
   lg: 'space-x-8',
   xl: 'space-x-16',
-  '2xl': 'space-x-24',
+  '2xl': 'space-x-24'
 }
 
 export default defineComponent({
@@ -17,13 +17,13 @@ export default defineComponent({
     as: { type: String, default: 'div' },
     flex: { type: Boolean, default: false },
     wrap: { type: Boolean, default: true },
-    space: { type: String as PropType<Spacing>, default: 'normal' },
+    space: { type: String as PropType<Spacing>, default: 'normal' }
   },
-  setup() {
+  setup () {
     return {
-      spacing,
+      spacing
     }
-  },
+  }
 })
 </script>
 

@@ -7,12 +7,12 @@ module.exports = {
       sm: '640px',
       md: '768px',
       lg: '1024px',
-      xl: '1280px',
+      xl: '1280px'
     },
     extend: {
       container: {
         center: true,
-        padding: '1rem',
+        padding: '1rem'
       },
       colors: {
         primary: '#212750',
@@ -27,29 +27,29 @@ module.exports = {
           600: '#525252',
           700: '#404040',
           800: '#262626',
-          900: '#171717',
-        },
-      },
+          900: '#171717'
+        }
+      }
     },
     fontFamily: {
-      sans: '"Work Sans", Arial',
+      sans: '"Work Sans", Arial'
     },
     fontWeight: {
       normal: 400,
       medium: 500,
       bold: 600,
-      hero: 700,
-    },
+      hero: 700
+    }
   },
   plugins: [
     plugin(({ addUtilities }) => {
       const utilities = {
         '.will-change': {
-          'will-change': 'transform',
-        },
+          'will-change': 'transform'
+        }
       }
 
       addUtilities(utilities)
-    }),
-  ],
+    })
+  ]
 }

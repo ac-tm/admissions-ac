@@ -8,27 +8,27 @@ export default defineComponent({
   components: {
     Stack,
     Row,
-    Button,
+    Button
   },
-  setup() {
+  setup () {
     const data = reactive({
       title: 'Nicăieri nu e ca la AC. Nici măcar acasă.',
       subtitle:
         'Învață, pune în practică, inovează – cei trei pași ai succesului la Automatică și Calculatoare. Fără AC viața nu are sens.',
       primaryAction: {
         label: 'Vreau să mă înscriu!',
-        to: '/',
+        to: '/'
       },
       secondaryAction: {
         label: 'De ce AC?',
-        to: '/',
-      },
+        to: '/'
+      }
     })
 
     return {
-      ...toRefs(data),
+      ...toRefs(data)
     }
-  },
+  }
 })
 </script>
 

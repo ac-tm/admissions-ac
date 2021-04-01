@@ -5,8 +5,8 @@ import { Navigation } from '@/components/nav'
 export default defineComponent({
   name: 'DefaultLayout',
   components: {
-    Navigation,
-  },
+    Navigation
+  }
 })
 </script>
 

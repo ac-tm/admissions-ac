@@ -5,11 +5,11 @@ import { Logo } from '@/components/logo'
 export default defineComponent({
   name: 'Navigation',
   components: {
-    Logo,
+    Logo
   },
-  setup() {
+  setup () {
     return {}
-  },
+  }
 })
 </script>
 

@@ -8,23 +8,23 @@ const colors: Record<string, string> = {
   secondary: 'text-secondary',
   gray: 'text-gray-200',
   offblue: 'text-[#E1E5FF]',
-  blue: 'text-[#3548CA]',
+  blue: 'text-[#3548CA]'
 }
 
 const rotations: Record<string, string> = {
   0: 'rotate-0',
   90: 'rotate-90',
   180: 'rotate-180',
-  '-90': '-rotate-90',
+  '-90': '-rotate-90'
 }
 
 export default defineComponent({
   name: 'ArtworkTriangle',
   props: {
     color: { type: String, default: 'primary' },
-    rotate: { type: String, default: '0' },
+    rotate: { type: String, default: '0' }
   },
-  setup() {
+  setup () {
     const element = ref<HTMLElement>()
 
     const reset = debounce(() => {
@@ -33,7 +33,7 @@ export default defineComponent({
         rotateX: '0deg',
         rotateY: '0deg',
         rotateZ: '0deg',
-        duration: 5000,
+        duration: 5000
       })
     }, 10000)
 
@@ -41,7 +41,7 @@ export default defineComponent({
       anime({
         targets: element.value,
         rotateZ: '+=90deg',
-        duration: 2000,
+        duration: 2000
       })
       reset()
     }
@@ -50,9 +50,9 @@ export default defineComponent({
       element,
       flip,
       colors,
-      rotations,
+      rotations
     }
-  },
+  }
 })
 </script>
 

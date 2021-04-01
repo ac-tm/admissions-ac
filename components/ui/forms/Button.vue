@@ -12,19 +12,19 @@ export default defineComponent({
   props: {
     theme: { type: String as PropType<Theme>, default: 'light' },
     size: { type: String as PropType<Size>, default: 'normal' },
-    to: { type: String, required: false, default: undefined },
+    to: { type: String, required: false, default: undefined }
   },
-  setup(props) {
+  setup (props) {
     const sizes: Record<Size, string> = {
       sm: 'h-6 rounded px-2 text-sm',
       normal: 'h-10 rounded-lg px-4 text-base',
-      lg: 'h-12 rounded-lg px-4 text-lg',
+      lg: 'h-12 rounded-lg px-4 text-lg'
     }
 
     const themes: Record<Theme, string> = {
       primary: 'bg-primary text-white',
       secondary: 'bg-secondary text-white',
-      light: 'bg-gray-50 text-gray-800',
+      light: 'bg-gray-50 text-gray-800'
     }
 
     const style = [
@@ -34,7 +34,7 @@ export default defineComponent({
       themes[props.theme],
       'hover:scale-[1.02] hover:shadow-lg',
       'active:scale-[0.98] active:shadow-sm',
-      'focus:outline-none focus:ring',
+      'focus:outline-none focus:ring'
     ]
 
     const isButton = () => !props.to
@@ -46,13 +46,13 @@ export default defineComponent({
       is: isButton() ? 'button' : aOrLink(),
       type: isButton() ? 'button' : undefined,
       to: !isButton() && isInternal() ? props.to : undefined,
-      href: !isButton() && isInternal() ? undefined : props.to,
+      href: !isButton() && isInternal() ? undefined : props.to
     }
 
     return {
-      attrs,
+      attrs
     }
-  },
+  }
 })
 </script>
 

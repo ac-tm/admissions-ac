@@ -8,15 +8,15 @@ const colors: Record<string, string> = {
   secondary: 'text-secondary',
   gray: 'text-gray-200',
   offblue: 'text-[#E1E5FF]',
-  blue: 'text-[#3548CA]',
+  blue: 'text-[#3548CA]'
 }
 
 export default defineComponent({
   name: 'ArtworkCircle',
   props: {
-    color: { type: String, default: 'primary' },
+    color: { type: String, default: 'primary' }
   },
-  setup() {
+  setup () {
     const element = ref<HTMLElement>()
 
     const reset = debounce(() => {
@@ -25,7 +25,7 @@ export default defineComponent({
         rotateX: '0deg',
         rotateY: '0deg',
         rotateZ: '0deg',
-        duration: 5000,
+        duration: 5000
       })
     }, 10000)
 
@@ -34,7 +34,7 @@ export default defineComponent({
         targets: element.value,
         rotateX: ['0deg', '+=360deg'],
         rotateY: ['0deg', '+=360deg'],
-        duration: 5000,
+        duration: 5000
       })
 
       reset()
@@ -43,9 +43,9 @@ export default defineComponent({
     return {
       element,
       flip,
-      colors,
+      colors
     }
-  },
+  }
 })
 </script>
 

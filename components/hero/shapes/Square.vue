@@ -8,15 +8,15 @@ const colors = {
   secondary: 'text-secondary',
   gray: 'text-gray-200',
   offblue: 'text-[#E1E5FF]',
-  blue: 'text-[#3548CA]',
+  blue: 'text-[#3548CA]'
 }
 
 export default defineComponent({
   name: 'ArtworkSquare',
   props: {
-    color: { type: String, default: 'primary' },
+    color: { type: String, default: 'primary' }
   },
-  setup() {
+  setup () {
     const element = ref<HTMLElement>()
 
     const flips = ref<number>(0)
@@ -26,14 +26,14 @@ export default defineComponent({
         rotateX: '0deg',
         rotateY: '0deg',
         rotateZ: '0deg',
-        duration: 2500 * flips.value,
+        duration: 2500 * flips.value
       })
       flips.value = 0
     }, 10000)
     const flip = () => {
       anime({
         targets: element.value,
-        rotateZ: '-=90deg',
+        rotateZ: '-=90deg'
       })
       flips.value++
       reset()
@@ -42,9 +42,9 @@ export default defineComponent({
     return {
       element,
       flip,
-      colors,
+      colors
     }
-  },
+  }
 })
 </script>
 

@@ -51,5 +51,5 @@ export const shapes: Shape[] = [
   { type: 'ShTriangle', color: 'secondary', rotation: '90' },
   { type: null },
   { type: null },
-  { type: null },
+  { type: null }
 ]
