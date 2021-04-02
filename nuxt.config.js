@@ -36,7 +36,7 @@ export default defineNuxtConfig({
   ],
   modules: ['@nuxt/content'],
 
-  css: ['~/assets/css/global.css'],
+  css: ['~/assets/css/global.css', '~/assets/css/icons.css'],
   plugins: [],
 
   content: {
@@ -52,5 +52,11 @@ export default defineNuxtConfig({
     display: 'swap'
   },
 
-  build: {}
+  build: {
+    postcss: {
+      plugins: {
+        'postcss-nested': {}
+      }
+    }
+  }
 })

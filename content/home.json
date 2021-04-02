@@ -1,0 +1,18 @@
+{
+  "notification": {
+    "showAt": "2021-04-02T18:09:29.631Z",
+    "hideAt": "2021-04-30T20:01:50.328Z",
+    "label": "Vezi rezultatele",
+    "path": "/licenta/rezultate"
+  },
+  "title": "Nicăieri nu e ca la AC, <em>nici măcar acasă</em>.",
+  "copy": "Învață, pune în practică, inovează – cei trei pași ai succesului la Automatică și Calculatoare. Fără AC viața nu are sens.",
+  "cta": {
+    "label": "Înscrie-te!",
+    "path": "/licenta"
+  },
+  "ctaSecondary": {
+    "label": "De ce AC?",
+    "path": "/de-ce-ac"
+  }
+}

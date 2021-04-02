@@ -12,11 +12,12 @@ export default defineComponent({
   props: {
     theme: { type: String as PropType<Theme>, default: 'light' },
     size: { type: String as PropType<Size>, default: 'normal' },
-    to: { type: String, required: false, default: undefined }
+    to: { type: String, default: undefined },
+    rounded: { type: Boolean, default: false }
   },
   setup (props) {
     const sizes: Record<Size, string> = {
-      sm: 'h-8 rounded px-2 text-sm !font-medium',
+      sm: 'h-8 rounded px-3 text-sm !font-medium',
       normal: 'h-10 rounded-lg px-4 text-base',
       lg: 'h-12 rounded-lg px-4 text-lg'
     }
@@ -28,10 +29,11 @@ export default defineComponent({
     }
 
     const style = [
-      'font-bold transition duration-300 transform will-change',
-      'flex items-center',
       sizes[props.size],
       themes[props.theme],
+      props.rounded && 'rounded-full',
+      'font-bold transition duration-200 transform appearance-none',
+      'flex items-center',
       'hover:scale-[1.02] hover:shadow-lg',
       'active:scale-[0.98] active:shadow-sm',
       'focus:outline-none focus:ring'
@@ -43,13 +45,13 @@ export default defineComponent({
 
     const attrs = {
       class: style,
-      is: isButton() ? 'button' : aOrLink(),
       type: isButton() ? 'button' : undefined,
       to: !isButton() && isInternal() ? props.to : undefined,
       href: !isButton() && isInternal() ? undefined : props.to
     }
 
     return {
+      is: isButton() ? 'button' : aOrLink(),
       attrs
     }
   }
@@ -57,7 +59,7 @@ export default defineComponent({
 </script>
 
 <template>
-  <component :is="attrs.is" v-bind="attrs">
+  <component :is="is" v-bind="attrs">
     <slot />
   </component>
 </template>

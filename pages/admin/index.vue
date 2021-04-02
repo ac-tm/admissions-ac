@@ -11,6 +11,11 @@ export default defineComponent({
           type: 'text/javascript',
           src: 'https://identity.netlify.com/v1/netlify-identity-widget.js',
           async: true
+        },
+        {
+          type: 'text/javascript',
+          src: 'https://unpkg.com/@netlify/netlify-cms-widget-parent@^1.0.0/dist/netlify-cms-widget-parent.js',
+          async: true
         }
       ]
     })

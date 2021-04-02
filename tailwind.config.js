@@ -43,11 +43,7 @@ module.exports = {
   },
   plugins: [
     plugin(({ addUtilities }) => {
-      const utilities = {
-        '.will-change': {
-          'will-change': 'transform'
-        }
-      }
+      const utilities = {}
 
       addUtilities(utilities)
     })

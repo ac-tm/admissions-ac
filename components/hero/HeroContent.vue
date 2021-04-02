@@ -1,7 +1,10 @@
 <script lang="ts">
-import { defineComponent, reactive, toRefs } from '@nuxtjs/composition-api'
+import { defineComponent, useAsync, useContext } from '@nuxtjs/composition-api'
 import { Stack, Row } from '@/components/ui/layout'
 import { Button } from '@/components/ui/forms'
+
+import { IContentDocument } from '@nuxt/content/types/content'
+import { Home } from '~/cms/types'
 
 export default defineComponent({
   name: 'HeroContent',
@@ -11,50 +14,73 @@ export default defineComponent({
     Button
   },
   setup () {
-    const data = reactive({
-      title: 'Nicăieri nu e ca la AC. Nici măcar acasă.',
-      subtitle:
-        'Învață, pune în practică, inovează – cei trei pași ai succesului la Automatică și Calculatoare. Fără AC viața nu are sens.',
-      primaryAction: {
-        label: 'Vreau să mă înscriu!',
-        to: '/'
-      },
-      secondaryAction: {
-        label: 'De ce AC?',
-        to: '/'
-      }
+    const { $content } = useContext()
+
+    const hero = useAsync(async () => {
+      const result = await $content('home').fetch<Home>() as (Home & IContentDocument)
+
+      return result
     })
+    const canShowNotification = () => {
+      if (!hero.value?.notification) { return false }
+
+      const today = new Date()
+      const start = new Date(hero.value.notification.showAt)
+      const end = new Date(hero.value.notification.hideAt)
+      return today > start && today < end
+    }
 
     return {
-      ...toRefs(data)
+      hero,
+      canShowNotification
     }
   }
 })
 </script>
 
 <template>
-  <Stack flex space="lg">
+  <Stack v-if="hero" space="lg">
+    <Row flex>
+      <Button
+        v-if="hero.notification && canShowNotification()"
+        :to="hero.notification.path"
+        theme="secondary"
+        size="sm"
+        rounded
+      >
+        {{ hero.notification.label }}
+
+        <i class="gg-arrow-right ml-2" />
+      </Button>
+    </Row>
+
     <h1
       :class="[
         'max-w-[10ch]',
-        'text-4xl md:text-6xl lg:text-8xl',
-        'font-hero text-primary tracking-tighter leading-none',
+        'font-hero text-5xl md:text-6xl lg:text-8xl',
+        'text-primary tracking-tighter leading-none',
       ]"
-    >
-      {{ title }}
-    </h1>
+      v-html="hero.title"
+    />
 
     <p class="max-w-[40ch] text-base sm:text-lg text-gray-700">
-      {{ subtitle }}
+      {{ hero.copy }}
     </p>
 
     <Row flex>
-      <Button :to="primaryAction.to" theme="primary" size="lg">
-        {{ primaryAction.label }}
+      <Button :to="hero.cta.path" theme="primary" size="lg">
+        {{ hero.cta.label }}
       </Button>
-      <Button :to="primaryAction.to" theme="light" size="lg">
-        {{ secondaryAction.label }}
+      <Button :to="hero.ctaSecondary.path" size="lg">
+        {{ hero.ctaSecondary.label }}
       </Button>
     </Row>
   </Stack>
 </template>
+
+<style lang="postcss">
+.font-hero em {
+  @apply text-secondary;
+  @apply not-italic !important;
+}
+</style>
