@@ -24,7 +24,7 @@ export default defineComponent({
 </script>
 
 <template>
-  <div class="container pt-32 min-h-[200vh]">
+  <div class="container min-h-[200vh]">
     <Hero />
     <div class="pt-16">
       <nuxt-link to="/licen" class="mt-8">
