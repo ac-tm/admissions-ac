@@ -3,3 +3,15 @@ body {
   @apply text-gray-900 dark:text-gray-50;
   @apply font-sans overflow-x-hidden !important;
 }
+
+
+.fade-enter-active, .fade-leave-active {
+  transition: all .4s;
+}
+.fade-leave-to {
+  opacity: 0;
+}
+.fade-enter {
+  opacity: 0;
+  transform: translateY(2rem);
+}

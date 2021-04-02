@@ -10,6 +10,7 @@ export default defineComponent({
   components: {
     Card
   },
+  transition: 'fade',
   setup () {
     const { $content, params } = useContext()
 

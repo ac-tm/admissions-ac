@@ -8,7 +8,8 @@ export default defineComponent({
   components: {
     Navigation,
     Footer
-  }
+  },
+  transition: 'fade'
 })
 </script>
 
