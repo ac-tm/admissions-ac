@@ -1,3 +1,5 @@
 body {
+  @apply bg-white dark:bg-gray-900 transition-colors;
+  @apply text-gray-900 dark:text-gray-50;
   @apply font-sans overflow-x-hidden !important;
 }

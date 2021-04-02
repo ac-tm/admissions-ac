@@ -6,8 +6,8 @@ import debounce from 'lodash/debounce'
 const colors: Record<string, string> = {
   primary: 'text-primary',
   secondary: 'text-secondary',
-  gray: 'text-gray-200',
-  offblue: 'text-[#E1E5FF]',
+  gray: 'text-gray-200 dark:text-gray-700',
+  offblue: 'text-[#E1E5FF] dark:opacity-50',
   blue: 'text-[#3548CA]'
 }
 

@@ -58,12 +58,12 @@ export default defineComponent({
       :class="[
         'max-w-[10ch]',
         'font-hero text-5xl md:text-6xl lg:text-8xl',
-        'text-primary tracking-tighter leading-none',
+        'text-primary dark:text-gray-100 tracking-tighter leading-none transition',
       ]"
       v-html="hero.title"
     />
 
-    <p class="max-w-[40ch] text-base sm:text-lg text-gray-700">
+    <p class="max-w-[40ch] text-base sm:text-lg text-gray-700 dark:text-gray-100 transition">
       {{ hero.copy }}
     </p>
 

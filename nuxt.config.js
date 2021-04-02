@@ -32,7 +32,8 @@ export default defineNuxtConfig({
     '@nuxt/typescript-build',
     '@nuxtjs/composition-api',
     '@nuxtjs/tailwindcss',
-    '@nuxtjs/google-fonts'
+    '@nuxtjs/google-fonts',
+    '@nuxtjs/color-mode'
   ],
   modules: ['@nuxt/content'],
 
@@ -42,9 +43,15 @@ export default defineNuxtConfig({
   content: {
     liveEdit: false
   },
+
   tailwindcss: {
     jit: true
   },
+
+  colorMode: {
+    classSuffix: ''
+  },
+
   googleFonts: {
     families: {
       'Work+Sans': [400, 500, 600, 700]

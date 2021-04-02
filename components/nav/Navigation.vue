@@ -19,7 +19,11 @@ export default defineComponent({
 <template>
   <nav
     id="nav"
-    class="w-full h-16 fixed top-0 left-0 bg-white bg-opacity-75 border-b border-gray-100 border-opacity-50"
+    :class="[
+      'w-full h-16 fixed top-0 left-0 z-50',
+      'bg-white dark:bg-gray-900 bg-opacity-75 dark:bg-opacity-50',
+      'border-b border-gray-100 dark:border-gray-800 border-opacity-50 transition'
+    ]"
   >
     <div class="container h-full flex justify-between">
       <nuxt-link to="/" title="Mergi pe pagina principală" class="h-full flex items-center">
