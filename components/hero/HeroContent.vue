@@ -20,7 +20,7 @@ export default defineComponent({
       const result = await $content('home').fetch<Home>() as (Home & IContentDocument)
 
       return result
-    })
+    }, 'hero')
     const canShowNotification = () => {
       if (!hero.value?.notification) { return false }
 
