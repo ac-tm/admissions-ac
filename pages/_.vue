@@ -28,7 +28,10 @@ export default defineComponent({
       const getDepth = (path: string) => path.split('/').length
       const depth = getDepth(`/pages/${path}/`)
 
-      return pages.filter(page => getDepth(page.dir) === depth)
+      return pages.filter(page => getDepth(page.dir) === depth).map(page => ({
+        ...page,
+        dir: page.dir.startsWith('/pages') ? page.dir.substr(6) : page.dir
+      }))
     }
 
     async function fetchParent (path: string): Promise<(Page & IContentDocument) | undefined> {
@@ -51,17 +54,9 @@ export default defineComponent({
       return { page, nested, parent }
     })
 
-    function stripPathPrefix (path: string): string {
-      if (path.startsWith('/pages')) {
-        return path.substr(6)
-      }
-      return path
-    }
-
     return {
       result,
-      params,
-      stripPathPrefix
+      params
     }
   }
 })
@@ -103,7 +98,7 @@ export default defineComponent({
           <nuxt-link
             v-for="item of result.nested"
             :key="item.dir"
-            :to="stripPathPrefix(item.dir)"
+            :to="item.dir"
             :class="[
               'py-2 px-4 flex items-center justify-between',
               'hover:bg-gray-100 dark:hover:bg-gray-900',

@@ -21,6 +21,7 @@ export default defineComponent({
     })
 
     onMounted(() => {
+      document.querySelector('html')?.classList.remove('dark')
       require('@/cms').init({
         baseURL: process.env.baseURL,
         localBackend: process.env.env === 'development'
@@ -65,6 +66,9 @@ export default defineComponent({
     }
   }
 
+  & p:first-of-type {
+    @apply mt-0;
+  }
   & p {
     @apply leading-relaxed text-base;
   }

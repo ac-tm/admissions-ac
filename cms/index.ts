@@ -41,10 +41,6 @@ export function init(options?: {
       media_folder: 'static/uploads',
       public_folder: '/uploads',
 
-      slug: {
-        encoding: 'ascii'
-      },
-
       editor: {
         preview: false
       },
