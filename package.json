@@ -26,7 +26,7 @@
     "animejs": "^3.2.1",
     "core-js": "^3.10.0",
     "lodash": "^4.17.21",
-    "netlify-cms": "^2.10.105",
+    "netlify-cms": "^2.10.108",
     "nuxt": "^2.15.3"
   },
   "devDependencies": {
