@@ -18,7 +18,7 @@ export const folder = (
   fields,
   create: true,
   folder: content(name),
-  ...options,
+  ...options
 })
 
 export const files = (
@@ -31,7 +31,8 @@ export const files = (
   name,
   files,
   create: false,
-  ...options,
+  delete: false,
+  ...options
 })
 
 export const file = (
@@ -44,5 +45,5 @@ export const file = (
   name,
   fields,
   file: content(name + `.${options?.extension}` ?? '.yml'),
-  ...options,
+  ...options
 })

@@ -1,5 +1,5 @@
 <script lang="ts">
-import { defineComponent, onMounted, useAsync, useContext } from '@nuxtjs/composition-api'
+import { defineComponent, useAsync, useContext } from '@nuxtjs/composition-api'
 import { Page } from '@/cms/types'
 import { IContentDocument } from '@nuxt/content/types/content'
 import { Card } from '@/components/ui/layout'
@@ -90,16 +90,14 @@ export default defineComponent({
         </h1>
       </header>
 
-      <div class="w-full overflow-x-auto">
-        <pre class="p-8 bg-gray-50 dark:bg-gray-800 dark:text-gray-100">{{ JSON.stringify(result.page, null, 2) }}</pre>
-      </div>
+      <nuxt-content :document="result.page" class="w-full prose" />
     </article>
 
     <aside
       v-if="result.nested.length"
       class="col-span-full lg:col-span-4"
     >
-      <Card class="bg-gray-50 dark:bg-gray-800 !px-4">
+      <Card class="bg-gray-50 dark:bg-gray-800 !px-4 transition">
         <header class="px-4">
           <h2 class="text-lg font-bold mb-4">
             Conținut

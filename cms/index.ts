@@ -2,7 +2,7 @@ import CMS from 'netlify-cms-app'
 // @ts-ignore
 import { ro } from 'netlify-cms-locales'
 
-import { settings, pages } from './collections'
+import { settings, pages, homepage } from './collections'
 import { preSavePage } from './hooks'
 
 import { ImageNuxt } from './editor-widgets'
@@ -30,13 +30,13 @@ export function init(options?: {
       display_url: options?.baseURL,
       site_url: options?.baseURL,
 
-      publish_mode: 'editorial_workflow',
-
       local_backend: options?.localBackend || true,
       backend: {
         name: 'git-gateway'
       },
       locale: 'ro',
+      logo_url: 'https://ac.upt.ro/wp-content/themes/ac/images/logo.svg',
+      show_preview_links: false,
 
       media_folder: 'static/uploads',
       public_folder: '/uploads',
@@ -45,7 +45,7 @@ export function init(options?: {
         preview: false
       },
 
-      collections: [settings, pages]
+      collections: [settings, homepage, pages]
     }
   })
 }

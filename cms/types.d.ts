@@ -4,7 +4,7 @@ export interface Site {
   image: string
 }
 
-export interface Home {
+export interface Hero {
   title: string
   copy: string
   cta: {

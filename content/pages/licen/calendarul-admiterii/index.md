@@ -1,4 +1,0 @@
----
-title: Calendarul admiterii
----
-Calendar.

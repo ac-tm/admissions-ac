@@ -4,7 +4,7 @@ import { Stack, Row } from '@/components/ui/layout'
 import { Button } from '@/components/ui/forms'
 
 import { IContentDocument } from '@nuxt/content/types/content'
-import { Home } from '~/cms/types'
+import { Hero } from '~/cms/types'
 
 export default defineComponent({
   name: 'HeroContent',
@@ -17,7 +17,7 @@ export default defineComponent({
     const { $content } = useContext()
 
     const hero = useAsync(async () => {
-      const result = await $content('home').fetch<Home>() as (Home & IContentDocument)
+      const result = await $content('hero').fetch<Hero>() as (Hero & IContentDocument)
 
       return result
     }, 'hero')

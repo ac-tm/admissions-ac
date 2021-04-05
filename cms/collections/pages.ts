@@ -4,8 +4,7 @@ import { markdown, string } from '../utils/fields'
 export const pages = folder('Pagini', 'pages',
   [
     string('Titlu', 'title'),
-    markdown('Conținut', 'body'),
-    string('URL', 'path', { required: false, hint: 'Numele paginii folosit in URL, va fi setat automat.' })
+    markdown('Conținut', 'body')
   ],
   {
     label_singular: 'Pagină',
