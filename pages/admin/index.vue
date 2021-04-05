@@ -14,7 +14,7 @@ export default defineComponent({
         },
         {
           type: 'text/javascript',
-          src: 'https://unpkg.com/@netlify/netlify-cms-widget-parent@^1.0.0/dist/netlify-cms-widget-parent.js',
+          src: '/netlify-cms-widget-parent.js',
           async: true
         }
       ]
