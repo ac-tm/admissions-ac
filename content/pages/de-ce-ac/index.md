@@ -1,13 +1,12 @@
 ---
+fullPath: de-ce-ac
 title: De ce AC?
 ---
 # Caelumque premis
 
 ## Occiduae o numina continet me nolis luctuque
 
-Lorem markdownum tamen quod, meus utero femina inclinatoque mentito **meam
-Naryciusque** verba conprecor cognovi. Gravis quidam saepe periuria, vel
-arboreis fieri, indelebile. Delet nam.
+Lorem markdownum tamen quod, meus utero femina inclinatoque mentito **meam Naryciusque** verba conprecor cognovi. Gravis quidam saepe periuria, vel arboreis fieri, indelebile. Delet nam.
 
 > Discite simillimus caput verba idemque et cecidit simulat et Aeson defendere
 > memorant virgine interea se [volucris
@@ -33,11 +32,11 @@ imi modo vidit tantum, mutare medios patriaeque nostri posuisse. Nec declinet
 sine restitit, ire solido Tyrioque ortus restant cum nullo, turaque? Torvos
 cacumine matris.
 
-- Deus mea ire flammas habuere
-- Malas pariter
-- Faciat deducit sinu
-- Reducit terras totidemque posset amisit
-- Vitaque iussa adit quem quondam saeva omnia
+* Deus mea ire flammas habuere
+* Malas pariter
+* Faciat deducit sinu
+* Reducit terras totidemque posset amisit
+* Vitaque iussa adit quem quondam saeva omnia
 
 ## Mihi alebat
 

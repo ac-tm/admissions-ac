@@ -94,12 +94,12 @@
     @apply w-full table-auto rounded-lg bg-opacity-10;
 
     & thead {
-      @apply text-left border-b border-gray-400 dark:border-gray-500;
+      @apply text-left border-b border-gray-500 dark:border-gray-500;
     }
 
     & tbody tr {
-      @apply border-b border-gray-300 dark:border-gray-600;
-      @apply transition hover:bg-white dark:hover:bg-gray-800 hover:bg-opacity-50;
+      @apply border-b border-gray-200 dark:border-gray-600;
+      @apply transition hover:bg-gray-100 dark:hover:bg-gray-800 hover:bg-opacity-50;
     }
 
     & td,

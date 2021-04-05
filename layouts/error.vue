@@ -7,7 +7,7 @@ export default defineComponent({
 </script>
 
 <template>
-  <section>
+  <section class="container">
     <p>Error</p>
   </section>
 </template>

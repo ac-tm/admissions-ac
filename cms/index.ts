@@ -36,7 +36,6 @@ export function init(options?: {
       },
       locale: 'ro',
       logo_url: 'https://ac.upt.ro/wp-content/themes/ac/images/logo.svg',
-      show_preview_links: false,
 
       media_folder: 'static/uploads',
       public_folder: '/uploads',

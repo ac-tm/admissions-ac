@@ -12,26 +12,27 @@ export default defineComponent({
   },
   transition: 'fade',
   setup () {
-    const { $content, params } = useContext()
+    const { $content, params, error } = useContext()
 
     async function fetchCurrentPage (path: string): Promise<(Page & IContentDocument)> {
-      const page = await $content({ deep: true }).where({ dir: `/pages/${path}` }).fetch<Page>()
+      const page = await $content({ deep: true }).where({ fullPath: path }).fetch<Page>()
+
+      if (!page || !page.length) {
+        throw error({ statusCode: 404, message: 'Pagina nu a fost găsită.' })
+      }
 
       return Array.isArray(page) ? page[0] : page
     }
 
     async function fetchDirectChidlren (path: string): Promise<(Page & IContentDocument)[]> {
       const pages = await $content({ deep: true })
-        .where({ dir: { $contains: `/pages/${path}/` } })
+        .where({ fullPath: { $contains: path } })
         .fetch<Page>() as (Page & IContentDocument)[]
 
       const getDepth = (path: string) => path.split('/').length
-      const depth = getDepth(`/pages/${path}/`)
+      const depth = getDepth(path)
 
-      return pages.filter(page => getDepth(page.dir) === depth).map(page => ({
-        ...page,
-        dir: page.dir.startsWith('/pages') ? page.dir.substr(6) : page.dir
-      }))
+      return pages.filter(page => getDepth(page.fullPath) === depth + 1)
     }
 
     async function fetchParent (path: string): Promise<(Page & IContentDocument) | undefined> {
@@ -41,14 +42,12 @@ export default defineComponent({
       if (!parentPath) { return }
 
       const result = await $content({ deep: true })
-        .where({ dir: `/pages/${parentPath.join('/')}` })
+        .where({ fullPath: parentPath.join('/') })
         .fetch<Page>()
+
       const page = Array.isArray(result) ? result[0] : result
       if (!page) { return undefined }
-      return {
-        ...page,
-        dir: page.dir.substr(6)
-      }
+      return page
     }
 
     const result = useAsync(async () => {
@@ -71,12 +70,12 @@ export default defineComponent({
 </script>
 
 <template>
-  <main v-if="result" class="container grid grid-cols-1 lg:grid-cols-12 gap-8">
+  <main v-if="result && result.page" class="container grid grid-cols-1 lg:grid-cols-12 gap-8">
     <article class="col-span-full lg:col-span-8">
       <header class="mb-8">
         <nuxt-link
           v-if="result.parent"
-          :to="result.parent.dir"
+          :to="'/' + result.parent.fullPath"
           class="flex items-center space-x-4 text-sm opacity-75 pb-4 py-2"
         >
           <i class="gg-arrow-left" />
@@ -106,8 +105,8 @@ export default defineComponent({
         <main class="flex flex-col space-y-2">
           <nuxt-link
             v-for="item of result.nested"
-            :key="item.dir"
-            :to="item.dir"
+            :key="item.fullPath"
+            :to="'/' + item.fullPath"
             :class="[
               'py-2 px-4 flex items-center justify-between',
               'hover:bg-gray-100 dark:hover:bg-gray-900',

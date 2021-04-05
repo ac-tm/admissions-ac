@@ -1,21 +1,24 @@
 ---
+fullPath: licenta/rezultate
 title: Rezultatele admiterii
 ---
 # Viso populisque caelum peregit Methymnaeae tibi
 
-## Relevare gratia
+## Relevare gratiaasd.
 
 Lorem markdownum languore vetorque! Daedalus ictus et hunc et ante victor, ut
 **amoris plangore si** pedes, per Phorcynidos.
 
-    keyboard_digitize(sync(drive_page));
-    if (4) {
-        virus(technology);
-    } else {
-        wordCaptchaMips(serviceIcmpIscsi + compactDocumentSdram);
-    }
-    sql.stack_database_megapixel -= jqueryOperatingIteration(clock.software(
-            hardOnSoft, bandwidth), hertz, page_font);
+```
+keyboard_digitize(sync(drive_page));
+if (4) {
+    virus(technology);
+} else {
+    wordCaptchaMips(serviceIcmpIscsi + compactDocumentSdram);
+}
+sql.stack_database_megapixel -= jqueryOperatingIteration(clock.software(
+        hardOnSoft, bandwidth), hertz, page_font);
+```
 
 ## Secundas committere
 

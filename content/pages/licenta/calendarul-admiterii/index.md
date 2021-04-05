@@ -1,19 +1,21 @@
 ---
+fullPath: licenta/calendarul-admiterii
 title: Calendarul admiterii
 ---
 # Heros caput
 
 ## Quam quem teneri
 
-Lorem markdownum; et tarda trepida fidem! Mutat fama frustra; amor boves, nec
-haesura sponte?
+Lorem markdownum; et tarda trepida fidem! Mutat fama frustra; amor boves, nec haesura sponte?
 
-    var file = newline_install(clockHomeProgramming + tMarketing);
-    boot.peripheralMebibyteDefault = protocol_sku.processor_clob(
-            ddr_task_protocol(word_state, friendly), sdsl_noc_clipboard);
-    var padTweetSubnet = memory_name(icann(ecc, 39) * transfer_ssid_reciprocal,
-            ipad, sync + 1);
-    pebibyteThin = web_scsi - 744579 + hashtagOasisVirtual;
+```
+var file = newline_install(clockHomeProgramming + tMarketing);
+boot.peripheralMebibyteDefault = protocol_sku.processor_clob(
+        ddr_task_protocol(word_state, friendly), sdsl_noc_clipboard);
+var padTweetSubnet = memory_name(icann(ecc, 39) * transfer_ssid_reciprocal,
+        ipad, sync + 1);
+pebibyteThin = web_scsi - 744579 + hashtagOasisVirtual;
+```
 
 ## Horto armata in videnda Ausoniis umida
 

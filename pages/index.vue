@@ -26,10 +26,5 @@ export default defineComponent({
 <template>
   <div class="container min-h-[200vh]">
     <Hero />
-    <div class="pt-16">
-      <nuxt-link to="/licen" class="mt-8">
-        Test pages
-      </nuxt-link>
-    </div>
   </div>
 </template>

@@ -14,17 +14,19 @@ export default defineComponent({
         },
         {
           type: 'text/javascript',
-          src: '/netlify-cms-widget-parent.js',
-          async: true
+          src: '/netlify-cms-widget-parent.js'
         }
       ]
     })
 
     onMounted(() => {
-      document.querySelector('html')?.classList.remove('dark')
       require('@/cms').init({
         baseURL: process.env.baseURL,
         localBackend: process.env.env === 'development'
+      })
+      setTimeout(() => {
+        const html = document.querySelector('html')
+        html?.classList.remove('dark')
       })
     })
   },
@@ -37,6 +39,9 @@ export default defineComponent({
 </template>
 
 <style lang="postcss">
+html {
+  background: inherit !important;
+}
 /**
   Because the CMS was initialized manually, Tailwind overrides the CSS.
   We need to override whatever Tailwind removes, and even improve some of Netlify CMSs' own styles.

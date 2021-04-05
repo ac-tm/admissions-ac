@@ -25,6 +25,7 @@ export interface Hero {
 
 export interface Page {
   title: string
+  fullPath: string
 
   // markdown
   body: any | string

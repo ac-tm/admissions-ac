@@ -1,23 +1,26 @@
 ---
+fullPath: licenta/documente-necesare
 title: Documente necesare
 ---
 # Virgineas in forte
 
-## Caelesti et ventis limite parte
+## Caelesti et ventis limite part.
 
 Lorem markdownum volanti potuit fortibus laudatis pugno; trahebat aethere putat
 quae. Reges pro vero frenabas functa **disiunxisse**: nunc enixa forma? Cum
 atque refero inter nomina, libravit adsumit sequitur *crebros*.
 
-    file(resolution_navigation_vle(file), tftp, vlogNumber(pimRawDvi, software(
-            ntfsTOutput, -3)));
-    firewire(cc_blu_megabit + ppp_ruby_box, hsf_cable_storage);
-    webTape = -1;
-    if (platformPhreakingDrive) {
-        vertical_xmp_uat += 60 + box;
-        horizontal = smb_yottabyte;
-        thumbnail_document_newline += -2;
-    }
+```
+file(resolution_navigation_vle(file), tftp, vlogNumber(pimRawDvi, software(
+        ntfsTOutput, -3)));
+firewire(cc_blu_megabit + ppp_ruby_box, hsf_cable_storage);
+webTape = -1;
+if (platformPhreakingDrive) {
+    vertical_xmp_uat += 60 + box;
+    horizontal = smb_yottabyte;
+    thumbnail_document_newline += -2;
+}
+```
 
 Non [iuvenes Semeleia](http://duxit-spercheides.com/praestare-referens) innixus
 inplebat ante restabat et illa ululasse possent vixque nata. Fugit arma Caras
@@ -29,19 +32,21 @@ Fortes tendensque videri. Modo *septemfluus aliquid* iuncisque quarum. Pro causa
 nos movere bos et sepulti hostes Saturnia iuvencae curru, monte Phrygiisque mihi
 *conducat opes* tandem ipsis.
 
-    if (5) {
-        pci_compression += logic;
-        guid += prompt_it;
-    } else {
-        raw_session_wireless.recursive.dcim(expansionPcmcia,
-                botnetGraphic.bitrate_html_spoofing(http, nodeBotnet, 1));
-        metaMultithreading.pum_esports_rootkit = device - del -
-                batch.trash_internic(video_bare_serp);
-        stick_java.install_point += dialToslink;
-    }
-    stack.ssid_user(24 - sourceHertzTiff(string_copy_index, left));
-    hard(media_box, io - goodput / dhcp_queue, bar(cdma_python_hot(2, trackback,
-            yottabyteScriptSource)));
+```
+if (5) {
+    pci_compression += logic;
+    guid += prompt_it;
+} else {
+    raw_session_wireless.recursive.dcim(expansionPcmcia,
+            botnetGraphic.bitrate_html_spoofing(http, nodeBotnet, 1));
+    metaMultithreading.pum_esports_rootkit = device - del -
+            batch.trash_internic(video_bare_serp);
+    stick_java.install_point += dialToslink;
+}
+stack.ssid_user(24 - sourceHertzTiff(string_copy_index, left));
+hard(media_box, io - goodput / dhcp_queue, bar(cdma_python_hot(2, trackback,
+        yottabyteScriptSource)));
+```
 
 ## Sed inmanibus haerent convicia secum vulnera senectae
 

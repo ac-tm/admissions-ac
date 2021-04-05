@@ -1,9 +1,10 @@
 ---
+fullPath: licenta
 title: Licență
 ---
 # Vocatus nymphae ab cornibus radiorum vasti parat
 
-## Noctis caelo retia
+## Noctis caelo.
 
 Lorem markdownum fata. Causa reges legitima Hectoris illic certa, et ira socia
 Latia exiguam servat, ut. Tumulum pro cernere sceptra vocisque terrae tellus
@@ -11,9 +12,10 @@ fugit. Sentit potentes culpam premit videoque erat cessant, aspicis reversurum
 **tabuit** aether Aeneas. Ubi tyranni rostro.
 
 1. Natorum metu elidite senilis
-   - Natorum metu elidite senilis
-   - Natorum metu elidite senilis
-   - Natorum metu elidite senilis
+
+   * Natorum metu elidite senilis
+   * Natorum metu elidite senilis
+   * Natorum metu elidite senilis
 2. Utque tarda non miror tu plus contra
 3. Alterius labori fateri quisquis metuenda ait abest
 4. Eademque rata eundem et versae cupioque require
@@ -42,11 +44,11 @@ simul concutit consedit domus. Senis inmiscuit solebat sed sibi et sentit tosti:
 rebus ille silvas. Tibi sub illa non sparsos spatio. Pro tuo suisque, Ammon
 tamen adicit Iphide videbam; silvas tibia; esse mundo erat pelagi sperat?
 
-- Fuit uno fluminis pelagi modo
-- Et tunc donis comitem nunc tum animalia
-- Descendi tolluntur missa dixit miserrima hyaenam attollit
-- Et petat sed iterque pariter paulum
-- Exue colles illa anum Lesbon anili quoque
+* Fuit uno fluminis pelagi modo
+* Et tunc donis comitem nunc tum animalia
+* Descendi tolluntur missa dixit miserrima hyaenam attollit
+* Et petat sed iterque pariter paulum
+* Exue colles illa anum Lesbon anili quoque
 
 ## Recingor sceleratus has aequore
 
