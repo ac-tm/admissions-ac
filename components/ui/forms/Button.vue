@@ -23,8 +23,8 @@ export default defineComponent({
     }
 
     const themes: Record<Theme, string> = {
-      primary: 'bg-primary dark:bg-secondary text-white',
-      secondary: 'bg-secondary dark:bg-primary text-white',
+      primary: 'bg-primary dark:bg-secondary !text-white',
+      secondary: 'bg-secondary dark:bg-primary !text-white',
       light: 'bg-gray-50 dark:bg-gray-800 text-gray-800 dark:text-gray-100'
     }
 

@@ -40,7 +40,7 @@ export default defineComponent({
 <template>
   <Card as="section" class="flex flex-col lg:flex-row items-center space-y-8 lg:space-y-0 lg:space-x-8 bg-gray-50 dark:bg-gray-800">
     <div class="w-full lg:w-1/3 space-y-8 flex flex-col items-start">
-      <h2 class="text-4xl font-bold tracking-tight text-primary dark:text-secondary">
+      <h2 class="text-4xl font-bold tracking-tight text-primary dark:text-white">
         {{ document.title }}
       </h2>
 
