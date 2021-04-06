@@ -4,7 +4,7 @@ export default defineNuxtConfig({
   target: 'static',
   generate: {
     fallback: true,
-    interval: 2000
+    interval: 4000
   },
   components: false,
 

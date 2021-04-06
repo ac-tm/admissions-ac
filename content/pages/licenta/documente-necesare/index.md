@@ -1,6 +1,10 @@
 ---
-fullPath: licenta/documente-necesare
 title: Documente necesare
+description: Ti-am pregatit o lista cu toate documentele care ai nevoie.
+image:
+  src: /uploads/elisa-calvet-b-s3nuoqdmuvc-unsplash.jpg
+  alt: Carte
+fullPath: licenta/documente-necesare
 ---
 # Virgineas in forte
 

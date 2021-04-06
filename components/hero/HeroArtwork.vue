@@ -31,7 +31,7 @@ export default defineComponent({
 
 <template>
   <figure>
-    <div class="artwork-grid">
+    <div class="artwork-grid w-[360px] h-[360px] lg:w-[480px] lg:h-[480px]">
       <component
         :is="shape.type || 'div'"
         v-for="(shape, idx) of shapes"
@@ -50,6 +50,7 @@ export default defineComponent({
 .artwork-grid {
   display: grid;
   place-content: center;
-  grid-template: repeat(6, 80px) / repeat(6, 80px);
+  grid-template: repeat(6, 1fr) / repeat(6, 1fr);
 }
+
 </style>

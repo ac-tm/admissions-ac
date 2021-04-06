@@ -1,3 +1,6 @@
 export { settings } from './settings'
 export { homepage } from './homepage'
 export { pages } from './pages'
+export { specializations } from './specializations'
+export { testimonials } from './testimonials'
+export { locations } from './locations'

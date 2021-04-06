@@ -1,6 +1,10 @@
 ---
-fullPath: licenta/calendarul-admiterii
 title: Calendarul admiterii
+description: Ai timp să te înscrii până la data de 23 iunie, 2022!
+image:
+  src: /uploads/nastuh-abootalebi-ehd8y1znfpk-unsplash.jpg
+  alt: O camera
+fullPath: licenta/calendarul-admiterii
 ---
 # Heros caput
 

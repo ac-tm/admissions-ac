@@ -14,7 +14,7 @@ import {
   CmsFieldObject,
   CmsFieldRelation,
   CmsFieldSelect,
-  CmsFieldStringOrText,
+  CmsFieldStringOrText
 } from 'netlify-cms-core'
 
 type BaseField = Omit<CmsFieldBase, 'name' | 'label' | 'widget'>
@@ -57,7 +57,7 @@ export const code = (
   label,
   name,
   widget: 'code',
-  ...options,
+  ...options
 })
 
 export const markdown = (
@@ -68,7 +68,7 @@ export const markdown = (
   label,
   name,
   widget: 'markdown',
-  ...options,
+  ...options
 })
 
 export const color = (
@@ -79,7 +79,7 @@ export const color = (
   label,
   name,
   widget: 'color',
-  ...options,
+  ...options
 })
 
 export const file = (
@@ -90,7 +90,7 @@ export const file = (
   label,
   name,
   widget: 'file',
-  ...options,
+  ...options
 })
 
 export const image = (
@@ -101,7 +101,7 @@ export const image = (
   label,
   name,
   widget: 'image',
-  ...options,
+  ...options
 })
 
 export const hidden = (
@@ -112,7 +112,7 @@ export const hidden = (
   label,
   name,
   widget: 'hidden',
-  ...options,
+  ...options
 })
 
 export const list = (
@@ -123,10 +123,9 @@ export const list = (
 ): CmsField => ({
   label,
   name,
-  field: Array.isArray(fields) ? undefined : fields,
-  fields: Array.isArray(fields) ? fields : undefined,
   widget: 'list',
-  ...options,
+  ...Array.isArray(fields) ? { fields } : { field: fields },
+  ...options
 })
 
 export const map = (
@@ -137,7 +136,7 @@ export const map = (
   label,
   name,
   widget: 'map',
-  ...options,
+  ...options
 })
 
 export const object = (
@@ -150,7 +149,7 @@ export const object = (
   name,
   fields,
   widget: 'object',
-  ...options!,
+  ...options!
 })
 
 export const relation = (
@@ -161,7 +160,7 @@ export const relation = (
   label,
   name,
   widget: 'relation',
-  ...options!,
+  ...options!
 })
 
 export const select = (
@@ -172,5 +171,5 @@ export const select = (
   label,
   name,
   widget: 'select',
-  ...options!,
+  ...options!
 })

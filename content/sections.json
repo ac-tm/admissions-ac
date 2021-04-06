@@ -1,0 +1,53 @@
+{
+  "items": [
+    {
+      "type": "specializations",
+      "title": "Să începem cu începutul...",
+      "description": "Înainte să te înscrii este important să îți alegi specializarea la care îți dorești să fii admis. Poți aplica la mai multe, nu te teme. Facultatea noastră oferă viitorilor studenți specializări în domeniile de Știința Calculatoarelor, Automatică și Informatică Aplicată.",
+      "cta": {
+        "label": "Află ce vei studia",
+        "path": "/licenta/specializari"
+      },
+      "items": [
+        {
+          "width": "full",
+          "specialization": "calculatoare-și-tehnologia-informației"
+        },
+        {
+          "width": "full",
+          "specialization": "ingineria-sistemelor"
+        },
+        {
+          "width": "half",
+          "specialization": "informatică"
+        },
+        {
+          "width": "half",
+          "specialization": "informatică-la-distanță"
+        }
+      ]
+    },
+    {
+      "type": "pages",
+      "list": [
+        "licenta/calendarul-admiterii",
+        "licenta/documente-necesare",
+        "licenta/dupa-ce-esti-acceptat",
+        "master"
+      ]
+    },
+    {
+      "type": "testimonials",
+      "hidden": "-"
+    },
+    {
+      "type": "locations",
+      "title": "Campusul, căminele, și unde îți vei petrece timpul.",
+      "description": "Ți-am pregătit o listă cu toate documentele de care vei avea nevoie, ca să nu te mai chinui.",
+      "cta": {
+        "label": "Află despre campus",
+        "path": "/campus"
+      }
+    }
+  ]
+}

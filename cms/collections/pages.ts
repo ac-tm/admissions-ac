@@ -1,9 +1,12 @@
+import { imageBlock } from '../utils/blocks'
 import { folder } from '../utils/collections'
-import { hidden, markdown, string } from '../utils/fields'
+import { hidden, markdown, string, text } from '../utils/fields'
 
 export const pages = folder('Pagini', 'pages',
   [
     string('Titlu', 'title'),
+    text('Descriere', 'description'),
+    imageBlock,
     markdown('Conținut', 'body'),
     hidden('Full Path', 'fullPath', { required: true })
   ],

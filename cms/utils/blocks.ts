@@ -1,19 +1,13 @@
-import { bool, image, object, string, markdown } from './fields'
+import { image, object, string, markdown } from './fields'
 
 export const imageBlock = object(
-  'Feature Image',
+  'Imagine',
   'image',
   [
-    image('Image', 'src', { required: false }),
+    image('Imagine', 'src', { required: false }),
     string('Alt', 'alt', {
-      hint: 'Needed for disabled users.',
+      hint: 'O descriere a imaginii pentru utilizatorii cu deficiențe de vedere.',
       required: false
-    }),
-    string('Caption', 'caption', { required: false }),
-    bool('Show only on Social Media', 'isMetaOnly', {
-      default: false,
-      hint:
-        'Useful if you want to only show the image in social media preview.'
     })
   ],
   { required: false, collapsed: true }

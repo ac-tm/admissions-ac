@@ -12,9 +12,9 @@ export default defineComponent({
   setup (props) {
     const sizes: Record<Size, string> = {
       none: 'p-0 rounded-none',
-      sm: 'p-4 rounded',
-      normal: 'p-8 rounded-lg',
-      lg: 'p-16 rounded-lg'
+      sm: 'p-2 md:p-4 rounded',
+      normal: 'p-4 md:p-8 rounded-lg',
+      lg: 'p-8 md:p-16 rounded-lg'
     }
 
     return {

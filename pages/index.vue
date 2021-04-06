@@ -1,11 +1,13 @@
 <script lang="ts">
 import { defineComponent, onMounted, useRoute } from '@nuxtjs/composition-api'
 import { Hero } from '@/components/hero'
+import { Sections } from '~/components/home-sections'
 
 export default defineComponent({
   name: 'Home',
   components: {
-    Hero
+    Hero,
+    Sections
   },
   setup () {
     const route = useRoute()
@@ -19,12 +21,15 @@ export default defineComponent({
       script.src = url
       document.getElementsByTagName('head')[0].appendChild(script)
     })
+
+    return {}
   }
 })
 </script>
 
 <template>
-  <div class="container min-h-[200vh]">
+  <div class="container min-h-[200vh] space-y-32">
     <Hero />
+    <Sections />
   </div>
 </template>
