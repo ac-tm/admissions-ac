@@ -4,7 +4,13 @@ export default defineNuxtConfig({
   target: 'static',
   generate: {
     fallback: true,
-    interval: 4000
+    interval: 1500,
+    async routes () {
+      const { $content } = require('@nuxt/content')
+      const files = await $content('pages', { deep: true }).only(['fullPath']).fetch()
+
+      return files.map(file => `/${file.fullPath}`)
+    }
   },
   components: false,
 
