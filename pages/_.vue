@@ -54,9 +54,11 @@ export default defineComponent({
       const raw = params.value.pathMatch
       const path = raw.endsWith('/') ? raw.slice(0, -1) : raw
 
+      console.time('page')
       const page = await fetchCurrentPage(path)
       const nested = await fetchDirectChidlren(path)
       const parent = await fetchParent(path)
+      console.timeEnd('page')
 
       return { page, nested, parent }
     }, params.value.pathMatch)

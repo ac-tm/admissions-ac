@@ -4,7 +4,7 @@ export default defineNuxtConfig({
   target: 'static',
   generate: {
     fallback: true,
-    interval: 1500,
+    interval: 1,
     async routes () {
       const { $content } = require('@nuxt/content')
       const files = await $content('pages', { deep: true }).only(['fullPath']).fetch()
