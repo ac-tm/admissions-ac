@@ -44,7 +44,7 @@ export default defineComponent({
         {{ page.description }}
       </p>
 
-      <Button theme="secondary" :to="'/' + page.fullPath">
+      <Button theme="secondary" :to="'/' + page.fullPath + '/'">
         <span>Citește mai multe</span>
 
         <i class="gg-arrow-right ml-4" />
