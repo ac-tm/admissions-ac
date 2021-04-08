@@ -31,6 +31,7 @@ export default defineComponent({
       <button
         type="button"
         class="h-10 w-10 flex items-center justify-center text-gray-600 dark:text-gray-200 transition"
+        aria-label="Schimbă tema de culoare"
         @click.prevent="switchMode()"
       >
         <i v-if="isLight" class="gg-sun" />
