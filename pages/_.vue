@@ -77,7 +77,7 @@ export default defineComponent({
       <header class="mb-8">
         <nuxt-link
           v-if="result.parent"
-          :to="'/' + result.parent.fullPath"
+          :to="'/' + result.parent.fullPath + '/'"
           class="flex items-center space-x-4 text-sm opacity-75 pb-4 py-2"
         >
           <i class="gg-arrow-left" />
@@ -108,7 +108,7 @@ export default defineComponent({
           <nuxt-link
             v-for="item of result.nested"
             :key="item.fullPath"
-            :to="'/' + item.fullPath"
+            :to="'/' + item.fullPath + '/'"
             :class="[
               'py-2 px-4 flex items-center justify-between',
               'hover:bg-gray-100 dark:hover:bg-gray-900',

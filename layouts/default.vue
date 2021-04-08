@@ -1,5 +1,5 @@
 <script lang="ts">
-import { defineComponent } from '@nuxtjs/composition-api'
+import { defineComponent, onMounted, useContext } from '@nuxtjs/composition-api'
 import { Navigation } from '@/components/nav'
 import { Footer } from '@/components/footer'
 
@@ -9,7 +9,14 @@ export default defineComponent({
     Navigation,
     Footer
   },
-  transition: 'fade'
+  transition: 'fade',
+  setup () {
+    const { $content } = useContext()
+
+    onMounted(() => {
+      $content().fetch()
+    })
+  }
 })
 </script>
 

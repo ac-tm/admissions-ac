@@ -48,7 +48,7 @@ export default defineComponent({
         {{ document.description }}
       </p>
 
-      <Button theme="secondary" :to="document.cta.path">
+      <Button theme="secondary" :to="document.cta.path + '/'">
         {{ document.cta.label }}
         <i class="gg-arrow-right ml-4" />
       </Button>

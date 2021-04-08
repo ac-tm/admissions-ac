@@ -43,7 +43,7 @@ export default defineComponent({
     <Row flex>
       <Button
         v-if="hero.notification && canShowNotification()"
-        :to="hero.notification.path"
+        :to="hero.notification.path + '/'"
         theme="secondary"
         size="sm"
         rounded
@@ -68,10 +68,10 @@ export default defineComponent({
     </p>
 
     <Row flex>
-      <Button :to="hero.cta.path" theme="primary" size="lg">
+      <Button :to="hero.cta.path + '/'" theme="primary" size="lg">
         {{ hero.cta.label }}
       </Button>
-      <Button :to="hero.ctaSecondary.path" size="lg">
+      <Button :to="hero.ctaSecondary.path + '/'" size="lg">
         {{ hero.ctaSecondary.label }}
       </Button>
     </Row>
