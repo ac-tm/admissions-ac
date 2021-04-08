@@ -8,9 +8,9 @@ fullPath: master
 ---
 Studii de master.
 
-<DocumentCheckbox text="undefined"></DocumentCheckbox>
+<DocumentCheckbox text="Diploma de licenta"></DocumentCheckbox>
 
-<DocumentCheckbox text="undefined"></DocumentCheckbox>
+<DocumentCheckbox text="Foaie matricola"></DocumentCheckbox>
 
 Mai niste text așa nițel.
 
