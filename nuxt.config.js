@@ -36,6 +36,7 @@ export default defineNuxtConfig({
   buildModules: [
     '@nuxt/postcss8',
     '@nuxt/typescript-build',
+    '@nuxt/image',
     '@nuxtjs/composition-api',
     '@nuxtjs/tailwindcss',
     '@nuxtjs/google-fonts',

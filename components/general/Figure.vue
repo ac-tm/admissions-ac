@@ -11,11 +11,11 @@ export default defineComponent({
 </script>
 
 <template>
-  <div class="max-w-3xl mx-auto">
+  <div class="w-full">
     <figure>
       <NuxtImg :src="src" :alt="alt" fit="cover" class="rounded-lg" />
 
-      <figcaption v-if="caption">
+      <figcaption v-if="caption" class="mx-auto">
         {{ caption }}
       </figcaption>
     </figure>

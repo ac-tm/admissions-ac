@@ -21,6 +21,7 @@
   },
   "dependencies": {
     "@nuxt/content": "^1.14.0",
+    "@nuxt/image": "^0.4.2",
     "@nuxtjs/composition-api": "^0.22.4",
     "animejs": "^3.2.1",
     "core-js": "^3.10.0",

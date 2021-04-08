@@ -1,7 +1,7 @@
 <script lang="ts">
 import { defineComponent } from '@nuxtjs/composition-api'
 import DocumentCheckbox from './DocumentCheckbox.vue'
-import Figure from './Figure.vue'
+import Fig from './Figure.vue'
 
 export default defineComponent({
   name: 'Markdown',
@@ -9,7 +9,7 @@ export default defineComponent({
   /* eslint-disable vue/no-unused-components */
   components: {
     DocumentCheckbox,
-    Figure
+    Fig
   },
 
   props: {

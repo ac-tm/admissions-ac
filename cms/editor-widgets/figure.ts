@@ -16,7 +16,7 @@ export default {
     string('Caption', 'caption', { required: false }) as any
   ],
   // use <component name>
-  pattern: /^<Figure src="(.*)" alt="(.*)" caption="(.*)"><\/Figure>$/,
+  pattern: /^<Fig src="(.*)" alt="(.*)" caption="(.*)"><\/Fig>$/,
   fromBlock: (match) => {
     return {
       src: match[1],
@@ -25,7 +25,7 @@ export default {
     }
   },
   toBlock: (obj: Fields) => {
-    return `<Figure src="${obj.src}" alt="${obj.alt}" caption="${obj.caption}"></Figure>`
+    return `<Fig src="${obj.src}" alt="${obj.alt}" caption="${obj.caption}"></Fig>`
   },
   toPreview: () => {
     return ''

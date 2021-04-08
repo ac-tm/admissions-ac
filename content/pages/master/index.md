@@ -7,3 +7,11 @@ image:
 fullPath: master
 ---
 Studii de master.
+
+<DocumentCheckbox text="undefined"></DocumentCheckbox>
+
+<DocumentCheckbox text="undefined"></DocumentCheckbox>
+
+Mai niste text așa nițel.
+
+<Fig src="/uploads/nastuh-abootalebi-ehd8y1znfpk-unsplash.jpg" alt="Cameră" caption="O descriere la poză"></Fig>
