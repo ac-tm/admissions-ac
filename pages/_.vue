@@ -2,13 +2,16 @@
 import { defineComponent, useAsync, useContext } from '@nuxtjs/composition-api'
 import { Page } from '@/cms/types'
 import { IContentDocument } from '@nuxt/content/types/content'
-import { Card } from '@/components/ui/layout'
-// import { Button } from '@/components/ui/forms'
+import { Markdown } from '@/components/general'
+
+import { Sidenav, LinkBack } from '@/components/page-layout'
 
 export default defineComponent({
   name: 'Page',
   components: {
-    Card
+    Markdown,
+    Sidenav,
+    LinkBack
   },
   transition: 'fade',
   setup () {
@@ -24,104 +27,37 @@ export default defineComponent({
       return Array.isArray(page) ? page[0] : page
     }
 
-    async function fetchDirectChidlren (path: string): Promise<(Page & IContentDocument)[]> {
-      const pages = await $content({ deep: true })
-        .where({ fullPath: { $contains: path } })
-        .fetch<Page>() as (Page & IContentDocument)[]
+    const rawPath = params.value.pathMatch
+    const path = rawPath.endsWith('/') ? rawPath.slice(0, -1) : rawPath
 
-      const getDepth = (path: string) => path.split('/').length
-      const depth = getDepth(path)
-
-      return pages.filter(page => getDepth(page.fullPath) === depth + 1)
-    }
-
-    async function fetchParent (path: string): Promise<(Page & IContentDocument) | undefined> {
-      const parentPath = path.split('/')
-      parentPath.pop()
-
-      if (!parentPath) { return }
-
-      const result = await $content({ deep: true })
-        .where({ fullPath: parentPath.join('/') })
-        .fetch<Page>()
-
-      const page = Array.isArray(result) ? result[0] : result
-      if (!page) { return undefined }
-      return page
-    }
-
-    const result = useAsync(async () => {
-      const raw = params.value.pathMatch
-      const path = raw.endsWith('/') ? raw.slice(0, -1) : raw
-
-      console.time('page')
-      const page = await fetchCurrentPage(path)
-      const nested = await fetchDirectChidlren(path)
-      const parent = await fetchParent(path)
-      console.timeEnd('page')
-
-      return { page, nested, parent }
-    }, params.value.pathMatch)
+    const page = useAsync(async () => {
+      return await fetchCurrentPage(path)
+    }, path)
 
     return {
-      result,
-      params
+      page,
+      path
     }
   }
 })
 </script>
 
 <template>
-  <main v-if="result && result.page" class="container grid grid-cols-1 lg:grid-cols-12 gap-8">
+  <div v-if="page" class="container grid grid-cols-1 lg:grid-cols-12 gap-8">
     <article class="col-span-full lg:col-span-8">
       <header class="mb-8">
-        <nuxt-link
-          v-if="result.parent"
-          :to="'/' + result.parent.fullPath + '/'"
-          class="flex items-center space-x-4 text-sm opacity-75 pb-4 py-2"
-        >
-          <i class="gg-arrow-left" />
-          <span>
-            Înapoi ({{ result.parent.title }})
-          </span>
-        </nuxt-link>
+        <LinkBack :path="path" />
 
         <h1 class="text-4xl font-bold tracking-tighter">
-          {{ result.page.title }}
+          {{ page.title }}
         </h1>
       </header>
 
-      <nuxt-content :document="result.page" class="w-full prose" />
+      <main>
+        <Markdown :body="page.body" class="w-full" />
+      </main>
     </article>
 
-    <aside
-      v-if="result.nested.length"
-      class="col-span-full lg:col-span-4"
-    >
-      <Card class="bg-gray-50 dark:bg-gray-800 !px-4 transition">
-        <header class="px-4">
-          <h2 class="text-lg font-bold mb-4">
-            Conținut
-          </h2>
-        </header>
-        <main class="flex flex-col space-y-2">
-          <nuxt-link
-            v-for="item of result.nested"
-            :key="item.fullPath"
-            :to="'/' + item.fullPath + '/'"
-            :class="[
-              'py-2 px-4 flex items-center justify-between',
-              'hover:bg-gray-100 dark:hover:bg-gray-900',
-              'rounded-lg transition'
-            ]"
-          >
-            <span>
-              {{ item.title }}
-            </span>
-            <i class="gg-arrow-right ml-4" />
-          </nuxt-link>
-        </main>
-      </Card>
-    </aside>
-  </main>
+    <Sidenav :page="path" />
+  </div>
 </template>

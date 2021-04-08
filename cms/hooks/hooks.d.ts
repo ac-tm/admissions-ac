@@ -4,6 +4,7 @@ export interface Entry<T = unknown> {
   meta: {
     path?: string
   }
+
   path: string
   slug: string
 

@@ -1,7 +1,6 @@
-// import { Page } from '../types'
-// import { Entry } from './hooks'
+import { CmsEventListener } from 'netlify-cms-core'
 
-export const preSavePage = {
+export const preSavePage: CmsEventListener = {
   name: 'preSave',
   // @ts-ignore
   handler: ({ entry }) => {

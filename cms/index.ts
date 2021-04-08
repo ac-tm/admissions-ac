@@ -5,7 +5,7 @@ import { ro } from 'netlify-cms-locales'
 import { settings, pages, homepage, specializations, testimonials, locations } from './collections'
 import { preSavePage } from './hooks'
 
-import { ImageNuxt } from './editor-widgets'
+import { DocumentCheckbox, Figure } from './editor-widgets'
 
 // eslint-disable-next-line space-before-function-paren
 export function init(options?: {
@@ -14,15 +14,14 @@ export function init(options?: {
 }) {
   if (!window) { return }
 
-  // @ts-ignore
-  const parentWidget = window.NetlifyCmsWidgetParent
-
-  CMS.registerEditorComponent(ImageNuxt)
+  const parentWidget = (window as any).NetlifyCmsWidgetParent
   CMS.registerWidget('parent', parentWidget.control, parentWidget.preview)
-  CMS.registerLocale('ro', ro)
 
-  // @ts-ignore
-  CMS.registerEventListener(preSavePage, {})
+  CMS.registerLocale('ro', ro)
+  CMS.registerEditorComponent(Figure)
+  CMS.registerEditorComponent(DocumentCheckbox)
+
+  CMS.registerEventListener(preSavePage as any, {})
 
   CMS.init({
     config: {

@@ -1,1 +1,2 @@
-export { default as ImageNuxt } from './image-nuxt'
+export { default as Figure } from './figure'
+export { default as DocumentCheckbox } from './document-checkbox'

@@ -13,7 +13,7 @@ export const imageBlock = object(
   { required: false, collapsed: true }
 )
 
-export const editorBlock = markdown('Conținut', 'body', {
+export const richEditorBlock = markdown('Conținut', 'body', {
   required: false,
   modes: ['rich_text'],
   buttons: [
@@ -28,5 +28,5 @@ export const editorBlock = markdown('Conținut', 'body', {
     'numbered-list',
     'quote'
   ],
-  editor_components: ['image-nuxt']
+  editor_components: ['figure']
 })
