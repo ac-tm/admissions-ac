@@ -64,7 +64,15 @@ export default defineComponent({
         </span>
       </div>
 
-      <div v-if="!isLast" class="flex-1 w-0.5 !mt-0 !pt-0 bg-gray-200" />
+      <div
+        v-if="!isLast"
+        class="flex-1 w-0.5 !mt-0 !pt-0"
+        :class="[
+          eventState === 'before' && 'bg-gray-200',
+          eventState === 'during' && 'bg-gradient-to-b from-secondary dark:from-gray-200 to-gray-200 dark:to-gray-500',
+          eventState === 'done' && 'bg-gradient-to-b from-primary dark:from-secondary to-secondary dark:to-gray-200',
+        ]"
+      />
     </Stack>
 
     <Stack>
