@@ -1,10 +1,13 @@
 <script lang="ts">
-import { defineComponent, onMounted } from '@nuxtjs/composition-api'
+import { defineComponent, onMounted, PropType } from '@nuxtjs/composition-api'
+import { Location } from '~/cms/types'
 
 export default defineComponent({
   name: 'Map',
-  props: {},
-  setup () {
+  props: {
+    locations: { type: Array as PropType<Location[]>, required: true }
+  },
+  setup (props) {
     const mapboxKey: string = 'pk.eyJ1IjoiYXJwYWRnYWJvciIsImEiOiJja25hdWcxcmIxNW1hMnF0YXdxdTdzcThjIn0.h5KCNvyj2sn_qIU-lm5uKw'
     const mapboxUrl: string = 'https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}'
 
@@ -21,9 +24,12 @@ export default defineComponent({
         zoomOffset: -1,
         accessToken: mapboxKey
       }).addTo(map)
-      setTimeout(() => {
-        map.invalidateSize()
-      }, 1000)
+
+      props.locations.forEach((loc) => {
+        loc.point = JSON.parse(loc.coordinates)
+
+        L.marker(loc.point?.coordinates).addTo(map)
+      })
     })
 
     return {}
