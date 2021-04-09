@@ -11,16 +11,19 @@ export default defineComponent({
     onMounted(() => {
       // eslint-disable-next-line no-use-before-define
       const L = require('leaflet')
-      const map = new L.Map('map').setView([45.75418, 21.23398], 13)
+      const map = new L.Map('map', { zoomControl: false }).setView([45.75418, 21.23398], 13)
 
       L.tileLayer(mapboxUrl, {
         attribution: 'Hărți de la &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> și © <a href="https://www.mapbox.com/">Mapbox</a>',
         id: 'arpadgabor/cknavnn1k061m17o6id3mhd28',
-        maxZoom: 18,
+        maxZoom: 20,
         tileSize: 512,
         zoomOffset: -1,
         accessToken: mapboxKey
       }).addTo(map)
+      setTimeout(() => {
+        map.invalidateSize()
+      }, 1000)
     })
 
     return {}
@@ -31,3 +34,9 @@ export default defineComponent({
 <template>
   <div id="map" class="h-[400px] w-full" />
 </template>
+
+<style lang="postcss">
+.leaflet-control-attribution {
+  @apply opacity-50 rounded-tl-lg;
+}
+</style>

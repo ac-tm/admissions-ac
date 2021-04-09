@@ -44,7 +44,7 @@ export default defineNuxtConfig({
   ],
   modules: ['@nuxt/content'],
 
-  css: ['~/assets/css/global.css', '~/assets/css/icons.css', '~/assets/css/typography.css'],
+  css: ['~/assets/css/global.css', '~/assets/css/icons.css', '~/assets/css/typography.css', '~/node_modules/leaflet/dist/leaflet.css'],
 
   content: {
     liveEdit: false
