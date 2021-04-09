@@ -50,6 +50,16 @@ export default defineNuxtConfig({
   content: {
     liveEdit: false
   },
+  hooks: {
+    'content:file:beforeInsert': async (document, database) => {
+      if (document.extension === '.json' && document.events) {
+        for await (const ev of document.events) {
+          const body = await database.markdown.toJSON(ev.details)
+          ev.body = body
+        }
+      }
+    }
+  },
 
   tailwindcss: {
     jit: true

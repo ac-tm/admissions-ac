@@ -2,6 +2,7 @@
 import { defineComponent } from '@nuxtjs/composition-api'
 import DocumentCheckbox from './DocumentCheckbox.vue'
 import Fig from './Figure.vue'
+import Timeline from './timeline'
 
 export default defineComponent({
   name: 'Markdown',
@@ -9,7 +10,8 @@ export default defineComponent({
   /* eslint-disable vue/no-unused-components */
   components: {
     DocumentCheckbox,
-    Fig
+    Fig,
+    Timeline
   },
 
   props: {

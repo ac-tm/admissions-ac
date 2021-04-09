@@ -2,10 +2,10 @@ import CMS from 'netlify-cms-app'
 // @ts-ignore
 import { ro } from 'netlify-cms-locales'
 
-import { settings, pages, homepage, specializations, testimonials, locations } from './collections'
+import { settings, pages, homepage, specializations, testimonials, locations, timeline } from './collections'
 import { preSavePage } from './hooks'
 
-import { DocumentCheckbox, Figure } from './editor-widgets'
+import { DocumentCheckbox, Figure, Timeline } from './editor-widgets'
 
 // eslint-disable-next-line space-before-function-paren
 export function init(options?: {
@@ -20,6 +20,7 @@ export function init(options?: {
   CMS.registerLocale('ro', ro)
   CMS.registerEditorComponent(Figure)
   CMS.registerEditorComponent(DocumentCheckbox)
+  CMS.registerEditorComponent(Timeline)
 
   CMS.registerEventListener(preSavePage as any, {})
 
@@ -44,7 +45,7 @@ export function init(options?: {
         preview: false
       },
 
-      collections: [settings, homepage, specializations, testimonials, locations, pages]
+      collections: [settings, homepage, specializations, testimonials, locations, pages, timeline]
     }
   })
 }

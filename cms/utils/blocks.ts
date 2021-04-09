@@ -28,5 +28,5 @@ export const richEditorBlock = markdown('Conținut', 'body', {
     'numbered-list',
     'quote'
   ],
-  editor_components: ['figure', 'document-checkbox']
+  editor_components: ['figure', 'document-checkbox', 'timeline']
 })

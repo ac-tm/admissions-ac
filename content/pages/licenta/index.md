@@ -1,6 +1,7 @@
 ---
-fullPath: licenta
 title: Licență
+description: Licență
+fullPath: licenta
 ---
 # Vocatus nymphae ab cornibus radiorum vasti parat
 
@@ -21,6 +22,8 @@ fugit. Sentit potentes culpam premit videoque erat cessant, aspicis reversurum
 4. Eademque rata eundem et versae cupioque require
 5. Neve tantum tabulas
 6. Secundi totum en negabat mallet ferox
+
+<Timeline slug="admitere-cti-is-licență"></Timeline>
 
 ## Acclinata de miserae vasto palearia te hic
 

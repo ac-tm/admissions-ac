@@ -1,0 +1,35 @@
+{
+  "title": "Admitere CTI/IS Licență",
+  "events": [
+    {
+      "date": "2021-04-01T16:11:57.506Z",
+      "deadline": "2021-04-08T16:12:00.503Z",
+      "title": "Înscrierea candidaților",
+      "details": "Înscrierea se realizează exclusiv pe [formularul de înscriere](https://google.com). Dacă întâmpini dificultăți, accesează ghidul nostru despre cum se completează formularul de înscriere.",
+      "cta": {
+        "label": "Formular de înscriere",
+        "path": "licenta"
+      }
+    },
+    {
+      "date": "2021-04-09T15:51:54.839Z",
+      "deadline": "2021-04-24T15:51:54.859Z",
+      "title": "Concursul de admitere",
+      "details": "Concursul de matematică la secțiunea 6 (AC+ETcTI) se va desfășura în data de 18 iulie 2020 începând cu ora 10.00; studentii vor intra in săli la ora 9.00.",
+      "cta": {
+        "label": "Unde trebuie să mergi",
+        "path": "licenta/rezultate"
+      }
+    },
+    {
+      "date": "2021-04-16T16:28:29.926Z",
+      "deadline": "",
+      "title": "Rezultatele concursului",
+      "details": "Rezultatele concursului vor fi publice pe website, fiecare participant va folosi codul unic primit de pe platforma de înscriere pentru a-și găsi nota.",
+      "cta": {
+        "label": "Test",
+        "path": "licenta/rezultate"
+      }
+    }
+  ]
+}

@@ -15,7 +15,7 @@ export default {
   pattern: /^<DocumentCheckbox text="(.*)"><\/DocumentCheckbox>$/,
   fromBlock: (match) => {
     return {
-      src: match[1]
+      text: match[1]
     }
   },
   toBlock: (obj: Fields) => {

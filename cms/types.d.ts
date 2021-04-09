@@ -93,3 +93,17 @@ export interface MapSection {
 export interface HomepageSection {
   items: (SpecializationSection | PagesSection | TestimonialsSection | MapSection)[]
 }
+
+export interface TimelineEvent {
+  title: string
+  date: Date
+  deadline?: Date
+  details: string
+  body: any
+  cta?: CTA
+}
+
+export interface Timeline {
+  title: string
+  events: TimelineEvent[]
+}
