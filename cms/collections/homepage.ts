@@ -33,7 +33,8 @@ const sectionSpecializations = [
   list('Specializări', 'items', [
     relation('Specializare', 'specialization', {
       value_field: '{{slug}}',
-      search_fields: ['{{title}}'],
+      search_fields: ['title'],
+      display_fields: ['title'],
       collection: 'specializations'
     }),
     select('Dimensiune', 'width', {
@@ -58,7 +59,7 @@ const sectionPages = [
     value_field: 'fullPath',
     collection: 'pages',
     search_fields: ['title'],
-    display_fields: ['{{title}} — `{{fullPath}}`']
+    display_fields: ['{{title}}']
   }))
 ]
 
@@ -79,4 +80,10 @@ const sections = file('Secțiuni', 'sections', [
   }
 ], { extension: 'json', format: 'json' })
 
-export const homepage = files('Pagina principală', 'homepage', [hero, sections])
+export const homepage = files('Pagina principală', 'homepage', [hero, sections], {
+  description: `
+    Aici se poat modifica texte de pe pagina principală, dar și cum sunt poziționate elementele.
+    Secțiunea „Hero” este prima secțiune de pe pagină care se vede de utilizator când intră pe website.
+    Fiecare secțiune din „Secțiuni” este configurabilă. De asemenea se pot adăuga și reorganiza acestea.
+  `
+})

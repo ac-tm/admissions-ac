@@ -2,17 +2,31 @@ import CMS from 'netlify-cms-app'
 // @ts-ignore
 import { ro } from 'netlify-cms-locales'
 
-import { settings, pages, homepage, specializations, testimonials, locations, timeline } from './collections'
+import {
+  settings,
+  pages,
+  homepage,
+  specializations,
+  testimonials,
+  locations,
+  timeline
+} from './collections'
 import { preSavePage } from './hooks'
 
-import { DocumentCheckbox, Figure, Timeline } from './editor-widgets'
+import {
+  DocumentCheckbox,
+  Figure,
+  LinkExternal,
+  LinkFile,
+  LinkInternal,
+  Timeline
+} from './editor-widgets'
 
 // eslint-disable-next-line space-before-function-paren
-export function init(options?: {
-  baseURL?: string
-  localBackend?: boolean
-}) {
-  if (!window) { return }
+export function init(options?: { baseURL?: string; localBackend?: boolean }) {
+  if (!window) {
+    return
+  }
 
   const parentWidget = (window as any).NetlifyCmsWidgetParent
   CMS.registerWidget('parent', parentWidget.control, parentWidget.preview)
@@ -21,6 +35,9 @@ export function init(options?: {
   CMS.registerEditorComponent(Figure)
   CMS.registerEditorComponent(DocumentCheckbox)
   CMS.registerEditorComponent(Timeline)
+  CMS.registerEditorComponent(LinkInternal)
+  CMS.registerEditorComponent(LinkExternal)
+  CMS.registerEditorComponent(LinkFile)
 
   CMS.registerEventListener(preSavePage as any, {})
 
@@ -45,7 +62,15 @@ export function init(options?: {
         preview: false
       },
 
-      collections: [settings, homepage, specializations, testimonials, locations, pages, timeline]
+      collections: [
+        homepage,
+        specializations,
+        testimonials,
+        locations,
+        timeline,
+        pages,
+        settings
+      ]
     }
   })
 }

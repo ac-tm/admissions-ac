@@ -22,6 +22,10 @@ export const pages = folder('Pagini', 'pages',
         index_file: 'index',
         label: 'Părinte'
       }
-    }
+    },
+    description: `
+      Aici se pot crea, modifica sau șterge pagini. Acestea au o structură de tip arbore, adică orice pagină poate avea la rândul ei mai multe sub-pagini (până la 100 de nivele).
+      În lista centrală vor fi vizibile sub-paginile paginii selectate în meniul din stânga.
+    `
   }
 )

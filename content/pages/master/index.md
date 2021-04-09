@@ -8,6 +8,12 @@ fullPath: master
 ---
 Studii de master.
 
+<Attachment label="Google" external="https://google.com"></Attachment>
+
+# Calendarul admiterii
+
+<Timeline slug="admitere-cti-is-licență"></Timeline>
+
 <DocumentCheckbox text="Diploma de licenta"></DocumentCheckbox>
 
 <DocumentCheckbox text="Foaie matricola"></DocumentCheckbox>

@@ -22,7 +22,7 @@ export default defineComponent({
 
 <template>
   <label
-    class="bg-gray-50 dark:bg-gray-800 flex items-center rounded-lg px-4 py-4 mb-4 group focus-within:ring transition"
+    class="bg-gray-50 dark:bg-gray-800 flex items-center rounded-lg px-4 py-4 mb-4 group focus-within:ring transition cursor-pointer"
   >
     <input
       v-model="checked"
@@ -33,10 +33,10 @@ export default defineComponent({
     <div
       :class="[
         'h-4 w-4 mr-4',
-        'flex items-center justify-center',
+        'flex items-center justify-center pointer-events-none',
         'rounded border-2 transition',
-        'group-hover:border-white dark:group-hover:border-gray-600',
-        checked && 'border-primary dark:border-secondary',
+        'group-hover:border-primary dark:group-hover:border-gray-600',
+        checked && 'border-primary dark:border-secondary group-hover:border-primary',
       ]"
       @click="() => checked = !checked"
     >

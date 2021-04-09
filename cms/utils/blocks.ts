@@ -17,6 +17,7 @@ export const richEditorBlock = markdown('Conținut', 'body', {
   required: false,
   modes: ['rich_text'],
   buttons: [
+    'heading-one',
     'heading-two',
     'heading-three',
     'heading-four',
@@ -28,5 +29,5 @@ export const richEditorBlock = markdown('Conținut', 'body', {
     'numbered-list',
     'quote'
   ],
-  editor_components: ['figure', 'document-checkbox', 'timeline']
+  editor_components: ['figure', 'document-checkbox', 'timeline', 'custom-link-internal', 'custom-link-external', 'custom-link-file']
 })

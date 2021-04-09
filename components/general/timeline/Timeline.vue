@@ -27,7 +27,7 @@ export default defineComponent({
 </script>
 
 <template>
-  <Stack v-if="timeline" as="section" class="my-16 !space-y-0">
+  <Stack v-if="timeline" as="section" class="mt-8 mb-4 !space-y-0">
     <TimelineEvent
       v-for="(event, idx) of timeline.events"
       :key="event.title"

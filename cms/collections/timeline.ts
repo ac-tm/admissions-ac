@@ -33,26 +33,22 @@ export const timeline = folder(
         }),
         markdown('Detalii', 'details', {
           buttons: ['bold', 'italic', 'link'],
-          editor_components: []
-        }),
-        object(
-          'Acțiune',
-          'cta',
-          [
-            string('Mesaj', 'label'),
-            relation('Pagină', 'path', {
-              collection: 'pages',
-              value_field: 'fullPath',
-              search_fields: ['title'],
-              display_fields: ['title'],
-              multiple: false
-            })
+          editor_components: [
+            'custom-link-internal',
+            'custom-link-external',
+            'custom-link-file'
           ],
-          { required: false }
-        )
+          required: false
+        })
       ],
       { label_singular: 'eveniment' }
     )
   ],
-  { format: 'json', extension: 'json' }
+  {
+    format: 'json',
+    extension: 'json',
+    description: `
+    Calendarele de aici se pot atașa în orice pagină, de exemplu pentru calednarul de înscrieri sau cursurile de matematică.
+  `
+  }
 )

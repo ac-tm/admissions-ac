@@ -1,13 +1,15 @@
 <script lang="ts">
 import { computed, defineComponent, PropType } from '@nuxtjs/composition-api'
-import { format, isWithinInterval } from 'date-fns'
-import ro from 'date-fns/locale/ro'
+import { lightFormat } from 'date-fns'
+import Attachment from '../Attachment.vue'
 import { TimelineEvent } from '~/cms/types'
 import { Stack } from '~/components/ui/layout'
+// import ro from 'date-fns/locale/ro'
 
 export default defineComponent({
   name: 'TimelineEvent',
-  components: { Stack },
+  // eslint-disable-next-line vue/no-unused-components
+  components: { Stack, Attachment },
   props: {
     event: { type: Object as PropType<TimelineEvent>, required: true },
     isLast: { type: Boolean, default: false }
@@ -23,7 +25,7 @@ export default defineComponent({
     })
 
     const formatDate = (date: Date) => {
-      return format(new Date(date), 'd.MM.yyyy \'la\' HH:mm')
+      return lightFormat(new Date(date), 'd.MM.yyyy \'la\' HH:mm')
     }
 
     return {
@@ -35,7 +37,7 @@ export default defineComponent({
 </script>
 
 <template>
-  <div class="flex flex-row space-x-4">
+  <div class="timeline-event space-x-4 w-full">
     <Stack flex class="items-center">
       <div
         :class="[
@@ -69,13 +71,13 @@ export default defineComponent({
         class="flex-1 w-0.5 !mt-0 !pt-0"
         :class="[
           eventState === 'before' && 'bg-gray-200',
-          eventState === 'during' && 'bg-gradient-to-b from-secondary dark:from-gray-200 to-gray-200 dark:to-gray-500',
-          eventState === 'done' && 'bg-gradient-to-b from-primary dark:from-secondary to-secondary dark:to-gray-200',
+          eventState === 'during' && 'bg-secondary dark:bg-gray-500',
+          eventState === 'done' && 'bg-primary dark:bg-secondary',
         ]"
       />
     </Stack>
 
-    <Stack>
+    <Stack class="flex-1">
       <h2 class="!text-lg !font-bold !tracking-normal !text-gray-800 dark:!text-white !my-0 !mt-0">
         {{ event.title }}
       </h2>
@@ -87,13 +89,32 @@ export default defineComponent({
       </p>
 
       <div class="mt-4 pb-8 w-full">
-        <NuxtContent class="prose" :document="event.body" />
+        <NuxtContent v-if="event.details" class="prose" :document="event.body" />
       </div>
     </Stack>
   </div>
 </template>
 
 <style scoped>
+.timeline-event {
+  display: grid;
+  grid-template-columns: 42px 1fr;
+}
+/*
+// calendar
+// unde ma inscriu
+// documente
+// dupa ce esti acceptat
+// informatii utile
+// faq
+// oportunitati de angajare / cariera / cine ma angajeaza
+
+// voluntariat
+// camine - subpage
+
+// link spre noutati AC
+// despre timisoara
+ */
 .gg-check {
     box-sizing: border-box;
     position: relative;
