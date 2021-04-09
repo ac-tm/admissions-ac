@@ -27,7 +27,8 @@
       "@nuxt/types",
       "@nuxt/content",
       "@types/node",
-      "@nuxtjs/color-mode"
+      "@nuxtjs/color-mode",
+      "@types/leaflet"
     ]
   },
   "exclude": [
