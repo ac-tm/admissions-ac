@@ -38,7 +38,7 @@ export default defineComponent({
         href="https://upt.ro"
         target="_blank"
         rel="noopener noreferrer"
-        class="h-full"
+        class="h-full flex"
       >
         <UPT class="h-full text-white hidden md:flex" />
 
