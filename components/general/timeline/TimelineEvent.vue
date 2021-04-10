@@ -100,21 +100,7 @@ export default defineComponent({
   display: grid;
   grid-template-columns: 42px 1fr;
 }
-/*
-// calendar
-// unde ma inscriu
-// documente
-// dupa ce esti acceptat
-// informatii utile
-// faq
-// oportunitati de angajare / cariera / cine ma angajeaza
 
-// voluntariat
-// camine - subpage
-
-// link spre noutati AC
-// despre timisoara
- */
 .gg-check {
     box-sizing: border-box;
     position: relative;

@@ -15,7 +15,10 @@ export default defineComponent({
   setup (props) {
     const { $content } = useContext()
 
-    const getDepth = (path: string) => path.split('/').length
+    const getDepth = (path: string) => {
+      if (path === '/') { return 0 }
+      return path.split('/').length
+    }
 
     async function fetchSiblings (path: string): Promise<(Page & IContentDocument)[]> {
       const paths = path.split('/')
@@ -23,9 +26,12 @@ export default defineComponent({
 
       const parentPath = paths.join('/') || '/'
 
-      const pages = await $content('pages', { deep: true })
-        .where({ fullPath: { $contains: parentPath } })
-        .fetch<Page>() as (Page & IContentDocument)[]
+      const pages = parentPath === '/'
+        ? await $content('pages', { deep: true })
+          .fetch<Page>() as (Page & IContentDocument)[]
+        : await $content('pages', { deep: true })
+          .where({ fullPath: { $contains: parentPath } })
+          .fetch<Page>() as (Page & IContentDocument)[]
 
       const depth = getDepth(parentPath)
 
@@ -46,7 +52,9 @@ export default defineComponent({
       const children = await fetchDirectChidlren(props.page)
 
       if (!children.length) {
-        return await fetchSiblings(props.page)
+        const siblings = await fetchSiblings(props.page)
+
+        return siblings
       }
       return children
     }, props.page + '/nav')
