@@ -36,12 +36,10 @@ export default defineComponent({
       return Array.isArray(cfg) ? cfg[0] : cfg
     }, 'config')
 
-    if (cfg.value) {
-      useMeta({
-        title: cfg.value.title,
-        meta: parseMeta(cfg.value.title, cfg.value.description, cfg.value.image)
-      })
-    }
+    useMeta(() => ({
+      title: cfg.value?.title!,
+      meta: parseMeta(cfg.value?.title!, cfg.value?.description!, cfg.value?.image!)
+    }))
 
     return {}
   },

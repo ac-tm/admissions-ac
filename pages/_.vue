@@ -37,12 +37,10 @@ export default defineComponent({
       return page
     }, path)
 
-    if (page.value) {
-      useMeta({
-        title: page.value.title,
-        meta: parseMeta(page.value.title, page.value.descriptio, page.value.image?.src)
-      })
-    }
+    useMeta(() => ({
+      title: page.value?.title,
+      meta: parseMeta(page.value?.title!, page.value?.description!, page.value?.image?.src)
+    }))
 
     return {
       page,
