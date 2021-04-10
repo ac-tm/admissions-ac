@@ -48,6 +48,7 @@ export interface Specialization {
 export interface Testimonial {
   message: string
   author: string
+  image?: string
 }
 
 export interface Location {

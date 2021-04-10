@@ -23,7 +23,16 @@ export default defineComponent({
 </script>
 
 <template>
-  <section v-if="testimonials" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-    <Testimonial v-for="(testimonial, idx) of testimonials" :key="idx" :author="testimonial.author" :message="testimonial.message" />
+  <section
+    v-if="testimonials"
+    class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8"
+  >
+    <Testimonial
+      v-for="(testimonial, idx) of testimonials"
+      :key="idx"
+      :author="testimonial.author"
+      :message="testimonial.message"
+      :image="testimonial.image"
+    />
   </section>
 </template>
