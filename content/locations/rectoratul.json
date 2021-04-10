@@ -1,0 +1,14 @@
+{
+  "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.225138,45.7536588]}",
+  "title": "Rectoratul",
+  "description": "Rectoratul Universității Politehnica Timișoara, aici este sediul central al universității.",
+  "links": [
+    {
+      "label": "Website",
+      "url": "https://upt.ro"
+    }
+  ],
+  "lng": 21.225138,
+  "lat": 45.7536588,
+  "icon": "crown"
+}

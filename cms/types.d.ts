@@ -53,10 +53,19 @@ export interface Location {
   description: string
   /** Type of GeoJSON: https://geojson.org/ */
   coordinates: string
-  point?: {
-    type: 'Point'
-    coordinates: [number, number]
-  }
+  lng: number
+  lat: number
+  icon:
+    | 'crown'
+    | 'book'
+    | 'building'
+    | 'coffee'
+    | 'food'
+    | 'sport'
+    | 'trees'
+    | 'common'
+    | 'star'
+
   links: {
     label: string
     url: string
@@ -91,7 +100,12 @@ export interface MapSection {
 }
 
 export interface HomepageSection {
-  items: (SpecializationSection | PagesSection | TestimonialsSection | MapSection)[]
+  items: (
+    | SpecializationSection
+    | PagesSection
+    | TestimonialsSection
+    | MapSection
+  )[]
 }
 
 export interface TimelineEvent {

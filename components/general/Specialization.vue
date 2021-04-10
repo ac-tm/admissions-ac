@@ -27,7 +27,7 @@ export default defineComponent({
 
 <template>
   <Card :class="colors[color]">
-    <h3 class="text-2xl font-bold tracking-tight leading-none mb-4">
+    <h3 class="text-2xl font-bold tracking-tight leading-none mb-4 text-gray-800 dark:text-white">
       {{ title }}
     </h3>
     <p>

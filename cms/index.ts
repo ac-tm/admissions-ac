@@ -11,7 +11,7 @@ import {
   locations,
   timeline
 } from './collections'
-import { preSavePage } from './hooks'
+import { preSaveLocation, preSavePage } from './hooks'
 
 import {
   DocumentCheckbox,
@@ -40,6 +40,7 @@ export function init(options?: { baseURL?: string; localBackend?: boolean }) {
   CMS.registerEditorComponent(LinkFile)
 
   CMS.registerEventListener(preSavePage as any, {})
+  CMS.registerEventListener(preSaveLocation as any, {})
 
   CMS.init({
     config: {

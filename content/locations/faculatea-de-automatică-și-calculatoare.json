@@ -1,0 +1,14 @@
+{
+  "title": "Faculatea de Automatică și Calculatoare",
+  "description": "Aici este clădirea în care se vor desfășura toate orele de curs, admiterea, și multe alte evenimente.",
+  "coordinates": "{\"type\":\"Point\",\"coordinates\":[21.2264121,45.7472672]}",
+  "lat": 45.7472672,
+  "lng": 21.2264121,
+  "links": [
+    {
+      "url": "http://ac.upt.ro/",
+      "label": "Website"
+    }
+  ],
+  "icon": "star"
+}
