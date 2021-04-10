@@ -46,7 +46,7 @@
       "description": "Știm că este greu până te prinzi de zonă, așa că ți-am pregătit o hartă cu toate locațiile de interes!",
       "cta": {
         "label": "Deschide harta",
-        "path": "/harta/"
+        "path": "/harta"
       }
     },
     {
