@@ -58,6 +58,7 @@ export default defineComponent({
     fill="none"
     xmlns="http://www.w3.org/2000/svg"
     @mouseenter="flip"
+    @click="flip"
   >
     <rect x="0.0884399" width="80" height="80" fill="currentColor" />
   </svg>

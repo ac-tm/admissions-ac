@@ -66,6 +66,7 @@ export default defineComponent({
     fill="none"
     xmlns="http://www.w3.org/2000/svg"
     @mouseenter="flip"
+    @click="flip"
   >
     <path
       d="M0.0884399 80L0.0884364 0C44.2712 -1.93129e-06 80.0884 35.8172 80.0884 80L0.0884399 80Z"

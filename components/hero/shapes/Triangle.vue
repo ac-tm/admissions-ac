@@ -66,6 +66,7 @@ export default defineComponent({
     fill="none"
     xmlns="http://www.w3.org/2000/svg"
     @mouseenter="flip"
+    @click="flip"
   >
     <path d="M0.0884399 0L80.0884 80H0.0884399V0Z" fill="currentColor" />
   </svg>
