@@ -42,9 +42,17 @@ export default defineNuxtConfig({
     '@nuxtjs/google-fonts',
     '@nuxtjs/color-mode'
   ],
-  modules: ['@nuxt/content'],
+  modules: ['@nuxt/content', '@nuxtjs/sitemap'],
 
   css: ['~/assets/css/global.css', '~/assets/css/icons.css', '~/assets/css/typography.css', '~/node_modules/leaflet/dist/leaflet.css'],
+
+  sitemap: {
+    hostname: process.env.URL || 'http://localhost:3000',
+    gzip: true,
+    exclude: [
+      '/admin/**'
+    ]
+  },
 
   content: {
     liveEdit: false
