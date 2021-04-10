@@ -48,7 +48,7 @@ export default defineComponent({
       <header class="mb-8">
         <LinkBack :path="path" />
 
-        <h1 class="text-4xl font-bold tracking-tighter">
+        <h1 class="text-4xl font-bold tracking-tighter dark:text-white">
           {{ page.title }}
         </h1>
       </header>

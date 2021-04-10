@@ -16,6 +16,7 @@ import { preSaveLocation, preSavePage } from './hooks'
 import {
   DocumentCheckbox,
   Figure,
+  Hint,
   LinkExternal,
   LinkFile,
   LinkInternal,
@@ -38,6 +39,7 @@ export function init(options?: { baseURL?: string; localBackend?: boolean }) {
   CMS.registerEditorComponent(LinkInternal)
   CMS.registerEditorComponent(LinkExternal)
   CMS.registerEditorComponent(LinkFile)
+  CMS.registerEditorComponent(Hint)
 
   CMS.registerEventListener(preSavePage as any, {})
   CMS.registerEventListener(preSaveLocation as any, {})

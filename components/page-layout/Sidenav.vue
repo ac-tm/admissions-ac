@@ -40,7 +40,7 @@ export default defineComponent({
 <template>
   <aside
     v-if="pages && pages.length"
-    class="col-span-full lg:col-span-4"
+    class="col-span-full lg:col-span-4 dark:text-white"
   >
     <Card class="bg-gray-50 dark:bg-gray-800 !px-4 transition">
       <header class="px-4">

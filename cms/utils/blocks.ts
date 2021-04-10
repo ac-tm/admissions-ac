@@ -6,7 +6,8 @@ export const imageBlock = object(
   [
     image('Imagine', 'src', { required: false }),
     string('Alt', 'alt', {
-      hint: 'O descriere a imaginii pentru utilizatorii cu deficiențe de vedere.',
+      hint:
+        'O descriere a imaginii pentru utilizatorii cu deficiențe de vedere.',
       required: false
     })
   ],
@@ -29,5 +30,13 @@ export const richEditorBlock = markdown('Conținut', 'body', {
     'numbered-list',
     'quote'
   ],
-  editor_components: ['figure', 'document-checkbox', 'timeline', 'custom-link-internal', 'custom-link-external', 'custom-link-file']
+  editor_components: [
+    'figure',
+    'document-checkbox',
+    'timeline',
+    'custom-link-internal',
+    'custom-link-external',
+    'custom-link-file',
+    'hint'
+  ]
 })

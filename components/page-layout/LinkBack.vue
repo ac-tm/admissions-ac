@@ -40,7 +40,7 @@ export default defineComponent({
   <nuxt-link
     v-if="page"
     :to="'/' + page.fullPath + '/'"
-    class="flex items-center space-x-4 text-sm opacity-75 pb-4 py-2"
+    class="flex items-center space-x-4 text-sm opacity-75 pb-4 py-2 dark:text-white"
   >
     <i class="gg-arrow-left" />
     <span>

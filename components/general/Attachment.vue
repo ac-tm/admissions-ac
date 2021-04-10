@@ -18,6 +18,7 @@ export default defineComponent({
     const external = {
       is: 'a',
       href: props.external || props.file,
+      target: '_blank',
       rel: 'noopener noreferrer'
     }
 
@@ -33,9 +34,9 @@ export default defineComponent({
   <component
     v-bind="attrs"
     :class="[
-      'rounded-lg min-h-12 py-2 w-full !max-w-full flex items-center justify-evenly',
+      'rounded-lg min-h-12 mt-4 py-2 w-full !max-w-full flex items-center justify-evenly',
       '!text-gray-800 dark:!text-white',
-      'bg-gray-50 dark:bg-gray-800 transition',
+      'bg-gray-100 bg-opacity-50 dark:bg-gray-800 transition',
       'hover:bg-gray-100 dark:hover:bg-gray-700'
     ]"
   >
