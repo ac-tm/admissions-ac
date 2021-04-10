@@ -31,9 +31,9 @@
       "type": "pages",
       "list": [
         "licenta/calendarul-admiterii",
+        "licenta/unde-ma-inscriu",
         "licenta/documente-necesare",
-        "licenta/dupa-ce-esti-acceptat",
-        "master"
+        "licenta/dupa-ce-esti-acceptat"
       ]
     },
     {
@@ -43,11 +43,20 @@
     {
       "type": "locations",
       "title": "Campusul, căminele, și unde îți vei petrece timpul.",
-      "description": "Ți-am pregătit o listă cu toate documentele de care vei avea nevoie, ca să nu te mai chinui.",
+      "description": "Știm că este greu până te prinzi de zonă, așa că ți-am pregătit o hartă cu toate locațiile de interes!",
       "cta": {
-        "label": "Află despre campus",
-        "path": "/campus/"
+        "label": "Deschide harta",
+        "path": "/harta/"
       }
+    },
+    {
+      "type": "pages",
+      "list": [
+        "informatii-utile",
+        "licenta/pregatire-pentru-examenul-de-admitere",
+        "de-ce-ac/oportunitati-in-cariera",
+        "intrebari-frecvente"
+      ]
     }
   ]
 }

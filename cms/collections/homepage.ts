@@ -60,7 +60,7 @@ const sectionPages = [
     collection: 'pages',
     search_fields: ['title'],
     display_fields: ['{{title}}']
-  }))
+  }), { summary: '{{page}}' })
 ]
 
 const sections = file('Secțiuni', 'sections', [
