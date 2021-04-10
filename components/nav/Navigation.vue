@@ -20,7 +20,7 @@ export default defineComponent({
   <nav
     id="nav"
     :class="[
-      'w-full h-16 fixed top-0 left-0 z-50',
+      'w-full h-16 top-0 left-0 z-50',
       'bg-white dark:bg-gray-900 bg-opacity-75 dark:bg-opacity-50',
       'border-b border-gray-100 dark:border-gray-800 border-opacity-50 transition'
     ]"

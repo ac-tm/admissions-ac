@@ -1,11 +1,12 @@
 <script lang="ts">
+import { IContentDocument } from '@nuxt/content/types/content'
 import { defineComponent, onMounted, PropType } from '@nuxtjs/composition-api'
 import { Location } from '~/cms/types'
 
 export default defineComponent({
   name: 'Map',
   props: {
-    locations: { type: Array as PropType<Location[]>, required: true }
+    locations: { type: Array as PropType<(Location & IContentDocument)[]>, required: true }
   },
   setup (props) {
     const mapboxKey: string = 'pk.eyJ1IjoiYXJwYWRnYWJvciIsImEiOiJja25hdWcxcmIxNW1hMnF0YXdxdTdzcThjIn0.h5KCNvyj2sn_qIU-lm5uKw'

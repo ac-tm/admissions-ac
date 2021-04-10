@@ -18,7 +18,9 @@ export default defineComponent({
     const { $content } = useContext()
 
     const locations = useAsync(async () => {
-      return await $content('locations').fetch<Location>()
+      const result = await $content('locations').fetch<Location>()
+
+      return Array.isArray(result) ? result : null
     }, 'locations')
 
     return {
@@ -29,7 +31,7 @@ export default defineComponent({
 </script>
 
 <template>
-  <Card as="section" class="flex flex-col lg:flex-row items-center space-y-8 lg:space-y-0 lg:space-x-8 bg-gray-50 dark:bg-gray-800 min-h-[64]">
+  <Card v-if="locations" as="section" class="flex flex-col lg:flex-row items-center space-y-8 lg:space-y-0 lg:space-x-8 bg-gray-50 dark:bg-gray-800 min-h-[64] isolate">
     <div class="w-full lg:w-2/3 h-full overflow-hidden rounded-lg">
       <Map :locations="locations" />
     </div>
