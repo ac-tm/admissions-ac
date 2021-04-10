@@ -17,7 +17,7 @@ export default defineComponent({
     const cta = useAsync(async () => {
       const cfg = await $content('site').fetch<Site>()
       return Array.isArray(cfg) ? cfg[0]?.cta : cfg?.cta
-    }, 'config')
+    }, 'nav')
 
     return {
       cta
