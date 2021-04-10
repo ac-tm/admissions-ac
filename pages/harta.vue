@@ -22,6 +22,9 @@ export default defineComponent({
     return {
       locations
     }
+  },
+  head: {
+    title: 'Harta locațiilor de interes pentru studenți'
   }
 })
 </script>
