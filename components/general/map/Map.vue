@@ -66,7 +66,7 @@ export default defineComponent({
         }).addTo(map)
 
         const generateLink = (label: string, url: string) => `<li><a href="${url}" target="_blank" class="hover:underline">${label}</a></li>`
-        const googleMapsUrl = (lat: number, lng: number) => `https://www.google.com/maps/@${lat},${lng},15z`
+        const googleMapsUrl = (lat: number, lng: number) => `https://www.google.com/maps/@${lat},${lng},18.5z`
 
         marker.bindPopup(/* html */`
           <div class="w-[240px] font-sans">
@@ -92,7 +92,7 @@ export default defineComponent({
 </script>
 
 <template>
-  <div id="map" class="h-[400px] w-full z-10" />
+  <div id="map" class="h-full w-full z-10" />
 </template>
 
 <style lang="postcss">
