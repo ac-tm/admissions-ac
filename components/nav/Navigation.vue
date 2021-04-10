@@ -1,7 +1,8 @@
 <script lang="ts">
-import { defineComponent } from '@nuxtjs/composition-api'
+import { defineComponent, useAsync, useContext } from '@nuxtjs/composition-api'
 import { Logo, Logomark } from '@/components/logo'
 import { Button } from '@/components/ui/forms'
+import { Site } from '~/cms/types'
 
 export default defineComponent({
   name: 'Navigation',
@@ -11,7 +12,16 @@ export default defineComponent({
     Button
   },
   setup () {
-    return {}
+    const { $content } = useContext()
+
+    const cta = useAsync(async () => {
+      const cfg = await $content('site').fetch<Site>()
+      return Array.isArray(cfg) ? cfg[0]?.cta : cfg?.cta
+    }, 'config')
+
+    return {
+      cta
+    }
   }
 })
 </script>
@@ -31,8 +41,8 @@ export default defineComponent({
         <Logomark class="h-8 md:hidden" />
       </nuxt-link>
 
-      <Button theme="secondary" class="self-center">
-        Înscrie-te!
+      <Button v-if="cta" :to="cta.path" theme="secondary" class="self-center">
+        {{ cta.label }}
       </Button>
     </div>
   </nav>

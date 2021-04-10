@@ -9,7 +9,11 @@ const site = file(
     string('Descirere', 'description', { hint: 'Descriere ce va apărea pe Social Media.' }),
     image('Imagine', 'image', {
       hint: 'Imagine ce va apărea pe Social Media.'
-    })
+    }),
+    object('Buton', 'cta', [
+      string('Mesaj', 'label'),
+      string('URL', 'path')
+    ])
   ],
   { extension: 'json', format: 'json' }
 )

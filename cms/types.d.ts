@@ -1,12 +1,14 @@
+interface CTA {
+  label: string
+  path: string
+}
+
 export interface Site {
   title: string
   description: string
   image: string
-}
 
-interface CTA {
-  label: string
-  path: string
+  cta: CTA
 }
 
 export interface Hero {
