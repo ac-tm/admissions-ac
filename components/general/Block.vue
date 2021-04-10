@@ -11,7 +11,7 @@ export default defineComponent({
       gray: 'bg-gray-50 dark:bg-gray-800 transition',
       red: 'bg-red-100 dark:bg-red-900 dark:bg-opacity-[0.4] transition',
       green: 'bg-green-100 dark:bg-green-900 dark:bg-opacity-[0.4] transition',
-      yellow: 'bg-amber-100 dark:bg-amber-900 dark:bg-opacity-[0.4] transition'
+      yellow: 'bg-yellow-100 dark:bg-yellow-900 dark:bg-opacity-[0.4] transition'
     }
     return {
       colors

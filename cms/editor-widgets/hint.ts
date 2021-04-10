@@ -15,7 +15,7 @@ export default {
         { label: 'Gri', value: 'gray' },
         { label: 'Verde', value: 'green' },
         { label: 'Roșu', value: 'red' },
-        { label: 'Portocaliu', value: 'orange' }
+        { label: 'Galben', value: 'yellow' }
       ],
       multiple: false,
       default: 'gray'

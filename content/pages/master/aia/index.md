@@ -5,7 +5,7 @@ fullPath: master/aia
 ---
 Ramura AIA.
 
-<Block color="red">
+<Block color="yellow">
 
 ## **Atenție!**
 

@@ -1,5 +1,5 @@
 import { file, files } from '../utils/collections'
-import { image, string } from '../utils/fields'
+import { image, string, list, object } from '../utils/fields'
 
 const site = file(
   'Meta',
@@ -14,4 +14,30 @@ const site = file(
   { extension: 'json', format: 'json' }
 )
 
-export const settings = files('Configurări', 'general', [site])
+const footer = file(
+  'Footer',
+  'footer',
+  [
+    {
+      widget: 'list',
+      name: 'addressLines',
+      label: 'Contact',
+      field: string('Linie', 'line')
+    } as any,
+
+    object('Link-uri Social Media', 'social', [
+      string('Website', 'website'),
+      string('Instagram', 'instagram', { required: false }),
+      string('Facebook', 'facebook', { required: false }),
+      string('Twitter', 'twitter', { required: false })
+    ]),
+
+    list('Alte link-uri', 'links', [
+      string('Denumire', 'label'),
+      string('URL', 'path')
+    ])
+  ],
+  { extension: 'json', format: 'json' }
+)
+
+export const settings = files('Configurări', 'general', [site, footer])

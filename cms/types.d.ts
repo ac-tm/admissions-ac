@@ -121,3 +121,19 @@ export interface Timeline {
   title: string
   events: TimelineEvent[]
 }
+
+export interface Footer {
+  addressLines: string[]
+
+  social: {
+    website: string
+    instagram?: string
+    facebook?: string
+    twitter?: string
+  }
+
+  links: {
+    label: string
+    path: string
+  }[]
+}

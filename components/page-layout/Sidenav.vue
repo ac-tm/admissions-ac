@@ -15,19 +15,40 @@ export default defineComponent({
   setup (props) {
     const { $content } = useContext()
 
+    const getDepth = (path: string) => path.split('/').length
+
+    async function fetchSiblings (path: string): Promise<(Page & IContentDocument)[]> {
+      const paths = path.split('/')
+      if (paths?.length) { paths.pop() }
+
+      const parentPath = paths.join('/') || '/'
+
+      const pages = await $content('pages', { deep: true })
+        .where({ fullPath: { $contains: parentPath } })
+        .fetch<Page>() as (Page & IContentDocument)[]
+
+      const depth = getDepth(parentPath)
+
+      return pages.filter(page => getDepth(page.fullPath) === depth + 1)
+    }
+
     async function fetchDirectChidlren (path: string): Promise<(Page & IContentDocument)[]> {
-      const pages = await $content({ deep: true })
+      const pages = await $content('pages', { deep: true })
         .where({ fullPath: { $contains: path } })
         .fetch<Page>() as (Page & IContentDocument)[]
 
-      const getDepth = (path: string) => path.split('/').length
       const depth = getDepth(path)
 
       return pages.filter(page => getDepth(page.fullPath) === depth + 1)
     }
 
     const pages = useAsync(async () => {
-      return await fetchDirectChidlren(props.page)
+      const children = await fetchDirectChidlren(props.page)
+
+      if (!children.length) {
+        return await fetchSiblings(props.page)
+      }
+      return children
     }, props.page + '/nav')
 
     return {
@@ -54,6 +75,7 @@ export default defineComponent({
           v-for="item of pages"
           :key="item.fullPath"
           :to="'/' + item.fullPath + '/'"
+          active-class="!bg-secondary !text-white"
           :class="[
             'py-2 px-4 flex items-center justify-between',
             'hover:bg-gray-100 dark:hover:bg-gray-900',

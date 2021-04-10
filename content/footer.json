@@ -1,0 +1,26 @@
+{
+  "addressLines": [
+    "Bulevardul Vasile Pârvan, Nr. 2, 300223, Timișoara, România",
+    "decanat@ac.upt.ro",
+    "+40 256 403 211"
+  ],
+  "social": {
+    "website": "https://ac.upt.ro",
+    "instagram": "https://www.instagram.com/ac.upt.ro/",
+    "facebook": "https://www.facebook.com/ac.upt.ro"
+  },
+  "links": [
+    {
+      "label": "Universitatea Politehnica Timișoara",
+      "path": "https://upt.ro"
+    },
+    {
+      "label": "Formular de admitere",
+      "path": "https://admitere.upt.ro"
+    },
+    {
+      "label": "Timișoara, orașul de pe Bega",
+      "path": "http://romaniatourism.com/timisoara.html"
+    }
+  ]
+}

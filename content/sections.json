@@ -46,7 +46,7 @@
       "description": "Ți-am pregătit o listă cu toate documentele de care vei avea nevoie, ca să nu te mai chinui.",
       "cta": {
         "label": "Află despre campus",
-        "path": "/campus"
+        "path": "/campus/"
       }
     }
   ]

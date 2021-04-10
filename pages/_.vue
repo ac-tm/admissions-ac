@@ -1,8 +1,9 @@
 <script lang="ts">
-import { defineComponent, useAsync, useContext } from '@nuxtjs/composition-api'
+import { defineComponent, useAsync, useContext, useMeta } from '@nuxtjs/composition-api'
 import { Page } from '@/cms/types'
 import { IContentDocument } from '@nuxt/content/types/content'
 import { Markdown } from '@/components/general'
+import { parseMeta } from '@/utils/parseMeta'
 
 import { Sidenav, LinkBack } from '@/components/page-layout'
 
@@ -31,14 +32,24 @@ export default defineComponent({
     const path = rawPath.endsWith('/') ? rawPath.slice(0, -1) : rawPath
 
     const page = useAsync(async () => {
-      return await fetchCurrentPage(path)
+      const page = await fetchCurrentPage(path)
+
+      return page
     }, path)
+
+    if (page.value) {
+      useMeta({
+        title: page.value.title,
+        meta: parseMeta(page.value.title, page.value.descriptio, page.value.image?.src)
+      })
+    }
 
     return {
       page,
       path
     }
-  }
+  },
+  head: {}
 })
 </script>
 

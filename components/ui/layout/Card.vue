@@ -25,7 +25,7 @@ export default defineComponent({
 </script>
 
 <template>
-  <component :is="as" :class="classes">
+  <component :is="as" :class="[classes, 'transition']">
     <slot />
   </component>
 </template>

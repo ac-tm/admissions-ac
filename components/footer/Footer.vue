@@ -1,25 +1,27 @@
 <script lang="ts">
-import { computed, defineComponent, useContext } from '@nuxtjs/composition-api'
+import { defineComponent, useAsync, useContext } from '@nuxtjs/composition-api'
+import { Logo } from '@/components/logo'
+import ThemeSwitcher from './ThemeSwitcher.vue'
+
+import { Footer } from '~/cms/types'
 
 export default defineComponent({
   name: 'Foot',
+  components: {
+    ThemeSwitcher,
+    Logo
+  },
   setup () {
-    const { $colorMode } = useContext()
+    const { $content } = useContext()
 
-    const switchMap: Record<string, string> = {
-      dark: 'light',
-      light: 'dark'
-    }
+    const footer = useAsync(async () => {
+      const result = await $content('footer').fetch<Footer>()
 
-    function switchMode () {
-      $colorMode.preference = switchMap[$colorMode.value]
-    }
-
-    const isLight = computed(() => $colorMode.value === 'light')
+      return Array.isArray(result) ? result[0] : result
+    })
 
     return {
-      isLight,
-      switchMode
+      footer
     }
   }
 })
@@ -27,88 +29,220 @@ export default defineComponent({
 
 <template>
   <footer class="w-full bg-gray-50 dark:bg-gray-800 transition mt-16">
-    <div class="container py-8">
-      <button
-        type="button"
-        class="h-10 w-10 flex items-center justify-center text-gray-600 dark:text-gray-200 transition"
-        aria-label="Schimbă tema de culoare"
-        @click.prevent="switchMode()"
-      >
-        <i v-if="isLight" class="gg-sun" />
-        <i v-else class="gg-moon" />
-      </button>
+    <div class="container py-16 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+      <section class="flex flex-col justify-between items-start space-y-16">
+        <nuxt-link to="/" title="Spre pagina principală">
+          <Logo class="h-10" />
+        </nuxt-link>
+
+        <div class="flex space-x-4 items-center">
+          <ThemeSwitcher />
+
+          <span class="text-sm text-gray-500">
+            &copy; Facultatea de Automatică și Calculatoare
+          </span>
+        </div>
+      </section>
+
+      <section v-if="footer" class="flex flex-col">
+        <h2 class="text-sm uppercase font-bold text-gray-500 dark:text-gray-300 mb-2">
+          Contact
+        </h2>
+
+        <ul class="text-gray-800 dark:text-gray-50 space-y-2">
+          <li v-for="address of footer.addressLines" :key="address">
+            {{ address }}
+          </li>
+        </ul>
+
+        <ul class="flex space-x-4 items-center mt-8 text-gray-600 dark:text-gray-300">
+          <li v-if="footer.social.website">
+            <a :href="footer.social.website" target="_blank" rel="noopener noreferrer" title="Website facultate">
+              <i class="gg-globe-alt" />
+            </a>
+          </li>
+
+          <li v-if="footer.social.facebook">
+            <a :href="footer.social.facebook" target="_blank" rel="noopener noreferrer" title="Facebook facultate">
+              <i class="gg-facebook" />
+            </a>
+          </li>
+
+          <li v-if="footer.social.instagram">
+            <a :href="footer.social.instagram" target="_blank" rel="noopener noreferrer" title="Instagram facultate">
+              <i class="gg-instagram" />
+            </a>
+          </li>
+
+          <li v-if="footer.social.twitter">
+            <a :href="footer.social.twitter" target="_blank" rel="noopener noreferrer" title="Twitter facultate">
+              <i class="gg-twitter" />
+            </a>
+          </li>
+        </ul>
+      </section>
+
+      <section v-if="footer && footer.links" class="flex flex-col">
+        <h2 class="text-sm uppercase font-bold text-gray-500 dark:text-gray-300 mb-2">
+          Link-uri
+        </h2>
+
+        <ul class="text-gray-800 dark:text-gray-50 space-y-2">
+          <li v-for="link of footer.links" :key="link.path">
+            <a :href="link.path" target="_blank" rel="noopener noreferrer" class="underline">{{ link.label }}</a>
+          </li>
+        </ul>
+      </section>
     </div>
   </footer>
 </template>
 
 <style lang="postcss" scoped>
-.gg-sun {
-  box-sizing: border-box;
-  position: relative;
-  display: block;
-  transform: scale(var(--ggs, 1));
-  width: 24px;
-  height: 24px;
-  background: linear-gradient(to bottom, currentColor 4px, transparent 0)
-      no-repeat 5px -6px/2px 6px,
-    linear-gradient(to bottom, currentColor 4px, transparent 0) no-repeat 5px
-      14px/2px 6px,
-    linear-gradient(to bottom, currentColor 4px, transparent 0) no-repeat -8px 5px/6px
-      2px,
-    linear-gradient(to bottom, currentColor 4px, transparent 0) no-repeat 14px
-      5px/6px 2px;
-  border-radius: 100px;
-  box-shadow: inset 0 0 0 2px;
-  border: 6px solid transparent;
+ .gg-facebook {
+ box-sizing: border-box;
+ position: relative;
+ display: block;
+ transform: scale(var(--ggs,1));
+ width: 20px;
+ height: 20px
 }
 
-.gg-sun::after,
-.gg-sun::before {
-  content: '';
-  display: block;
-  box-sizing: border-box;
-  position: absolute;
-  width: 24px;
-  height: 2px;
-  border-right: 4px solid;
-  border-left: 4px solid;
-  left: -6px;
-  top: 5px;
+.gg-facebook::after,
+.gg-facebook::before {
+ content: "";
+ display: block;
+ position: absolute;
+ box-sizing: border-box
 }
 
-.gg-sun::before {
-  transform: rotate(-45deg);
+.gg-facebook::before {
+ width: 8px;
+ height: 20px;
+ border-left: 4px solid;
+ border-top: 4px solid;
+ border-top-left-radius: 5px;
+ left: 6px
 }
 
-.gg-sun::after {
-  transform: rotate(45deg);
+.gg-facebook::after {
+ width: 10px;
+ height: 4px;
+ background: currentColor;
+ top: 7px;
+ left: 4px;
+ transform: skew(-5deg)
 }
 
-.gg-moon,
-.gg-moon::after {
-  display: block;
-  box-sizing: border-box;
-  border-radius: 50%;
+ .gg-twitter {
+ box-sizing: border-box;
+ position: relative;
+ display: block;
+ transform: scale(var(--ggs,1));
+ width: 20px;
+ height: 20px
 }
 
-.gg-moon {
-  overflow: hidden;
-  position: relative;
-  transform: rotate(-135deg) scale(var(--ggs, 1));
-  width: 20px;
-  height: 20px;
-  border: 2px solid;
-  border-bottom-color: transparent;
+.gg-twitter::after,
+.gg-twitter::before {
+ content: "";
+ display: block;
+ position: absolute;
+ box-sizing: border-box;
+ left: 4px
 }
 
-.gg-moon::after {
-  content: '';
-  position: absolute;
-  width: 12px;
-  height: 18px;
-  border: 2px solid transparent;
-  box-shadow: 0 0 0 2px;
-  top: 8px;
-  left: 2px;
+.gg-twitter::before {
+ width: 9px;
+ height: 14px;
+ border-left: 4px solid;
+ border-bottom: 4px solid;
+ border-bottom-left-radius: 6px;
+ background:
+ linear-gradient(
+ to left,currentColor 12px,transparent 0)
+ no-repeat center 2px/10px 4px;
+ top: 4px
+}
+
+.gg-twitter::after {
+ width: 4px;
+ height: 4px;
+ background: currentColor;
+ border-radius: 20px;
+ top: 2px;
+ box-shadow: 7px 4px 0,7px 12px 0
+}
+
+ .gg-globe-alt,
+.gg-globe-alt::after,
+.gg-globe-alt::before {
+ display: block;
+ box-sizing: border-box;
+ height: 18px;
+ border: 2px solid
+}
+
+.gg-globe-alt {
+ position: relative;
+ transform: scale(var(--ggs,1));
+ width: 18px;
+ border-radius: 22px
+}
+
+.gg-globe-alt::after,
+.gg-globe-alt::before {
+ content: "";
+ position: absolute;
+ width: 8px;
+ border-radius: 100%;
+ top: -2px;
+ left: 3px
+}
+
+.gg-globe-alt::after {
+ width: 24px;
+ height: 20px;
+ border: 2px solid transparent;
+ border-bottom: 2px solid;
+ top: -11px;
+ left: -5px
+}
+
+ .gg-instagram {
+ box-sizing: border-box;
+ position: relative;
+ display: block;
+ transform: scale(var(--ggs,1));
+ border: 2px solid transparent;
+ box-shadow: 0 0 0 2px;
+ border-radius: 4px;
+ width: 20px;
+ height: 20px
+}
+
+.gg-instagram::after,
+.gg-instagram::before {
+ content: "";
+ display: block;
+ box-sizing: border-box;
+ position: absolute
+}
+
+.gg-instagram::after {
+ border: 2px solid;
+ left: 3px;
+ width: 10px;
+ height: 10px;
+ border-radius: 100%;
+ top: 3px
+}
+
+.gg-instagram::before {
+ border-radius: 3px;
+ width: 2px;
+ height: 2px;
+ background: currentColor;
+ right: 1px;
+ top: 1px
 }
 </style>
