@@ -9,7 +9,7 @@ export default defineComponent({
     Map,
     Logo
   },
-  layout: 'none',
+  layout: 'map',
   setup () {
     const { $content } = useContext()
 
@@ -31,10 +31,6 @@ export default defineComponent({
 
 <template>
   <div v-if="locations" class="h-screen w-screen">
-    <nuxt-link to="/" class="h-12 p-8 absolute left-0 top-0 z-30">
-      <Logo class="text-white h-12" />
-    </nuxt-link>
-
     <Map :locations="locations" class="h-screen z-10" />
   </div>
 </template>
