@@ -1,17 +1,25 @@
 <script lang="ts">
-import { defineComponent, ref } from '@nuxtjs/composition-api'
-import { Card } from '@/components/ui/layout'
+import { defineComponent, onMounted, ref, useContext, watch } from '@nuxtjs/composition-api'
 
 export default defineComponent({
   name: 'DocumentCheckbox',
-  components: {
-    Card
-  },
   props: {
     text: { type: String, required: true }
   },
-  setup () {
+  setup (props) {
     const checked = ref<boolean>()
+    const { params } = useContext()
+
+    watch(checked, (val) => {
+      localStorage.setItem(params.value?.pathMatch + props.text, val + '')
+    })
+
+    onMounted(() => {
+      const initial = localStorage.getItem(params.value?.pathMatch + props.text)
+      if (initial === 'true') {
+        checked.value = true
+      }
+    })
 
     return {
       checked
