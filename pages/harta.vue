@@ -1,15 +1,14 @@
 <script lang="ts">
 import { defineComponent, useAsync, useContext } from '@nuxtjs/composition-api'
 import { Map } from '@/components/general'
-import { Logo } from '@/components/logo'
 
 export default defineComponent({
   name: 'MapPage',
   components: {
-    Map,
-    Logo
+    Map
   },
   layout: 'map',
+  transition: 'fade',
   setup () {
     const { $content } = useContext()
 

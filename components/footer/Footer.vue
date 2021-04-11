@@ -35,7 +35,7 @@ export default defineComponent({
           <Logo class="h-10" />
         </nuxt-link>
 
-        <div class="flex space-x-4 items-center">
+        <div class="flex flex-col space-y-4">
           <ThemeSwitcher />
 
           <span class="text-sm text-gray-500">
@@ -90,6 +90,11 @@ export default defineComponent({
         <ul class="text-gray-800 dark:text-gray-50 space-y-2">
           <li v-for="link of footer.links" :key="link.path">
             <a :href="link.path" target="_blank" rel="noopener noreferrer" class="underline">{{ link.label }}</a>
+          </li>
+          <li>
+            <nuxt-link to="/sitemap" class="underline">
+              Harta site-ului
+            </nuxt-link>
           </li>
         </ul>
       </section>

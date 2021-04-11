@@ -14,6 +14,7 @@ interface TreeNode {
 export default defineComponent({
   name: 'Sitemap',
   components: { Tree },
+  transition: 'fade',
   setup () {
     const { $content, error } = useContext()
 
