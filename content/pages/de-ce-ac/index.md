@@ -17,4 +17,9 @@ fullPath: de-ce-ac
 * poți continua cu unul dintre cele **10 programe de master** (5 în română, 5 în engleză) 
 * **liga studenților** din AC este una dintre **cele mai active organizații** studențești din Timișoara
 
-Nu ești convins încă? Contacteză (link ligă?) un viitor prieten
+Nu ești convins încă? Contacteză [un viitor prieten](https://ligaac.ro) sau:
+
+* Studiază site-ul [facultății](https://ac.upt.ro/) și al [universității](http://upt.ro/)
+* Vizitează virtual laboratoarele (revenim cu link)
+* Participă la [târgul educațional online](eduexpo.upt.ro) (după 17 Mai)
+* Întrebă-ne pe [Facebook](https://www.facebook.com/ac.upt.ro)
