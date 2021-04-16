@@ -2,9 +2,9 @@
   "title": "Admitere CTI/IS Licență",
   "events": [
     {
-      "date": "2021-04-01T16:11:57.506Z",
-      "deadline": "2021-04-08T16:12:00.503Z",
-      "title": "Înscrierea candidaților",
+      "date": "2021-07-06T05:00:00.000Z",
+      "deadline": "2021-07-13T11:00:00.000Z",
+      "title": "Înscriere candidați (online și fizic)",
       "details": "Înscrierea se realizează exclusiv pe [formularul de înscriere](https://google.com). Dacă întâmpini dificultăți, accesează ghidul nostru despre cum se completează formularul de înscriere.",
       "cta": {
         "label": "Formular de înscriere",
@@ -12,9 +12,9 @@
       }
     },
     {
-      "date": "2021-04-09T15:51:54.839Z",
-      "deadline": "2021-04-24T15:51:54.859Z",
-      "title": "Concursul de admitere",
+      "date": "2021-07-06T05:00:00.000Z",
+      "deadline": "2021-07-13T15:00:00.000Z",
+      "title": "Transmitere portofolii de realizări (online)",
       "details": "Concursul de matematică la secțiunea 6 (AC+ETcTI) se va desfășura în data de 18 iulie 2020 începând cu ora 10.00; studentii vor intra in săli la ora 9.00.",
       "cta": {
         "label": "Unde trebuie să mergi",
@@ -30,6 +30,46 @@
         "label": "Test",
         "path": "licenta/rezultate"
       }
+    },
+    {
+      "date": "2021-07-17T20:58:00.000Z",
+      "deadline": "2021-07-18T20:58:00.000Z",
+      "title": "Concurs de admitere"
+    },
+    {
+      "date": "2021-08-19T17:00:00.000Z",
+      "deadline": "",
+      "title": "Rezultatele concursului"
+    },
+    {
+      "date": "2021-07-20T07:00:00.000Z",
+      "deadline": "2021-07-21T13:00:00.000Z",
+      "title": "Confirmări Runda I"
+    },
+    {
+      "date": "2021-07-21T16:00:00.000Z",
+      "deadline": "",
+      "title": "Afișare Runda II"
+    },
+    {
+      "date": "2021-07-22T07:00:00.000Z",
+      "deadline": "2021-07-23T09:00:00.000Z",
+      "title": "Confirmări Runda II"
+    },
+    {
+      "date": "2021-07-23T13:00:00.000Z",
+      "deadline": "",
+      "title": "Afișare Runda III"
+    },
+    {
+      "date": "2021-07-23T13:00:00.000Z",
+      "deadline": "2021-07-23T15:00:00.000Z",
+      "title": "Confirmări Runda III"
+    },
+    {
+      "date": "2021-07-23T17:00:00.000Z",
+      "deadline": "",
+      "title": "Rezultate finale"
     }
   ]
 }
