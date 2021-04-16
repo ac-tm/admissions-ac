@@ -6,9 +6,7 @@ image:
   alt: O camera
 fullPath: licenta/calendarul-admiterii
 ---
-# Heros caput
-
-## Quam quem teneri
+<Timeline slug="admitere-cti-is-licență"></Timeline>
 
 Lorem markdownum; et tarda trepida fidem! Mutat fama frustra; amor boves, nec haesura sponte?
 
