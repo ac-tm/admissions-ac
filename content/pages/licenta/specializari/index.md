@@ -1,6 +1,6 @@
 ---
 title: Specializări
-description: Noi îți oferim 5 posibilități, **decizia e la tine**!
+description: Noi îți oferim 5 posibilități, decizia e la tine!
 fullPath: licenta/specializari
 ---
 Noi îți oferim 5 posibilități, **decizia e la tine**!
