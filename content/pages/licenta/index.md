@@ -1,6 +1,6 @@
 ---
-title: Licență
-description: Licență
+title: Admitere Licență
+description: Admitere Licență
 fullPath: licenta
 ---
 # Vocatus nymphae ab cornibus radiorum vasti parat
