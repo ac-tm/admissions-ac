@@ -12,7 +12,7 @@ export default defineComponent({
   setup (props) {
     const internal = {
       is: 'nuxt-link',
-      to: props.internal
+      to: '/' + props.internal + '/'
     }
 
     const external = {
