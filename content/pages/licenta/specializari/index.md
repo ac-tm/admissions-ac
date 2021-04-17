@@ -25,5 +25,5 @@ Cum ziceam, **decizia e la tine! Aruncă o privire** pe descrierea specializări
 * Vizitează virtual laboratoarele (revenim cu link)
 * Participă la [târgul educațional online](eduexpo.upt.ro) (după 17 Mai)
 * Întrebă-ne pe [Facebook](https://www.facebook.com/ac.upt.ro)
-* [Întreabă](https://ligaac.ro/) un student din Liga studenților
+* [Întreabă](https://ligaac.ro/) un student din Liga AC
 * Întreabă un prieten :)
