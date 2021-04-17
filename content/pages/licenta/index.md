@@ -1,5 +1,5 @@
 ---
-title: Admiterea la licență
+title: Admiterea la Licență
 description: Află tot ce ai nevoie pentru admiterea la Facultatea de Automatică
   și Calculatoare din Timișoara!
 fullPath: licenta
@@ -9,7 +9,7 @@ Ne bucurăm că dorești să fii student la facultatea noastră!
 Află în continuare tot ce trebuie să știi înainte să te înscrii, documentele de care ai nevoie, dar și beneficiile și oportunitățile tale ca student al Facultății de Automatică și Calculatoare!
 
 1. **Domeniile în care te poți specializa.** Poți aplica la 5 specializări în cadrul facultății noastre, [află mai multe despre acesea](/licenta/specializari).
-2. **Metodele de admitere.** Anul acesta, pe lângă clasicul concurs de matematică, poți aplica arătându-ne realizările tale! Orice ține de proiecte, premii la concursuri sau alte realizări remarcabile îți pot asigura un loc la una din cele mai prestigioase facultăți din țară!
+2. **La [CTI ](/licenta/specializari/calculatoare-si-tehnologia-informatiei/)și la [IS](/licenta/specializari/ingineria-sistemelor/) tu decizi cum dai admitere.** Vrei să îți măsori cunoștiințele la matematică în clasica **probă de matematică**? Sau ai un **portofoliu de realizări** software sau hardware cu care te mândrești? Evaluează-te obiectiv și **alege una dintre cele două posibilități** care îți maximizează șansele. Mai exact ce înseamnă portofoliu de realizări: orice ține de proiecte personale, rezultate la concursuri sau alte realizări remarcabile.
 
    <Attachment label="Concurs de dosare" internal="licenta/modalitatile-de-admitere"></Attachment>
 
