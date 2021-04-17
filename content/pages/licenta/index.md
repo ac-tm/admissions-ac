@@ -16,7 +16,7 @@ Află în continuare tot ce trebuie să știi înainte să te înscrii, document
    <Attachment label="Concurs de matematică" internal="licenta/modalitatile-de-admitere"></Attachment>
 
    <Attachment label="Portofoliu de realizări" internal="licenta/modalitatile-de-admitere"></Attachment>
-3. **Calendarul admiterii.** Chiar dacă admiterea este în vară, este important să te pregătești din timp! Notează-ți datele importante în calendar ca să nu le uiți.
-4. **Documentele de care ai nevoie.** Ți-am pregătit o listă cu toate documentele de care ai nevoie pentru înscriere, să nu le lași pe ultima sută de metri!
-5. **Forumularul de înscriere.** După ce ai rezolvat toate cele, vine momentul să accesezi platforma de înscrieri. Am pregătit un ghid special pentru acesta în cazul în care apar nedumeriri.
-6. **Acceptarea locului de studiu.** După ce aflii că ai fost admis urmează 3 runde de confirmări, dacă nu îți accepți locul din prima rundă, ești out.
+3. **Calendarul admiterii.** Chiar dacă admiterea este în vară, este important să te pregătești din timp! Notează-ți datele importante în calendar ca să nu le uiți. 
+4. **Documentele de care ai nevoie.** Ți-am pregătit [o listă](https://admitere-next.netlify.app/licenta/documente-necesare/) cu toate documentele de care ai nevoie pentru înscriere, să nu le lași pe ultima sută de metri!
+5. **Forumularul de înscriere.** După ce ai rezolvat toate cele, vine momentul să accesezi platforma de înscrieri. Am pregătit un [ghid ](ghid)special pentru acesta în cazul în care apar nedumeriri.
+6. **Confirmarea locului de studiu.** După ce aflii că ai fost admis urmează 3 runde de confirmări, dacă nu îți accepți locul din prima rundă, ești out.
