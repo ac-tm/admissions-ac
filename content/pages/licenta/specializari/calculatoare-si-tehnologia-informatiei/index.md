@@ -15,7 +15,7 @@ La noi la AC, specializarea de **Calculatoare** este "**the most wanted**"!
 
 **CE?**
 
-word cluster
+<Fig src="/uploads/cti.png" alt="undefined" caption="undefined"></Fig>
 
 Dacă nu ești încă convins(ă):
 
