@@ -22,16 +22,6 @@
       }
     },
     {
-      "date": "2021-04-16T16:28:29.926Z",
-      "deadline": "",
-      "title": "Rezultatele concursului",
-      "details": "Rezultatele concursului vor fi publice pe website, fiecare participant va folosi codul unic primit de pe platforma de înscriere pentru a-și găsi nota.",
-      "cta": {
-        "label": "Test",
-        "path": "licenta/rezultate"
-      }
-    },
-    {
       "date": "2021-07-17T20:58:00.000Z",
       "deadline": "2021-07-18T20:58:00.000Z",
       "title": "Concurs de admitere"
