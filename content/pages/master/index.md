@@ -1,5 +1,5 @@
 ---
-title: Admiterea la studii de Master
+title: Admiterea la Masterat
 description: Admitere Master
 image:
   src: /uploads/elisa-calvet-b-s3nuoqdmuvc-unsplash.jpg
