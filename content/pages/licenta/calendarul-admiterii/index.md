@@ -1,6 +1,6 @@
 ---
 title: Calendarul admiterii
-description: Ai timp să te înscrii până la data de 23 iunie, 2022!
+description: Înscrie-te în perioada 6.07.2021 la 08:00 — 13.07.2021 la 14:00
 image:
   src: /uploads/nastuh-abootalebi-ehd8y1znfpk-unsplash.jpg
   alt: O camera
