@@ -8,7 +8,7 @@ Ne bucurăm că dorești să fii student la facultatea noastră!
 
 Află în continuare tot ce trebuie să știi înainte să te înscrii, documentele de care ai nevoie, dar și beneficiile și oportunitățile tale ca student al Facultății de Automatică și Calculatoare!
 
-1. **Domeniile în care te poți specializa.** Poți aplica la 5 specializări în cadrul facultății noastre, află mai multe despre acesea.
+1. **Domeniile în care te poți specializa.** Poți aplica la 5 specializări în cadrul facultății noastre, [află mai multe despre acesea](/licenta/specializari).
 2. **Metodele de admitere.** Anul acesta, pe lângă clasicul concurs de matematică, poți aplica arătându-ne realizările tale! Orice ține de proiecte, premii la concursuri sau alte realizări remarcabile îți pot asigura un loc la una din cele mai prestigioase facultăți din țară!
 
    <Attachment label="Concurs de dosare" internal="de-ce-ac"></Attachment>
