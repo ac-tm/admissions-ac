@@ -1,6 +1,6 @@
 ---
-title: Master
-description: O descriere despre master.
+title: Admitere Master
+description: Admitere Master
 image:
   src: /uploads/elisa-calvet-b-s3nuoqdmuvc-unsplash.jpg
   alt: O carte cu paginile in vant
