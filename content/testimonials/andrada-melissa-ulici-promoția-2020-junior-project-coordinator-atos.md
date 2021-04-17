@@ -1,6 +1,8 @@
 ---
-message: Îți pot spune din proprie experiență că vei învăța o multitudine de
-  tehnologii și limbaje de programare, te vei dezvolta pe plan profesional, dar
-  și personal.
-author: Andrada-Melissa ULICI (promoția 2020), Junior Project Coordinator, Atos
+message: 'La Automatică am învățat ce presupune un sistem complex și impactul
+  unei componente Software asupra unui sistem Hardware. Experiențe unice și
+  extraordinare, într-un singur cuvânt: WOW!"'
+author: Camelia Poștaru, Absolvent Ingineria Sistemelor/Automatică și
+  Informatică Aplicată
+image: /uploads/cami.png
 ---
