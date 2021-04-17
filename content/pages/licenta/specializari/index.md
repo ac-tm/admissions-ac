@@ -5,6 +5,8 @@ fullPath: licenta/specializari
 ---
 Noi îți oferim 5 posibilități, **decizia e la tine**!
 
+<Block color="green">
+
 Știm că în **2020** am fost în **topul preferințelor** elevilor din vestul țării.
 
 Știm că suntem **cea mai căutată facultate** din Universitatea Politehnica Timișoara.
@@ -14,6 +16,8 @@ Noi îți oferim 5 posibilități, **decizia e la tine**!
 Știm că avem **cadre didactice valoroase**. 
 
 Știm că **studenții nostri de elită** sunt printre **cei mai buni** din **țară** și se luptă de la egal cu studenți la **nivel** **mondial**.
+
+</Block>
 
 Cum ziceam, **decizia e la tine! Aruncă o privire** pe descrierea specializărilor, vezi dacă ți se potrivește, apoi după ce ai citit în diagonală descrierea **informează-te cât mai bine** și din mai multe locuri pentru că **e vorba de viitorul tău**:
 
