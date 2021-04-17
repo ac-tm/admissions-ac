@@ -61,7 +61,7 @@ export default defineNuxtConfig({
     'content:file:beforeInsert': async (document, database) => {
       if (document.extension === '.json' && document.events) {
         for await (const ev of document.events) {
-          if (!ev.details) return
+          if (!ev.details) continue
           const body = await database.markdown.toJSON(ev.details)
           ev.body = body
         }
