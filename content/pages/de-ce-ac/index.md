@@ -15,7 +15,7 @@ Acum pe bune:
 * **Cele mai mari salarii** se găsesc printre absolvenții AC.
 * **Oportunități de practică și angajare**, chiar din timpul facultății.
 * **Acces la 10 programe de Master.** După ce finalizezi studiile de licență, ai posibilitatea să performezi printr-un masterat (5 în română, 5 în engleză).
-* **Voluntariat la una din cele mai active organizații studențești din țară.** Ai oportunitatea să faci voluntariat în Liga AC, una din cele mai active organizații studențești din țară.
+* Poți face **voluntariat** la una din cele mai active **organizații studențești din țară.** Ai oportunitatea să îți faci noi prieteni și să te implici în Liga AC, una din cele mai active organizații studențești din țară.
 
 **Nu ești convins?** Contacteză [un viitor prieten](https://ligaac.ro) sau:
 
