@@ -15,7 +15,7 @@ La noi la AC, specializarea de **Calculatoare** este "**the most wanted**"!
 
 **CE?**
 
-<Fig src="/uploads/cti.png" alt="undefined" caption="undefined"></Fig>
+<Fig src="/uploads/cti.png" alt="" caption=""></Fig>
 
 Dacă nu ești încă convins(ă):
 
