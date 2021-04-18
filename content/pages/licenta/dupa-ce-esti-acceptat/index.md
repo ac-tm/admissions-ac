@@ -1,10 +1,10 @@
 ---
-title: După ce ești acceptat
+title: Nu uita să confirmi!
 description: Dacă ai ajuns la această fază, poți să te feliciți! Mai ai foarte
   puține de făcut înainte să uiți de toate și să te bucuri de vacanță.
 image:
-  src: /uploads/elisa-calvet-b-s3nuoqdmuvc-unsplash.jpg
-  alt: Carte
+  src: /uploads/untitled-design-2-.png
+  alt: ""
 fullPath: licenta/dupa-ce-esti-acceptat
 ---
 Ce faci după ce esti acceptat? Urmezi **3 pași** simpli:
