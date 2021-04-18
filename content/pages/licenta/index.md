@@ -9,7 +9,7 @@ Ne bucurăm că dorești să fii student la facultatea noastră!
 Află în continuare tot ce trebuie să știi înainte să te înscrii, documentele de care ai nevoie, dar și beneficiile și oportunitățile tale ca student al Facultății de Automatică și Calculatoare!
 
 1. **Domeniile în care te poți specializa.** Poți aplica la 5 specializări în cadrul facultății noastre, [află mai multe despre acesea](/licenta/specializari).
-2. **La [CTI ](/licenta/specializari/calculatoare-si-tehnologia-informatiei/)și la [IS](/licenta/specializari/ingineria-sistemelor/) tu decizi cum dai admitere.** Vrei să îți măsori cunoștiințele la matematică în clasica **probă de matematică**? Sau ai un **portofoliu de realizări** software sau hardware cu care te mândrești? Evaluează-te obiectiv și **alege una dintre cele două posibilități** care îți maximizează șansele. Mai exact ce înseamnă portofoliu de realizări: orice ține de proiecte personale, rezultate la concursuri sau alte realizări remarcabile.
+2. **La [CTI ](/licenta/specializari/calculatoare-si-tehnologia-informatiei/)și la [IS](/licenta/specializari/ingineria-sistemelor/) tu decizi cum dai admitere.** Vrei să îți măsori cunoștințele la matematică în clasica **probă de matematică**? Sau ai un **portofoliu de realizări** software sau hardware cu care te mândrești? Evaluează-te obiectiv și **alege una dintre cele două posibilități** care îți maximizează șansele. Mai exact ce înseamnă portofoliu de realizări: orice ține de proiecte personale, rezultate la concursuri sau alte realizări remarcabile.
 
    <Attachment label="Probă de matematică" internal="licenta/modalitatile-de-admitere"></Attachment>
 
