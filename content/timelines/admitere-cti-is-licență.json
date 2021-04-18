@@ -5,7 +5,7 @@
       "date": "2021-07-06T05:00:00.000Z",
       "deadline": "2021-07-13T11:00:00.000Z",
       "title": "Înscriere candidați (online și fizic)",
-      "details": "Înscrierea se realizează exclusiv pe [formularul de înscriere](https://google.com). Dacă întâmpini dificultăți, accesează ghidul nostru despre cum se completează formularul de înscriere.",
+      "details": "Înscrierea se realizează exclusiv pe aplicația [de înscriere](https://admitere.upt.ro). Dacă întâmpini dificultăți, accesează [ghidul](http://www.upt.ro/Informatii_acte-necesare-pentru-dosarul-de-inscriere-la-admiterea-la-li_1412_ro.html) nostru despre cum se completează formularul de înscriere.",
       "cta": {
         "label": "Formular de înscriere",
         "path": "licenta"
@@ -15,7 +15,7 @@
       "date": "2021-07-06T05:00:00.000Z",
       "deadline": "2021-07-13T15:00:00.000Z",
       "title": "Transmitere portofolii de realizări (online)",
-      "details": "Concursul de matematică la secțiunea 6 (AC+ETcTI) se va desfășura în data de 18 iulie 2020 începând cu ora 10.00; studentii vor intra in săli la ora 9.00.",
+      "details": "Încarci pe platformă toate dovezile realizărilor tale. [Aici](https://www.upt.ro/Informatii_admitere-licenta_1536_ro.html) găsești detalii, template și exemplu",
       "cta": {
         "label": "Unde trebuie să mergi",
         "path": "licenta/rezultate"
