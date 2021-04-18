@@ -8,16 +8,16 @@ fullPath: licenta/documente-necesare
 ---
 ### (Etapa 1) ÎNSCRIERE 
 
-Documente ce se vor încărca ONLINE, pe [platformă](https://admitere.upt.ro), color, în format pdf sau format de fișier grafic (jpeg sau png).
+Documente ce se vor încărca ONLINE, pe [platformă](https://admitere.upt.ro), color, în format pdf sau format de fișier grafic (jpeg sau png). Detalii suplimentare [AICI](https://www.upt.ro/Informatii_acte-necesare-pentru-dosarul-de-inscriere-la-admiterea-la-li_1412_ro.html).
 
 #### Obligatoriu
 
-a.	Diploma de bacalaureat sau diploma echivalentă;  
-b.	Foaia matricolă cu notele obținute pe parcursul liceului;
-c.	Cartea de identitate a candidatului;
-d.	Certificatul de naștere;
+a.	Diploma de bacalaureat sau diploma echivalentă
+b.	Foaia matricolă cu notele obținute pe parcursul liceului
+c.	Cartea de identitate a candidatului
+d.	Certificatul de naștere
 e.	Adeverința medicală eliberată de medicul de familie 
-f.	Fotografie color tip diplomă;
+f.	Fotografie color tip diplomă
 g.	Dovada achitării taxei de înscriere
 
 #### Contextual
