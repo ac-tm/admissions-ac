@@ -16,4 +16,4 @@ Ce faci după ce esti acceptat? Urmezi **3 pași** simpli:
 **Cum confirmi?** 
 
 * **achiți taxa** prin care confirmi statutul de student UPT (noi îți vom răspunde cu o confirmare)
-* **completezi** dosarul cu **restul documentelor** conform [Ghidului](<link ghid alina>)
+* **completezi** dosarul cu **restul documentelor** conform [Ghidului](http://www.upt.ro/Informatii_acte-necesare-pentru-dosarul-de-inscriere-la-admiterea-la-li_1412_ro.html)
