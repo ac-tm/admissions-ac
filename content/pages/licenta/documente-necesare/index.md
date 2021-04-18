@@ -10,7 +10,7 @@ fullPath: licenta/documente-necesare
 
 Documente ce se vor încărca ONLINE, pe [platformă](https://admitere.upt.ro), color, în format pdf sau format de fișier grafic (jpeg sau png). Detalii suplimentare [AICI](https://www.upt.ro/Informatii_acte-necesare-pentru-dosarul-de-inscriere-la-admiterea-la-li_1412_ro.html).
 
-#### Obligatoriu
+Dacă ești **absolvent** de **bacalaureat** în anul **2021**, **în țară**, lucrurile sunt de destul de simple. Intri pe platformă și încarci următoarele documente (a-g):
 
 a.	Diploma de bacalaureat sau diploma echivalentă
 b.	Foaia matricolă cu notele obținute pe parcursul liceului
@@ -28,6 +28,10 @@ j.	Recomandare pentru candidații rromi
 k.	Dovada provenienței candidatului din sistemul de protecție socială 
 l.	Atestat de echivalare a diplomei de bacalaureat emis de CNRED 
 m. Adeverință emisă de Comisia Centrală de Admitere a UPT, cu echivalarea notei de bacalaureat
+
+n.	Declarație pe proprie răspundere, în formă autentică (la notar), privind nefinanțarea/finanțarea anterioară de la bugetul statului pentru urmarea de studii superioare, în cazul candidaților care au absolvit liceul înainte de 2021 și doresc să se înscrie pe locurile fără taxă. Candidații finanțați de la bugetul de stat vor preciza în declarație instituția de învățământ superior, facultatea și numărul semestrelor cât au fost finanțați.
+o.	Adeverință de student și foaia matricolă parțială – în cazul candidaților deja studenți;
+p.	Diploma de licență sau adeverință de absolvire și foaia matricolă în cazul candidaților deja licențiați sau cu adeverință de absolvire.
 
 
 
