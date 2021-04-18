@@ -9,9 +9,11 @@ acesta poți fi admis la CTI și IS printr-un dosar de realizări.
 
 ## 1. Portofoliu de realizări (CTI și IS)
 
-Ești mai tare la **info decât** la mate? Adună-ți toate realizările din liceu (rezultate la competiții, proiecte personale sau orice altă realizare cu care te mândrești) și optează pentru această variantă. Cu dosarul pe masă (de fapt scanat și încarcat online) discuți prin video-conferință cu o comisie, te lauzi, răspunzi la întrebări, ne impresionezi cu cunoștiințele tale la programare,  
+Ești mai tare la **info decât** la **mate?** Adună-ți toate realizările din liceu (rezultate la **competiții**, **proiecte personale** sau orice **altă realizare** cu care te mândrești) și optează pentru această variantă. Dacă dosarul tău este suficient de consistent, vei fi invitat la un **interviu cu o comisie**. Cu dosarul pe masă (de fapt scanat și încarcat online) discuți prin video-conferință cu comisia, te lauzi, răspunzi la întrebări, ne impresionezi cu cunoștiințele tale, iar noi își dăm o notă pe măsură (să sperăm ca 10). **Dacă nu ești invitat la interviu**, nici o problemă - te pregătești sufletește să **dai proba de matematică**. 
 
-Anul acesta așteptăm și mai mulți tineri buni la programare!
+Hai să dezvăluim și un **secret** (dar să nu mai spui la nimeni): dacă chiar ești bun la **algoritmică** sau la aplicații **hard** sau la aplicații **soft** sau la toate, comisia își dă seama rapid și te va nota pe măsură. Dacă faci o mică greșeală nu e la fel de grav ca la grilă. Din experiența de anul trecut, **un dosar valoros vorbește de la sine**, iar interviul este o formalitate și se încheie cu note între (**9.5 și 10**).
+
+Anul acesta așteptăm și mai mulți tineri buni la programare! Dacă tot liceul te-ai preocupat mai mult de programare decât de matematică, poate aceasta este proba care ți se potrivește.
 
 ## 2. Examen de matematică (CTI și IS)
 
