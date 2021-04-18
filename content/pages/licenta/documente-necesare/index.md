@@ -53,10 +53,20 @@ Dacă ești **absolvent** de **bacalaureat** în anul **2021**, **în țară**, 
 ### (Etapa 2) CONFIRMARE
 
 **a**.	Diploma de bacalaureat, respectiv adeverință substitut de diplomă 
+
+
 **b**.	Foaia matricolă cu notele obținute pe parcursul liceului
+
+
 **c**.	Adeverință medicală, eliberată de medicul de familie
+
+
 **d**.	Declarație pe proprie răspundere nefinanțarea/finanțarea anterioară de la bugetul statului român 
+
+
 **e**.	Dovadă scutire de taxă pentru candidații aflați în această situație
+
+
 **f**.	Patru  fotografii color tip diplomă
 
 ### (Etapa 3) PRIMA ZI A ANULUI UNIVERSITAR 2021-2022
