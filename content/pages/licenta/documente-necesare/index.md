@@ -1,14 +1,37 @@
 ---
 title: Documente necesare
-description: Ti-am pregatit o lista cu toate documentele care ai nevoie.
+description: Ți-am pregătit o listă cu toate documentele de care ai nevoie.
 image:
   src: /uploads/elisa-calvet-b-s3nuoqdmuvc-unsplash.jpg
   alt: Carte
 fullPath: licenta/documente-necesare
 ---
-# Virgineas in forte
+### (Etapa 1) ÎNSCRIERE 
 
-## Caelesti et ventis limite part.
+Documente ce se vor încărca ONLINE, pe [platformă](https://admitere.upt.ro), color, în format pdf sau format de fișier grafic (jpeg sau png).
+
+#### Obligatoriu
+
+a.	Diploma de bacalaureat sau diploma echivalentă;  
+b.	Foaia matricolă cu notele obținute pe parcursul liceului;
+c.	Cartea de identitate a candidatului;
+d.	Certificatul de naștere;
+e.	Adeverința medicală eliberată de medicul de familie 
+f.	Fotografie color tip diplomă;
+g.	Dovada achitării taxei de înscriere
+
+#### Contextual
+
+h.	Documente doveditoare scutire taxă de înscriere
+i.	Diplome și/sau alte dovezi - dacă se solicită recunoașterea sau echivalarea examenului de admitere
+j.	Recomandare pentru candidații rromi
+k.	Dovada provenienței candidatului din sistemul de protecție socială 
+l.	Atestat de echivalare a diplomei de bacalaureat emis de CNRED 
+m. Adeverință emisă de Comisia Centrală de Admitere a UPT, cu echivalarea notei de bacalaureat
+
+
+
+
 
 Lorem markdownum volanti potuit fortibus laudatis pugno; trahebat aethere putat
 quae. Reges pro vero frenabas functa **disiunxisse**: nunc enixa forma? Cum
