@@ -13,11 +13,23 @@ Documente ce se vor încărca ONLINE, pe [platformă](https://admitere.upt.ro), 
 Dacă ești **absolvent** de **bacalaureat** în anul **2021**, **în țară**, lucrurile sunt de destul de simple. Intri pe [platformă](https://admitere.upt.ro) și încarci următoarele documente (punctele **a-g** din [ghid](http://www.upt.ro/Informatii_acte-necesare-pentru-dosarul-de-inscriere-la-admiterea-la-li_1412_ro.html)):
 
 **a**.	Diploma de bacalaureat sau diploma echivalentă
+
+
 **b**.	Foaia matricolă cu notele obținute pe parcursul liceului
+
+
 **c**.	Cartea de identitate a candidatului
+
+
 **d**.	Certificatul de naștere
+
+
 **e**.	Adeverința medicală eliberată de medicul de familie 
+
+
 **f**.	Fotografie color tip diplomă
+
+
 **g**.	Dovada achitării taxei de înscriere
 
 **Alte documente** (vezi [ghid](http://www.upt.ro/Informatii_acte-necesare-pentru-dosarul-de-inscriere-la-admiterea-la-li_1412_ro.html)) sunt necesare pentru **situațiile deosebite**:
