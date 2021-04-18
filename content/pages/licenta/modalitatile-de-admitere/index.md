@@ -19,4 +19,8 @@ Ești **tare la mate**? Ai rezolvat toate problemele din culegere? Consideri că
 
 ## 3. Media de bacalaureat (INFO)
 
+Vrei la Informatică și ai **medie mare de bac** ? Consideră-te aproape intrat(ă), media de bac este singurul criteriu de departajare.
+
+Poate nu ar fi rău să studiezi și **[metodologia](https://www.upt.ro/Informatii_admitere-licenta_1536_ro.html)** de **admitere** pentru anul **2021** (chiar dacă e mult de citit)și alte informații utile legate de pe [pagina web a universității](https://www.upt.ro/).
+
 Specializările Informatică respectiv Informatică la distanță susțin admiterea printr-un concurs de dosare - pe scurt, cu cât ai media mai mare la bac, cu atât ai șanse mai mari de a fi admis.
