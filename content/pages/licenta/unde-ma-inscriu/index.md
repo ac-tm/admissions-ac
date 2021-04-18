@@ -2,6 +2,8 @@
 title: Unde mă înscriu?
 description: Probabil preferi online. Să știi că și noi. Dar să mai știi că poți
   primi ajutor în centrele de înscriere zonale și la facultate.
+image:
+  src: /uploads/untitled-design-3-.png
 fullPath: licenta/unde-ma-inscriu
 ---
 **Ce trebuie să conțină dosarul?** 
