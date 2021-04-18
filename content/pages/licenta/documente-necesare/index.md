@@ -8,7 +8,7 @@ fullPath: licenta/documente-necesare
 ---
 ### (Etapa 1) ÎNSCRIERE
 
-Documente ce se vor încărca ONLINE, pe [platformă](https://admitere.upt.ro), color, în format pdf sau format de fișier grafic (jpeg sau png). Detalii suplimentare [AICI](https://www.upt.ro/Informatii_acte-necesare-pentru-dosarul-de-inscriere-la-admiterea-la-li_1412_ro.html).
+Documente ce se vor încărca **ONLINE**, pe [platformă](https://admitere.upt.ro), color, în format pdf sau format de fișier grafic (jpeg sau png). Detalii suplimentare [AICI](https://www.upt.ro/Informatii_acte-necesare-pentru-dosarul-de-inscriere-la-admiterea-la-li_1412_ro.html). Dacă nu ai acces la internet și crezi că ai nevoie de ajutor în încărcarea documentelor, îl vei găsi în centrele de înscriere zonale sau la facultate unde colegii nostri sunt pe baricade.
 
 Dacă ești **absolvent** de **bacalaureat** în anul **2021**, **în țară**, lucrurile sunt de destul de simple. Intri pe [platformă](https://admitere.upt.ro) și încarci următoarele documente (punctele **a-g** din [ghid](http://www.upt.ro/Informatii_acte-necesare-pentru-dosarul-de-inscriere-la-admiterea-la-li_1412_ro.html)):
 
