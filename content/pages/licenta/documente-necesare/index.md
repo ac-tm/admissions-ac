@@ -2,7 +2,7 @@
 title: Documente necesare
 description: Ți-am pregătit o listă cu toate documentele de care ai nevoie.
 image:
-  src: /uploads/elisa-calvet-b-s3nuoqdmuvc-unsplash.jpg
+  src: /uploads/untitled-design-4-.png
   alt: Carte
 fullPath: licenta/documente-necesare
 ---
