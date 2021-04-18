@@ -12,17 +12,17 @@ Documente ce se vor încărca ONLINE, pe [platformă](https://admitere.upt.ro), 
 
 Dacă ești **absolvent** de **bacalaureat** în anul **2021**, **în țară**, lucrurile sunt de destul de simple. Intri pe [platformă](https://admitere.upt.ro) și încarci următoarele documente (punctele **a-g** din [ghid](http://www.upt.ro/Informatii_acte-necesare-pentru-dosarul-de-inscriere-la-admiterea-la-li_1412_ro.html)):
 
-a.	Diploma de bacalaureat sau diploma echivalentă
-b.	Foaia matricolă cu notele obținute pe parcursul liceului
-c.	Cartea de identitate a candidatului
-d.	Certificatul de naștere
-e.	Adeverința medicală eliberată de medicul de familie 
-f.	Fotografie color tip diplomă
-g.	Dovada achitării taxei de înscriere
+**a**.	Diploma de bacalaureat sau diploma echivalentă
+**b**.	Foaia matricolă cu notele obținute pe parcursul liceului
+**c**.	Cartea de identitate a candidatului
+**d**.	Certificatul de naștere
+**e**.	Adeverința medicală eliberată de medicul de familie 
+**f**.	Fotografie color tip diplomă
+**g**.	Dovada achitării taxei de înscriere
 
-Alte documente (vezi [ghid](http://www.upt.ro/Informatii_acte-necesare-pentru-dosarul-de-inscriere-la-admiterea-la-li_1412_ro.html)) sunt necesare pentru situațiile deosebite cum ar fi:
+**Alte documente** (vezi [ghid](http://www.upt.ro/Informatii_acte-necesare-pentru-dosarul-de-inscriere-la-admiterea-la-li_1412_ro.html)) sunt necesare pentru **situațiile deosebite**:
 
-1. poți beneficia de **taxă de scutire** (punctul **h**)
+1. beneficiezi de **taxă de scutire** (punctul **h**)
 
 2. ești **olimpic** (punctul **i**)
 
@@ -34,18 +34,24 @@ Alte documente (vezi [ghid](http://www.upt.ro/Informatii_acte-necesare-pentru-do
 
 6. ai absolvit liceul **înainte de 2021** (punctele **n-p**)
 
-Dacă nu ești absolvent de 2021, sau ai absolvit liceul în afara țării sau ești olimpic
+7. candidezi la un program de studiu în **engleză sau germană** (punctul **q**)
 
-h.	Documente doveditoare scutire taxă de înscriere
-i.	Diplome și/sau alte dovezi - dacă se solicită recunoașterea sau echivalarea examenului de admitere
-j.	Recomandare pentru candidații rromi
-k.	Dovada provenienței candidatului din sistemul de protecție socială 
-l.	Atestat de echivalare a diplomei de bacalaureat emis de CNRED 
-m. Adeverință emisă de Comisia Centrală de Admitere a UPT, cu echivalarea notei de bacalaureat
+8. ești **sportiv de performanță** și vrei să intri pe locurile speciale (punctele **r-w**)
 
-n.	Declarație pe proprie răspundere, în formă autentică (la notar), privind nefinanțarea/finanțarea anterioară de la bugetul statului pentru urmarea de studii superioare, în cazul candidaților care au absolvit liceul înainte de 2021 și doresc să se înscrie pe locurile fără taxă. Candidații finanțați de la bugetul de stat vor preciza în declarație instituția de învățământ superior, facultatea și numărul semestrelor cât au fost finanțați.
-o.	Adeverință de student și foaia matricolă parțială – în cazul candidaților deja studenți;
-p.	Diploma de licență sau adeverință de absolvire și foaia matricolă în cazul candidaților deja licențiați sau cu adeverință de absolvire.
+
+
+### (Etapa 2) CONFIRMARE
+
+**a**.	Diploma de bacalaureat, respectiv adeverință substitut de diplomă 
+**b**.	Foaia matricolă cu notele obținute pe parcursul liceului
+**c**.	Adeverință medicală, eliberată de medicul de familie
+**d**.	Declarație pe proprie răspundere nefinanțarea/finanțarea anterioară de la bugetul statului român 
+**e**.	Dovadă scutire de taxă pentru candidații aflați în această situație
+**f**.	Patru  fotografii color tip diplomă
+
+### (Etapa 3) PRIMA ZI A ANULUI UNIVERSITAR 2021-2022
+
+punctele **c-f** dacă nu au fost depuse în etapa anterioară
 
 
 
