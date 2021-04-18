@@ -13,11 +13,11 @@ Află în continuare tot ce trebuie să știi înainte să te înscrii, document
 
 
 
-   <Attachment label="Portofoliu de realizări (doar la CTI și IS)" internal="licenta/modalitatile-de-admitere"></Attachment>
+   <Attachment label="Portofoliu de realizări" internal="licenta/modalitatile-de-admitere"></Attachment>
 
 
 
-   <Attachment label="Portofoliu de realizări (doar la CTI și IS)" internal="licenta/modalitatile-de-admitere"></Attachment>
+   <Attachment label="Portofoliu de realizări" internal="licenta/modalitatile-de-admitere"></Attachment>
 3. La **[INFO](https://admitere-next.netlify.app/licenta/specializari/informatica/)** e simplu: pui dosarul și apoi aștepți rezultatele. 
 
    <Attachment label="Concurs de dosare" internal="licenta/modalitatile-de-admitere"></Attachment>
