@@ -10,7 +10,7 @@ fullPath: licenta/documente-necesare
 
 Documente ce se vor încărca ONLINE, pe [platformă](https://admitere.upt.ro), color, în format pdf sau format de fișier grafic (jpeg sau png). Detalii suplimentare [AICI](https://www.upt.ro/Informatii_acte-necesare-pentru-dosarul-de-inscriere-la-admiterea-la-li_1412_ro.html).
 
-Dacă ești **absolvent** de **bacalaureat** în anul **2021**, **în țară**, lucrurile sunt de destul de simple. Intri pe platformă și încarci următoarele documente (a-g):
+Dacă ești **absolvent** de **bacalaureat** în anul **2021**, **în țară**, lucrurile sunt de destul de simple. Intri pe [platformă](https://admitere.upt.ro) și încarci următoarele documente (punctele **a-g** din [ghid](http://www.upt.ro/Informatii_acte-necesare-pentru-dosarul-de-inscriere-la-admiterea-la-li_1412_ro.html)):
 
 a.	Diploma de bacalaureat sau diploma echivalentă
 b.	Foaia matricolă cu notele obținute pe parcursul liceului
@@ -20,7 +20,21 @@ e.	Adeverința medicală eliberată de medicul de familie
 f.	Fotografie color tip diplomă
 g.	Dovada achitării taxei de înscriere
 
-#### Contextual
+Alte documente (vezi [ghid](http://www.upt.ro/Informatii_acte-necesare-pentru-dosarul-de-inscriere-la-admiterea-la-li_1412_ro.html)) sunt necesare pentru situațiile deosebite cum ar fi:
+
+1. poți beneficia de **taxă de scutire** (punctul **h**)
+
+2. ești **olimpic** (punctul **i**)
+
+3. ești **rrom** și vrei să intri pe locurile speciale (punctul **j**)
+
+4. provii din sistem de **protecție socială** și vrei să intri pe locurile speciale (punctul **k**)
+
+5. ai absolvit liceul **în 2021**, dar nu în țară (punctele **l-m**)
+
+6. ai absolvit liceul **înainte de 2021** (punctele **n-p**)
+
+Dacă nu ești absolvent de 2021, sau ai absolvit liceul în afara țării sau ești olimpic
 
 h.	Documente doveditoare scutire taxă de înscriere
 i.	Diplome și/sau alte dovezi - dacă se solicită recunoașterea sau echivalarea examenului de admitere
