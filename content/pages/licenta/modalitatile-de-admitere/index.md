@@ -11,7 +11,7 @@ Ești mai tare la **info decât** la **mate?** Adună-ți toate realizările din
 
 Hai să dezvăluim și un **secret** (dar să nu mai spui la nimeni): dacă chiar ești bun la **algoritmică** sau la aplicații **hard** sau la aplicații **soft** sau la toate, comisia își dă seama rapid și te va nota pe măsură. Dacă faci o mică greșeală nu e la fel de grav ca la grilă. Din experiența de anul trecut, **un dosar valoros vorbește de la sine**, iar interviul este o formalitate și se încheie cu note între (**9.5 și 10**).
 
-Anul acesta așteptăm și mai mulți tineri buni la programare! Dacă tot liceul te-ai preocupat mai mult de programare decât de matematică, poate aceasta este proba care ți se potrivește!
+Anul acesta așteptăm și mai mulți tineri buni la programare! Dacă tot liceul te-ai preocupat mai mult de **programare** decât de matematică, poate aceasta este proba care ți se potrivește!
 
 ## 2. Probă de matematică (CTI și IS)
 
