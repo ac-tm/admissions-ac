@@ -17,7 +17,7 @@ Anul acesta așteptăm și mai mulți tineri buni la programare! Dacă tot liceu
 
 Ești **tare la mate**? Ai rezolvat toate problemele din culegere? Consideri că nu ai multe realizări pe algoritmică/software/hardware ca să ai șanse mai mari de succes prin portofoliu de realizări? Atunci, această probă de matematică probabil ți se potrivește. 
 
-## 3. Media de bacalaureat (INFO)
+## 3. Concurs de dosare (INFO)
 
 Vrei la Informatică și ai **medie mare de bac** ? Consideră-te aproape intrat(ă), media de bac este singurul criteriu de departajare.
 
