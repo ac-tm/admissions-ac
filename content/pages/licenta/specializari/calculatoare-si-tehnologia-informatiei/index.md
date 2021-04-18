@@ -13,7 +13,7 @@ La noi la AC, specializarea de **Calculatoare** este "**the most wanted**"!
 * **absolvenții nostri de elita** sunt printre cei mai apreciați angajați ai Google, Microsoft, Amazon, Facebook, Twitter etc.
 * te învățăm și **software** și **hardware**. Tu alegi.
 
-**CE?**
+**CE** vei studia **?**
 
 <Fig src="/uploads/cti.png" alt="" caption=""></Fig>
 
