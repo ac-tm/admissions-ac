@@ -8,11 +8,11 @@
   "title": "Nicăieri nu e ca la AC, <em>nici măcar acasă</em>.",
   "copy": "Inovează și proiectează-te în viitor – 2 pași spre succes prin Automatică și Calculatoare.                                  ",
   "cta": {
-    "label": "Cum mă înscriu?",
-    "path": "/licenta"
-  },
-  "ctaSecondary": {
     "label": "De ce AC?",
     "path": "/de-ce-ac"
+  },
+  "ctaSecondary": {
+    "label": "Cum dau admitere?",
+    "path": "/licenta"
   }
 }
