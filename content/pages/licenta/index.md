@@ -11,11 +11,7 @@ Află în continuare tot ce trebuie să știi înainte să te înscrii, document
 1. **Domeniile în care te poți specializa.** Poți aplica la 5 specializări în cadrul facultății noastre, [află mai multe despre acesea](/licenta/specializari).
 2. **La [CTI ](/licenta/specializari/calculatoare-si-tehnologia-informatiei/)și la [IS](/licenta/specializari/ingineria-sistemelor/) tu decizi cum dai admitere.** Vrei să îți măsori cunoștiințele la matematică în clasica **probă de matematică**? Sau ai un **portofoliu de realizări** software sau hardware cu care te mândrești? Evaluează-te obiectiv și **alege una dintre cele două posibilități** care îți maximizează șansele. Mai exact ce înseamnă portofoliu de realizări: orice ține de proiecte personale, rezultate la concursuri sau alte realizări remarcabile.
 
-
-
-   <Attachment label="Portofoliu de realizări" internal="licenta/modalitatile-de-admitere"></Attachment>
-
-
+   <Attachment label="Probă de matematică" internal="licenta/modalitatile-de-admitere"></Attachment>
 
    <Attachment label="Portofoliu de realizări" internal="licenta/modalitatile-de-admitere"></Attachment>
 3. La **[INFO](https://admitere-next.netlify.app/licenta/specializari/informatica/)** e simplu: pui dosarul și apoi aștepți rezultatele. 
