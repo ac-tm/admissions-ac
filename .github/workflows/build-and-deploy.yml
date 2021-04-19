@@ -12,7 +12,9 @@ jobs:
           node-version: '12'
 
       - uses: c-hive/gha-npm-cache@v1
-        run: npm ci
+
+      - name: Install deps
+        run: npm install
 
       - name: Generate static build
         run: npm run generate
