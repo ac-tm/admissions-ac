@@ -22,7 +22,7 @@ jobs:
       - name: Deploy to Netlify
         run: |
           npm i -g netlify-cli
-          netlify --auth $TOKEN --site $SITE deploy --dir dist --prod
+          netlify deploy --auth $TOKEN --site $SITE --dir dist --prod
         env:
           NPM_CONFIG_PREFIX: "~/.npm-global"
           SITE: ${{ secrets.NETLIFY_SITE_ID }}
