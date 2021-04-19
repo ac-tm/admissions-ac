@@ -18,7 +18,7 @@ export default defineComponent({
   <div id="banner" role="banner" class="bg-primary h-14">
     <div />
 
-    <div class="pl-4 flex justify-between items-center">
+    <div class="pl-4 flex justify-between items-center h-full">
       <h1 class="text-sm lg:text-base font-medium text-white !leading-none">
         Admiterea la Facultatea de
 
@@ -40,7 +40,7 @@ export default defineComponent({
         rel="noopener noreferrer"
         class="h-full flex"
       >
-        <UPT class="h-full text-white hidden md:flex" />
+        <UPT class="h-full text-white hidden md:flex -mr-px" />
 
         <UPTShort class="h-full text-white flex md:hidden" />
       </a>
