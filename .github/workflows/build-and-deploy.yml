@@ -22,24 +22,25 @@ jobs:
             ${{ runner.os }}-
 
       - name: Install deps
-        if: steps.cache.outputs.cache-hit != 'true'
         run: npm ci
 
       - name: Generate static build
         run: npm run generate
 
       - name: Deploy to Netlify
-        uses: netlify/actions/cli@master
-        with:
-          args: deploy --dir=dist --prod
+        run: |
+          npm i -g netlify-cli
+          netlify --auth $TOKEN --site $SITE deploy --dir dist --prod
         env:
-          NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
-          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+          SITE: ${{ secrets.NETLIFY_SITE_ID }}
+          TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
 
-      - name: Publish to Registry
-        uses: elgohr/Publish-Docker-Github-Action@master
-        with:
-          name: actm/ac-admissions
-          username: ${{ secrets.DOCKER_USERNAME }}
-          password: ${{ secrets.DOCKER_PASSWORD }}
-          tags: "latest"
+      - name: Publish to DockerHub
+        run: |
+          docker login -u $USER --password-stdin $PASS
+          docker build . -t $TAG
+          docker push $TAG
+        env:
+          TAG: actm/ac-admissions:latest
+          USER: ${{ secrets.DOCKER_USERNAME }}
+          PASS: ${{ secrets.DOCKER_PASSWORD }}
