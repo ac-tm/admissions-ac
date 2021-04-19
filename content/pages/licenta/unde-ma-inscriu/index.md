@@ -12,5 +12,5 @@ Destul de multe :) Totuși, dacă te înscri online, [aplicația ](https://admit
 
 Lista documentelor necesare este destul de lungă și o găsești [aici](/licenta/documente-necesare/). Dacă ai vreo nelămurire, cu siguranță cineva de la noi va avea un răspuns pentru tine:
 
-* [admitere.ac@upt.ro](admitere.ac@upt.ro)
-* Întrebă-ne și pe [Facebook](https://www.facebook.com/ac.upt.ro)
+* pe email: [admitere.ac@upt.ro](admitere.ac@upt.ro)
+* sau pe [Facebook](https://www.facebook.com/ac.upt.ro)
