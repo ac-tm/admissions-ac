@@ -9,11 +9,15 @@ Please excuse us, we used an inappropriate language.
 
 Do you want to **grow** your **Computer Science skills** using the most common language in which you read requirements or view the majority of the online tutorials or the language you will probably speak in the meetings with your future international colleagues? You can do this in our Computer Science program.
 
-Do you you need **further info?** Here you can get more:
+<Block color="green">
 
-* here are the [faculty](https://ac.upt.ro/) and [university](http://upt.ro/) websites
-* A virtual tour of our labs (the link will come soon)
-* Take part a the [virtual fair](eduexpo.upt.ro) (after the 17th of May)
-* Ask a question on [Facebook](https://www.facebook.com/ac.upt.ro)
-* [Ask](https://ligaac.ro/) a student from the students organization
-* Ask a friend :)
+## Need **more info?** Here you go
+
+* Here are the [faculty](https://ac.upt.ro/) and [university](http://upt.ro/) websites,
+* A virtual tour of our labs (coming soon),
+* Take part at the [virtual fair](eduexpo.upt.ro) (after the 17th of May),
+* Ask us questions on [Facebook](https://www.facebook.com/ac.upt.ro),
+* Ask a student from the [students organization](https://ligaac.ro) or,
+* Ask a friend!
+
+</Block>
