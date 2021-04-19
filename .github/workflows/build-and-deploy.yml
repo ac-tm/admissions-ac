@@ -7,19 +7,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-
-      - name: Cache `node_modules`
-        id: cache
-        uses: actions/cache@v2
-        env:
-          cache-name: cache-node-modules
+      - uses: actions/setup-node@v2
         with:
-          path: ~/.npm
-          key: ${{ runner.os }}-build-${{ env.cache-name }}-${{ hashFiles('**/package-lock.json') }}
-          restore-keys: |
-            ${{ runner.os }}-build-${{ env.cache-name }}-
-            ${{ runner.os }}-build-
-            ${{ runner.os }}-
+          node-version: '12'
+
+      - uses: bahmutov/npm-install@v1
+      - run: npm t
 
       - name: Install deps
         run: npm ci
