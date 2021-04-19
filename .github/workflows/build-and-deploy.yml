@@ -11,10 +11,7 @@ jobs:
         with:
           node-version: '12'
 
-      - uses: bahmutov/npm-install@v1
-      - run: npm t
-
-      - name: Install deps
+      - uses: c-hive/gha-npm-cache@v1
         run: npm ci
 
       - name: Generate static build
@@ -31,10 +28,10 @@ jobs:
 
       - name: Publish to DockerHub
         run: |
-          docker login -u $USER --password-stdin $PASS
+          docker login -u $DOCKER_USER -p $DOCKER_PASSWORD
           docker build . -t $TAG
           docker push $TAG
         env:
           TAG: actm/ac-admissions:latest
-          USER: ${{ secrets.DOCKER_USERNAME }}
-          PASS: ${{ secrets.DOCKER_PASSWORD }}
+          DOCKER_USER: ${{ secrets.DOCKER_USERNAME }}
+          DOCKER_PASSWORD: ${{ secrets.DOCKER_PASSWORD }}
