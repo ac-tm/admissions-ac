@@ -1,12 +1,11 @@
 <script lang="ts">
 import { defineComponent, onMounted, useContext } from '@nuxtjs/composition-api'
-import { Navigation, Banner } from '@/components/nav'
+import { Banner } from '@/components/nav'
 import { Footer } from '@/components/footer'
 
 export default defineComponent({
-  name: 'DefaultLayout',
+  name: 'SimpleLayout',
   components: {
-    Navigation,
     Footer,
     Banner
   },
@@ -26,7 +25,6 @@ export default defineComponent({
 <template>
   <div class="min-h-screen flex flex-col">
     <Banner />
-    <Navigation class="sticky" />
     <div class="flex-1 pt-16 min-h-screen">
       <Nuxt />
     </div>

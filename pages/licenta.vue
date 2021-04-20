@@ -11,6 +11,7 @@ export default defineComponent({
     Hero,
     Sections
   },
+  transition: 'fade',
   setup () {
     const { $content } = useContext()
 

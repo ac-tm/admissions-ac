@@ -3,7 +3,7 @@ import { image, string, list, object } from '../utils/fields'
 import { bachelors, master } from './homepage'
 
 const site = file(
-  'Meta general',
+  'General',
   'site',
   [
     string('Titlu', 'title'),
@@ -11,6 +11,21 @@ const site = file(
     image('Imagine', 'image', {
       hint: 'Imagine ce va apărea pe Social Media.'
     }),
+    object('Link licență', 'licenta', [
+      string('Titlu', 'title'),
+      string('Descriere', 'description'),
+      image('Imagine', 'image'),
+      string('Buton', 'button'),
+      string('Link', 'link')
+    ]),
+    object('Link master', 'master', [
+      string('Titlu', 'title'),
+      string('Descriere', 'description'),
+      image('Imagine', 'image'),
+      string('Buton', 'button'),
+      string('Link', 'link')
+
+    ]),
     object('Buton', 'cta', [
       string('Mesaj', 'label'),
       string('URL', 'path')

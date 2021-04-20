@@ -1,16 +1,31 @@
 <script lang="ts">
-import { defineComponent, onMounted, useAsync, useContext, useMeta, useRoute } from '@nuxtjs/composition-api'
+import {
+  defineComponent,
+  onMounted,
+  useAsync,
+  useContext,
+  useMeta,
+  useRoute
+} from '@nuxtjs/composition-api'
+import { Button } from '@/components/ui/forms'
 import { parseMeta } from '~/utils/parseMeta'
 import { Site } from '~/cms/types'
 
 export default defineComponent({
   name: 'Home',
+  components: {
+    Button
+  },
+  layout: 'simple',
+  transition: 'fade',
   setup () {
     const route = useRoute()
     const { $content } = useContext()
 
     onMounted(() => {
-      if (!route.value.fullPath.includes('token')) { return }
+      if (!route.value.fullPath.includes('token')) {
+        return
+      }
 
       const url = 'https://identity.netlify.com/v1/netlify-identity-widget.js'
       const script = document.createElement('script')
@@ -27,7 +42,11 @@ export default defineComponent({
 
     useMeta(() => ({
       title: site.value?.title!,
-      meta: parseMeta(site.value?.title!, site.value?.description!, site.value?.image!)
+      meta: parseMeta(
+        site.value?.title!,
+        site.value?.description!,
+        site.value?.image!
+      )
     }))
 
     return {
@@ -40,8 +59,31 @@ export default defineComponent({
 
 <template>
   <div v-if="site" class="container space-y-32">
-    <p>
-      {{ site }}
-    </p>
+    <div v-if="site.licenta && site.master" class="mx-auto max-w-2xl grid gap-8 sm:grid-cols-2">
+      <nuxt-link
+        v-for="(link, idx) of [site.licenta, site.master]"
+        :key="idx"
+        :to="link.link"
+        :title="`${link.button}`"
+        class="flex flex-col space-y-4 p-8 rounded-lg bg-gray-50 dark:bg-gray-800 transform hover:scale-[1.025] transition"
+      >
+        <figure v-if="link.image" class="w-full mb-4">
+          <img :src="link.image" :alt="`Ilustrație ${link.title}`" aria-hidden role="presentation" class="object-contain">
+        </figure>
+
+        <h2 class="text-2xl font-bold tracking-tight dark:text-white">
+          {{ link.title }}
+        </h2>
+
+        <p>
+          {{ link.description }}
+        </p>
+
+        <Button :theme="idx % 2 === 0 ? 'primary' : 'secondary'" class="flex justify-between" tabindex="-1">
+          {{ link.button }}
+          <i class="gg-arrow-right" />
+        </Button>
+      </nuxt-link>
+    </div>
   </div>
 </template>

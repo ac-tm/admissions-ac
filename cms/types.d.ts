@@ -8,6 +8,22 @@ export interface Site {
   description: string
   image: string
 
+  licenta: {
+    title: string
+    description: string
+    image: string
+    button: string
+    link: string
+  }
+
+  master: {
+    title: string
+    description: string
+    image: string
+    button: string
+    link: string
+  }
+
   cta: CTA
 }
 

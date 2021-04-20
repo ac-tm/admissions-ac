@@ -2,6 +2,20 @@
   "title": "Admitere 2021!",
   "description": "Tot ce trebuie să știi pentru a deveni student la Automatică și Calculatoare!",
   "image": "/uploads/nastuh-abootalebi-ehd8y1znfpk-unsplash.jpg",
+  "licenta": {
+    "title": "Admitere Licență",
+    "link": "/licenta/",
+    "description": "Află toate detaliile despre admiterea la ciclul de licență!",
+    "button": "Spre licență",
+    "image": "/uploads/undraw_graduation_ktn0.svg"
+  },
+  "master": {
+    "title": "Admitere Master",
+    "link": "/master/",
+    "description": "Află toate detaliile despre admiterea la ciclul de master!",
+    "button": "Spre master",
+    "image": "/uploads/undraw_certificate_343v.svg"
+  },
   "cta": {
     "label": "Înscrie-te!",
     "path": "https://admitere.upt.ro"
