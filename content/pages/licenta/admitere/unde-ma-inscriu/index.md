@@ -10,7 +10,7 @@ Te înscrii **ONLINE** că la AC ne place să lucrăm cu calculatorul! Să știi
 
 Crede-ne pe cuvânt, tot noi cei de la AC lucrăm intens ca începând cu 2021 aplicația de înscriere pentru admitere la UPT să fie cât mai prietenoasă :) 
 
-Ce trebuie să conțină dosarul? Destul de multe :) Totuși, dacă te înscri online, [aplicația ](https://admitere.upt.ro)te ghidează prin fiecare etapă și poți fi sigur(ă) că nu ți-a scăpat nimic. Mai mult, dacă încarci datele pe platformă înseamnă că ai grijă și de mediu, iar noi îți mulțumim că economisești hârtie și ne faci înscrierea mai ușoară :) 
+Ce trebuie să conțină dosarul? Destul de multe :) Totuși, dacă te înscrii online, [aplicația ](https://admitere.upt.ro)te ghidează prin fiecare etapă și poți fi sigur(ă) că nu ți-a scăpat nimic. Mai mult, dacă încarci datele pe platformă înseamnă că ai grijă și de mediu, iar noi îți mulțumim că economisești hârtie și ne faci înscrierea mai ușoară :) 
 
 Dacă **nu ai acces la internet** și crezi că ai nevoie de **ajutor** în încărcarea documentelor, îl vei găsi în **centrele de înscriere zonale** sau la **facultate** unde colegii nostri sunt pe baricade.
 
