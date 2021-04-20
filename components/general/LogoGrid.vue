@@ -27,7 +27,7 @@ export default defineComponent({
 </script>
 
 <template>
-  <div v-if="logos" class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 place-items-center gap-12">
+  <div v-if="logos" class="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-5 place-items-center gap-12">
     <figure v-for="logo of logos" :key="logo.image" class="filter grayscale">
       <img :src="logo.image" :alt="`Logo ${logo.name}`" :title="logo.name" class="w-full h-full object-contain">
     </figure>
