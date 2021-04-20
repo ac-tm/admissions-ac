@@ -4,6 +4,7 @@ import DocumentCheckbox from './DocumentCheckbox.vue'
 import Fig from './Figure.vue'
 import Attachment from './Attachment.vue'
 import Block from './Block.vue'
+import LogoGrid from './LogoGrid.vue'
 import Timeline from './timeline'
 
 export default defineComponent({
@@ -15,7 +16,8 @@ export default defineComponent({
     Fig,
     Timeline,
     Attachment,
-    Block
+    Block,
+    LogoGrid
   },
 
   props: {

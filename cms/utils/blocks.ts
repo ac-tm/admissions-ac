@@ -37,6 +37,7 @@ export const richEditorBlock = markdown('Conținut', 'body', {
     'custom-link-internal',
     'custom-link-external',
     'custom-link-file',
-    'hint'
+    'hint',
+    'logo-grid'
   ]
 })

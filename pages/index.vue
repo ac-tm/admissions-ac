@@ -59,16 +59,29 @@ export default defineComponent({
 
 <template>
   <div v-if="site" class="container space-y-32">
-    <div v-if="site.licenta && site.master" class="mx-auto max-w-2xl grid gap-8 sm:grid-cols-2">
+    <div
+      v-if="site.licenta && site.master"
+      class="mx-auto max-w-2xl grid gap-8 sm:grid-cols-2"
+    >
       <nuxt-link
         v-for="(link, idx) of [site.licenta, site.master]"
         :key="idx"
         :to="link.link"
         :title="`${link.button}`"
-        class="flex flex-col space-y-4 p-8 rounded-lg bg-gray-50 dark:bg-gray-800 transform hover:scale-[1.025] transition"
+        :class="[
+          'flex flex-col space-y-4 p-8',
+          'rounded-lg bg-gray-50 dark:bg-gray-800',
+          'transform hover:scale-[1.025] transition'
+        ]"
       >
         <figure v-if="link.image" class="w-full mb-4">
-          <img :src="link.image" :alt="`Ilustrație ${link.title}`" aria-hidden role="presentation" class="object-contain">
+          <img
+            :src="link.image"
+            :alt="`Ilustrație ${link.title}`"
+            aria-hidden
+            role="presentation"
+            class="object-contain"
+          >
         </figure>
 
         <h2 class="text-2xl font-bold tracking-tight dark:text-white">
@@ -79,7 +92,11 @@ export default defineComponent({
           {{ link.description }}
         </p>
 
-        <Button :theme="idx % 2 === 0 ? 'primary' : 'secondary'" class="flex justify-between" tabindex="-1">
+        <Button
+          :theme="idx % 2 === 0 ? 'primary' : 'secondary'"
+          class="flex justify-between"
+          tabindex="-1"
+        >
           {{ link.button }}
           <i class="gg-arrow-right" />
         </Button>

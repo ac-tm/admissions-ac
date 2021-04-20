@@ -19,6 +19,7 @@ import {
   LinkExternal,
   LinkFile,
   LinkInternal,
+  LogoGrid,
   Timeline
 } from './editor-widgets'
 
@@ -39,6 +40,7 @@ export function init(options?: { baseURL?: string; localBackend?: boolean }) {
   CMS.registerEditorComponent(LinkExternal)
   CMS.registerEditorComponent(LinkFile)
   CMS.registerEditorComponent(Hint)
+  CMS.registerEditorComponent(LogoGrid)
 
   CMS.registerEventListener(preSavePage as any, {})
   CMS.registerEventListener(preSaveLocation as any, {})
