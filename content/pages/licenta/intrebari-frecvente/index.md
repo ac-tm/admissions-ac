@@ -10,4 +10,4 @@ Ne-ai luat prin surpindere. **Speram să nu ai întrebări** și am amânat adă
 
 Promitem că în maxim 5 zile să ne revanșăm!
 
-<Fig src="/uploads/untitled-design-8-.png" alt="undefined" caption="undefined"></Fig>
+<Fig src="/uploads/untitled-design-8-.png" alt="Cutie" caption=""></Fig>
