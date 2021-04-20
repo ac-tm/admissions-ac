@@ -11,7 +11,7 @@ export default defineComponent({
 </script>
 
 <template>
-  <div class="w-full">
+  <div class="w-full my-8">
     <figure>
       <NuxtImg :src="src" :alt="alt" width="900" fit="cover" class="rounded-lg" />
 
