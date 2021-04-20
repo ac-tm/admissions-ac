@@ -1,9 +1,8 @@
 <script lang="ts">
-import { defineComponent, useAsync, useContext } from '@nuxtjs/composition-api'
+import { defineComponent, PropType } from '@nuxtjs/composition-api'
 import { Stack, Row } from '@/components/ui/layout'
 import { Button } from '@/components/ui/forms'
 
-import { IContentDocument } from '@nuxt/content/types/content'
 import { Hero } from '~/cms/types'
 
 export default defineComponent({
@@ -13,25 +12,20 @@ export default defineComponent({
     Row,
     Button
   },
-  setup () {
-    const { $content } = useContext()
-
-    const hero = useAsync(async () => {
-      const result = await $content('hero').fetch<Hero>() as (Hero & IContentDocument)
-
-      return result
-    }, 'hero')
+  props: {
+    hero: { type: Object as PropType<Hero>, required: true }
+  },
+  setup (props) {
     const canShowNotification = () => {
-      if (!hero.value?.notification) { return false }
+      if (!props.hero.notification) { return false }
 
       const today = new Date()
-      const start = new Date(hero.value.notification.showAt)
-      const end = new Date(hero.value.notification.hideAt)
+      const start = new Date(props.hero.notification.showAt)
+      const end = new Date(props.hero.notification.hideAt)
       return today > start && today < end
     }
 
     return {
-      hero,
       canShowNotification
     }
   }

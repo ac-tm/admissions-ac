@@ -1,0 +1,85 @@
+{
+  "meta": {
+    "title": "Admiterea la Licenta",
+    "description": "Admiterea la licenta.",
+    "image": ""
+  },
+  "hero": {
+    "notification": {
+      "showAt": "2021-04-17T18:04:57.347Z",
+      "hideAt": "2021-05-31T21:00:50.328Z",
+      "label": "Anunțuri",
+      "path": "https://ac.upt.ro/anunturi/"
+    },
+    "title": "Nicăieri nu e ca la AC, <em>nici măcar acasă</em>.",
+    "copy": "Inovează și proiectează-te în viitor – 2 pași spre succes prin Automatică și Calculatoare.",
+    "cta": {
+      "label": "De ce AC?",
+      "path": "/licenta/de-ce-ac"
+    },
+    "ctaSecondary": {
+      "label": "Cum dau admitere?",
+      "path": "/licenta/admitere"
+    }
+  },
+  "sections": [
+    {
+      "type": "specializations",
+      "title": "Să începem cu începutul...",
+      "description": "Înainte să te înscrii este important să îți alegi specializarea la care îți dorești să fii admis. Nu te teme, poți să te înscrii la mai multe specializări în domeniile Calculatoare și Tehnologia Informației, Ingineria Sistemelor și Informatică.",
+      "cta": {
+        "label": "Află ce vei studia",
+        "path": "/licenta/admitere/specializari"
+      },
+      "items": [
+        {
+          "width": "full",
+          "specialization": "calculatoare-și-tehnologia-informației"
+        },
+        {
+          "width": "full",
+          "specialization": "ingineria-sistemelor"
+        },
+        {
+          "width": "half",
+          "specialization": "informatică"
+        },
+        {
+          "width": "half",
+          "specialization": "informatică-la-distanță"
+        }
+      ]
+    },
+    {
+      "type": "pages",
+      "list": [
+        "licenta/admitere/calendarul-admiterii",
+        "licenta/admitere/unde-ma-inscriu",
+        "licenta/admitere/documente-necesare",
+        "licenta/admitere/dupa-ce-esti-acceptat"
+      ]
+    },
+    {
+      "type": "testimonials",
+      "hidden": "-"
+    },
+    {
+      "type": "locations",
+      "title": "Campusul, căminele, și unde îți vei petrece timpul.",
+      "description": "Știm că este greu până te prinzi de zonă, așa că ți-am pregătit o hartă cu toate locațiile de interes!",
+      "cta": {
+        "label": "Deschide harta",
+        "path": "/harta"
+      }
+    },
+    {
+      "type": "pages",
+      "list": [
+        "licenta/informatii-utile",
+        "licenta/admitere/pregatire-pentru-examenul-de-admitere",
+        "licenta/de-ce-ac/oportunitati-in-cariera",
+        "licenta/intrebari-frecvente"
+      ]
+    }
+  ]
+}

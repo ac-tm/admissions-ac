@@ -1,0 +1,102 @@
+{
+  "meta": {
+    "title": "Admiterea la Master",
+    "description": "Admiterea la master.",
+    "image": ""
+  },
+  "hero": {
+    "notification": {
+      "showAt": "2021-04-17T18:04:57.347Z",
+      "hideAt": "2021-05-31T21:00:50.328Z",
+      "label": "Anunțuri",
+      "path": "https://ac.upt.ro/anunturi/"
+    },
+    "title": "Nicăieri nu e ca la AC, <em>nici măcar acasă</em>.",
+    "copy": "Inovează și proiectează-te în viitor – 2 pași spre succes prin Automatică și Calculatoare.                                          ",
+    "cta": {
+      "label": "De ce AC?",
+      "path": "/master/de-ce-ac"
+    },
+    "ctaSecondary": {
+      "label": "Cum dau admitere?",
+      "path": "/master/admitere"
+    }
+  },
+  "sections": [
+    {
+      "type": "specializations",
+      "title": "Specializări AIA",
+      "description": "Specializările din cadrul departamentului AIA.",
+      "cta": {
+        "label": "Vezi toate specializările",
+        "path": "/master/specializari"
+      },
+      "items": [
+        {
+          "width": "half",
+          "specialization": "automotive-embedded-software"
+        },
+        {
+          "width": "half",
+          "specialization": "sisteme-informatice-aplicate-în-producție-și-servicii"
+        },
+        {
+          "width": "half",
+          "specialization": "securitatea-informatiilor-si-a-sistemelor-cibernetice"
+        },
+        {
+          "width": "half",
+          "specialization": "tehnologii-informatice"
+        },
+        {
+          "width": "half",
+          "specialization": "sisteme-informatice-în-îngrijirea-sănătății"
+        },
+        {
+          "width": "half",
+          "specialization": "ingineria-sistemelor-automate"
+        }
+      ]
+    },
+    {
+      "type": "specializations",
+      "title": "Specializări CTI",
+      "description": "Specializări CTI",
+      "cta": {
+        "label": "Află mai multe!",
+        "path": "/master/specializari"
+      },
+      "items": [
+        {
+          "width": "half",
+          "specialization": "cloud-computing-and-internet-of-things"
+        },
+        {
+          "width": "half",
+          "specialization": "software-engineering"
+        },
+        {
+          "width": "half",
+          "specialization": "information-technology"
+        },
+        {
+          "width": "half",
+          "specialization": "machine-learning"
+        }
+      ]
+    },
+    {
+      "type": "testimonials",
+      "hidden": "-"
+    },
+    {
+      "type": "locations",
+      "title": "Campusul, căminele, și unde îți vei petrece timpul.",
+      "description": "Știm că este greu până te prinzi de zonă, așa că ți-am pregătit o hartă cu toate locațiile de interes!",
+      "cta": {
+        "label": "Deschide harta",
+        "path": "/harta"
+      }
+    }
+  ]
+}

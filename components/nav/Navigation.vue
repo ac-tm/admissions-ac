@@ -1,5 +1,5 @@
 <script lang="ts">
-import { defineComponent, useAsync, useContext } from '@nuxtjs/composition-api'
+import { defineComponent, useAsync, useContext, computed } from '@nuxtjs/composition-api'
 import { Logo, Logomark } from '@/components/logo'
 import { Button } from '@/components/ui/forms'
 import { Site } from '~/cms/types'
@@ -12,15 +12,27 @@ export default defineComponent({
     Button
   },
   setup () {
-    const { $content } = useContext()
+    const { $content, route } = useContext()
 
     const cta = useAsync(async () => {
       const cfg = await $content('site').fetch<Site>()
+
       return Array.isArray(cfg) ? cfg[0]?.cta : cfg?.cta
     }, 'nav')
 
+    const homePath = computed(() => {
+      if (route.value.path.startsWith('/master/')) {
+        return '/master/'
+      }
+      if (route.value.path.startsWith('/licenta/')) {
+        return '/licenta/'
+      }
+      return '/'
+    })
+
     return {
-      cta
+      cta,
+      homePath
     }
   }
 })
@@ -36,7 +48,7 @@ export default defineComponent({
     ]"
   >
     <div class="container h-full flex justify-between">
-      <nuxt-link to="/" title="Mergi pe pagina principală" class="h-full flex items-center">
+      <nuxt-link :to="homePath" title="Mergi pe pagina principală" class="h-full flex items-center">
         <Logo class="h-8 hidden md:block" />
         <Logomark class="h-8 md:hidden" />
       </nuxt-link>

@@ -1,5 +1,5 @@
 <script lang="ts">
-import { defineComponent, useAsync, useContext } from '@nuxtjs/composition-api'
+import { defineComponent, PropType } from '@nuxtjs/composition-api'
 import Specializations from './Specializations.vue'
 import Pages from './Pages.vue'
 import Testimonials from './Testimonials.vue'
@@ -15,18 +15,8 @@ export default defineComponent({
     Testimonials,
     Locations
   },
-  setup () {
-    const { $content } = useContext()
-
-    const sections = useAsync(async () => {
-      const result = await $content('sections').fetch<HomepageSection>()
-
-      return Array.isArray(result) ? result[0].items : result.items
-    }, 'sections')
-
-    return {
-      sections
-    }
+  props: {
+    sections: { type: Array as PropType<HomepageSection[]>, required: true }
   }
 })
 </script>

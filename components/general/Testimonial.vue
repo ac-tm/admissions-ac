@@ -22,11 +22,13 @@ export default defineComponent({
     </blockquote>
 
     <figcaption class="flex text-sm text-white not-italic justify-between items-center">
-      <span class="opacity-75">
+      <span class="opacity-75 flex-1">
         {{ author }}
       </span>
 
-      <img v-if="image" :src="image" :alt="`Fotografie cu ${author}`" class="h-16 w-16 ml-4 rounded-full border-2 border-white">
+      <div v-if="image" class="h-16 w-16 ml-4">
+        <img :src="image" :alt="`Fotografie cu ${author}`" class="h-full w-full rounded-full border-2 border-white object-cover">
+      </div>
     </figcaption>
 
     <svg width="74" viewBox="0 0 74 55" fill="none" xmlns="http://www.w3.org/2000/svg" class="absolute top-0 right-0 m-4">

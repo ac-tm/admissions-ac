@@ -5,7 +5,6 @@ import { ro } from 'netlify-cms-locales'
 import {
   settings,
   pages,
-  homepage,
   specializations,
   testimonials,
   locations,
@@ -66,13 +65,12 @@ export function init(options?: { baseURL?: string; localBackend?: boolean }) {
       },
 
       collections: [
-        homepage,
+        settings,
         specializations,
         testimonials,
         locations,
         timeline,
-        pages,
-        settings
+        pages
       ]
     }
   })

@@ -1,30 +1,33 @@
-import { file, files } from '../utils/collections'
-import { datetime, hidden, list, object, relation, select, string, text } from '../utils/fields'
+import { file } from '../utils/collections'
+import { datetime, hidden, image, list, object, relation, select, string, text } from '../utils/fields'
 
 const cta = [
   string('Mesaj', 'label'),
   string('Link', 'path')
 ]
 
-const hero = file(
-  'Hero',
-  'hero',
-  [
-    string('Titlu', 'title'),
-    text('Subtitlu', 'copy', {
-      pattern: ['.{120,160}', 'Trebuie să conțină între 120-160 de caractere.']
-    }),
-    object('Buton principal', 'cta', cta),
-    object('Buton secundar', 'ctaSecondary', cta),
-    object('Notificare', 'notification', [
-      string('Mesaj', 'label', { required: false }),
-      string('Link', 'path', { required: false }),
-      datetime('Afișează de la data', 'showAt', { required: false }),
-      datetime('Afișează până la data', 'hideAt', { required: false })
-    ], { required: false })
-  ],
-  { extension: 'json', format: 'json' }
-)
+const meta = object('Meta', 'meta', [
+  string('Titlu', 'title'),
+  text('Descriere', 'description', {
+    pattern: ['.{0,160}', 'Trebuie să conțină între 0-160 de caractere.']
+  }),
+  image('Imagine', 'image', { required: false })
+])
+
+const hero = object('Hero', 'hero', [
+  string('Titlu', 'title'),
+  text('Subtitlu', 'copy', {
+    pattern: ['.{120,160}', 'Trebuie să conțină între 120-160 de caractere.']
+  }),
+  object('Buton principal', 'cta', cta),
+  object('Buton secundar', 'ctaSecondary', cta),
+  object('Notificare', 'notification', [
+    string('Mesaj', 'label', { required: false }),
+    string('Link', 'path', { required: false }),
+    datetime('Afișează de la data', 'showAt', { required: false }),
+    datetime('Afișează până la data', 'hideAt', { required: false })
+  ], { required: false })
+])
 
 const sectionSpecializations = [
   string('Titlu', 'title'),
@@ -63,27 +66,25 @@ const sectionPages = [
   }), { summary: '{{page}}' })
 ]
 
-const sections = file('Secțiuni', 'sections', [
-  {
-    name: 'items',
-    label: 'Secțiuni',
-    widget: 'list',
-    label_singular: 'secțiune',
-    types: [
-      object('Specializări', 'specializations', sectionSpecializations) as any,
-      object('Grup de pagini', 'pages', sectionPages) as any,
-      object('Testimoniale', 'testimonials', [hidden('Hidden', 'hidden', { default: '-' })], {
-        summary: 'Testimoniale - Modificările sunt făcute din pagina dedicată acestora în meniu.'
-      }) as any,
-      object('Hartă', 'locations', mapSection) as any
-    ]
-  }
-], { extension: 'json', format: 'json' })
+const sections = {
+  name: 'sections',
+  label: 'Secțiuni',
+  widget: 'list',
+  label_singular: 'secțiune',
+  types: [
+    object('Specializări', 'specializations', sectionSpecializations) as any,
+    object('Grup de pagini', 'pages', sectionPages) as any,
+    object('Testimoniale', 'testimonials', [hidden('Hidden', 'hidden', { default: '-' })], {
+      summary: 'Testimoniale - Modificările sunt făcute din pagina dedicată acestora în meniu.'
+    }) as any,
+    object('Hartă', 'locations', mapSection) as any
+  ]
+} as any
 
-export const homepage = files('Pagina principală', 'homepage', [hero, sections], {
-  description: `
-    Aici se poat modifica texte de pe pagina principală, dar și cum sunt poziționate elementele.
-    Secțiunea „Hero” este prima secțiune de pe pagină care se vede de utilizator când intră pe website.
-    Fiecare secțiune din „Secțiuni” este configurabilă. De asemenea se pot adăuga și reorganiza acestea.
-  `
-})
+const master = file('Landing page - Master', 'master', [meta, hero, sections], { format: 'json', extension: 'json' })
+const bachelors = file('Landing page - Licență', 'licenta', [meta, hero, sections], { format: 'json', extension: 'json' })
+
+export {
+  master,
+  bachelors
+}

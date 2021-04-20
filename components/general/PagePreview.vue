@@ -17,7 +17,7 @@ export default defineComponent({
     const { $content } = useContext()
 
     const page = useAsync(async () => {
-      const result = await $content({ deep: true })
+      const result = await $content('pages', { deep: true })
         .where({ fullPath: props.slug })
         .fetch<Page>()
 

@@ -1,8 +1,9 @@
 import { file, files } from '../utils/collections'
 import { image, string, list, object } from '../utils/fields'
+import { bachelors, master } from './homepage'
 
 const site = file(
-  'Meta',
+  'Meta general',
   'site',
   [
     string('Titlu', 'title'),
@@ -44,4 +45,4 @@ const footer = file(
   { extension: 'json', format: 'json' }
 )
 
-export const settings = files('Configurări', 'general', [site, footer])
+export const settings = files('Configurări', 'general', [bachelors, master, site, footer])

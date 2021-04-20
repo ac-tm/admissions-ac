@@ -1,22 +1,10 @@
 <script lang="ts">
 import { defineComponent, onMounted, useAsync, useContext, useMeta, useRoute } from '@nuxtjs/composition-api'
-import { Hero } from '@/components/hero'
-import { IContentDocument } from '@nuxt/content/types/content'
-import { Sections } from '~/components/home-sections'
 import { parseMeta } from '~/utils/parseMeta'
-
-interface Site {
-  title: string
-  description: string
-  image: string
-}
+import { Site } from '~/cms/types'
 
 export default defineComponent({
   name: 'Home',
-  components: {
-    Hero,
-    Sections
-  },
   setup () {
     const route = useRoute()
     const { $content } = useContext()
@@ -31,25 +19,29 @@ export default defineComponent({
       document.getElementsByTagName('head')[0].appendChild(script)
     })
 
-    const cfg = useAsync(async () => {
-      const cfg = await $content('site').fetch<Site>()
-      return Array.isArray(cfg) ? cfg[0] : cfg
-    }, 'config')
+    const site = useAsync(async () => {
+      const result = await $content('site').fetch<Site>()
+
+      return Array.isArray(result) ? result[0] : result
+    }, 'site')
 
     useMeta(() => ({
-      title: cfg.value?.title!,
-      meta: parseMeta(cfg.value?.title!, cfg.value?.description!, cfg.value?.image!)
+      title: site.value?.title!,
+      meta: parseMeta(site.value?.title!, site.value?.description!, site.value?.image!)
     }))
 
-    return {}
+    return {
+      site
+    }
   },
   head: {}
 })
 </script>
 
 <template>
-  <div class="container min-h-[200vh] space-y-32">
-    <Hero />
-    <Sections />
+  <div v-if="site" class="container space-y-32">
+    <p>
+      {{ site }}
+    </p>
   </div>
 </template>

@@ -28,7 +28,7 @@ export default defineComponent({
           })
         )
       )).flat()
-    }, 'specializations')
+    }, 'specializations' + props.document.title)
 
     return {
       specializations

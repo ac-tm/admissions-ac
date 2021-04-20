@@ -9,8 +9,7 @@ export default defineComponent({
       script: [
         {
           type: 'text/javascript',
-          src: 'https://identity.netlify.com/v1/netlify-identity-widget.js',
-          async: true
+          src: 'https://identity.netlify.com/v1/netlify-identity-widget.js'
         },
         {
           type: 'text/javascript',
@@ -24,11 +23,14 @@ export default defineComponent({
         baseURL: process.env.baseURL,
         localBackend: process.env.env === 'development'
       })
+
       setTimeout(() => {
         const html = document.querySelector('html')
         html?.classList.remove('dark')
       })
     })
+
+    return {}
   },
   head: {}
 })

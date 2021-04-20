@@ -102,13 +102,20 @@ export interface MapSection {
   cta: CTA
 }
 
-export interface HomepageSection {
-  items: (
-    | SpecializationSection
-    | PagesSection
-    | TestimonialsSection
-    | MapSection
-  )[]
+type HomepageSection =
+  | SpecializationSection
+  | PagesSection
+  | TestimonialsSection
+  | MapSection
+
+export interface LandingPage {
+  meta: {
+    title: string
+    description: string
+    image: string
+  }
+  hero: Hero
+  sections: HomepageSection[]
 }
 
 export interface TimelineEvent {
