@@ -57,6 +57,6 @@ Necesare pentru situațiile deosebite, conform ghidului de admitere:
 
 <DocumentCheckbox text="Patru fotografii color tip diplomă (f)"></DocumentCheckbox>
 
-## Etapa 3 -Prima zi a anului universitar (2021-2022)
+## Etapa 3 - Prima zi a anului universitar (2021-2022)
 
 Dacă nu ai depus în etapa 2, documentele **c-f**.
