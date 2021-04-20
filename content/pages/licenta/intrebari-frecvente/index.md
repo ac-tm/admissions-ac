@@ -9,3 +9,5 @@ fullPath: licenta/intrebari-frecvente
 Ne-ai luat prin surpindere. **Speram să nu ai întrebări** și am amânat adăugarea de conținut pe pagină.
 
 Promitem că în maxim 5 zile să ne revanșăm!
+
+<Fig src="/uploads/untitled-design-7-.png" alt="undefined" caption="undefined"></Fig>
