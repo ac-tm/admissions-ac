@@ -5,14 +5,14 @@
   "licenta": {
     "title": "Admitere Licență",
     "link": "/licenta/",
-    "description": "Află toate detaliile despre admiterea la ciclul de licență!",
+    "description": "Află toate detaliile despre admiterea la ciclul de Licență!",
     "button": "Spre licență",
     "image": "/uploads/undraw_graduation_ktn0.svg"
   },
   "master": {
     "title": "Admitere Master",
     "link": "/master/",
-    "description": "Află toate detaliile despre admiterea la ciclul de master!",
+    "description": "Află toate detaliile despre admiterea la ciclul de Masterat!",
     "button": "Spre master",
     "image": "/uploads/undraw_certificate_343v.svg"
   },
