@@ -19,12 +19,12 @@ export default {
   fromBlock: (match) => {
     if (!match[1]) { return [] }
     return {
-      images: JSON.parse(match[1].replaceAll('|', '"'))
+      images: JSON.parse(match[1].replace(/\|/g, '"'))
     }
   },
   toBlock: (obj: Fields) => {
     if (!obj.images) { return [] }
-    return `<LogoGrid items="${JSON.stringify(obj.images).replaceAll('"', '|')}"></LogoGrid>`
+    return `<LogoGrid items="${JSON.stringify(obj.images).replace(/"/g, '|')}"></LogoGrid>`
   },
   toPreview: () => {
     return ''

@@ -18,6 +18,9 @@ jobs:
 
       - name: Generate static build
         run: npm run generate
+        env:
+          NODE_ENV: production
+          URL: https://admitere-next.netlify.app
 
       - name: Deploy to Netlify
         run: |
