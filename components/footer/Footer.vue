@@ -29,7 +29,7 @@ export default defineComponent({
 
 <template>
   <footer class="w-full bg-gray-50 dark:bg-gray-800 transition mt-16">
-    <div class="container py-16 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+    <div class="container py-8 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
       <section class="flex flex-col justify-between items-start space-y-16">
         <nuxt-link to="/" title="Spre pagina principală">
           <Logo class="h-10" />
