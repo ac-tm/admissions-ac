@@ -15,7 +15,7 @@ export default defineComponent({
     <figure>
       <NuxtImg :src="src" :alt="alt" width="900" fit="cover" class="rounded-lg" />
 
-      <figcaption v-if="caption" class="mx-auto">
+      <figcaption v-if="caption || caption !=='undefined'" class="mx-auto">
         {{ caption }}
       </figcaption>
     </figure>
