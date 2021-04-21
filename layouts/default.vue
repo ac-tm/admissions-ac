@@ -1,7 +1,7 @@
 <script lang="ts">
 import { defineComponent, onMounted, useContext } from '@nuxtjs/composition-api'
-import { Navigation, Banner } from '@/components/nav'
 import { Footer } from '@/components/footer'
+import { Navigation, Banner } from '~/components/nav'
 
 export default defineComponent({
   name: 'DefaultLayout',

@@ -21,7 +21,7 @@ export default defineComponent({
 </script>
 
 <template>
-  <div class="p-4 md:p-8 rounded-lg" :class="colors[color]">
+  <div class="p-4 md:p-8 rounded-lg my-8" :class="colors[color]">
     <slot />
   </div>
 </template>

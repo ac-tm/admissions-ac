@@ -43,6 +43,7 @@ export default defineNuxtConfig({
     '@nuxtjs/color-mode'
   ],
   modules: ['@nuxt/content', '@nuxtjs/sitemap'],
+  plugins: ['~/plugins/mediumZoom.client.ts'],
 
   css: ['~/assets/css/global.css', '~/assets/css/icons.css', '~/assets/css/typography.css', '~/node_modules/leaflet/dist/leaflet.css'],
 
@@ -61,7 +62,7 @@ export default defineNuxtConfig({
     'content:file:beforeInsert': async (document, database) => {
       if (document.extension === '.json' && document.events) {
         for await (const ev of document.events) {
-          if (!ev.details) continue
+          if (!ev.details) { continue }
           const body = await database.markdown.toJSON(ev.details)
           ev.body = body
         }

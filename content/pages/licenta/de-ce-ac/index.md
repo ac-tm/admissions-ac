@@ -17,10 +17,16 @@ Acum pe bune:
 * **Acces la 10 programe de Master.** După ce finalizezi studiile de licență, ai posibilitatea să performezi printr-un masterat (5 în română, 5 în engleză).
 * Poți face **voluntariat** la una din cele mai active **organizații studențești din țară.** Ai oportunitatea să îți faci noi prieteni și să te implici în Liga AC, una din cele mai active organizații studențești din țară.
 
-**Nu ești convins(ă)?** Contacteză [un viitor prieten](https://ligaac.ro) sau:
+<Block color="green">
+
+## **Nu ești convins(ă)?**
+
+Contacteză [un viitor prieten](https://ligaac.ro) sau:
 
 * Studiază site-ul [facultății](https://ac.upt.ro/) și al [universității](http://upt.ro/)
 * Vizitează virtual laboratoarele (revenim cu link)
 * Participă la [târgul educațional online](eduexpo.upt.ro) (după 17 Mai)
 * Întrebă-ne pe [Facebook](https://www.facebook.com/ac.upt.ro)
 * Trimite-ne un email la [admitere.ac@upt.ro](admitere.ac@upt.ro)
+
+</Block>

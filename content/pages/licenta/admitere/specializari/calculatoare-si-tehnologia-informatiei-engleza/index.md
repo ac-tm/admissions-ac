@@ -9,7 +9,7 @@ Please excuse us, we used an inappropriate language.
 
 Do you want to **grow** your **Computer Science skills** using the most common language in which you read requirements or view the majority of the online tutorials or the language you will probably speak in the meetings with your future international colleagues? You can do this in our Computer Science program.
 
-<Block color="green">
+<Block color="gray">
 
 ## Need **more info?** Here you go
 

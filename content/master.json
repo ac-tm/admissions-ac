@@ -25,10 +25,10 @@
   "sections": [
     {
       "type": "specializations",
-      "title": "Specializări AIA",
-      "description": "Specializările din cadrul departamentului AIA.",
+      "title": "Specializări",
+      "description": "Lista întreagă de specializări",
       "cta": {
-        "label": "Vezi toate specializările",
+        "label": "Află mai multe!",
         "path": "/master/specializari"
       },
       "items": [
@@ -37,11 +37,11 @@
           "specialization": "automotive-embedded-software"
         },
         {
-          "width": "half",
+          "width": "full",
           "specialization": "sisteme-informatice-aplicate-în-producție-și-servicii"
         },
         {
-          "width": "half",
+          "width": "full",
           "specialization": "securitatea-informatiilor-si-a-sistemelor-cibernetice"
         },
         {
@@ -53,22 +53,11 @@
           "specialization": "sisteme-informatice-în-îngrijirea-sănătății"
         },
         {
-          "width": "half",
+          "width": "full",
           "specialization": "ingineria-sistemelor-automate"
-        }
-      ]
-    },
-    {
-      "type": "specializations",
-      "title": "Specializări CTI",
-      "description": "Specializări CTI",
-      "cta": {
-        "label": "Află mai multe!",
-        "path": "/master/specializari"
-      },
-      "items": [
+        },
         {
-          "width": "half",
+          "width": "full",
           "specialization": "cloud-computing-and-internet-of-things"
         },
         {
@@ -80,7 +69,7 @@
           "specialization": "information-technology"
         },
         {
-          "width": "half",
+          "width": "full",
           "specialization": "machine-learning"
         }
       ]

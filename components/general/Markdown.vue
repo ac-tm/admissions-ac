@@ -5,6 +5,7 @@ import Fig from './Figure.vue'
 import Attachment from './Attachment.vue'
 import Block from './Block.vue'
 import LogoGrid from './LogoGrid.vue'
+import ImageGallery from './ImageGallery.vue'
 import Timeline from './timeline'
 
 export default defineComponent({
@@ -17,7 +18,8 @@ export default defineComponent({
     Timeline,
     Attachment,
     Block,
-    LogoGrid
+    LogoGrid,
+    ImageGallery
   },
 
   props: {

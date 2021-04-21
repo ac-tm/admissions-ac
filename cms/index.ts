@@ -16,6 +16,7 @@ import {
   DocumentCheckbox,
   Figure,
   Hint,
+  ImageGallery,
   LinkExternal,
   LinkFile,
   LinkInternal,
@@ -41,6 +42,7 @@ export function init(options?: { baseURL?: string; localBackend?: boolean }) {
   CMS.registerEditorComponent(LinkFile)
   CMS.registerEditorComponent(Hint)
   CMS.registerEditorComponent(LogoGrid)
+  CMS.registerEditorComponent(ImageGallery)
 
   CMS.registerEventListener(preSavePage as any, {})
   CMS.registerEventListener(preSaveLocation as any, {})

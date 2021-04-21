@@ -29,6 +29,7 @@
     "date-fns": "^2.20.1",
     "leaflet": "^1.7.1",
     "lodash": "^4.17.21",
+    "medium-zoom": "^1.0.6",
     "netlify-cms": "^2.10.105",
     "nuxt": "^2.15.4"
   },

@@ -30,7 +30,8 @@ export default defineComponent({
 
 <template>
   <label
-    class="bg-gray-50 dark:bg-gray-800 flex items-center rounded-lg px-4 py-4 mb-4 group focus-within:ring transition cursor-pointer"
+    class="bg-gray-50 dark:bg-gray-800 flex items-center rounded-lg px-4 py-4 mb-4 group focus-within:ring transition cursor-pointer border-2"
+    :class="checked ? 'border-primary' : 'border-transparent'"
   >
     <input
       v-model="checked"
@@ -51,7 +52,7 @@ export default defineComponent({
       <div class="h-2 w-2 rounded-[1px] transition" :class="checked && 'bg-primary dark:bg-secondary'" />
     </div>
 
-    <span>
+    <span class="flex-1 select-none">
       {{ text }}
     </span>
   </label>

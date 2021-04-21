@@ -62,10 +62,10 @@ export default defineComponent({
     </p>
 
     <Row flex>
-      <Button :to="hero.cta.path + '/'" theme="primary" size="lg">
+      <Button :to="hero.cta.path + '/'" theme="primary" size="lg" class="mr-4 mb-4">
         {{ hero.cta.label }}
       </Button>
-      <Button :to="hero.ctaSecondary.path + '/'" size="lg">
+      <Button :to="hero.ctaSecondary.path + '/'" size="lg" class="!ml-0">
         {{ hero.ctaSecondary.label }}
       </Button>
     </Row>

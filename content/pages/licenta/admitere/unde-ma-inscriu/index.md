@@ -6,15 +6,22 @@ image:
   src: /uploads/untitled-design-3-.png
 fullPath: licenta/admitere/unde-ma-inscriu
 ---
-Te înscrii **ONLINE** că la AC ne place să lucrăm cu calculatorul! Să știi (dar să nu spui la nimeni) că unii dintre noi încep să uite să scrie cu pixul pe hârtie :)
+**Înscrierea se face, bineînțeles, online!** În cazul în care apar probleme de genul: lipsa internetului sau apar orice probleme, vor exista centre zonale de înscriere.
 
-Crede-ne pe cuvânt, tot noi cei de la AC lucrăm intens ca începând cu 2021 aplicația de înscriere pentru admitere la UPT să fie cât mai prietenoasă :) 
+Ce trebuie să conțină dosarul? Destul de multe. Totuși, dacă te înscrii online, [aplicația](https://admitere.upt.ro) te ghidează prin fiecare etapă și vei fi sigur(ă) că nu ți-a scăpat nimic. Mai mult, dacă încarci datele pe platformă înseamnă că ai grijă și de mediu, iar noi îți mulțumim că economisești hârtie și ne faci înscrierea mai ușoară.
 
-Ce trebuie să conțină dosarul? Destul de multe :) Totuși, dacă te înscrii online, [aplicația ](https://admitere.upt.ro)te ghidează prin fiecare etapă și poți fi sigur(ă) că nu ți-a scăpat nimic. Mai mult, dacă încarci datele pe platformă înseamnă că ai grijă și de mediu, iar noi îți mulțumim că economisești hârtie și ne faci înscrierea mai ușoară :) 
+<Attachment label="Documentele necesare" internal="licenta/admitere/documente-necesare"></Attachment>
 
-Dacă **nu ai acces la internet** și crezi că ai nevoie de **ajutor** în încărcarea documentelor, îl vei găsi în **centrele de înscriere zonale** sau la **facultate** unde colegii nostri sunt pe baricade.
+<Block color="yellow">
 
-Lista documentelor necesare este destul de lungă și o găsești [aici](/licenta/documente-necesare/). Dacă ai vreo nelămurire, cu siguranță cineva de la noi va avea un răspuns pentru tine:
+## Ai neclarități?
 
-* pe email: [admitere.ac@upt.ro](admitere.ac@upt.ro)
-* sau pe [Facebook](https://www.facebook.com/ac.upt.ro)
+Pentru orice probleme, întrebări sau neclarități ne poți contacta oricând iar noi vom răspunde în cel mai scurt timp posibil.
+
+<Attachment label="admitere.ac@upt.ro" external="mailto:admitere.ac@upt.ro"></Attachment>
+
+<Attachment label="Facebook" external="https://facebook.com/ac.upt.ro"></Attachment>
+
+</Block>
+
+*PS: Crede-ne pe cuvânt, tot noi cei de la AC lucrăm intens ca începând cu 2021 aplicația de înscriere pentru admitere la UPT să fie cât mai prietenoasă. 🙈*
