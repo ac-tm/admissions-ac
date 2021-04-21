@@ -62,15 +62,15 @@ export default defineComponent({
         </nuxt-link>
 
         <div class="flex flex-col space-y-4">
-          <a v-if="hitsUrl" :href="hitsGraphUrl" class="opacity-0 hover:opacity-100 transition">
-            <img :src="hitsUrl" alt="hits" aria-hidden role="presentation">
-          </a>
-
           <ThemeSwitcher />
 
           <span class="text-sm text-gray-500">
             &copy; Facultatea de Automatică și Calculatoare
           </span>
+
+          <a v-if="hitsUrl" :href="hitsGraphUrl" class="opacity-0 hover:opacity-100 transition">
+            <img :src="hitsUrl" alt="hits" aria-hidden role="presentation">
+          </a>
         </div>
       </section>
 
