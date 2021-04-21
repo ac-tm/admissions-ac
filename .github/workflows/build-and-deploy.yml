@@ -1,6 +1,9 @@
 name: Build and deploy
 on: push
 
+env:
+  BASE_TAG: actm/ac-admissions
+
 jobs:
   build-and-deploy:
     name: Build, deploy to Netlify and upload docker image
@@ -22,6 +25,25 @@ jobs:
           NODE_ENV: production
           URL: https://admitere-next.netlify.app
 
+      - name: Docker login
+        run: docker login -u $DOCKER_USER -p $DOCKER_PASSWORD
+        env:
+          DOCKER_USER: ${{ secrets.DOCKER_USERNAME }}
+          DOCKER_PASSWORD: ${{ secrets.DOCKER_PASSWORD }}
+
+
+      - name: Build image
+        run: |
+          docker build \
+          --tag $BASE_TAG:latest \
+          --tag $BASE_TAG:$(echo $GITHUB_SHA | head -c7) \
+          .
+
+      - name: Push image to Docker Hub
+        run: |
+          docker push $BASE_TAG:latest
+          docker push $BASE_TAG:$(echo $GITHUB_SHA | head -c7)
+
       - name: Deploy to Netlify
         run: |
           npm i -g netlify-cli
@@ -30,13 +52,3 @@ jobs:
           NPM_CONFIG_PREFIX: "~/.npm-global"
           SITE: ${{ secrets.NETLIFY_SITE_ID }}
           TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
-
-      - name: Publish to DockerHub
-        run: |
-          docker login -u $DOCKER_USER -p $DOCKER_PASSWORD
-          docker build . -t $TAG
-          docker push $TAG
-        env:
-          TAG: actm/ac-admissions:latest
-          DOCKER_USER: ${{ secrets.DOCKER_USERNAME }}
-          DOCKER_PASSWORD: ${{ secrets.DOCKER_PASSWORD }}
