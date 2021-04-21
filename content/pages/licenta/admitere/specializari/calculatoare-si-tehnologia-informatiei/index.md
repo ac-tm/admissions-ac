@@ -21,7 +21,7 @@ Dacă nu ești încă convins(ă):
 
 * Studiază site-ul [facultății](https://ac.upt.ro/) și al [universității](http://upt.ro/)
 * Vizitează virtual laboratoarele (revenim cu link)
-* Participă la [târgul educațional online](eduexpo.upt.ro) (după 17 Mai)
+* Participă la [târgul educațional online](https://eduexpo.upt.ro) (după 17 Mai)
 * Întrebă-ne pe [Facebook](https://www.facebook.com/ac.upt.ro)
 * [Întreabă](https://ligaac.ro/) un student din Liga studenților
 * Întreabă un prieten :)
