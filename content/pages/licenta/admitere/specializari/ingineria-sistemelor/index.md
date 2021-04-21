@@ -11,7 +11,7 @@ Cum sună **Ingineria Sistemelor** pentru tine? Dar **System Engineering**? Dar 
 * am început de câteva decenii și continuăm să automatizăm procese de orice fel după cum vine trendul.    Automatizăm atât aplicații software, cât și procese tehnologice/hardware.
 * **Tu alegi** ce ți se potrivește, noi îți dăm opțiunea începând cu anul 3 să alegi ce preferi: **software, hardware** sau amândouă.
 
-**CE** vei studia**?**
+**CE** vei studia?
 
 <Fig src="/uploads/is.png" alt="" caption=""></Fig>
 
