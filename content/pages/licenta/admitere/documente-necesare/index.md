@@ -59,4 +59,4 @@ Necesare pentru situațiile deosebite, conform ghidului de admitere:
 
 ## Etapa 3 - Prima zi a anului universitar (2021-2022)
 
-Dacă ai lăsat pentru etape a 3-a ce puteai depune în etapa a 2-a, atunci mai ai de depus documentele **c-f**.
+Dacă ai lăsat pentru etapa a 3-a ce puteai depune în etapa a 2-a, atunci mai ai de depus documentele **c-f**.
