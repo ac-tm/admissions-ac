@@ -1,5 +1,5 @@
 <script lang="ts">
-import { defineComponent, useAsync, useContext, computed, onMounted, ref } from '@nuxtjs/composition-api'
+import { defineComponent, useAsync, useContext, onMounted, ref, useRoute, watch } from '@nuxtjs/composition-api'
 import { Logo } from '@/components/logo'
 import ThemeSwitcher from './ThemeSwitcher.vue'
 
@@ -13,10 +13,11 @@ export default defineComponent({
   },
   setup () {
     const { $content } = useContext()
+    const route = useRoute()
 
     const hitsUrl = ref<string>()
     const hitsGraphUrl = ref<string>()
-    onMounted(() => {
+    const setHits = () => {
       const svg = 'https://hits.seeyoufarm.com/api/count/incr/badge.svg'
       const options = '&count_bg=%23212750&title_bg=%23212750&icon=&icon_color=%23E7E7E7&title=Acces%C4%83ri&edge_flat=false'
 
@@ -25,6 +26,14 @@ export default defineComponent({
 
       hitsUrl.value = image
       hitsGraphUrl.value = `https://hits.seeyoufarm.com/api/count/graph/dailyhits.svg?url=${location.href}`
+    }
+
+    onMounted(() => {
+      setHits()
+    })
+
+    watch(route, () => {
+      setHits()
     })
 
     const footer = useAsync(async () => {
