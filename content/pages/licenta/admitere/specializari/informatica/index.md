@@ -7,6 +7,6 @@ fullPath: licenta/admitere/specializari/informatica
 
 Cum sună o **diplomă de licențiat(ă) în informatică** față de o diplomă de inginer? Doar tu știi asta. Noi știm că angajatorii se uită în primul rând la ce știi, ce poți și ce faci! 
 
-**CE** vei studia**?**
+**CE** vei studia?
 
 <Fig src="/uploads/inf.png" alt="" caption=""></Fig>
