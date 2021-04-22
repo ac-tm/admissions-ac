@@ -26,7 +26,9 @@ export default defineComponent({
 <template>
   <div class="min-h-screen flex flex-col">
     <Banner />
-    <Navigation class="sticky" />
+    <transition name="fade" appear>
+      <Navigation class="sticky" />
+    </transition>
     <div class="flex-1 pt-16 min-h-screen">
       <Nuxt />
     </div>

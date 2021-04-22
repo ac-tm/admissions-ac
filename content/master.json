@@ -20,6 +20,10 @@
     "ctaSecondary": {
       "label": "Cum dau admitere?",
       "path": "/master/admitere"
+    },
+    "comingSoon": {
+      "show": true,
+      "message": "Mai multe detalii în curând."
     }
   },
   "sections": [

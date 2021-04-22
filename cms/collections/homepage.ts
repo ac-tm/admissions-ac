@@ -1,5 +1,5 @@
 import { file } from '../utils/collections'
-import { datetime, hidden, image, list, object, relation, select, string, text } from '../utils/fields'
+import { bool, datetime, hidden, image, list, object, relation, select, string, text } from '../utils/fields'
 
 const cta = [
   string('Mesaj', 'label'),
@@ -17,8 +17,12 @@ const meta = object('Meta', 'meta', [
 const hero = object('Hero', 'hero', [
   string('Titlu', 'title'),
   text('Subtitlu', 'copy', {
-    pattern: ['.{120,160}', 'Trebuie să conțină între 120-160 de caractere.']
+    pattern: ['.{40,160}', 'Trebuie să conțină între 40 și 160 de caractere.']
   }),
+  object('Mesaj în curând', 'comingSoon', [
+    bool('Afișează mesaj', 'show', { default: false }),
+    string('Mesaj', 'message', { required: false, hint: 'Mesajul va înlocui butoanele din Hero.' })
+  ]),
   object('Buton principal', 'cta', cta),
   object('Buton secundar', 'ctaSecondary', cta),
   object('Notificare', 'notification', [

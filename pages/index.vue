@@ -58,7 +58,7 @@ export default defineComponent({
 </script>
 
 <template>
-  <div v-if="site" class="container space-y-32">
+  <div v-if="site" class="container min-h-screen flex flex-1 sm:-mt-14 mt-4 items-center">
     <div
       v-if="site.licenta && site.master"
       class="mx-auto max-w-2xl grid gap-8 sm:grid-cols-2"

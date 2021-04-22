@@ -30,6 +30,10 @@ export interface Site {
 export interface Hero {
   title: string
   copy: string
+  comingSoon: {
+    show: boolean
+    message: string
+  }
   cta: CTA
   ctaSecondary: CTA
   notification?: {

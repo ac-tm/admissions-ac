@@ -25,7 +25,7 @@ export default defineComponent({
 <template>
   <div class="min-h-screen flex flex-col">
     <Banner />
-    <div class="flex-1 pt-16 min-h-screen">
+    <div class="flex-1 min-h-screen">
       <Nuxt />
     </div>
     <Footer />
