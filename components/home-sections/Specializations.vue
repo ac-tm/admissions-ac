@@ -83,7 +83,7 @@ export default defineComponent({
         :title="spec.title"
         :description="spec.description"
         :color="spec.color"
-        :class="spec.width === 'full' ? 'col-span-2' : 'col-span-1'"
+        :class="spec.width === 'full' ? 'col-span-full md:col-span-2' : 'col-span-1'"
       />
     </div>
   </Card>
