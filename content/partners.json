@@ -59,6 +59,66 @@
     {
       "name": "Visma",
       "image": "/uploads/visma.png"
+    },
+    {
+      "name": "3Pillar",
+      "image": "/uploads/3pillar.png"
+    },
+    {
+      "image": "/uploads/atos.png",
+      "name": "Atos"
+    },
+    {
+      "image": "/uploads/ibm.png",
+      "name": "IMB"
+    },
+    {
+      "image": "/uploads/bitdefender.png",
+      "name": "Bitdefender"
+    },
+    {
+      "image": "/uploads/cmed.png",
+      "name": "Cmed"
+    },
+    {
+      "image": "/uploads/honeywell.png",
+      "name": "Honeywell"
+    },
+    {
+      "image": "/uploads/bluematrix.png",
+      "name": "BlueMatrix"
+    },
+    {
+      "image": "/uploads/sap-romania.png",
+      "name": "SAP"
+    },
+    {
+      "image": "/uploads/fev_logo.gif",
+      "name": "FEV"
+    },
+    {
+      "image": "/uploads/victorysquare.png",
+      "name": "VictorySquare"
+    },
+    {
+      "image": "/uploads/atoss.gif",
+      "name": "Atoss"
+    },
+    {
+      "image": "/uploads/dalli.png",
+      "name": "Dalli Group"
+    },
+    {
+      "image": "/uploads/logo-fastbit.png",
+      "name": "Fastbit"
+    },
+    {
+      "image": "/uploads/vitas_logo22.png",
+      "name": "Vitas"
+    },
+    {
+      "image": "/uploads/ntt-data-logo.svg.png",
+      "name": "NTT Data"
     }
   ]
 }
