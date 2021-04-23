@@ -13,7 +13,6 @@ export default defineComponent({
 
     const logos = useAsync(async () => {
       const result = await $content('partners').fetch<{ logos: Logo[] }>()
-      console.log(result)
       return Array.isArray(result) ? result[0].logos : result.logos
     }, 'partners1')
 
