@@ -119,6 +119,10 @@
     {
       "image": "/uploads/ntt-data-logo.svg.png",
       "name": "NTT Data"
+    },
+    {
+      "image": "/uploads/cs-logo-transparent.png",
+      "name": "Cobalt Sign"
     }
   ]
 }
