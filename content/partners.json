@@ -1,0 +1,64 @@
+{
+  "logos": [
+    {
+      "name": "Endava",
+      "image": "/uploads/endava.png"
+    },
+    {
+      "name": "Haufe",
+      "image": "/uploads/haufe.png"
+    },
+    {
+      "name": "Continental",
+      "image": "/uploads/continental.png"
+    },
+    {
+      "name": "Vitesco",
+      "image": "/uploads/vitesco.svg"
+    },
+    {
+      "name": "Hella",
+      "image": "/uploads/hella.png"
+    },
+    {
+      "name": "Dialog Data",
+      "image": "/uploads/dialogdata.svg"
+    },
+    {
+      "name": "Irian",
+      "image": "/uploads/irian.svg"
+    },
+    {
+      "name": "Softvision Cognizant",
+      "image": "/uploads/softvision.svg"
+    },
+    {
+      "name": "Ness",
+      "image": "/uploads/ness.png"
+    },
+    {
+      "name": "Nokia",
+      "image": "/uploads/nokia.png"
+    },
+    {
+      "name": "Yazaki",
+      "image": "/uploads/yazaki.png"
+    },
+    {
+      "name": "Intel",
+      "image": "/uploads/intel.png"
+    },
+    {
+      "name": "Flex",
+      "image": "/uploads/flex.png"
+    },
+    {
+      "name": "E-spres-oh",
+      "image": "/uploads/e-spres-oh.svg"
+    },
+    {
+      "name": "Visma",
+      "image": "/uploads/visma.png"
+    }
+  ]
+}

@@ -1,30 +1,20 @@
 import { EditorComponentOptions } from 'netlify-cms-core'
-import { image, list, string } from '../utils/fields'
-
-interface Fields {
-  images: string
-}
+import { hidden } from '../utils/fields'
 
 export default {
   id: 'logo-grid',
   label: 'Grid sigle',
   fields: [
-    list('Imagini', 'images', [
-      string('Denumire', 'name'),
-      image('Imagine', 'image')
-    ])
+    hidden('Show', 'show')
   ],
-  // use <component name>
-  pattern: /^<LogoGrid items="(.*)"><\/LogoGrid>$/,
-  fromBlock: (match) => {
-    if (!match[1]) { return [] }
+  pattern: /^<LogoGrid><\/LogoGrid>$/,
+  fromBlock: () => {
     return {
-      images: JSON.parse(match[1].replace(/\|/g, '"'))
+      show: '1'
     }
   },
-  toBlock: (obj: Fields) => {
-    if (!obj.images) { return [] }
-    return `<LogoGrid items="${JSON.stringify(obj.images).replace(/"/g, '|')}"></LogoGrid>`
+  toBlock: () => {
+    return '<LogoGrid></LogoGrid>'
   },
   toPreview: () => {
     return ''

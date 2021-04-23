@@ -34,6 +34,18 @@ const site = file(
   { extension: 'json', format: 'json' }
 )
 
+const partners = file(
+  'Parteneri',
+  'partners',
+  [
+    list('Logo-uri', 'logos', [
+      string('Denumire', 'name'),
+      image('Imagine', 'image')
+    ])
+  ],
+  { extension: 'json', format: 'json' }
+)
+
 const footer = file(
   'Footer',
   'footer',
@@ -60,4 +72,4 @@ const footer = file(
   { extension: 'json', format: 'json' }
 )
 
-export const settings = files('Configurări', 'general', [bachelors, master, site, footer])
+export const settings = files('Configurări', 'general', [bachelors, master, partners, site, footer])
