@@ -22,7 +22,7 @@ export default defineComponent({
 </script>
 
 <template>
-  <div v-if="logos" class="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-5 place-items-center gap-4 md:gap-8">
+  <div v-if="logos" class="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-5 place-items-center gap-4 md:gap-8 md:gap-y-12">
     <figure v-for="logo of logos" :key="logo.image" class="p-2 rounded-lg bg-white">
       <img :src="logo.image" :alt="`Logo ${logo.name}`" :title="logo.name" class="w-full h-16 !object-contain !rounded-none">
     </figure>

@@ -30,7 +30,10 @@ export default defineNuxtConfig({
       { name: 'viewport', content: 'width=device-width, initial-scale=1, viewport-fit=cover' },
       { hid: 'desc', name: 'description', content: 'Admiterea la Facultatea de Automatică și Calculatoare' }
     ],
-    link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.png' }]
+    link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.png' }],
+    script: [
+      { async: true, defer: true, src: 'https://analytics.arpadgabor.com/umami.js', 'data-website-id': '2dbfe2ea-a4b1-4467-84b8-581c178ec9ab' }
+    ]
   },
 
   buildModules: [
