@@ -29,8 +29,8 @@ export default defineComponent({
 
 <template>
   <section v-if="error" class="container">
-    <h1 class="text-4xl md:text-6xl lg:text-8xl font-hero tracking-tighter text-primary">
-      Tu nu ar trebui să fii aici.
+    <h1 class="text-4xl md:text-6xl lg:text-8xl font-hero tracking-tighter text-primary dark:text-white">
+      Pagina aceasta nu există.
     </h1>
 
     <div class="flex items-start mt-8">
