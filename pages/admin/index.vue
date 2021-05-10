@@ -19,6 +19,10 @@ export default defineComponent({
     })
 
     onMounted(() => {
+      if (process.env.baseURL && !location.href.includes(process.env.baseURL)) {
+        location.replace(process.env.baseURL + '/admin')
+      }
+
       require('@/cms').init({
         baseURL: process.env.baseURL,
         localBackend: process.env.env === 'development'
