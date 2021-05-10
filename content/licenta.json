@@ -20,6 +20,9 @@
     "ctaSecondary": {
       "label": "Cum dau admitere?",
       "path": "/licenta/admitere"
+    },
+    "comingSoon": {
+      "show": false
     }
   },
   "sections": [
@@ -56,7 +59,9 @@
         "licenta/admitere/calendarul-admiterii",
         "licenta/admitere/unde-ma-inscriu",
         "licenta/admitere/documente-necesare",
-        "licenta/admitere/dupa-ce-esti-acceptat"
+        "licenta/admitere/dupa-ce-esti-acceptat",
+        "licenta/admitere/scapa-de-examenul-de-matematica",
+        "licenta/admitere/admiterea-pentru-olimpici"
       ]
     },
     {
