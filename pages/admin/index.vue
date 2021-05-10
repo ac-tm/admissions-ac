@@ -41,7 +41,13 @@ export default defineComponent({
 </script>
 
 <template>
-  <main />
+  <main id="nc-root">
+    <div class="w-full h-screen flex items-center justify-center">
+      <p>
+        Se încarcă...
+      </p>
+    </div>
+  </main>
 </template>
 
 <style lang="postcss">
