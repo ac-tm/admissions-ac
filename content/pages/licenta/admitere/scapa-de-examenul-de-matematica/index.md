@@ -1,0 +1,27 @@
+---
+title: Scapă de examenul de matematică
+description: Trimite-ne un portofoliu cu realizările tale din trecut și ai șanse
+  să fii admis fără examen la matematică!
+image:
+  src: /uploads/trophy.jpg
+fullPath: licenta/admitere/scapa-de-examenul-de-matematica
+---
+Admiterea online bazată pe un portofoliu de realizări are drept scop de a releva atât rezultatele obținute de către candidat la diferite competiții, cât și aptitudinile sale tehnice și valoarea acestora.
+
+Scopul **[documentului Portofoliu](http://www.upt.ro/img/files/2020-2021/admitere/licenta/Anexa3_la_metod-admitere-licenta-2021-2022.pdf)** este de a descrie rezultatele obținute de către candidat la concursuri și activități școlare sau extrașcolare de pe parcursul liceului în domeniile: informatică, tehnologii informatice sau alte aplicații de tip hardware-software și tehnologii de comunicații.
+
+Categorii de competiții și premii acceptate:
+
+1. **Premii și mențiuni la olimpiade:** județene sau la alte competiții naționale de Informatică/Algoritmică; 
+2. **Premii, mențiuni, participări cu rezultate notabile** la competiții Hardware & Software & Automatică & Electronică & Comunicații (IT&C);
+3. **Alte realizări deosebite** Hardware & Software & Automatică & Electronică & Comunicații (IT&C) care să dovedească cunoștințe excepționale în domeniu.
+
+Prima categorie se adresează competițiilor de Informatică/Algoritmică, iar ultimele două categorii se adresează competițiilor și proiectelor în domeniul Informaticii, Automaticii, Calculatoarelor, Electronicii, Telecomunicațiilor sau Tehnologiilor Informaționale.
+
+La Informatică/Algoritmică sunt cuprinse toate olimpiadele de informatică și competițiile specifice asemănătoare acestora. La ultimele două categorii sunt considerate toate competițiile și proiectele din domeniile precizate indiferent de tehnologiile folosite. Se consideră competiții naționale acele competiții a căror participare nu este limitată local, iar competiții internaționale acele competiții ai căror participanți provin din mai multe țări.
+
+<Attachment label="Șablon Portofoliu" file="/uploads/portofoliu_numeprenume.docx"></Attachment>
+
+<Attachment label="Exemplu de portofoliu completat" file="/uploads/portofoliu_popdana.pdf"></Attachment>
+
+<Attachment label="Exemplu de dosar" file="/uploads/popdana.zip"></Attachment>
