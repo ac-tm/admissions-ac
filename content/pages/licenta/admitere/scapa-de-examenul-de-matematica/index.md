@@ -6,9 +6,9 @@ image:
   src: /uploads/trophy.jpg
 fullPath: licenta/admitere/scapa-de-examenul-de-matematica
 ---
-Admiterea online bazată pe un portofoliu de realizări are drept scop de a releva atât rezultatele obținute de către candidat la diferite competiții, cât și aptitudinile sale tehnice și valoarea acestora.
+Admiterea online bazată pe un portofoliu de realizări are ca scop recunoașterea rezultatelor obținute de către candidat la diferite competiții, cât și aptitudinile sale tehnice și valoarea acestora.
 
-Scopul **[documentului Portofoliu](http://www.upt.ro/img/files/2020-2021/admitere/licenta/Anexa3_la_metod-admitere-licenta-2021-2022.pdf)** este de a descrie rezultatele obținute de către candidat la concursuri și activități școlare sau extrașcolare de pe parcursul liceului în domeniile: informatică, tehnologii informatice sau alte aplicații de tip hardware-software și tehnologii de comunicații.
+Instrucțiunile de completare a dosarului ce conține realizările din liceu le găsești [aici](https://www.upt.ro/img/files/2020-2021/admitere/licenta/Anexa5_la_metod-admitere-licenta-2021-2022.pdf). Portofoliul/dosarul descrie de fapt rezultatele obținute de către tine la concursuri și activități școlare sau extrașcolare de pe parcursul liceului în domeniile: informatică, tehnologii informatice sau alte aplicații de tip hardware-software și tehnologii de comunicații.
 
 Categorii de competiții și premii acceptate:
 
