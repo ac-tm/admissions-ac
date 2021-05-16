@@ -40,7 +40,7 @@ Noi îți oferim 5 posibilități, **decizia e la tine**!
 
 </Block>
 
-Cum ziceam, **decizia e la tine! Aruncă o privire** pe descrierea specializărilor, vezi ce ți se potrivește, apoi după ce ai citit în diagonală descrierea, **informează-te cât mai bine** și din mai multe locuri pentru că **e vorba de viitorul tău**:
+Cum ziceam, **decizia e la tine! Aruncă o privire** pe descrierea specializărilor, vezi ce ți se potrivește, apoi după ce ai citit în diagonală descrierea, **informează-te cât mai bine** și din mai multe locuri pentru că e vorba de **viitorul tău**:
 
 * Studiază site-ul [facultății](https://ac.upt.ro/) și al [universității](http://upt.ro/)
 * Vizitează virtual laboratoarele (revenim cu link)
