@@ -15,6 +15,8 @@ Noi îți oferim 5 posibilități, **decizia e la tine**!
 
 </Block>
 
+
+
 <Block color="yellow">
 
 **Locuri disponibile:**
