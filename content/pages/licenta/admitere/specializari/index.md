@@ -15,6 +15,29 @@ Noi îți oferim 5 posibilități, **decizia e la tine**!
 
 </Block>
 
+<Block color="yellow">
+
+**Locuri disponibile:**
+
+1. **Calculatoare şi tehnologia informaţiei (română)**
+
+   * 155 - buget
+   * 25 - taxă
+2. **Ingineria sistemelor** 
+
+   * 175 - buget
+   * 45 - taxă
+3. **Calculatoare şi tehnologia informaţiei (engleză)**
+
+   * 80 - buget
+   * 10 - taxă
+4. **Informatică**
+
+   * 65 - buget
+   * 30 - taxă
+
+</Block>
+
 Cum ziceam, **decizia e la tine! Aruncă o privire** pe descrierea specializărilor, vezi ce ți se potrivește, apoi după ce ai citit în diagonală descrierea, **informează-te cât mai bine** și din mai multe locuri pentru că **e vorba de viitorul tău**:
 
 * Studiază site-ul [facultății](https://ac.upt.ro/) și al [universității](http://upt.ro/)
