@@ -19,7 +19,7 @@ Noi îți oferim 5 posibilități, **decizia e la tine**!
 
 <Block color="yellow">
 
-**Locuri disponibile:**
+**Avem 585 de locuri disponibile:**
 
 1. **Calculatoare şi tehnologia informaţiei (română)**
 
