@@ -1,5 +1,5 @@
 ---
 title: Software Engineering
 description: SE
-fullPath: software-engineering
+fullPath: master/specializari/software-engineering
 ---
