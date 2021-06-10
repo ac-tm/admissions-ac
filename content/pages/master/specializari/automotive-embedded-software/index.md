@@ -1,5 +1,5 @@
 ---
 title: Automotive Embedded Software
 description: AES
-fullPath: automotive-embedded-software
+fullPath: master/specializari/automotive-embedded-software
 ---
