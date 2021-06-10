@@ -52,6 +52,7 @@ export function init(options?: { baseURL?: string; localBackend?: boolean }) {
       load_config_file: false,
       display_url: options?.baseURL,
       site_url: options?.baseURL,
+      publish_mode: 'editorial_workflow',
 
       local_backend: options?.localBackend || true,
       backend: {
