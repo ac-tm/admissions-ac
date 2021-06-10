@@ -1,5 +1,5 @@
 ---
 title: Information Technology
 description: IT
-fullPath: information-technology
+fullPath: master/specializari/information-technology
 ---
