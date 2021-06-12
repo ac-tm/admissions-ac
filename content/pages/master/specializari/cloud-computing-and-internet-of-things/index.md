@@ -1,6 +1,8 @@
 ---
 title: Cloud Computing & Internet of Things
-description: CCIT
+description: Care-i filmul cu masterul de Cloud?
+image:
+  src: /uploads/cciot.png
 fullPath: master/specializari/cloud-computing-and-internet-of-things
 ---
 Care-i filmul cu masterul de Cloud?
