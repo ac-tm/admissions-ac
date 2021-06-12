@@ -17,4 +17,4 @@ Opționalele sunt organizate pe track-uri. Adică o materie începută în primu
 
 Dacă te uiți atent în planul de învățământ, vei vedea că există și o parte alocată 'practicii' de la master. Asta nu înseamnă că te vei angaja pe undeva pe post de cercetător, nu încă. Citește [aici](https://ac.upt.ro/practica-master/) mai multe detalii și vezi că nu e așa complicat cum sună. 
 
-<ImageGallery items="[{|src|:|/uploads/cciot.png|}]"></ImageGallery>
+<Fig src="/uploads/cciot.png" alt="undefined" caption="undefined"></Fig>
