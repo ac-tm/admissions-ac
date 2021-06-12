@@ -2,7 +2,7 @@
 title: Cloud Computing & Internet of Things
 description: Care-i filmul cu masterul de Cloud?
 image:
-  src: /uploads/cciot.png
+  src: ""
 fullPath: master/specializari/cloud-computing-and-internet-of-things
 ---
 Care-i filmul cu masterul de Cloud și IoT?
@@ -15,4 +15,6 @@ Pe lângă partea de research, mai ai 3 materii 'opționale'. Ele-s obligatorii!
 
 Opționalele sunt organizate pe track-uri. Adică o materie începută în primul semestru se continuă cu una din semestrul II, care va fi aprofundată de una din semestrul III. Uite, de exemplu, track-ul: Algorithms and Protocols in IoT and Cloud - Advanced Embedded Systems - Advanced DSP Systems. Nu e musai să alegi materiile pe track-uri, însă e o idee bună să ai o continuitate. Dar, până la urmă, e treaba ta ce alegi, important e să te pasioneze ce faci. 
 
-Dacă te uiți atent în planul de învățământ, vei vedea că există și o parte alocată 'practicii' de la master. Asta nu înseamnă că te vei angaja pe undeva pe post de cercetător, nu încă. Citește [aici](https://ac.upt.ro/practica-master/) mai multe detalii și vezi că nu e așa complicat cum sună.
+Dacă te uiți atent în planul de învățământ, vei vedea că există și o parte alocată 'practicii' de la master. Asta nu înseamnă că te vei angaja pe undeva pe post de cercetător, nu încă. Citește [aici](https://ac.upt.ro/practica-master/) mai multe detalii și vezi că nu e așa complicat cum sună. 
+
+<ImageGallery items="[{|src|:|/uploads/cciot.png|}]"></ImageGallery>
