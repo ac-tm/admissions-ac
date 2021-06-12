@@ -5,7 +5,7 @@ image:
   src: /uploads/cciot.png
 fullPath: master/specializari/cloud-computing-and-internet-of-things
 ---
-Care-i filmul cu masterul de Cloud?
+Care-i filmul cu masterul de Cloud și IoT?
 
 În primul rând, e un master de la CTI, deci e-n engleză! **Good luck with that!**
 
