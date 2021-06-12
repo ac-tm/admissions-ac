@@ -9,7 +9,7 @@ Care-i filmul cu masterul de Cloud și IoT?
 
 În primul rând, e un master de la CTI, deci e-n engleză! **Good luck with that!**
 
-În fiecare semestru, vei avea o materie de **research**, unde vei aprofunda noțiunile teoretice de la celelalte materii. Vorbim imediat și despre ele, dar stai să o lămurim pe-asta cu cercetarea. Aici vei citi articole de specialitate, le vei analiza, compara și vei 'cerceta' și tu la rândul tău! Sună bine, nu? 
+În fiecare semestru, vei avea o materie de **research**, unde vei aprofunda noțiunile teoretice de la celelalte materii. Vorbim imediat și despre ele, dar stai să o lămurim pe-asta cu cercetarea. Aici vei citi articole de specialitate, le vei analiza, compara și vei 'cerceta' și tu la rândul tău! Ce zici? Sună bine, nu? 
 
 Pe lângă partea de research, mai ai 3 materii 'opționale'. Ele-s obligatorii! Partea bună e că poți alege ce te pasionează și, mai mult decât atât, din aceste 3 materii, doar 2 trebuie să fie neapărat de la masterul tău, una poate fi de la alt master de la CTI, adică IT, ML sau SE. Aruncă o privire și pe celelalte specializări și vezi ce alte subiecte îți fac cu ochiul!
 
