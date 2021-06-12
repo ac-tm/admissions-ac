@@ -19,4 +19,4 @@ Dacă te uiți atent în planul de învățământ, vei vedea că există și o 
 
 Ca să-ți faci o idee despre materiile pe care le poți aprofunda la acest master, aruncă o privire aici:
 
-<Fig src="/uploads/cciot.png" alt="undefined" caption="undefined"></Fig>
+<Fig src="/uploads/cciot.png" alt="Wordcloud cu subiectele abordate la masterul de Cloud și IoT" caption="Wordcloud cu subiectele abordate la masterul de Cloud și IoT"></Fig>
