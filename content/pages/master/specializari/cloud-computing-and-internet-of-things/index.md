@@ -7,7 +7,7 @@ fullPath: master/specializari/cloud-computing-and-internet-of-things
 ---
 Care-i filmul cu masterul de Cloud?
 
-În primul rând, fiind un master de la CTI, și acesta e în engleză. Good luck with that!
+În primul rând, e un master de la CTI, deci e-n engleză! **Good luck with that!**
 
 În fiecare semestru, vei avea o materie de **research**, unde vei aprofunda noțiunile teoretice de la celelalte materii. Vei citi articole și vei 'cerceta' și tu însuți! Sună bine, nu? 
 
