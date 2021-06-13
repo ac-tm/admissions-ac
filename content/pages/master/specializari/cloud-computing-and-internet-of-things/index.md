@@ -1,6 +1,6 @@
 ---
 title: Cloud Computing & Internet of Things
-description: Care-i filmul cu masterul de Cloud?
+description: "Care-i filmul cu masterul de Cloud? Accesează linkul și te lămurim! "
 image:
   src: ""
 fullPath: master/specializari/cloud-computing-and-internet-of-things
