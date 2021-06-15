@@ -7,7 +7,7 @@ fullPath: master/specializari/cloud-computing-and-internet-of-things
 ---
 Care-i filmul cu masterul de Cloud și IoT? În primul rând, e un master de la CTI, deci e-n engleză! Good luck with that!
 
-În cazul în care vei opta pentru acest master, vei avea, în fiecare semestru, o materie de *cercetare*, unde vei aprofunda noțiunile teoretice de la celelalte materii. Vorbim imediat și despre ele, dar stai să o lămurim pe-asta cu cercetarea. Aici vei citi articole de specialitate, vei analiza ce au făcut alții deja, vei compara ce au făcut unii și alții și, nu în ultimul rând, vei 'cerceta' și tu la rândul tău! Ce zici? Sună tare bine, nu? 
+În cazul în care vei opta pentru acest master, vei avea, în fiecare semestru, o materie de *cercetare*, unde vei aprofunda noțiunile mai teoretice de la celelalte materii. Vorbim imediat și despre ele, dar stai să o lămurim pe-asta cu cercetarea. Aici vei citi articole de specialitate, vei analiza ce au făcut alții deja, vei compara ce au făcut unii și alții și, nu în ultimul rând, vei 'cerceta' și tu la rândul tău! Ce zici? Sună tare bine, nu? 
 
 Pe lângă materiile de research, mai ai altele 3 care se numesc 'opționale'. Partea bună e că, ghici ce, sunt obligatorii! Și, deși toate sunt interesante, tu poți alege ce te interesează pe tine și, mai mult decât atât, dintre aceste 3 materii, doar 2 trebuie să fie neapărat de la masterul tău, a treia poate fi de la *oricare alt master* de la CTI, adică **IT**, **ML** sau **SE**. Da, ai înțeles bine, poți lua 2 de la Cloud și una de la ML în semestrul I, 2 de la Cloud și una de la SE în semestrul II și tot așa. Aruncă o privire și pe celelalte specializări și vezi ce alte subiecte îți fac cu ochiul! Dacă vrei să le alegi doar pe cele de la masterul tău, poți face și asta.
 
