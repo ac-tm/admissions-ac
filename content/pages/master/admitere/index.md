@@ -4,8 +4,6 @@ description: Află tot ce ai nevoie pentru admiterea la unul din programele de
   masterat oferite de Facultatea de Automatică și Calculatoare din Timișoara!
 fullPath: master/admitere
 ---
-
-
 Ne bucurăm că dorești să fii student la facultatea noastră! **Comunitatea AC-UPT este foarte mare** și cu tine va fi și mai mare!
 
 Află în continuare tot ce trebuie să știi înainte să te înscrii, documentele de care ai nevoie, dar și beneficiile și oportunitățile tale ca student al Facultății de Automatică și Calculatoare!
