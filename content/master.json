@@ -22,7 +22,7 @@
       "path": "/master/admitere"
     },
     "comingSoon": {
-      "show": true,
+      "show": false,
       "message": "Mai multe detalii în curând."
     }
   },
