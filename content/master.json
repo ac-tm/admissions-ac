@@ -22,7 +22,7 @@
       "path": "/master/admitere"
     },
     "comingSoon": {
-      "show": true,
+      "show": false,
       "message": "Mai multe detalii în curând."
     }
   },
@@ -53,7 +53,7 @@
           "specialization": "tehnologii-informatice"
         },
         {
-          "width": "half",
+          "width": "full",
           "specialization": "sisteme-informatice-în-îngrijirea-sănătății"
         },
         {
