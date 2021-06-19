@@ -2,9 +2,15 @@
   "title": "Admitere CTI/IS Master",
   "events": [
     {
-      "date": "2021-06-19T21:25:27.526Z",
-      "deadline": "2021-06-19T21:25:27.536Z",
+      "date": "2021-06-28T05:00:00.000Z",
+      "deadline": "2021-06-30T20:59:00.000Z",
+      "details": "Înscrierea se realizează exclusiv în aplicația [de înscriere](https://admitere.upt.ro). Dacă întâmpini dificultăți, accesează [ghidul](http://www.upt.ro/Informatii_acte-necesare-pentru-dosarul-de-inscriere-la-admiterea-la-li_1412_ro.html) nostru despre cum se completează formularul de înscriere.",
       "title": "Înscriere CTI & IS (online)"
+    },
+    {
+      "date": "2021-06-30T21:00:00.000Z",
+      "deadline": "2021-06-30T21:41:00.000Z",
+      "title": "Interviu admitere"
     }
   ]
 }
