@@ -53,12 +53,12 @@
           "specialization": "tehnologii-informatice"
         },
         {
-          "width": "full",
-          "specialization": "sisteme-informatice-în-îngrijirea-sănătății"
-        },
-        {
           "width": "half",
           "specialization": "ingineria-sistemelor-automate"
+        },
+        {
+          "width": "full",
+          "specialization": "sisteme-informatice-în-îngrijirea-sănătății"
         },
         {
           "width": "full",
