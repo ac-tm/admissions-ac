@@ -14,7 +14,7 @@ Acum pe bune:
 * **Te vor vrea companiile.** Atât din țară, cât și din străinatate.
 * Absolvenții de AC sunt apreciați de angajatori. **Salariile sunt pe măsură**.
 * **Oportunități de practică și angajare**, chiar din timpul facultății.
-* **Acces la 10 programe de Master.** După ce finalizezi studiile de licență, ai posibilitatea să performezi printr-un masterat (5 în română, 5 în engleză).
+* Ai acces la **10 programe de master**, dintre care 5 sunt în română, iar 5 în engleză.
 * Poți face **voluntariat** la una din cele mai active **organizații studențești din țară.** Ai oportunitatea să îți faci noi prieteni și să te implici în Liga AC, una din cele mai active organizații studențești din țară.
 
 **Nu ești convins(ă)?** Contacteză [un viitor prieten](https://ligaac.ro) sau:
