@@ -1,10 +1,10 @@
 ---
-title: Documente necesare22
+title: Documente necesare
 description: Ți-am pregătit o listă cu toate documentele de care ai nevoie.
 image:
   src: /uploads/untitled-design-4-.png
   alt: Carte
-fullPath: documente-necesare22
+fullPath: master/admitere/documente-necesare22
 ---
 ## Etapa 1 - Înscrierea
 
