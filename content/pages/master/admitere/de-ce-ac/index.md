@@ -11,7 +11,7 @@ fullPath: master/admitere/de-ce-ac
 
 Acum pe bune:
 
-* **Te vor vrea companiile.** Atât din țată, cât și din străinatate.
+* **Te vor vrea companiile.** Atât din țară, cât și din străinatate.
 * Absolvenții de AC sunt apreciați de angajatori. **Salariile sunt pe măsură**.
 * **Oportunități de practică și angajare**, chiar din timpul facultății.
 * **Acces la 10 programe de Master.** După ce finalizezi studiile de licență, ai posibilitatea să performezi printr-un masterat (5 în română, 5 în engleză).
