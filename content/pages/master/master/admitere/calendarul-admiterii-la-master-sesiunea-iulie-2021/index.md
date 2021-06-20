@@ -1,5 +1,5 @@
 ---
-title: Calendarul admiterii la master
+title: Calendarul admiterii la master -sesiunea iulie 2021
 description: Înscrie-te în perioada 28.06.2021 — 03.07.2021! Te așteptăăm!
 fullPath: master/admitere/calendarul-admiterii-la-master-sesiunea-iulie-2021
 ---

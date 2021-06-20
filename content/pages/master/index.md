@@ -5,7 +5,7 @@ description: Ți-am pregătit o listă cu toate documentele de care ai nevoie
 image:
   src: /uploads/untitled-design-4-.png
   alt: Carte
-fullPath: /
+fullPath: master/
 ---
 ## Etapa 1 - Înscrierea
 

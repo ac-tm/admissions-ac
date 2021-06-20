@@ -1,9 +1,11 @@
 ---
-title: "Locuri alocate masterat "
-description: "Locuri alocate admiterii la masterat "
+title: Locuri alocate admiterii la masterat – sesiunea iulie/septembrie 2021
+description: Locuri alocate admiterii la masterat – sesiunea iulie/septembrie 2021
 fullPath: master/admitere/master
 ---
-**Locuri alocate admiterii la programele de studii de masterat – sesiunea iulie/septembrie 2021**
+**Locuri alocate**
+
+**Pentru admiterea la Master – sesiunea iulie/septembrie 2021**
 
 **Facultatea de Automatică și Calculatoare**
 
