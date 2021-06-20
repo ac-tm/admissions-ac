@@ -14,7 +14,8 @@
     {
       "date": "2021-07-19T06:00:00.000Z",
       "deadline": "2021-07-19T17:00:00.000Z",
-      "title": "Concurs de admitere (Matematică sau Interviu portofoliu de realizări)"
+      "title": "Concurs de admitere (Interviu)",
+      "details": "Îți reamintim că interviul este *opțional* în cazul în care continui la aceeași specializare la care ai terminat ciclul *licență* (adică dacă ai terminat la CTI și continui cu un master tot la CTI) și dorești să îți echivalezi proba interviului cu media multianuală."
     },
     {
       "date": "2021-07-07T07:00:00.000Z",
@@ -25,12 +26,13 @@
       "date": "2021-07-07T07:00:00.000Z",
       "deadline": "2021-07-09T09:00:00.000Z",
       "title": "Confirmări Runda I",
-      "details": "Nu uita să iți confirmi locul dacă ești printre cei admiși. Altfel se consideră că te-ai răzgândit și locul tău va ajunge la altcineva."
+      "details": "Nu uita să iți confirmi locul dacă ești printre cei admiși. Altfel vom considera că te-ai răzgândit și locul tău va ajunge la altcineva."
     },
     {
       "date": "2021-07-22T07:00:00.000Z",
       "deadline": "",
-      "title": "Afișare rezultate (Runda II)"
+      "title": "Afișare rezultate (Runda II)",
+      "details": "Vom afișa rezultatele cu studenții admiși pe locurile rămase libere după runda I de confirmări."
     },
     {
       "date": "2021-07-23T07:00:00.000Z",
