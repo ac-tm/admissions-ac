@@ -1,7 +1,7 @@
 ---
 title: Locuri alocate admiterii la masterat – sesiunea iulie/septembrie 2021
 description: Locuri alocate admiterii la masterat – sesiunea iulie/septembrie 2021
-fullPath: master/master
+fullPath: master/admitere/master
 ---
 **Locuri alocate**
 
