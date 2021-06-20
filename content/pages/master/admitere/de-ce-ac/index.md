@@ -5,7 +5,7 @@ description: |
 image:
   src: /uploads/nastuh-abootalebi-ehd8y1znfpk-unsplash.jpg
   alt: O sala de asteptare cu geamuri mari in stanga.
-fullPath: master/de-ce-ac
+fullPath: master/admitere/de-ce-ac
 ---
 **De ce să te inscrii la AC?** Pentru că suntem cei mai tari, de aia!
 
