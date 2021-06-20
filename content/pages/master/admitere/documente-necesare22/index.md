@@ -37,11 +37,15 @@ Necesare pentru situațiile deosebite, conform ghidului de admitere:
 
 ## Etapa 2 - Confirmarea
 
-<DocumentCheckbox text="Diploma de bacalaureat, respectiv adeverință substitut de diplomă (a)"></DocumentCheckbox>
+*Pentru candidații care doresc să se înscrie doar la forma cu taxă, în dosarul de înscriere fizic nu sunt necesare documente în original.*
 
-<DocumentCheckbox text="Foaia matricolă cu notele obținute pe parcursul liceului (b)"></DocumentCheckbox>
+Odată ce ești declarat admis, pentru a-ți confirma locul, e necesar să depui la dosar, **în original**,următoarele documente:
 
-<DocumentCheckbox text="Adeverință medicală, eliberată de medicul de familie"></DocumentCheckbox>
+<DocumentCheckbox text="Diplomă de licență/diplomă echivalentă sau adeverința de absolvire pentru absolvenții promoției 2021 (pentru candidații admiși la buget) (a)"></DocumentCheckbox>
+
+<DocumentCheckbox text="Foaia matricolă cu notele obținute pe parcursul facultății (b)"></DocumentCheckbox>
+
+<DocumentCheckbox text="Adeverință medicală, eliberată de medicul de familie (c)"></DocumentCheckbox>
 
 <DocumentCheckbox text="Declarație pe proprie răspundere nefinanțarea/finanțarea anterioară de la bugetul statului român (d)"></DocumentCheckbox>
 
