@@ -8,23 +8,21 @@ fullPath: master/admitere/documente-necesare22
 ---
 ## Etapa 1 - Înscrierea
 
-Documente ce se vor încărca **ONLINE**, pe [platformă](https://admitere.upt.ro), color, în format pdf sau format de fișier grafic (jpeg sau png). Detalii suplimentare [AICI](https://www.upt.ro/Informatii_acte-necesare-pentru-dosarul-de-inscriere-la-admiterea-la-li_1412_ro.html). Dacă nu ai acces la internet și crezi că ai nevoie de ajutor în încărcarea documentelor, îl vei găsi în centrele de înscriere zonale sau la facultate unde colegii nostri sunt pe baricade.
+Documente ce se vor încărca **ONLINE**, pe [platformă](https://admitere.upt.ro), color, în format *pdf* sau format de fișier grafic (*jpeg* sau *png*). Detalii suplimentare [AICI](http://www.upt.ro/Informatii_acte-necesare-pentru-dosarul-de-inscriere---admitere-master-_1411_ro.html). 
 
-Dacă ești **absolvent** de **bacalaureat** în anul **2021**, **în țară**, lucrurile sunt de destul de simple. Intri pe [platformă](https://admitere.upt.ro) și încarci următoarele documente (punctele **a-g** din [ghid](http://www.upt.ro/Informatii_acte-necesare-pentru-dosarul-de-inscriere-la-admiterea-la-li_1412_ro.html)):
+Nu îți face griji, lucrurile sunt de destul de simple. Intri pe [platformă](https://admitere.upt.ro) și încarci următoarele documente:
 
-<DocumentCheckbox text="Diploma de bacalaureat sau diploma echivalentă (a)"></DocumentCheckbox>
+<DocumentCheckbox text="Copie diplomă de licență sau diploma echivalentă (absolvenții promoției 2021 pot depune adeverința de absolvire)"></DocumentCheckbox>
 
-<DocumentCheckbox text="Foaia matricolă cu notele obținute pe parcursul liceului (b)"></DocumentCheckbox>
+<DocumentCheckbox text="Copie foaie matricolă cu notele obținute pe parcursul facultății"></DocumentCheckbox>
 
-<DocumentCheckbox text="Cartea de identitate a candidatului (c)"></DocumentCheckbox>
+<DocumentCheckbox text="Copie certificat de naștere"></DocumentCheckbox>
 
-<DocumentCheckbox text="Certificatul de naștere (d)"></DocumentCheckbox>
-
-<DocumentCheckbox text="Adeverința medicală eliberată de medicul de familie (e)"></DocumentCheckbox>
-
-<DocumentCheckbox text="Fotografie color tip diplomă (f)"></DocumentCheckbox>
+<DocumentCheckbox text="Adeverință medicală, eliberată de medicul de familie"></DocumentCheckbox>
 
 <DocumentCheckbox text="Dovada achitării taxei de înscriere"></DocumentCheckbox>
+
+<DocumentCheckbox text="Copie după declarația pe proprie răspundere autentificată de un notariat privind nefinanțarea/finanțarea anterioară de la bugetul statului român pentru urmarea de studii universitare de master (în cazul candidaților care au absolvit facultatea înainte de 2021)"></DocumentCheckbox>
 
 <Block color="yellow">
 
@@ -32,14 +30,8 @@ Dacă ești **absolvent** de **bacalaureat** în anul **2021**, **în țară**, 
 
 Necesare pentru situațiile deosebite, conform ghidului de admitere:
 
-* Beneficiezi de **taxă de scutire** (h)
-* Ești **olimpic** (b)
-* Ești **rrom** și vrei să intri pe locurile speciale (j)
-* Provii din sistem de **protecție socială** și vrei să intri pe locurile speciale (k)
-* Ai absolvit liceul **în 2021**, dar nu în țară (l-m)
-* Ai absolvit liceul **înainte de 2021** (n-p)
-* Candidezi la un program de studiu în **engleză sau germană** (q)
-* Ești **sportiv de performanță** și vrei să intri pe locurile speciale (r-w)
+* Beneficiezi de **taxă de scutire**
+* Ești **rrom** și vrei să intri pe locurile speciale
 
 </Block>
 
