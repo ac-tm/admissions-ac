@@ -2,7 +2,7 @@
 title: Securitatea Informațiilor și a Sistemelor Cibernetice
 description: Ai auzit de noul master de securitate? Hai să îți spunem noi mai
   multe detalii despre el!
-fullPath: master/specializari/securitatea-informatiilor-si-a-sistemelor-cibernetice
+fullPath: /securitatea-informatiilor-si-a-sistemelor-cibernetice
 ---
 Care-i schema la masterul de securitate? În primul rând, trebuie să știi că singura legătură a acestui program de studii cu SRI-ul (Sistemul Român de Informații) este limba română.  
 
