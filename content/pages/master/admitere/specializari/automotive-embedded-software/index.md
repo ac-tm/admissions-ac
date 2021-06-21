@@ -3,7 +3,7 @@ title: Automotive Embedded Software
 description: "Intră aici ca să te lămurim cu tot în legătură cu masterul AES! "
 image:
   src: ""
-fullPath: /automotive-embedded-software
+fullPath: master/admitere/specializari/automotive-embedded-software
 ---
 Care-i filmul cu masterul ăsta? Să vedeem... AES! **Automotive Embedded Software.** În primul rând, e un master în engleză, deci... Good luck with that!
 
