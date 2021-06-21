@@ -1,7 +1,7 @@
 ---
 title: Ingineria Sistemelor Automate
 description: "Intră aici ca să te lămurim cu tot în legătură cu masterul ISA de la AC! "
-fullPath: /ingineria-sistemelor-automate
+fullPath: master/admitere/specializari/ingineria-sistemelor-automate
 ---
 Care-i treaba cu masterul ISA? Ei bine, ISA vine de la Ingineria Sistemelor Automate și, cum numele masterului este în română, poți știi că ai scăpat de o grijă, nu e unul dintre masterele cu predare în engleză. 
 
