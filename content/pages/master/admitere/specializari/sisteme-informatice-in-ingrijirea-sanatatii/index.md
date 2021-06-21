@@ -1,7 +1,7 @@
 ---
 title: Sisteme Informatice în Îngrijirea Sănătății
 description: Cum stă treaba cu masterul SIIS? Accesează linkul și te lămurim!
-fullPath: /sisteme-informatice-in-ingrijirea-sanatatii
+fullPath: master/admitere/specializari/sisteme-informatice-in-ingrijirea-sanatatii
 ---
 Care-i schema la masterul de securitate? În primul rând, acest program de studii este în limba română, spre deosebire de masterele *AES*, *SE*, *ML*, *Cloud & IoT* sau *IT*. 
 
