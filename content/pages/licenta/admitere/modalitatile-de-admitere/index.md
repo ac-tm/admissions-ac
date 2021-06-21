@@ -1,6 +1,7 @@
 ---
 title: Modalitățile de admitere
-description: 1, 2, 3
+description: Îți punem la dispoziție 3 modalități de admitere. Îți revine ție
+  decizia de a o alege pe cea care te avantajează cel mai bine!
 fullPath: licenta/admitere/modalitatile-de-admitere
 ---
 În anul 2020 am lansat în **premieră națională** admiterea bazată pe **portofoliu de realizări**. Tocmai pentru că știm că unii sunt buni la **mate**, iar alții la **programare** am găsit o soluție care să împace și matematicienii, dar și programatorii. 
