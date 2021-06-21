@@ -2,7 +2,7 @@
 title: Tehnologii Informatice
 description: "Cum stă treaba cu masterul TI? Accesează linkul și vei afla tot ce
   te interesează! "
-fullPath: master/specializari/tehnologii-informatice
+fullPath: /tehnologii-informatice
 ---
 Care-i faza cu masterul *Tehnologii Informatice*? Lucrurile stau în felul următor: totul e fain și simplu, masterul fiind unul în limba română!
 
