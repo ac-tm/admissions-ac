@@ -9,10 +9,8 @@ fullPath: master/admitere/media-de-admitere
 
 Formula de calcul pentru media de admitere este: 
 
-<Fig src="/uploads/codecogseqn-1-.png" alt="undefined" caption="undefined"></Fig>
+<Fig src="/uploads/formula-media-admitere.png" alt="Formula de calcul pentru media de admitere la master" caption="Formula de calcul pentru media de admitere la master"></Fig>
 
 ## 1. Echivalarea notei de la interviu cu *Media Multianuală*
-
-
 
 ## 2. Interviu de evaluare a cunoștințelor
