@@ -2,9 +2,9 @@
 title: Tehnologii Informatice
 description: "Cum stă treaba cu masterul TI? Accesează linkul și vei afla tot ce
   te interesează! "
-fullPath: /tehnologii-informatice
+fullPath: master/admitere/specializari/tehnologii-informatice
 ---
-Care-i faza cu masterul *Tehnologii Informatice*? Lucrurile stau în felul următor: totul e fain și simplu, masterul fiind unul în limba română!
+Care-i faza cu masterul *Tehnologii Informatice*? Lucrurile stau în felul următor: totul e fain și simplu, masterul fiind unul în limba română! De asemenea, e singurul master de la domeniul *Informatică*.
 
 În fiecare semestru, vei avea o materie de cercetare, unde vei aprofunda noțiunile teoretice de la celelalte materii. Vorbim imediat și despre ele, dar stai să o lămurim pe-asta cu cercetarea. Aici vei citi articole de specialitate, le vei analiza, compara și vei 'cerceta' și tu la rândul tău! Ce zici? Sună bine, nu? 
 
