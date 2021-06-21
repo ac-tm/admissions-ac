@@ -1,7 +1,7 @@
 ---
 title: Information Technology
 description: Cum stă treaba cu masterul de IT? Accesează linkul și te lămurim!
-fullPath: /information-technology
+fullPath: master/admitere/specializari/information-technology
 ---
 Care-i faza cu masterul de IT? Primul lucru pe care trebuie să-l știi e că e un master de la CTI, deci e-n engleză! Good luck with that!
 
