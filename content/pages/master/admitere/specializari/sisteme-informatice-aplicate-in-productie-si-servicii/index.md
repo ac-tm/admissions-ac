@@ -1,7 +1,7 @@
 ---
 title: Sisteme Informatice Aplicate în Producție și Servicii
 description: "Cum stă treaba cu masterul SIAPS? Accesează linkul și vei afla mai multe! "
-fullPath: /sisteme-informatice-aplicate-in-productie-si-servicii
+fullPath: master/admitere/specializari/sisteme-informatice-aplicate-in-productie-si-servicii
 ---
 Care-i faza la masterul de SIAPS? Lucrurile stau în felul următor: totul e fain și simplu, masterul fiind unul în limba română!
 
