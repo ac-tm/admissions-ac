@@ -1,7 +1,7 @@
 ---
 title: Software Engineering
 description: "Care-i filmul cu masterul de SE? Accesează linkul și hai să te lămurim! "
-fullPath: master/specializari/software-engineering
+fullPath: /software-engineering
 ---
 Care-i filmul cu masterul de SE?\
 În primul rând, e un master de la CTI, deci e-n engleză! Good luck with that!
