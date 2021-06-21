@@ -3,7 +3,7 @@ title: Cloud Computing & Internet of Things
 description: "Care-i filmul cu masterul de Cloud? Accesează linkul și te lămurim! "
 image:
   src: ""
-fullPath: /cloud-computing-and-internet-of-things
+fullPath: master/admitere/specializari/cloud-computing-and-internet-of-things
 ---
 Care-i filmul cu masterul de Cloud și IoT? În primul rând, e un master de la CTI, deci e-n engleză! Good luck with that!
 
