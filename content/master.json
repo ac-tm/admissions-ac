@@ -33,7 +33,7 @@
       "description": "Lista întreagă de specializări",
       "cta": {
         "label": "Află mai multe!",
-        "path": "/master/specializari"
+        "path": "/master/admitere/specializari"
       },
       "items": [
         {
