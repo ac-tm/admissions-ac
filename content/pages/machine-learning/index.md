@@ -2,7 +2,7 @@
 title: Machine Learning
 description: Ai auzit de masterul de machine learning? Hai să îți spunem noi mai
   multe detalii despre el!
-fullPath: master/specializari/machine-learning
+fullPath: /machine-learning
 ---
 Care-i schema la masterul de machine learning? Cu ce crezi că vom începe? Da, ai prezis bine! Cu limba de predare. Fiind un master de la CTI, la ML, predarea se face în limba engleză! Good luck with that!
 
