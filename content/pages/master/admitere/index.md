@@ -8,20 +8,20 @@ Ne bucurăm că dorești să fii student la facultatea noastră! **Comunitatea A
 
 Află în continuare tot ce trebuie să știi înainte să te înscrii, documentele de care ai nevoie, dar și beneficiile și oportunitățile tale ca student al Facultății de Automatică și Calculatoare!
 
-1. **Domeniile în care te poți specializa.** Poți aprofunda cunoștințele tale la una din cele 10 specializări în cadrul facultății noastre, [află mai multe despre acesea](/licenta/admitere/specializari).
-2. **Decide cum dai admiterea.**
+1. **Domeniile în care te poți specializa.** Poți aprofunda cunoștințele tale la una din cele 10 specializări în cadrul facultății noastre, [află mai multe despre acestea](https://admitere.ac.upt.ro/master/admitere/specializari/).
+2. **Decide cum dai admiterea!**
 
    * **Tu decizi cum dai admitere!** Ai două variante: dai interviu online cu o comisie căreia să îi prezinți ce îți dorești să aprofundezi la master sau îți echivalezi această notă cu media multianuală de la licență (media notelor obținute pe parcursul anilor de licență). 
 
      Evaluează-te obiectiv și alege una dintre cele două posibilități care îți maximizează șansele.
    * În cazul în care provii de la o altă facultate sau de la o altă specializare (ai studiat la IS/Info și dorești să aplici la un master de la CTI sau invers), interviul este obligatoriu.
 
-   <Attachment label="Modalitățile de admitere" internal="licenta/admitere/modalitatile-de-admitere"></Attachment>
+   <Attachment label="Citește aici cum se calculează media de admitere!" internal="master/admitere/media-de-admitere"></Attachment>
 3. **Calendarul admiterii.** Chiar dacă admiterea este în vară, este important să te pregătești din timp! Notează-ți datele importante în calendar ca să nu le uiți.
 
-   <Attachment label="Calendarul admiterii" internal="licenta/admitere/calendarul-admiterii"></Attachment>
+   <Attachment label="Calendarul admiterii" internal="master/admitere/calendarul-admiterii-la-master-sesiunea-iulie-2021"></Attachment>
 4. **Documentele de care ai nevoie.** Ți-am pregătit o listă cu toate documentele de care ai nevoie pentru înscriere, să nu le lași pe ultima sută de metri!
 
-   <Attachment label="Lista de documente" internal="licenta/admitere/documente-necesare"></Attachment>
+   <Attachment label="Lista de documente" internal="master/admitere/documente-necesare22"></Attachment>
 5. **Aplicația de înscriere.** După ce ai rezolvat toate cele, vine momentul să accesezi [platforma](https://admitere.upt.ro) de înscrieri. Am pregătit un [ghid](https://www.upt.ro/Informatii_admitere-licenta_1536_ro.html) special pentru acesta în cazul în care apar nedumeriri.
 6. **Confirmarea locului de studiu.** După ce aflii că ai fost admis urmează runda de confirmări, iar dacă nu îți accepți locul prin confirmare, ești **out**.
