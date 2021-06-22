@@ -3,9 +3,8 @@ title: "Locuri alocate masterat "
 description: "Locuri alocate admiterii la masterat "
 fullPath: master/admitere/master
 ---
-**Locuri alocate admiterii la programele de studii de masterat – sesiunea iulie/septembrie 2021**
-
-**Facultatea de Automatică și Calculatoare**
+Locuri alocate admiterii la programele de studii de masterat – sesiunea iulie/septembrie 2021\
+Facultatea de Automatică și Calculatoare
 
 | Domeniul de studii universitare de masterat | Programul de studii universitare de masterat           | Locuri buget 2021 | Locuri taxă 2021 |
 | ------------------------------------------- | ------------------------------------------------------ | ----------------- | ---------------- |
