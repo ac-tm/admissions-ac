@@ -13,6 +13,6 @@ Opționalele sunt organizate pe track-uri. Adică o materie începută în primu
 
 Dacă te uiți atent peste planul de învățământ, vei vedea că există și o parte alocată 'practicii' de la master. Asta nu înseamnă că te vei angaja pe undeva pe post de cercetător, hai să nu ne grăbim! Citește [aici](https://ac.upt.ro/practica-master/) mai multe detalii și vezi că nu e așa complicat cum sună!
 
-Ca să-ți faci o idee despre materiile pe care le poți aprofunda la acest master, aruncă o privire aici:
+Ca să-ți faci o idee despre materiile pe care le poți aprofunda la acest master, aruncă o privire și [aici](https://ac.upt.ro/specializari/software-engineering-se/)! Uită-te peste planul de învățământ și fișa fiecărei discipline și convinge-te că va fi fain din toamnă la SE.
 
 <Fig src="/uploads/se.jpeg" alt="Ce poți aprofunda la masterul de SE?" caption="Ce poți aprofunda la masterul de SE?"></Fig>
