@@ -4,7 +4,7 @@ description: În cazul în care continui același domeniu de studii, îți punem
   dispoziție 2 modalități de admitere. Îți revine ție decizia de a o alege pe
   cea care te avantajează cel mai bine!
 image:
-  src: https://media.npr.org/branding/series/822013650/the-formula/branding_main-cfd6dafc8e39f40a19cd1eb10321f2868db75d26.png
+  src: /uploads/formula.jpg
 fullPath: master/admitere/media-de-admitere
 ---
 În anul 2020 am lansat o **nouă formulă a mediei de admitere**, recunoscând munca și efortul depus în decursul anilor de **licență**. În cazul în care continui același domeniu de studii, îți punem la dispoziție 2 modalități de admitere. Îți revine ție decizia de a o alege pe cea care te avantajează cel mai bine!
