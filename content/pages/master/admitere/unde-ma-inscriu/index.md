@@ -1,6 +1,8 @@
 ---
 title: Unde mă înscriu?
 description: Zilele astea totul se face online, nu?
+image:
+  src: https://www.techadvisor.com/cmsdata/slideshow/3378548/best-kids-tablets_thumb1200_4-3.jpg
 fullPath: master/admitere/unde-ma-inscriu
 ---
 **Înscrierea se face, bineînțeles, online!** În cazul în care apar probleme de genul: lipsa internetului sau apar orice probleme, nu ezita să ne contactezi.
