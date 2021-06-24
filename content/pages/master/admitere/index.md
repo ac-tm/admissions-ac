@@ -14,7 +14,7 @@ Află în continuare tot ce trebuie să știi înainte să te înscrii, document
    * **Tu decizi cum dai admitere!** Ai două variante: dai interviu online cu o comisie căreia să îi prezinți ce îți dorești să aprofundezi la master sau îți echivalezi această notă cu media multianuală de la licență (media notelor obținute pe parcursul anilor de licență). 
 
      Evaluează-te obiectiv și alege una dintre cele două posibilități care îți maximizează șansele.
-   * În cazul în care provii de la o altă facultate sau de la o altă specializare (ai studiat la IS/Info și dorești să aplici la un master de la CTI sau invers), interviul este obligatoriu.
+   * În cazul în care provii de la o altă facultate sau de la o altă specializare (ai studiat la IS/Info și dorești să aplici la un master de la CTI sau invers), interviul este obligatoriu. Dar nu îți face griji, nu va fi așa de complicat, îți povestim noi și despre el.
 
    <Attachment label="Citește aici cum se calculează media de admitere!" internal="master/admitere/media-de-admitere"></Attachment>
 3. **Calendarul admiterii.** Chiar dacă admiterea este în vară, este important să te pregătești din timp! Notează-ți datele importante în calendar ca să nu le uiți.
