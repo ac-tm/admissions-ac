@@ -1,8 +1,7 @@
 ---
 title: Media de admitere
-description: În cazul în care continui același domeniu de studii, îți punem la
-  dispoziție 2 modalități de admitere. Îți revine ție decizia de a o alege pe
-  cea care te avantajează cel mai bine!
+description: În cazul în care continui același domeniu de studii, poți alege
+  care modalitate de admitere te avantajează!
 image:
   src: /uploads/formula.jpg
 fullPath: master/admitere/media-de-admitere
