@@ -15,9 +15,11 @@ export default defineComponent({
   props: {
     hero: { type: Object as PropType<Hero>, required: true }
   },
-  setup (props) {
+  setup(props) {
     const canShowNotification = () => {
-      if (!props.hero.notification) { return false }
+      if (!props.hero.notification) {
+        return false
+      }
 
       const today = new Date()
       const start = new Date(props.hero.notification.showAt)
@@ -37,11 +39,19 @@ export default defineComponent({
     <Row flex>
       <Button
         v-if="hero.notification && canShowNotification()"
-        :to="hero.notification.path + '/'"
-        theme="secondary"
+        :to="
+          hero.notification.path +
+          (hero.notification.path.endsWith('/') ? '' : '/')
+        "
+        theme="light"
         size="sm"
         rounded
       >
+        <div class="w-4 h-4 relative flex items-center justify-center mr-2">
+          <div class="w-2 h-2 absolute rounded-full bg-red-500 animate-ping" />
+          <div class="w-2 h-2 absolute rounded-full bg-red-500" />
+        </div>
+
         {{ hero.notification.label }}
 
         <i class="gg-arrow-right ml-2" />
@@ -52,17 +62,24 @@ export default defineComponent({
       :class="[
         'max-w-[10ch]',
         'font-hero text-5xl md:text-6xl lg:text-8xl',
-        'text-primary dark:text-gray-100 tracking-tighter leading-none transition',
+        'text-primary dark:text-gray-100 tracking-tighter leading-none transition'
       ]"
       v-html="hero.title"
     />
 
-    <p class="max-w-[40ch] text-base sm:text-lg text-gray-700 dark:text-gray-100 transition">
+    <p
+      class="max-w-[40ch] text-base sm:text-lg text-gray-700 dark:text-gray-100 transition"
+    >
       {{ hero.copy }}
     </p>
 
     <Row v-if="!hero.comingSoon || !hero.comingSoon.show" flex>
-      <Button :to="hero.cta.path + '/'" theme="primary" size="lg" class="mr-4 mb-4">
+      <Button
+        :to="hero.cta.path + '/'"
+        theme="primary"
+        size="lg"
+        class="mr-4 mb-4"
+      >
         {{ hero.cta.label }}
       </Button>
       <Button :to="hero.ctaSecondary.path + '/'" size="lg" class="!ml-0">
@@ -71,7 +88,9 @@ export default defineComponent({
     </Row>
 
     <Row v-else flex as="div" class="flex-row justify-start">
-      <div class="flex items-center space-x-4 p-3 rounded-lg bg-primary dark:bg-secondary bg-opacity-75 font-bold !text-white">
+      <div
+        class="flex items-center space-x-4 p-3 rounded-lg bg-primary dark:bg-secondary bg-opacity-75 font-bold !text-white"
+      >
         <i class="gg-info" />
         <p class="text-white">
           {{ hero.comingSoon.message }}
@@ -91,32 +110,32 @@ export default defineComponent({
   box-sizing: border-box;
   position: relative;
   display: block;
-  transform: scale(var(--ggs,1));
+  transform: scale(var(--ggs, 1));
   width: 20px;
   height: 20px;
   border: 2px solid;
-  border-radius: 40px
+  border-radius: 40px;
 }
 
 .gg-info::after,
 .gg-info::before {
-  content: "";
+  content: '';
   display: block;
   box-sizing: border-box;
   position: absolute;
   border-radius: 3px;
   width: 2px;
   background: currentColor;
-  left: 7px
+  left: 7px;
 }
 
 .gg-info::after {
   bottom: 2px;
-  height: 8px
+  height: 8px;
 }
 
 .gg-info::before {
   height: 2px;
-  top: 2px
+  top: 2px;
 }
 </style>

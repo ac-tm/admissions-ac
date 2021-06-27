@@ -10,6 +10,7 @@ import {
   locations,
   timeline
 } from './collections'
+
 import { preSaveLocation, preSavePage } from './hooks'
 
 import {
@@ -24,8 +25,7 @@ import {
   Timeline
 } from './editor-widgets'
 
-// eslint-disable-next-line space-before-function-paren
-export function init(options?: { baseURL?: string; localBackend?: boolean }) {
+export function init (options?: { baseURL?: string; localBackend?: boolean }) {
   if (!window) {
     return
   }
@@ -52,7 +52,9 @@ export function init(options?: { baseURL?: string; localBackend?: boolean }) {
       load_config_file: false,
       display_url: options?.baseURL,
       site_url: options?.baseURL,
-      publish_mode: 'editorial_workflow',
+
+      // Enable this only when mass editing is needed.
+      // publish_mode: 'editorial_workflow',
 
       local_backend: options?.localBackend || true,
       backend: {

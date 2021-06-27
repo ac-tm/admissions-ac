@@ -25,7 +25,7 @@ const hero = object('Hero', 'hero', [
   ]),
   object('Buton principal', 'cta', cta),
   object('Buton secundar', 'ctaSecondary', cta),
-  object('Notificare', 'notification', [
+  object('Live update', 'notification', [
     string('Mesaj', 'label', { required: false }),
     string('Link', 'path', { required: false }),
     datetime('Afișează de la data', 'showAt', { required: false }),

@@ -16,7 +16,7 @@ export const imageBlock = object(
 
 export const richEditorBlock = markdown('Conținut', 'body', {
   required: false,
-  modes: ['rich_text'],
+  modes: ['rich_text', 'raw'],
   buttons: [
     'heading-one',
     'heading-two',

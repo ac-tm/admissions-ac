@@ -6,10 +6,10 @@
   },
   "hero": {
     "notification": {
-      "showAt": "2021-04-17T18:04:57.347Z",
-      "hideAt": "2021-05-31T21:00:50.328Z",
-      "label": "Anunțuri",
-      "path": "https://ac.upt.ro/anunturi/"
+      "showAt": "2021-06-27T16:40:51.101Z",
+      "hideAt": "2021-08-06T21:00:50.328Z",
+      "label": "Live update",
+      "path": "/master/admitere/ultimele-anunturi"
     },
     "title": "Nicăieri nu e ca la AC, <em>nici măcar acasă</em>.",
     "copy": "Inovează și proiectează-te în viitor – 2 pași spre succes prin Automatică și Calculatoare.                                          ",
