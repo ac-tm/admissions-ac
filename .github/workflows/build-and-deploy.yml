@@ -13,20 +13,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+
       - uses: actions/setup-node@v2
         with:
           node-version: '12'
-
-      - uses: c-hive/gha-npm-cache@v1
-
-      - name: Install deps
-        run: npm install
-
-      - name: Generate static build
-        run: npm run generate
-        env:
-          NODE_ENV: production
-          URL: https://admitere-next.netlify.app
 
       - name: Docker login
         run: docker login -u $DOCKER_USER -p $DOCKER_PASSWORD
@@ -34,6 +24,19 @@ jobs:
           DOCKER_USER: ${{ secrets.DOCKER_USERNAME }}
           DOCKER_PASSWORD: ${{ secrets.DOCKER_PASSWORD }}
 
+      - uses: actions/cache@v2
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: ${{ runner.os }}-node-
+        name: Install deps
+        run: npm install
+
+      - name: Generate static build
+        run: npm run generate
+        env:
+          NODE_ENV: production
+          URL: https://admitere-next.netlify.app
 
       - name: Build image
         run: |
