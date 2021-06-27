@@ -18,18 +18,19 @@ jobs:
         with:
           node-version: '12'
 
+      - uses: actions/cache@v2
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: ${{ runner.os }}-node-
+
       - name: Docker login
         run: docker login -u $DOCKER_USER -p $DOCKER_PASSWORD
         env:
           DOCKER_USER: ${{ secrets.DOCKER_USERNAME }}
           DOCKER_PASSWORD: ${{ secrets.DOCKER_PASSWORD }}
 
-      - uses: actions/cache@v2
-        with:
-          path: ~/.npm
-          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
-          restore-keys: ${{ runner.os }}-node-
-        name: Install deps
+      - name: Install deps
         run: npm install
 
       - name: Generate static build
