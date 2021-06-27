@@ -20,9 +20,8 @@ jobs:
 
       - uses: actions/cache@v2
         with:
-          path: ~/.npm
+          path: node_modules
           key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
-          restore-keys: ${{ runner.os }}-node-
 
       - name: Docker login
         run: docker login -u $DOCKER_USER -p $DOCKER_PASSWORD
@@ -32,6 +31,7 @@ jobs:
 
       - name: Install deps
         run: npm install
+        if: steps.node_modules_cache.outputs.cache-hit != 'true'
 
       - name: Generate static build
         run: npm run generate
