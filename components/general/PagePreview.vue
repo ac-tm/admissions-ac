@@ -43,7 +43,7 @@ export default defineComponent({
         :alt="page.image.alt || 'hidden'"
         width="400"
         height="400"
-        class="rounded-lg h-full w-full"
+        class="rounded-lg h-full w-full object-cover"
         fit="cover"
         loading="lazy"
         aria-hidden="true"

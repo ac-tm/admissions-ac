@@ -34,12 +34,12 @@ export default defineComponent({
       <div v-if="image" class="h-16 w-16 ml-4">
         <NuxtImg
           :src="image"
-          fit="cover"
           width="64"
           height="64"
+          fit="cover"
           loading="lazy"
           :alt="`Fotografie cu ${author}`"
-          class="h-full w-full rounded-full border-2 border-white"
+          class="h-full w-full rounded-full border-2 border-white object-cover"
         />
       </div>
     </figcaption>
