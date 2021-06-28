@@ -82,10 +82,12 @@ export default defineNuxtConfig({
   },
 
   googleFonts: {
+    download: true,
+    base64: true,
+    inject: true,
     families: {
       'Work+Sans': [400, 500, 600, 700]
-    },
-    display: 'swap'
+    }
   },
 
   build: {
