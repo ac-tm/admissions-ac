@@ -13,7 +13,7 @@ export default defineComponent({
   props: {
     slug: { type: String, required: true }
   },
-  setup (props) {
+  setup(props) {
     const { $content } = useContext()
 
     const page = useAsync(async () => {
@@ -43,8 +43,9 @@ export default defineComponent({
         :alt="page.image.alt"
         width="400"
         height="400"
-        class="object-cover rounded-lg h-full w-full"
+        class="rounded-lg h-full w-full"
         fit="cover"
+        loading="lazy"
       />
     </figure>
 

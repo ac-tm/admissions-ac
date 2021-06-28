@@ -13,9 +13,16 @@ export default defineComponent({
 <template>
   <div class="w-full my-8">
     <figure>
-      <NuxtImg :src="src" :alt="alt" width="900" fit="cover" class="rounded-lg" />
+      <NuxtImg
+        :src="src"
+        :alt="alt"
+        width="900"
+        fit="cover"
+        loading="lazy"
+        class="rounded-lg"
+      />
 
-      <figcaption v-if="caption || caption !=='undefined'" class="mx-auto">
+      <figcaption v-if="caption || caption !== 'undefined'" class="mx-auto">
         {{ caption }}
       </figcaption>
     </figure>
