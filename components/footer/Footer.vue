@@ -1,5 +1,13 @@
 <script lang="ts">
-import { defineComponent, useAsync, useContext, onMounted, ref, useRoute, watch } from '@nuxtjs/composition-api'
+import {
+  defineComponent,
+  useAsync,
+  useContext,
+  onMounted,
+  ref,
+  useRoute,
+  watch
+} from '@nuxtjs/composition-api'
 import { Logo } from '@/components/logo'
 import ThemeSwitcher from './ThemeSwitcher.vue'
 
@@ -11,7 +19,7 @@ export default defineComponent({
     ThemeSwitcher,
     Logo
   },
-  setup () {
+  setup() {
     const { $content } = useContext()
     const route = useRoute()
 
@@ -19,7 +27,8 @@ export default defineComponent({
     const hitsGraphUrl = ref<string>()
     const setHits = () => {
       const svg = 'https://hits.seeyoufarm.com/api/count/incr/badge.svg'
-      const options = '&count_bg=%23212750&title_bg=%23212750&icon=&icon_color=%23E7E7E7&title=Acces%C4%83ri&edge_flat=false'
+      const options =
+        '&count_bg=%23212750&title_bg=%23212750&icon=&icon_color=%23E7E7E7&title=Acces%C4%83ri&edge_flat=false'
 
       const url = location.href.replace(':', '%3A').replace(/\//g, '%2F')
       const image = svg + '?url=' + url + options
@@ -68,8 +77,17 @@ export default defineComponent({
             &copy; Facultatea de Automatică și Calculatoare
           </span>
 
-          <a v-if="hitsUrl" :href="hitsGraphUrl" class="opacity-0 hover:opacity-100 transition">
-            <img :src="hitsUrl" alt="hits" aria-hidden role="presentation">
+          <a
+            v-if="hitsUrl"
+            :href="hitsGraphUrl"
+            class="opacity-0 hover:opacity-100 transition"
+          >
+            <img
+              :src="hitsUrl"
+              alt="hits"
+              aria-hidden="true"
+              role="presentation"
+            />
           </a>
         </div>
       </section>
@@ -150,7 +168,8 @@ export default defineComponent({
               target="_blank"
               rel="noopener noreferrer"
               class="underline"
-            >{{ link.label }}</a>
+              >{{ link.label }}</a
+            >
           </li>
           <li>
             <nuxt-link to="/sitemap" class="underline">

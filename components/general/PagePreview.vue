@@ -40,12 +40,13 @@ export default defineComponent({
     <figure v-if="page.image" class="w-full lg:w-1/3 h-full">
       <NuxtImg
         :src="page.image.src"
-        :alt="page.image.alt"
+        :alt="page.image.alt || 'hidden'"
         width="400"
         height="400"
         class="rounded-lg h-full w-full"
         fit="cover"
         loading="lazy"
+        aria-hidden="true"
       />
     </figure>
 

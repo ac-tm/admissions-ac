@@ -8,7 +8,7 @@ export default defineComponent({
     UPT,
     UPTShort
   },
-  setup () {
+  setup() {
     return {}
   }
 })
@@ -22,7 +22,7 @@ export default defineComponent({
       <h1 class="text-sm lg:text-base font-medium text-white !leading-none">
         Admiterea la Facultatea de
 
-        <br>
+        <br />
 
         <a
           href="https://ac.upt.ro"
@@ -39,6 +39,7 @@ export default defineComponent({
         target="_blank"
         rel="noopener noreferrer"
         class="h-full flex"
+        name="Spre site-ul UPT"
       >
         <UPT class="h-full text-white hidden md:flex -mr-px" />
 

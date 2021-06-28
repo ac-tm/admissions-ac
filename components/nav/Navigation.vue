@@ -66,8 +66,8 @@ export default defineComponent({
       <div
         class="h-full flex items-center place-self-center"
       >
-        <Logo aria-hidden role="presentation" class="h-8 hidden md:block" />
-        <Logomark aria-hidden role="presentation" class="h-6 md:hidden" />
+        <Logo aria-hidden="true" role="presentation" class="h-8 hidden md:block" />
+        <Logomark aria-hidden="true" role="presentation" class="h-6 md:hidden" />
       </div>
 
       <div v-if="cta" class="place-self-end h-full flex items-center ">

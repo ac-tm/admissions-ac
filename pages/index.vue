@@ -18,7 +18,7 @@ export default defineComponent({
   },
   layout: 'simple',
   transition: 'fade',
-  setup () {
+  setup() {
     const route = useRoute()
     const { $content } = useContext()
 
@@ -58,7 +58,10 @@ export default defineComponent({
 </script>
 
 <template>
-  <div v-if="site" class="container min-h-screen flex flex-1 sm:-mt-14 mt-4 items-center">
+  <div
+    v-if="site"
+    class="container min-h-screen flex flex-1 sm:-mt-14 mt-4 items-center"
+  >
     <div
       v-if="site.licenta && site.master"
       class="mx-auto max-w-2xl grid gap-8 sm:grid-cols-2"
@@ -78,10 +81,10 @@ export default defineComponent({
           <img
             :src="link.image"
             :alt="`Ilustrație ${link.title}`"
-            aria-hidden
+            aria-hidden="true"
             role="presentation"
             class="object-contain"
-          >
+          />
         </figure>
 
         <h2 class="text-2xl font-bold tracking-tight dark:text-white">
