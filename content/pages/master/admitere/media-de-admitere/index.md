@@ -25,4 +25,6 @@ Așa cum îți spuneam, în cazul în care dorești să continui același domeni
 
 ## 2. Interviu de evaluare a cunoștințelor
 
-Hai să dezvăluim și un **secret** (dar să nu mai spui la nimeni): dacă într-adevăr ești *bun* la domeniul pentru care aplici, ai deja o idee despre ce îți dorești să studiezi și îți pregătești o prezentare care să ne convingă că vei pregăti o lucrare de disertație cel puțin la fel de bine față de cum te-ai pregătit la licență, comisia își dă seama rapid și te va nota pe măsură. Nu trebuie să te stresezi dacă faci o mică greșeală sau dacă nu știi să răspunzi la unele întrebări. Din experiența anilor trecuți, **o prezentare bună vorbește de la sine**, iar interviul este o formalitate și se încheie cu o notă bună.
+Hai să dezvăluim și un **secret** (dar să nu mai spui la nimeni): dacă într-adevăr ești *bun* la domeniul pentru care aplici, ai deja o idee despre ce îți dorești să studiezi și îți pregătești o prezentare care să ne convingă că vei pregăti o lucrare de disertație cel puțin la fel de bine față de cum te-ai pregătit la licență, comisia își dă seama rapid și te va nota pe măsură. Nu trebuie să te stresezi dacă faci o mică greșeală sau dacă nu știi să răspunzi la unele întrebări. 
+
+Pregătește-ți un discurs în care să prezinți ce îți dorești să aprofundezi la master, care sunt domeniile tale de interes, la ce domeniu de cercetare te-ai gândit, ce ți-ai dori să dezvolți la lucrarea de disertație. Din experiența anilor trecuți, **o prezentare bună vorbește de la sine**, iar interviul este o formalitate și se încheie cu o notă bună.
