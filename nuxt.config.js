@@ -1,6 +1,4 @@
-import { defineNuxtConfig } from '@nuxtjs/composition-api'
-
-export default defineNuxtConfig({
+export default {
   target: 'static',
   generate: {
     fallback: true,
@@ -40,7 +38,7 @@ export default defineNuxtConfig({
     '@nuxt/postcss8',
     '@nuxt/typescript-build',
     '@nuxt/image',
-    '@nuxtjs/composition-api',
+    '@nuxtjs/composition-api/module',
     '@nuxtjs/tailwindcss',
     '@nuxtjs/google-fonts',
     '@nuxtjs/color-mode'
@@ -97,4 +95,4 @@ export default defineNuxtConfig({
       }
     }
   }
-})
+}
