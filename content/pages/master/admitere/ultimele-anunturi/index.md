@@ -9,6 +9,9 @@ fullPath: master/admitere/ultimele-anunturi
 
 Fii cu ochii pe această pagină!
 
----
+- - -
 
-Candidați înscriși la sfârșitul zilei de 28 iunie: 18.
+| Dată       | Număr candidați înscriși până la finalul zilei |
+| ---------- | ---------------------------------------------- |
+| 28.06.2021 | 18                                             |
+| 29.06.2021 |                                                |
