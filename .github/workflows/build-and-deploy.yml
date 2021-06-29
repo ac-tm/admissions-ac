@@ -30,9 +30,7 @@ jobs:
           DOCKER_PASSWORD: ${{ secrets.DOCKER_PASSWORD }}
 
       - name: Install deps
-        run: |
-          rm -rf node_modules
-          npm install
+        run: rm -rf node_modules && npm install
         if: steps.node_modules_cache.outputs.cache-hit != 'true'
 
       - name: Generate static build
