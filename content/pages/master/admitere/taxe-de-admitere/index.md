@@ -21,6 +21,6 @@ Taxele de admitere (înscriere/confirmare) se pot plăti:
 
 Universitatea Politehnica Timișoara\
 Cod FISCAL: **4269282**\
-Cont IBAN: ** RO90 BACX 0000 0030 1782 5061**  - Taxe de MASTER prin Ordin de plată
+Cont IBAN:  **RO90 BACX 0000 0030 1782 5061**  —  Taxe de MASTER prin Ordin de plată
 
-În situația plății în contul UniCredit, dovada plății va trebui să conțină următorul text: **”Taxă de înscriere/confirmare admitere la...** (se va menționa [acronimul facultății](http://www.upt.ro/img/files/2019-2020/admitere/licenta/Acronime_facultati.pdf))**pentru*...***(se va menționa numele complet al candidatului)”, de exemplu: **Taxă de înscriere la AC pentru RUSU Adrian**
+În situația plății în contul UniCredit, dovada plății va trebui să conțină următorul text: ”**Taxă de înscriere/confirmare admitere la**... (se va menționa [acronimul facultății](http://www.upt.ro/img/files/2019-2020/admitere/licenta/Acronime_facultati.pdf)) **pentru***...* (se va menționa numele complet al candidatului)”, de exemplu: **Taxă de înscriere la AC pentru RUSU Adrian**
