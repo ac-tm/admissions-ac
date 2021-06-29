@@ -8,3 +8,7 @@ fullPath: master/admitere/ultimele-anunturi
 ### Odată începute înscrierile, aici vom posta diferite noutăți, update-uri și, eventuale modificări!
 
 Fii cu ochii pe această pagină!
+
+---
+
+Candidați înscriși la sfârșitul zilei de 28 iunie: 18.
