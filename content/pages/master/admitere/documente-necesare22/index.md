@@ -39,7 +39,7 @@ Necesare pentru situațiile deosebite, conform ghidului de admitere:
 
 *Pentru candidații care doresc să se înscrie doar la forma cu taxă, în dosarul de înscriere fizic nu sunt necesare documente în original.*
 
-Odată ce ești declarat admis, pentru a-ți confirma locul, e necesar să depui la dosar, **în original**, următoarele documente:
+Odată ce ești declarat admis, pentru a-ți confirma locul, e necesar să achiți taxa de confirmare (**100 lei**) și să depui la dosar, **în original**, următoarele documente:
 
 <DocumentCheckbox text="Diplomă de licență/diplomă echivalentă sau adeverința de absolvire pentru absolvenții promoției 2021 (pentru candidații admiși la buget) (a)"></DocumentCheckbox>
 
