@@ -2,6 +2,9 @@
 title: Taxe de admitere
 description: Află acum cât ai de achitat pentru a candida pentru unul din
   locurile use la bătaie!
+image:
+  src: https://payspacemagazine.com/wp-content/uploads/2018/10/taxes.jpg
+  alt: Taxe de admitere
 fullPath: licenta/admitere/taxe-de-admitere
 ---
 *La licență*,[taxele de admitere](http://www.upt.ro/img/files/hca/2021/HCA44_14.04.2021_taxe_admitere_pt_anul_2021-2022.pdf) percepute pentru anul universitar 2021 - 2022 sunt:
