@@ -11,7 +11,4 @@ Fii cu ochii pe această pagină!
 
 - - -
 
-| Dată       | Număr candidați înscriși până la finalul zilei |
-| ---------- | ---------------------------------------------- |
-| 28.06.2021 | 18                                             |
-| 29.06.2021 |                                                |
+Candidați înscriși la finalul zilei de 29 iunie: 22.
