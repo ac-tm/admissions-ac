@@ -11,4 +11,4 @@ Fii cu ochii pe această pagină!
 
 - - -
 
-Candidați înscriși la finalul zilei de 29 iunie: 35.
+Candidați înscriși la finalul zilei de 30 iunie: 47.
