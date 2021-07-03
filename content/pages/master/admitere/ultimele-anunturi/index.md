@@ -11,8 +11,8 @@ Fii cu ochii pe această pagină!
 
 - - -
 
-Candidați înscriși la finalul zilei de 30 iunie: 47.
+Candidați înscriși la finalul zilei de 2 iulie: 182.
 
 Candidați cu probleme/lipsă acte la dosar:
-
 * [Candidați care au specificat ca primă opțiune una dintre specializările organizate de Departamentul Calculatoare și Tehnologia Informației](https://docs.google.com/spreadsheets/d/1I6bQHahUGYQxD4p3KDrnYspPQg8kKjCebifGIrOFiy0/edit?usp=sharing) (ML, CCIT, IT, SE)
+* [Candidați care au specificat ca primă opțiune una dintre specializările organizate de Departamentul Automatică și Informatică Aplicată](https://docs.google.com/spreadsheets/d/e/2PACX-1vTCZZozrWq1s1bYkMeLCOmNyzWXTHOm6X1SwYhlCT2jNSBWH-qpOuBwG0czHcXBF_IG_1rYY_egeJ4g/pubhtml?gid=0&single=true) (AES, ISA, SIAPS, SIIS, SISC, TI)
