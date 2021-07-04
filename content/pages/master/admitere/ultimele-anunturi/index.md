@@ -20,10 +20,10 @@ Candidați cu **probleme**/lipsă acte la dosar:
 
 ## Liste de verificare ##
 
-Candidații sunt obligați să verifice in listele de mai jos validitatea datelor de concurs. Eventualele contestații, pe adresa secretariatului care gestionează programul pe care l-ați precizat ca primă opțiune. Termen: **luni, 5 iulie 2021, ora 9:00**.
+Candidații sunt obligați să verifice in listele de mai jos validitatea datelor de concurs. Eventualele contestații, pe adresa secretariatului care gestionează programul pe care l-ați precizat ca primă opțiune. 
 
-- [Candidații cu prima opțiune **CCIoT, IT, ML, sau SE**](). Adresă secretariat: secretariat@cs.upt.ro
-- [Candidații cu prima opțiune **AES, ISA, SIAPS, SIIS, SISC, sau TI**](https://docs.google.com/spreadsheets/d/e/2PACX-1vTIfY-XrAPzGcS-HSkesZl2IKVxD5b_xV8ldr7zitdUw2rZOp39OMC7H5B1JfqzmhEc5gbeRSv24Lkn/pubhtml?gid=0&single=true). Adresă secretariat: secretariat.admitere@aut.upt.ro
+- [Candidații cu prima opțiune **CCIoT, IT, ML, sau SE**](). Vă rugăm reveniți. Adresă secretariat: secretariat@cs.upt.ro
+- [Candidații cu prima opțiune **AES, ISA, SIAPS, SIIS, SISC, sau TI**](https://docs.google.com/spreadsheets/d/e/2PACX-1vTIfY-XrAPzGcS-HSkesZl2IKVxD5b_xV8ldr7zitdUw2rZOp39OMC7H5B1JfqzmhEc5gbeRSv24Lkn/pubhtml?gid=0&single=true). Termen: **luni, 5 iulie 2021, ora 9:00**. Adresă secretariat: secretariat.admitere@aut.upt.ro
 
 
 ## Programarea la interviu ##
