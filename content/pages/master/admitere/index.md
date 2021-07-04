@@ -25,3 +25,7 @@ Află în continuare tot ce trebuie să știi înainte să te înscrii, document
    <Attachment label="Lista de documente" internal="master/admitere/documente-necesare22"></Attachment>
 5. **Aplicația de înscriere.** După ce ai rezolvat toate cele, vine momentul să accesezi [platforma](https://admitere.upt.ro) de înscrieri. Am pregătit un [ghid](https://www.upt.ro/Informatii_admitere-licenta_1536_ro.html) special pentru acesta în cazul în care apar nedumeriri.
 6. **Confirmarea locului de studiu.** După ce aflii că ai fost admis urmează runda de confirmări, iar dacă nu îți accepți locul prin confirmare, ești **out**.
+
+- - -
+
+<Attachment label="Metodologia de organizare și desfășurare a concursului de admitere" file="/uploads/metadmmaster-fac-ac-2021.pdf"></Attachment>
