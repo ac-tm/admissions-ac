@@ -13,7 +13,7 @@ fullPath: master/admitere/media-de-admitere
 * Ma – media *finală* de admitere
 * Md – Media examenului de diplomă/licenţă
 * Ni – nota de la interviu sau media multianuală
-* k – coeficient cu valoarea între 0 şi 5, exprimă corelația dintre domeniul de licență absolvit și domeniul de master pentru care aplici
+* k – coeficient cu valoarea între 0 şi 5, exprimă corelația dintre domeniul de licență absolvit și domeniul de master pentru care aplici (vezi [ultima pagina din metodologie](/uploads/metadmmaster-fac-ac-2021.pdf))
 
 <Fig src="/uploads/formula-media-admitere.png" alt="Formula de calcul pentru media de admitere la master" caption="Formula de calcul pentru media de admitere la master"></Fig>
 
