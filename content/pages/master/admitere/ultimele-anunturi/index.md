@@ -19,10 +19,11 @@ Candidați cu probleme/lipsă acte la dosar:
 * [Candidați care au specificat ca primă opțiune una dintre specializările organizate de Departamentul Automatică și Informatică Aplicată](https://docs.google.com/spreadsheets/d/e/2PACX-1vTCZZozrWq1s1bYkMeLCOmNyzWXTHOm6X1SwYhlCT2jNSBWH-qpOuBwG0czHcXBF_IG_1rYY_egeJ4g/pubhtml?gid=0&single=true) (AES, ISA, SIAPS, SIIS, SISC, TI)
 
 ## Liste de verificare ##
-Candidatii sunt obligati sa verifice in listele de mai jos validitatea datelor de concurs. Eventualele contestatii, pe adresa secretariatului care gestioneaza programul pe care l-ati precizat ca prima optiune. Termen: luni, 5 iulie 2021, ora 9:00.
-- 
-[Candidatii cu prima optiune ML, SE, IT sau CCIOT](https://docs.google.com/spreadsheets/d/e/2PACX-1vTIfY-XrAPzGcS-HSkesZl2IKVxD5b_xV8ldr7zitdUw2rZOp39OMC7H5B1JfqzmhEc5gbeRSv24Lkn/pubhtml?gid=0&single=true). Adresa secretariat: secretariat@cs.upt.ro
-- [Candidatii cu prima optiune AES, ISA, SIAPS, SIIS, SISC, sau TI](https://docs.google.com/spreadsheets/d/e/2PACX-1vTIfY-XrAPzGcS-HSkesZl2IKVxD5b_xV8ldr7zitdUw2rZOp39OMC7H5B1JfqzmhEc5gbeRSv24Lkn/pubhtml?gid=0&single=true). Adresa secretariat: secretariat.admitere@aut.upt.ro
+
+Candidații sunt obligați să verifice in listele de mai jos validitatea datelor de concurs. Eventualele contestații, pe adresa secretariatului care gestionează programul pe care l-ați precizat ca primă opțiune. Termen: **luni, 5 iulie 2021, ora 9:00**.
+
+- [Candidații cu prima opțiune ML, SE, IT sau CCIOT](https://docs.google.com/spreadsheets/d/e/2PACX-1vTIfY-XrAPzGcS-HSkesZl2IKVxD5b_xV8ldr7zitdUw2rZOp39OMC7H5B1JfqzmhEc5gbeRSv24Lkn/pubhtml?gid=0&single=true). Adresă secretariat: secretariat@cs.upt.ro
+- [Candidații cu prima opțiune AES, ISA, SIAPS, SIIS, SISC, sau TI](https://docs.google.com/spreadsheets/d/e/2PACX-1vTIfY-XrAPzGcS-HSkesZl2IKVxD5b_xV8ldr7zitdUw2rZOp39OMC7H5B1JfqzmhEc5gbeRSv24Lkn/pubhtml?gid=0&single=true). Adresă secretariat: secretariat.admitere@aut.upt.ro
 
 
 ## Programarea la interviu ##
