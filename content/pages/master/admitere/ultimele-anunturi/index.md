@@ -30,4 +30,4 @@ Candidații sunt obligați să verifice in listele de mai jos validitatea datelo
 Vă rugăm reveniți pentru detalii despre organizarea interviului de admitere.
 
 * [Candidații cu prima opțiune **AES, ISA, SIAPS, SIIS, SISC, sau TI**](https://docs.google.com/spreadsheets/d/e/2PACX-1vT_nsYX8D4eUvYAHxDeril84ZGX89_Tqyo1IDB0ZWQijLJ_IC8OnQMb43yLGsLUbY6Iw1FTP1W3CsWi/pubhtml?gid=1047737596&single=true).
-* [Candidații cu prima opțiune **CCIoT, IT, ML, sau SE**](<>). Interviul va avea loc marți. Vă rugăm reveniți.
+* [Candidații cu prima opțiune **CCIoT, IT, ML, sau SE**](https://vision.cs.upt.ro/index.php/s/SrZrdDo8kaktir6). Interviul va avea loc **marți, 06.07.2021**.
