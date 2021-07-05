@@ -31,3 +31,11 @@ Vă rugăm reveniți pentru detalii despre organizarea interviului de admitere.
 
 * [Candidații cu prima opțiune **AES, ISA, SIAPS, SIIS, SISC, sau TI**](https://docs.google.com/spreadsheets/d/e/2PACX-1vT_nsYX8D4eUvYAHxDeril84ZGX89_Tqyo1IDB0ZWQijLJ_IC8OnQMb43yLGsLUbY6Iw1FTP1W3CsWi/pubhtml?gid=1047737596&single=true). Interviul va avea loc **luni, 05.07.2021**.
 * [Candidații cu prima opțiune **CCIoT, IT, ML, sau SE**](https://vision.cs.upt.ro/index.php/apps/onlyoffice/s/SrZrdDo8kaktir6). Interviul va avea loc **marți, 06.07.2021**.
+
+  Interviul constă într-o prezentare de către candidat a unei propuneri de temă de cercetare pe care doreste sa o abordeze in cadrul programului de Master, urmată de intrebări din partea membrilor comisiei.
+
+  * Capacitatea candidatului de a desfăşura o activitate de cercetare ştiinţifică,
+  * Consistenţa şi documentarea temei prezentate si rezultatele scontate
+  * Capacitatea de a găsi metode şi de a obţine rezultate în cercetare
+  * Exprimarea în limba engleză (pentru programele in engleza)
+  * Răspunsurile candidatului la întrebările comisiei (legate, de regulă, de tematica prezentării).
