@@ -11,11 +11,11 @@ Facultatea de Automatică și Calculatoare
 | Calculatoare și Tehnologia Informației      | Cloud Computing and Internet of Things – limba engleză | 25                | 5                |
 | Calculatoare și Tehnologia Informației      | Information Technology – limba engleză                 | 25                | 5                |
 | Calculatoare și Tehnologia Informației      | Machine Learning – limba engleză                       | 40                | 10               |
-| Calculatoare și Tehnologia Informației      | Software Engeneering – limba engleză                   | 30                | 5                |
+| Calculatoare și Tehnologia Informației      | Software Engineering – limba engleză                   | 35                | 5                |
 | Ingineria Sistemelor                        | Automotive Embedded Software – limba engleză           | 20                | 5                |
 | Ingineria Sistemelor                        | Ingineria Sistemelor Automate                          | 25                | 5                |
-| Ingineria Sistemelor                        | Sisteme Informatice Aplicate în Producție și Servicii  | 30                | 5                |
+| Ingineria Sistemelor                        | Sisteme Informatice Aplicate în Producție și Servicii  | 41                | 5                |
 | Ingineria Sistemelor                        | Sisteme Informatice în Îngrijirea Sănătății            | 25                | 5                |
-| Ingineria Sistemelor                        | Securitatea informațiilor și a sistemelor cibernetice  | 25                | 5                |
+| Ingineria Sistemelor                        | Securitatea informațiilor și a sistemelor cibernetice  | 30                | 5                |
 | Informatică                                 | Tehnologii Informatice                                 | 30                | 5                |
-| TOTAL                                       |                                                        | 275               | 55               |
+| TOTAL                                       |                                                        | 296               | 55               |
