@@ -12,7 +12,7 @@ fullPath: master/admitere/rezultatele-admiterii
 * Candidații cu prima opțiune **AES, ISA, SIAPS, SIIS, SISC, sau TI**: în sala B615 (corp Electro, Secretariat etaj 6, tel. +40.256.403.505, email: secretariat.admitere@aut.upt.ro);
 * Candidații cu prima opțiune **CCIoT, IT, ML, sau SE**: în sala B512 (corp Electro, Secretariat etaj 5, tel. +40.256.403.261, email: secretariat@cs.upt.ro);
 
-Absolvenții AC care au optat pentru completarea adeverinței de licență de către comisia de admitere trebuie doar să achite taxa de confirmare și să aducă eventualele alte documente lipsă.
+Absolvenții AC care au optat pentru completarea adeverinței de licență de către comisia de admitere trebuie doar să achite taxa de confirmare și să aducă [eventualele alte documente lipsă](/master/admitere/ultimele-anunturi/).
 
 **Neprezentarea la confirmări sau necompletarea actelor atrage excluderea din concurs, inclusiv pentru candidații declarați admiși.** 
 
