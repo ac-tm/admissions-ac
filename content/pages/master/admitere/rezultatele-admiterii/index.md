@@ -16,4 +16,4 @@ Absolvenții AC care au optat pentru completarea adeverinței de licență de c�
 
 **Neprezentarea la confirmări sau necompletarea actelor atrage excluderea din concurs, inclusiv pentru candidații declarați admiși.** 
 
-[Rezultatele înainte de confirmări, candidați licențiați](/uploads/6m-examen1-runda0-20210706.pdf)
+[Rezultatele înainte de confirmări, candidați licențiați](https://admitere.ac.upt.ro/uploads/6m-examen1-runda0-20210706.pdf)
