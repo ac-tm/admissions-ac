@@ -14,3 +14,4 @@ Ce faci după ce esti acceptat? Urmezi **3 pași** simpli:
 
 * **achiți taxa** (100 lei) prin care confirmi statutul de student UPT (noi îți vom răspunde cu o confirmare)
 * **completezi** dosarul cu **restul documentelor** conform [ghidului](http://www.upt.ro/Informatii_acte-necesare-pentru-dosarul-de-inscriere---admitere-master-_1411_ro.html)
+* urmărește [pagina de Rezultate](https://admitere.ac.upt.ro/master/admitere/rezultatele-admiterii/) pentru orarul de confirmări în fiecare etapă și rundă
