@@ -15,9 +15,9 @@ Fii cu ochii pe această pagină!
 
 În dimineața zilei de 7 iulie au apărut probleme tehnice în sistemul de admitere Enroll UPT la finalizarea plății cu cardul a taxei de confirmare.
 
-Termenul estimat de rezolvare este ora 14:30.
+Problema s-a rezolvat la ora 14:30.
 
-O metodă alternativă de plată a taxei de confirmare este prin ordin de plată (online sau cu aplicație mobilă) și încărcarea dovezii în sistemul Enroll (a se vedea și link-ul Observații de lângă „Încarcă dovada plăţii taxei de confirmare la AC”).
+Informativ, o altă metodă de plată a taxei de confirmare este prin ordin de plată (online sau cu aplicație mobilă) și încărcarea dovezii în sistemul Enroll (a se vedea și link-ul Observații de lângă „Încarcă dovada plăţii taxei de confirmare la AC”).
 
 Datele contului bancar de plăți de admitere sunt:
 - Universitatea Politehnica Timișoara
