@@ -17,7 +17,7 @@ Fii cu ochii pe această pagină!
 
 Termenul estimat de rezolvare este ora 13.
 
-O metodă alternativă de plată a taxei de confirmare este prin ordin de plată (online sau cu aplicație mobilă) și încărcarea dovezii în sistemul Enroll.
+O metodă alternativă de plată a taxei de confirmare este prin ordin de plată (online sau cu aplicație mobilă) și încărcarea dovezii în sistemul Enroll (a se vedea și link-ul Observații de lângă „Încarcă dovada plăţii taxei de confirmare la AC”).
 
 Datele contului bancar de plăți de admitere sunt:
 - Universitatea Politehnica Timișoara
