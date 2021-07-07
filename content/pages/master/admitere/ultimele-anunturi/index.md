@@ -11,20 +11,16 @@ Fii cu ochii pe această pagină!
 
 - - -
 
-
 Candidați cu **probleme**/lipsă acte la dosar:
 
 * [Candidați care au specificat ca primă opțiune una dintre specializările organizate de Departamentul **Automatică și Informatică Aplicată**](https://docs.google.com/spreadsheets/d/e/2PACX-1vTCZZozrWq1s1bYkMeLCOmNyzWXTHOm6X1SwYhlCT2jNSBWH-qpOuBwG0czHcXBF_IG_1rYY_egeJ4g/pubhtml?gid=0&single=true) (AES, ISA, SIAPS, SIIS, SISC, TI)
 * [Candidați care au specificat ca primă opțiune una dintre specializările organizate de Departamentul **Calculatoare și Tehnologia Informației**](https://docs.google.com/spreadsheets/d/1I6bQHahUGYQxD4p3KDrnYspPQg8kKjCebifGIrOFiy0/edit#gid=1052880165) (CCIoT, IT, ML, SE)
 
-## Rezultate inițiale
-
-Au fost publicate rezultatele examenului [în secțiunea dedicată](https://admitere.ac.upt.ro/master/admitere/rezultatele-admiterii/).
+**Au fost publicate rezultatele examenului [în secțiunea dedicată](https://admitere.ac.upt.ro/master/admitere/rezultatele-admiterii/).**
 
 - - -
 
 Candidați înscriși la finalul zilei de 3 iulie: **278**.
-
 
 ## Liste de verificare
 
