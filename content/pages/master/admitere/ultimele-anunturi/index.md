@@ -19,18 +19,13 @@ Termenul estimat de rezolvare este ora 13.
 
 O metodă alternativă de plată a taxei de confirmare este prin ordin de plată (online sau cu aplicație mobilă) și încărcarea dovezii în sistemul Enroll.
 
-
-
 Datele contului bancar de plăți de admitere sunt:
-
-Universitatea Politehnica Timișoara
-Cod FISCAL: 4269282
-Cont IBAN:  RO90 BACX 0000 0030 1782 5061  (Taxe de MASTER prin Ordin de plată)
-Banca: UniCredit Bank
-Dovada plății va trebui să conțină următorul text: „Taxă de înscriere/confirmare admitere la AC pentru... (se va menționa numele complet al candidatului)”.
-Exemplu: Taxă de confirmare la AC pentru RUSU Adrian
- 
-
+- Universitatea Politehnica Timișoara
+- Cod FISCAL: 4269282
+- Cont IBAN:  RO90 BACX 0000 0030 1782 5061  (Taxe de MASTER prin Ordin de plată)
+- Banca: UniCredit Bank
+- Dovada plății va trebui să conțină următorul text: „Taxă de înscriere/confirmare admitere la AC pentru... (se va menționa numele complet al candidatului)”.
+  - Exemplu: Taxă de confirmare la AC pentru RUSU Adrian
 
 ### Probleme dosar
 
