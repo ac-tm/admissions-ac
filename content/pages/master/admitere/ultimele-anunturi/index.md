@@ -25,7 +25,7 @@ Datele contului bancar de plăți de admitere sunt:
 - Cont IBAN:  RO90 BACX 0000 0030 1782 5061  (Taxe de MASTER prin Ordin de plată)
 - Banca: UniCredit Bank
 - Dovada plății va trebui să conțină următorul text: „Taxă de înscriere/confirmare admitere la AC pentru... (se va menționa numele complet al candidatului)”.
-  - Exemplu: Taxă de confirmare la AC pentru RUSU Adrian
+  - Exemplu: Taxă de confirmare la AC pentru RUSU Adrian-Ion
 
 ### Probleme dosar
 
