@@ -10,6 +10,7 @@ fullPath: master/admitere/rezultatele-admiterii
 Rezultate după prima rundă de confirmări și finale ale etapei 1 de admitere (deoarece nu mai e necesară runda 2 de confirmări):
 - [Rezultate etapa 1](https://admitere.ac.upt.ro/uploads/6m-examen1-runda2-20210708.pdf)
 - [Candidați respinși etapa 1](<https://admitere.ac.upt.ro/uploads/6m-examen1-runda2-respinși-20210708.pdf>)
+- [Rezultatele și perioada de confirmări pentru candidații români de pretutindeni](https://upt.ro/Informatii_romani-de-pretutindeni---admitere-master_1498_ro.html)
 
 
 
