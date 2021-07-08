@@ -5,6 +5,16 @@ image:
   src: https://aielpo.eplo.int/wp-content/uploads/2021/01/admission.jpg
 fullPath: master/admitere/rezultatele-admiterii
 ---
+<Block color="green">Rezultate examen 1, IULIE 2021</Block>
+
+Rezultate după prima rundă de confirmări și finale ale etapei 1 de admitere (deoarece nu mai e necesară runda 2 de confirmări):
+- [Rezultate examen 1](https://admitere.ac.upt.ro/uploads/6m-examen1-runda2-20210708.pdf)
+- [Candidați respinși examen 1](<https://admitere.ac.upt.ro/uploads/6m-examen1-runda2-respinși-20210708.pdf>)
+
+
+
+
+
 <Block color="yellow">Rezultate și confirmări examen 1, IULIE 2021</Block>
 
 **IMPORTANT**: Candidații declarați admiși mai jos trebuie să achite taxa de confirmare în sistemul de admitere Enroll și, dacă au ocupat un loc fără taxă, să aducă la Secretariatul corespunzător primei opțiuni exprimate, în original, adeverința de licență sau diploma, miercuri 7.07.2021 orele 10-15 și joi 08.07.2021 orele 9-12:
