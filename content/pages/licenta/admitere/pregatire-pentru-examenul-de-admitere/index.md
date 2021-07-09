@@ -20,3 +20,5 @@ Temele dezbătute urmează conținutul Culegerii de probleme pentru examenul de 
 # Culegerea de exerciții
 
 Pentru a te ajuta la pregătirea pentru examen, poți achiziționa culegerea de matematică cu probleme asemănătoare cu cele de la examen!
+
+<Attachment label="Culegere de probleme de matematică pentru examenul de admitere din anul 2021 la Universitatea Politehnica Timișoara" file="/uploads/culegere_admitere_upt_2021.pdf"></Attachment>
