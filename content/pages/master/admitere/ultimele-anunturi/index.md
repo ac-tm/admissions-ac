@@ -13,8 +13,7 @@ Fii cu ochii pe această pagină!
 
 ### Rezultate etapa 1
 
-**Au fost publicate rezultatele examenului [în secțiunea dedicată](https://admitere.ac.upt.ro/master/admitere/rezultatele-admiterii/).**
-
+**Au fost publicate primele rezultate ale examenului [în secțiunea dedicată](https://admitere.ac.upt.ro/master/admitere/rezultatele-admiterii/).**
 
 ### Probleme tehnice
 
@@ -25,12 +24,14 @@ Problema s-a rezolvat la ora 14:30.
 Informativ, o altă metodă de plată a taxei de confirmare este prin ordin de plată (online sau cu aplicație mobilă) și încărcarea dovezii în sistemul Enroll (a se vedea și link-ul Observații de lângă „Încarcă dovada plăţii taxei de confirmare la AC”).
 
 Datele contului bancar de plăți de admitere sunt:
-- Universitatea Politehnica Timișoara
-- Cod FISCAL: 4269282
-- Cont IBAN:  RO90 BACX 0000 0030 1782 5061  (Taxe de MASTER prin Ordin de plată)
-- Banca: UniCredit Bank
-- Dovada plății va trebui să conțină următorul text: „Taxă de înscriere/confirmare admitere la AC pentru... (se va menționa numele complet al candidatului)”.
-  - Exemplu: Taxă de confirmare la AC pentru RUSU Adrian-Ion
+
+* Universitatea Politehnica Timișoara
+* Cod FISCAL: 4269282
+* Cont IBAN:  RO90 BACX 0000 0030 1782 5061  (Taxe de MASTER prin Ordin de plată)
+* Banca: UniCredit Bank
+* Dovada plății va trebui să conțină următorul text: „Taxă de înscriere/confirmare admitere la AC pentru... (se va menționa numele complet al candidatului)”.
+
+  * Exemplu: Taxă de confirmare la AC pentru RUSU Adrian-Ion
 
 ### Probleme dosar
 
@@ -38,7 +39,6 @@ Candidați cu **probleme**/lipsă acte la dosar:
 
 * [Candidați care au specificat ca primă opțiune una dintre specializările organizate de Departamentul **Automatică și Informatică Aplicată**](https://docs.google.com/spreadsheets/d/e/2PACX-1vTCZZozrWq1s1bYkMeLCOmNyzWXTHOm6X1SwYhlCT2jNSBWH-qpOuBwG0czHcXBF_IG_1rYY_egeJ4g/pubhtml?gid=0&single=true) (AES, ISA, SIAPS, SIIS, SISC, TI)
 * [Candidați care au specificat ca primă opțiune una dintre specializările organizate de Departamentul **Calculatoare și Tehnologia Informației**](https://docs.google.com/spreadsheets/d/1I6bQHahUGYQxD4p3KDrnYspPQg8kKjCebifGIrOFiy0/edit#gid=1052880165) (CCIoT, IT, ML, SE)
-
 
 - - -
 
