@@ -1,7 +1,7 @@
 ---
 title: Taxe de admitere
 description: Află acum cât ai de achitat pentru a candida pentru unul din
-  locurile use la bătaie!
+  locurile puse la bătaie!
 image:
   src: /uploads/taxes.jpg
   alt: Taxe de admitere
