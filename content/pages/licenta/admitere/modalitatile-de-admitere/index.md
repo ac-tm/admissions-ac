@@ -16,14 +16,12 @@ Anul acesta așteptăm și mai mulți tineri buni la programare! Dacă tot liceu
 
 ## 2. Probă de matematică (CTI și IS)
 
-Ești **tare la mate**? Ai rezolvat toate problemele din culegere? Consideri că nu ai multe realizări pe algoritmică/software/hardware ca să ai șanse mai mari de succes prin portofoliu de realizări? Atunci, această probă de matematică probabil ți se potrivește. 
+Ești **tare la mate**? Ai rezolvat toate [problemele din culegere](https://admitere-next.netlify.app/licenta/admitere/pregatire-pentru-examenul-de-admitere/#culegerea-de-exerciții)? Consideri că nu ai multe realizări pe algoritmică/software/hardware ca să ai șanse mai mari de succes prin portofoliu de realizări? Atunci, această probă de matematică probabil ți se potrivește. 
 
 ## 3. Concurs de dosare (INFO)
 
 Vrei la Informatică și ai **medie mare de bac** ? Consideră-te aproape intrat(ă), media de bac este singurul criteriu de departajare.
 
 La specializările Informatică respectiv Informatică la distanță admiterea se face prin concurs de dosare - pe scurt, cu cât ai media mai mare la bac, cu atât ai șanse mai mari de a fi admis.
-
-
 
 **Sfat (poate) util**: Poate nu ar fi rău să studiezi și **[metodologia](https://www.upt.ro/Informatii_admitere-licenta_1536_ro.html)** de **admitere** pentru anul **2021** (chiar dacă e mult de citit) și alte informații utile legate de pe [pagina web a universității](https://www.upt.ro/).
