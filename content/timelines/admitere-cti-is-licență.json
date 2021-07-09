@@ -28,6 +28,12 @@
       }
     },
     {
+      "date": "2021-07-16T17:00:00.000Z",
+      "deadline": "",
+      "title": "Afișare rezultate Portofoliu CTI&IS (Etapa 1)",
+      "details": "Candidații înscriși pe bază de portofoliu de realizări vor fi anunțați dacă s-au califiat mai departe la interviul din 19.07. Cei necalificați la interviu vor susține proba de matematică."
+    },
+    {
       "date": "2021-07-19T06:00:00.000Z",
       "deadline": "2021-07-19T17:00:00.000Z",
       "title": "Concurs de admitere (Matematică sau Interviu portofoliu de realizări)"
@@ -67,12 +73,6 @@
       "date": "2021-07-23T17:00:00.000Z",
       "deadline": "",
       "title": "Rezultate finale"
-    },
-    {
-      "date": "2021-07-16T17:00:00.000Z",
-      "deadline": "",
-      "title": "Afișare rezultate Portofoliu CTI&IS (Etapa 1)",
-      "details": "Candidații înscriși pe bază de portofoliu de realizări vor fi anunțați dacă s-au califiat mai departe la interviul din 19.07. Cei necalificați la interviu vor susține proba de matematică."
     }
   ]
 }
