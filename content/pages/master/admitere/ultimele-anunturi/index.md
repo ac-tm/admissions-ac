@@ -17,11 +17,7 @@ Până în data de [miercuri 21 iulie ora 12](https://admitere.ac.upt.ro/master/
 
 Candidați înscriși la finalul zilei de 12 iulie: 4
 
-| **program**     | **candidați**  |
-|------|---|
-| AES  | 1 |
-| SISC | 2 |
-| TTI  | 1 |
+
 
 
 
