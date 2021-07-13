@@ -11,6 +11,6 @@ Pe lângă partea aceasta, mai ai 4 materii. În anul I, toate materiile sunt ac
 
 Dacă te uiți atent peste [planul de învățământ](https://ac.upt.ro/specializari/sisteme-informatice-aplicate-in-productie-si-servicii-siaps/), vei vedea că există și o parte alocată 'practicii' de la master. Ultimul semestru (anul II, semestrul II) doar despre asta este, trebuie să îți pregătești teza de disertație! Asta nu înseamnă că te vei angaja pe undeva pe post de cercetător, hai să nu ne grăbim! Citește [aici](https://ac.upt.ro/practica-master/) mai multe detalii și vezi că nu e așa complicat cum sună!
 
-Ca să-ți faci o idee generală despre materiile pe care le poți aprofunda la acest master, aruncă o privire peste figura de mai jos. Și dacă nu ne crezi în legătură cu ce ai citit mai devreme, convinge-te accesând linkul [acesta](https://ac.upt.ro/specializari/sisteme-informatice-aplicate-in-productie-si-servicii-siaps/) și analizează fișa fiecărei discipline! Parcă văd că vedem din toamnă la **masterul de securitate**.
+Ca să-ți faci o idee generală despre materiile pe care le poți aprofunda la acest master, aruncă o privire peste figura de mai jos. Și dacă nu ne crezi în legătură cu ce ai citit mai devreme, convinge-te accesând linkul [acesta](https://ac.upt.ro/specializari/sisteme-informatice-aplicate-in-productie-si-servicii-siaps/) și analizează fișa fiecărei discipline! Ne vedem din toamnă la SIAPS!
 
 <Fig src="/uploads/siaps.png" alt="Ce poți învăța la masterul SIAPS?" caption="Ce poți învăța la masterul SIAPS?"></Fig>
