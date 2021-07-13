@@ -11,6 +11,6 @@ Pe lângă partea de research, mai ai 4 materii. În primul semestrul, nu este n
 
 Dacă te uiți atent peste planul de învățământ, vei vedea că există și o parte alocată 'practicii' de la master. Ultimul semestru (anul II, semestrul II) doar despre asta este, trebuie să îți pregătești teza de disertație! Asta nu înseamnă că te vei angaja pe undeva pe post de cercetător, hai să nu ne grăbim! Citește [aici](https://ac.upt.ro/practica-master/) mai multe detalii și vezi că nu e așa complicat cum sună!
 
-Ca să-ți faci o idee generală despre materiile pe care le poți aprofunda la acest master, aruncă o privire peste figura de mai jos. Și dacă nu ne crezi pe cuvânt cu ce ai citit mai devreme, uită-te [aici](https://ac.upt.ro/specializari/ingineria-sistemelor-automate-isa/) și analizează fișa fiecărei discipline! Cum rămâne? Ne vedem din toamnă la IT?
+Ca să-ți faci o idee generală despre materiile pe care le poți aprofunda la acest master, aruncă o privire peste figura de mai jos. Și dacă nu ne crezi pe cuvânt cu ce ai citit mai devreme, uită-te [aici](https://ac.upt.ro/specializari/ingineria-sistemelor-automate-isa/) și analizează fișa fiecărei discipline! Cum rămâne? Ne vedem din toamnă la ISA?
 
 <Fig src="/uploads/isa.png" alt="Subiectele abordate la masterul Ingineria Sistemelor Automate" caption="Subiectele abordate la masterul Ingineria Sistemelor Automate"></Fig>
