@@ -14,7 +14,7 @@ Do you want to **grow** your **Computer Science skills** using the most common l
 ## Need **more info?** Here you go
 
 * Here are the [faculty](https://ac.upt.ro/) and [university](http://upt.ro/) websites,
-* A virtual tour of our labs,
+* [A virtual tour](https://visit.upt.ro) of our labs,
 * Take part at the [virtual fair](https://eduexpo.upt.ro) (after the 17th of May),
 * Ask us questions on [Facebook](https://www.facebook.com/ac.upt.ro),
 * Ask a student from the [students organization](https://ligaac.ro) or,
