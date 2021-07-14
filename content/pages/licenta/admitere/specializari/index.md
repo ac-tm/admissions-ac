@@ -15,8 +15,6 @@ Noi îți oferim 5 posibilități, **decizia e la tine**!
 
 </Block>
 
-
-
 <Block color="yellow">
 
 **Avem 685 de locuri disponibile:**
@@ -46,7 +44,9 @@ Noi îți oferim 5 posibilități, **decizia e la tine**!
 Cum ziceam, **decizia e la tine! Aruncă o privire** pe descrierea specializărilor, vezi ce ți se potrivește, apoi după ce ai citit în diagonală descrierea, **informează-te cât mai bine** și din mai multe locuri pentru că e vorba de **viitorul tău**:
 
 * Studiază site-ul [facultății](https://ac.upt.ro/) și al [universității](http://upt.ro/)
-* Vizitează virtual laboratoarele (revenim cu link)
+* <Attachment label="Vizitează" external="https://visit.upt.ro"></Attachment>
+
+   virtual laboratoarele [](http://upt.ro/)
 * Participă la [târgul educațional online](eduexpo.upt.ro) (după 17 Mai)
 * Întrebă-ne pe [Facebook](https://www.facebook.com/ac.upt.ro)
 * [Întreabă](https://ligaac.ro/) un student din Liga AC
