@@ -20,7 +20,7 @@ Cum sună **Ingineria Sistemelor** pentru tine? Dar **System Engineering**? Dar 
 ## Nu ești convins?
 
 * Studiază site-ul [facultății](https://ac.upt.ro/) și al [universității](http://upt.ro/)
-* Vizitează virtual laboratoarele
+* [Vizitează ](https://visit.upt.ro)virtual laboratoarele
 * Participă la [târgul educațional online](https://eduexpo.upt.ro) (după 17 Mai)
 * Întrebă-ne pe [Facebook](https://www.facebook.com/ac.upt.ro)
 * Întreabă un student din [Liga AC](https://ligaac.ro/)
