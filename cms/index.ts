@@ -54,7 +54,7 @@ export function init (options?: { baseURL?: string; localBackend?: boolean }) {
       site_url: options?.baseURL,
 
       // Enable this only when mass editing is needed.
-      // publish_mode: 'editorial_workflow',
+      publish_mode: 'editorial_workflow',
 
       local_backend: options?.localBackend || true,
       backend: {
