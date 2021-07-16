@@ -6,10 +6,10 @@
   },
   "hero": {
     "notification": {
-      "showAt": "2021-06-01T00:00:00.000Z",
-      "hideAt": "2021-06-01T00:00:00.000Z",
+      "showAt": "2021-07-16T11:57:53.347Z",
+      "hideAt": "2021-07-31T00:00:00.000Z",
       "label": "Live update",
-      "path": "/licenta/admitere/ultimele-anunturi"
+      "path": "/licenta/admitere/ultimele-anunturi/"
     },
     "title": "Nicăieri nu e ca la AC, <em>nici măcar acasă</em>.",
     "copy": "Inovează și proiectează-te în viitor – 2 pași spre succes prin Automatică și Calculatoare.",
