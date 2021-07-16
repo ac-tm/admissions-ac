@@ -1,6 +1,7 @@
 ---
 title: Calendarul admiterii
-description: Înscrie-te în perioada 6.07.2021 la 08:00 — 13.07.2021 la 14:00!
+description: "Înscrie-te pentru CTI&IS până la 16.07.2021 ora 14:00 și pentru
+  INFO până la 17.07.2021 ora 14! "
 image:
   src: /uploads/untitled-design-1-.png
   alt: O camera
