@@ -184,3 +184,16 @@ Abrevieri:
 </table>
 
 
+
+#### Lista candidaților înscriși la secțiunea 6 (concurs cu probe)
+
+
+- [Bacalaureat](https://admitere.ac.upt.ro/uploads/verificare-bacalaureat.pdf)
+- [Cu premii la competiții agreate – admitere cu media 10 ](https://admitere.ac.upt.ro/uploads/verificare-Olimpici.pdf)
+- [Etnie rromă](https://admitere.ac.upt.ro/uploads/verificare-rromi.pdf)
+- [Absolvent liceu mediul rural](https://admitere.ac.upt.ro/uploads/verificare-rural.pdf)
+- [Provenind din centre de plasament](https://admitere.ac.upt.ro/uploads/verificare-plasament.pdf)
+- [Sportiv de performanță](https://admitere.ac.upt.ro/uploads/verificare-sportivi.pdf)
+- [Studenți](https://admitere.ac.upt.ro/uploads/verificare-studenti.pdf)
+- [Licențiați](https://admitere.ac.upt.ro/uploads/verificare-licentiati.pdf)
+- [Calificați la interviu – portofoliu](https://admitere.ac.upt.ro/uploads/verificare-portofoliu.pdf)
