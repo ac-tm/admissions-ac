@@ -193,7 +193,7 @@ Abrevieri:
 
 
 #### Lista candidaților înscriși la secțiunea 6 (concurs cu probe)
-*[abrevieri coduri domenii LO, TO, ELM, TELM, LM, TM, LH, TH, DH, etc.](https://admitere.ac.upt.ro/uploads/coduri-domenii.pdf)
+*[abrevieri coduri domenii LO, TO, ELM, TELM, LM, TM, LH, TH, DH, etc.](https://admitere.ac.upt.ro/uploads/coduri-domenii.pdf)*
 
 - [Bacalaureat](https://admitere.ac.upt.ro/uploads/verificare-bacalaureat.pdf)
 - [Cu premii la competiții agreate](https://admitere.ac.upt.ro/uploads/verificare-olimpici.pdf)
