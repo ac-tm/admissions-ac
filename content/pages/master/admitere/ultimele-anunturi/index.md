@@ -5,7 +5,8 @@ image:
   src: /uploads/warning.jpg
 fullPath: master/admitere/ultimele-anunturi
 ---
-### Odată începute înscrierile, aici vom posta diferite noutăți, update-uri și eventuale modificări
+### Aici postăm diferite noutăți, actualizări, și eventuale modificări
+
 
 Fii cu ochii pe această pagină!
 
