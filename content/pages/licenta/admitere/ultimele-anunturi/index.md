@@ -189,7 +189,7 @@ Abrevieri:
 
 
 - [Bacalaureat](https://admitere.ac.upt.ro/uploads/verificare-bacalaureat.pdf)
-- [Cu premii la competiții agreate – admitere cu media 10 ](https://admitere.ac.upt.ro/uploads/verificare-Olimpici.pdf)
+- [Cu premii la competiții agreate – admitere cu media 10 ](https://admitere.ac.upt.ro/uploads/verificare-olimpici.pdf)
 - [Etnie rromă](https://admitere.ac.upt.ro/uploads/verificare-rromi.pdf)
 - [Absolvent liceu mediul rural](https://admitere.ac.upt.ro/uploads/verificare-rural.pdf)
 - [Provenind din centre de plasament](https://admitere.ac.upt.ro/uploads/verificare-plasament.pdf)
