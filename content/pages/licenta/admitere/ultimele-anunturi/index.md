@@ -179,8 +179,8 @@ Secțiunile 10 - concurs de dosare - Facultatea de Automatică și Calculatoare 
 <tr><th></th><th title="Bacalaureat">B</th><th title="Absolvent Licenţiat">L</th><th title="Absolvent liceu mediul rural">U</th><th title="Cu premii la competiții agreate- admitere cu media 10.00">O</th><th title="Provenind din centre de plasament">P</th><th title="Etnie rromă">R</th><th title="Sportiv de performanță (cf. anexei 7 la metodologie)">T</th><th title="Student / fost student">S</th><th title="Cu premii la competiții agreate- echivalare probă cu nota 10.00 (secţiunile 1 şi 6)">D</th><th>Total</th></tr>
 <tr><td>Informatică - limba română - fără taxă</td><td>510</td><td>1</td><td>6</td><td>1</td><td>&nbsp;</td><td>&nbsp;</td><td>2</td><td>5</td><td>&nbsp;</td><td>525</td></tr>
 <tr><td>Informatică - limba română - cu taxă</td><td>13</td><td>4</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>8</td><td>&nbsp;</td><td>25</td></tr>
-<tr><td>Informatică - învățământ la distanță - cu taxă</td><td>84</td><td>1</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1</td><td>&nbsp;</td><td>525</td></tr>
-<tr><td>Inginerie Electronică și Telecomunicații - învățământ la distanță (ID) - cu taxă</td><td>28</td><td>1</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>25</td></tr>
+<tr><td>Informatică - învățământ la distanță - cu taxă</td><td>84</td><td>1</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1</td><td>&nbsp;</td><td>86</td></tr>
+<tr><td>Inginerie Electronică și Telecomunicații - învățământ la distanță (ID) - cu taxă</td><td>28</td><td>1</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>29</td></tr>
 </table>
 
 
