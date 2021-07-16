@@ -16,7 +16,6 @@ Fii cu ochii pe această pagină!
 [Rezultatele preselecției portofoliului de realizări se găsesc pe pagina Rezultatele admiterii](/licenta/admitere/rezultate/).
 
 
-
 ### Candidați înscriși
 
 Abrevieri:
