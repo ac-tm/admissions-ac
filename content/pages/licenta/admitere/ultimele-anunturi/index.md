@@ -173,7 +173,7 @@ Abrevieri:
     </tr>
 </table>
 
-Secțiunile 10 - concurs de dosare - Facultatea de Automatică și Calculatoare & Facultatea de Electronică, Telecomunicații și Tehnologii Informaționale
+#### Secțiunile 10 - concurs de dosare - Facultatea de Automatică și Calculatoare & Facultatea de Electronică, Telecomunicații și Tehnologii Informaționale
 
 <table>
 <tr><th></th><th title="Bacalaureat">B</th><th title="Absolvent Licenţiat">L</th><th title="Absolvent liceu mediul rural">U</th><th title="Cu premii la competiții agreate- admitere cu media 10.00">O</th><th title="Provenind din centre de plasament">P</th><th title="Etnie rromă">R</th><th title="Sportiv de performanță (cf. anexei 7 la metodologie)">T</th><th title="Student / fost student">S</th><th title="Cu premii la competiții agreate- echivalare probă cu nota 10.00 (secţiunile 1 şi 6)">D</th><th>Total</th></tr>
