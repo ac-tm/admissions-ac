@@ -7,7 +7,7 @@ fullPath: licenta/admitere/ultimele-anunturi
 ---
 
 
-### Odată începute înscrierile, aici vom posta diferite noutăți, update-uri și eventuale modificări
+### Aici postăm diferite noutăți, update-uri și eventuale modificări
 
 Fii cu ochii pe această pagină!
 
