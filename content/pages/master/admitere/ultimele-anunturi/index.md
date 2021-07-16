@@ -18,6 +18,15 @@ Până în data de [miercuri 21 iulie ora 12](https://admitere.ac.upt.ro/master/
 
 Candidați înscriși la finalul zilei de 15 iulie: 7
 
+| **Program** 	| **Candidați** 	|
+|------------	|------------------	|
+| AES        	| 1                	|
+| CCIOT      	| 1                	|
+| TI         	| 2                	|
+| TTI        	| 1                	|
+| TSE        	| 1                	|
+| TCCIOT     	| 1                	|
+
 ### Probleme dosar
 
 Candidați cu **probleme**/lipsă acte la dosar:
