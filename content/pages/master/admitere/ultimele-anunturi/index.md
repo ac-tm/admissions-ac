@@ -14,7 +14,7 @@ Fii cu ochii pe această pagină!
 
 ### Înscrieri etapa 2
 
-Până în data de [miercuri 21 iulie ora 12](https://admitere.ac.upt.ro/master/admitere/calendarul-admiterii-la-master-sesiunea-iulie-2021/) se fac înscrieri pentru concursul de admitere, pe **[locurile rămase libere după prima etapă](https://admitere.ac.upt.ro/master/admitere/master/)**.
+Până [miercuri 21 iulie ora 12](https://admitere.ac.upt.ro/master/admitere/calendarul-admiterii-la-master-sesiunea-iulie-2021/) se fac înscrieri pentru concursul de admitere, pe **[locurile rămase libere după prima etapă](https://admitere.ac.upt.ro/master/admitere/master/)**.
 
 Candidați înscriși la finalul zilei de 15 iulie: 7
 
