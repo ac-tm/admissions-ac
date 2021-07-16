@@ -24,7 +24,7 @@ Abrevieri:
 * S: Student / fost student
 * D: Cu premii la competiții agreate- echivalare probă cu nota 10.00 (secțiunile 1 și 6)
 
-#### Secțiunea 6 - Automatică și Calculatoare / Electronică, Telecomunicaţii și Tehnologii Informaționale (AC/ETcTI) – concurs cu probe
+#### Secțiunea 6 – concurs cu probe - Facultatea de Automatică și Calculatoare & Facultatea de Electronică, Telecomunicații și Tehnologii Informaționale
 
 <table>
     <tr>
