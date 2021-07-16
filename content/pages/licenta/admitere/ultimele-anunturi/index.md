@@ -17,12 +17,13 @@ Abrevieri:
 * B: Bacalaureat
 * L: Absolvent Licențiat
 * U: Absolvent liceu mediul rural
-* O: Cu premii la competiții agreate- admitere cu media 10.00
-* P: Provenind din centre de plasament
-* R: Etnie rromă
+* O: Cu premii la competiții agreate - admitere cu media 10.00
+* D: Cu premii la competiții agreate - echivalare probă cu nota 10.00 (secțiunile 1 și 6)
 * T: Sportiv de performanță (cf. anexei 7 la metodologie)
 * S: Student / fost student
-* D: Cu premii la competiții agreate- echivalare probă cu nota 10.00 (secțiunile 1 și 6)
+* P: Provenind din centre de plasament
+* R: Etnie rromă
+
 
 #### Secțiunea 6 – concurs cu probe - Facultatea de Automatică și Calculatoare & Facultatea de Electronică, Telecomunicații și Tehnologii Informaționale
 
@@ -189,7 +190,7 @@ Abrevieri:
 
 
 - [Bacalaureat](https://admitere.ac.upt.ro/uploads/verificare-bacalaureat.pdf)
-- [Cu premii la competiții agreate – echivalare probă cu nota 10](https://admitere.ac.upt.ro/uploads/verificare-olimpici.pdf)
+- [Cu premii la competiții agreate](https://admitere.ac.upt.ro/uploads/verificare-olimpici.pdf)
 - [Etnie rromă](https://admitere.ac.upt.ro/uploads/verificare-rromi.pdf)
 - [Absolvent liceu mediul rural](https://admitere.ac.upt.ro/uploads/verificare-rural.pdf)
 - [Provenind din centre de plasament](https://admitere.ac.upt.ro/uploads/verificare-plasament.pdf)
