@@ -11,37 +11,36 @@ Fii cu ochii pe această pagină!
 
 - - -
 
+#### Interviu online portofoliu (Luni, 19.07.2021, ora 10)
+
+<Attachment label="Programare și informații utile" file="/uploads/programareinterviu.pdf"></Attachment>
+
 #### Listele candidaților înscriși la secțiunea 6 (concurs cu probe)
 
+* [Reguli impuse în timpul examenului (acces 8:30-9:45, folosirea mijloacelor tehnice de calcul, etc.)](https://admitere.ac.upt.ro/uploads/reguli-acces-sala-examen.pdf)
+* [Amplasare săli de examen (adrese, coordonate GPS, etc.)](https://admitere.ac.upt.ro/uploads/amplasare-sali-examen.pdf) ([harta](https://www.bing.com/maps?osid=b82a5425-ecb1-4a12-83bf-b06516961aaf&cp=45.746817~21.225137&lvl=17&v=2&sV=2&form=S00027))
+* [Abrevieri coduri domenii (LO, LM/ELM, LH/TH/DH, etc.)](https://admitere.ac.upt.ro/uploads/coduri-domenii.pdf)
+* Repartizarea candidaților în săli de examen:
 
-- [Reguli impuse în timpul examenului (acces 8:30-9:45, folosirea mijloacelor tehnice de calcul, etc.)](https://admitere.ac.upt.ro/uploads/reguli-acces-sala-examen.pdf)
-- [Amplasare săli de examen (adrese, coordonate GPS, etc.)](https://admitere.ac.upt.ro/uploads/amplasare-sali-examen.pdf) ([harta](https://www.bing.com/maps?osid=b82a5425-ecb1-4a12-83bf-b06516961aaf&cp=45.746817~21.225137&lvl=17&v=2&sV=2&form=S00027))
-- [Abrevieri coduri domenii (LO, LM/ELM, LH/TH/DH, etc.)](https://admitere.ac.upt.ro/uploads/coduri-domenii.pdf)
-- Repartizarea candidaților în săli de examen:
-  - [Bacalaureat](https://admitere.ac.upt.ro/uploads/verificare-bac.pdf)
-  - [Cu premii la competiții agreate, admitere cu media 10](https://admitere.ac.upt.ro/uploads/verificare-olimpici-10absolut.pdf)
-  - [Cu premii la competiții agreate, echivalare probă cu nota 10](https://admitere.ac.upt.ro/uploads/verificare-10lamate.pdf)
-  - [Calificați la interviu – portofoliu](https://admitere.ac.upt.ro/uploads/verificare-portofoliu.pdf)
-  - [Absolvent liceu mediul rural](https://admitere.ac.upt.ro/uploads/verificare-rurali.pdf)
-
-  - [Sportivi de performanță](https://admitere.ac.upt.ro/uploads/verificare-sportivi.pdf)
-  - [Studenți](https://admitere.ac.upt.ro/uploads/verificare-studentipromovabili.pdf)
-  - [Licențiați](https://admitere.ac.upt.ro/uploads/verificare-licentiati.pdf)
-
-  - [Etnie rromă](https://admitere.ac.upt.ro/uploads/verificare-rromi.pdf)
-
-  - [Provenind din centre de plasament](https://admitere.ac.upt.ro/uploads/verificare-plasament.pdf)
-
-
+  * [Bacalaureat](https://admitere.ac.upt.ro/uploads/verificare-bac.pdf)
+  * [Cu premii la competiții agreate, admitere cu media 10](https://admitere.ac.upt.ro/uploads/verificare-olimpici-10absolut.pdf)
+  * [Cu premii la competiții agreate, echivalare probă cu nota 10](https://admitere.ac.upt.ro/uploads/verificare-10lamate.pdf)
+  * [Calificați la interviu – portofoliu](https://admitere.ac.upt.ro/uploads/verificare-portofoliu.pdf)
+  * [Absolvent liceu mediul rural](https://admitere.ac.upt.ro/uploads/verificare-rurali.pdf)
+  * [Sportivi de performanță](https://admitere.ac.upt.ro/uploads/verificare-sportivi.pdf)
+  * [Studenți](https://admitere.ac.upt.ro/uploads/verificare-studentipromovabili.pdf)
+  * [Licențiați](https://admitere.ac.upt.ro/uploads/verificare-licentiati.pdf)
+  * [Etnie rromă](https://admitere.ac.upt.ro/uploads/verificare-rromi.pdf)
+  * [Provenind din centre de plasament](https://admitere.ac.upt.ro/uploads/verificare-plasament.pdf)
 
 ### Rezultate portofoliu (Etapa 1)
 
 [Rezultatele preselecției portofoliului de realizări se găsesc pe pagina Rezultatele admiterii](/licenta/admitere/rezultate/).
 
-
 ### Candidați înscriși
 
 Abrevieri:
+
 * B: Bacalaureat
 * L: Absolvent Licențiat
 * U: Absolvent liceu mediul rural
@@ -51,7 +50,6 @@ Abrevieri:
 * S: Student / fost student
 * P: Provenind din centre de plasament
 * R: Etnie rromă
-
 
 #### Secțiunea 6 – concurs cu probe - Facultatea de Automatică și Calculatoare & Facultatea de Electronică, Telecomunicații și Tehnologii Informaționale
 
@@ -211,10 +209,3 @@ Abrevieri:
 <tr><td>Informatică - învățământ la distanță (ID) - cu taxă</td><td>84</td><td>1</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1</td><td>&nbsp;</td><td>86</td></tr>
 <tr><td>Inginerie Electronică și Telecomunicații - învățământ la distanță (ID) - cu taxă</td><td>28</td><td>1</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>29</td></tr>
 </table>
-
-
-
-
-
-
-
