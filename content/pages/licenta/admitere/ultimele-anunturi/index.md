@@ -15,7 +15,7 @@ Fii cu ochii pe această pagină!
 
 
 - [Reguli impuse în timpul examenului (acces 8:30-9:45, folosirea mijloacelor tehnice de calcul, etc.)](https://admitere.ac.upt.ro/uploads/reguli-acces-sala-examen.pdf)
-- [Amplasare săli de examen (adrese, coordonate GPS, etc.)](https://admitere.ac.upt.ro/uploads/amplasare-sali-examen.pdf)
+- [Amplasare săli de examen (adrese, coordonate GPS, etc.)](https://admitere.ac.upt.ro/uploads/amplasare-sali-examen.pdf) ([harta](https://www.bing.com/maps?osid=b82a5425-ecb1-4a12-83bf-b06516961aaf&cp=45.746817~21.225137&lvl=17&v=2&sV=2&form=S00027))
 - [Abrevieri coduri domenii (LO, LM/ELM, LH/TH/DH, etc.)](https://admitere.ac.upt.ro/uploads/coduri-domenii.pdf)
 - Repartizarea candidaților în săli de examen:
   - [Bacalaureat](https://admitere.ac.upt.ro/uploads/verificare-bac.pdf)
