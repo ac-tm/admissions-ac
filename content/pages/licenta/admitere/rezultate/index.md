@@ -5,14 +5,6 @@ image:
   src: /uploads/accepted-application.jpg
 fullPath: licenta/admitere/rezultate
 ---
-#### Ține-ți respirația, aici vor apărea rezultatele!
-
-<Block color="red">
-
-Comisia încă procesează rezultatele de la examenul de astăzi! Ne pare rău pentru întârziere. Rezultatele vor apărea astăzi, după ora **21.30**!
-
-</Block>
-
 ### Rezultatele Secțiunea 6L
 
 <Attachment label="Admiși" file="/uploads/6l-r0-admisi.pdf"></Attachment>
@@ -27,11 +19,13 @@ Comisia încă procesează rezultatele de la examenul de astăzi! Ne pare rău p
 
 <Attachment label="Plasament" file="/uploads/6l-r0-admisi-p.pdf"></Attachment>
 
+<Attachment label="Sportivi" file="/uploads/sportivi2.pdf"></Attachment>
+
 ### Rezultatele Secțiunea 10L
 
+<Attachment label="Admiși" file="/uploads/10l-r0-admisi.pdf"></Attachment>
 
-
-
+<Attachment label="Olimpici" file="/uploads/10l-r0-admisi-o.pdf"></Attachment>
 
 ### Rezultatele preselecției portofoliului de realizări (Etapa 1)
 
