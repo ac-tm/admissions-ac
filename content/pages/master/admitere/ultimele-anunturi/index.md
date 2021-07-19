@@ -7,7 +7,6 @@ fullPath: master/admitere/ultimele-anunturi
 ---
 ### Aici postăm diferite noutăți, actualizări, și eventuale modificări
 
-
 Fii cu ochii pe această pagină!
 
 - - -
@@ -16,16 +15,16 @@ Fii cu ochii pe această pagină!
 
 Până [miercuri 21 iulie ora 12](/master/admitere/calendarul-admiterii-la-master-sesiunea-iulie-2021/) se fac înscrieri pentru concursul de admitere, pe **[locurile rămase libere după prima etapă](/master/admitere/master/)**.
 
-Candidați înscriși la finalul zilei de 16 iulie: 7
+Candidați înscriși la finalul zilei de 19 iulie: 9
 
-| **Program** 	| **Candidați** 	|
-|------------	|------------------	|
-| AES        	| 1                	|
-| CCIOT      	| 1                	|
-| TI         	| 2                	|
-| TTI        	| 1                	|
-| TSE        	| 1                	|
-| TCCIOT     	| 1                	|
+| **Program** | **Candidați** |
+| ----------- | ------------- |
+| AES         | 1             |
+| CCIOT       | 3             |
+| TI          | 2             |
+| TTI         | 1             |
+| TSE         | 1             |
+| TCCIOT      | 1             |
 
 ### Probleme dosar
 
