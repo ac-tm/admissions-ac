@@ -40,6 +40,7 @@ export default defineComponent({
     )
 
     return {
+      eventState,
       formattedStart,
       formattedDeadline
     }
