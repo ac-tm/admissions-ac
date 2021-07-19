@@ -11,6 +11,12 @@ Fii cu ochii pe această pagină!
 
 - - -
 
+<Block color="red">
+
+Comisia încă procesează rezultate! Ne pare rău pentru întârziere. Rezultatele vor apărea astăzi, după ora **21.30**!
+
+</Block>
+
 #### Interviu online portofoliu (Luni, 19.07.2021, ora 10)
 
 <Attachment label="Programare și informații utile " file="/uploads/programareinterviu.pdf"></Attachment>
