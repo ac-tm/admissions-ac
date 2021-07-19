@@ -13,7 +13,7 @@ Fii cu ochii pe această pagină!
 
 #### Interviu online portofoliu (Luni, 19.07.2021, ora 10)
 
-<Attachment label="Programare și informații utile" file="/uploads/programareinterviu.pdf"></Attachment>
+<Attachment label="Programare și informații utile " file="/uploads/programareinterviu.pdf"></Attachment>
 
 #### Listele candidaților înscriși la secțiunea 6 (concurs cu probe)
 
