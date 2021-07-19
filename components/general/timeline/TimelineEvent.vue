@@ -14,23 +14,34 @@ export default defineComponent({
     event: { type: Object as PropType<TimelineEvent>, required: true },
     isLast: { type: Boolean, default: false }
   },
-  setup (props) {
+  setup(props) {
     type EventState = 'before' | 'during' | 'done'
     const eventState = computed<EventState>(() => {
       const now = new Date()
-      if (now < new Date(props.event.date)) { return 'before' }
-      if (!props.event.deadline) { return 'done' }
-      if (now > new Date(props.event.deadline)) { return 'done' }
+      if (now < new Date(props.event.date)) {
+        return 'before'
+      }
+      if (!props.event.deadline) {
+        return 'done'
+      }
+      if (now > new Date(props.event.deadline)) {
+        return 'done'
+      }
       return 'during'
     })
 
-    const formatDate = (date: Date) => {
-      return lightFormat(new Date(date), 'd.MM.yyyy \'la\' HH:mm')
-    }
+    const formattedStart = computed(() =>
+      lightFormat(new Date(props.event.date), "d.MM.yyyy 'la' HH:mm")
+    )
+    const formattedDeadline = computed(() =>
+      props.event.deadline
+        ? lightFormat(new Date(props.event.deadline), "d.MM.yyyy 'la' HH:mm")
+        : undefined
+    )
 
     return {
-      eventState,
-      formatDate
+      formattedStart,
+      formattedDeadline
     }
   }
 })
@@ -46,10 +57,14 @@ export default defineComponent({
           'rounded-full border-2',
           eventState === 'before' && 'border-gray-200 dark:border-gray-500',
           eventState === 'during' && 'border-secondary dark:border-gray-200',
-          eventState === 'done' && 'border-primary dark:border-secondary text-primary dark:text-secondary',
+          eventState === 'done' &&
+            'border-primary dark:border-secondary text-primary dark:text-secondary'
         ]"
       >
-        <span v-if="eventState === 'during'" class="w-2 h-2 rounded-full bg-secondary dark:bg-gray-200" />
+        <span
+          v-if="eventState === 'during'"
+          class="w-2 h-2 rounded-full bg-secondary dark:bg-gray-200"
+        />
         <span v-if="eventState === 'done'">
           <svg
             width="32"
@@ -72,24 +87,47 @@ export default defineComponent({
         :class="[
           eventState === 'before' && 'bg-gray-200',
           eventState === 'during' && 'bg-secondary dark:bg-gray-500',
-          eventState === 'done' && 'bg-primary dark:bg-secondary',
+          eventState === 'done' && 'bg-primary dark:bg-secondary'
         ]"
       />
     </Stack>
 
     <Stack class="flex-1">
-      <h2 class="!text-lg !font-bold !tracking-normal !text-gray-800 dark:!text-white !my-0 !mt-0">
+      <h2
+        class="
+          !text-lg
+          !font-bold
+          !tracking-normal
+          !text-gray-800
+          dark:!text-white
+          !my-0
+          !mt-0
+        "
+      >
         {{ event.title }}
       </h2>
-      <p class="font-bold text-sm !text-gray-700 dark:!text-gray-200 !-mt-1 !mb-0">
-        <time>{{ formatDate(event.date) }}</time>
-        <span v-if="event.deadline">
-          — <time> {{ formatDate(event.deadline) }} </time>
+      <p
+        class="
+          font-bold
+          text-sm
+          !text-gray-700
+          dark:!text-gray-200
+          !-mt-1
+          !mb-0
+        "
+      >
+        <time>{{ formattedStart }}</time>
+        <span v-if="formattedDeadline">
+          — <time> {{ formattedDeadline }} </time>
         </span>
       </p>
 
       <div class="mt-4 pb-8 w-full">
-        <NuxtContent v-if="event.details" class="prose" :document="event.body" />
+        <NuxtContent
+          v-if="event.details"
+          class="prose"
+          :document="event.body"
+        />
       </div>
     </Stack>
   </div>
@@ -102,27 +140,27 @@ export default defineComponent({
 }
 
 .gg-check {
-    box-sizing: border-box;
-    position: relative;
-    display: block;
-    transform: scale(var(--ggs,1));
-    width: 22px;
-    height: 22px;
-    border: 2px solid transparent;
-    border-radius: 100px
+  box-sizing: border-box;
+  position: relative;
+  display: block;
+  transform: scale(var(--ggs, 1));
+  width: 22px;
+  height: 22px;
+  border: 2px solid transparent;
+  border-radius: 100px;
 }
 .gg-check::after {
-    content: "";
-    display: block;
-    box-sizing: border-box;
-    position: absolute;
-    left: 3px;
-    top: -1px;
-    width: 6px;
-    height: 10px;
-    border-width: 0 2px 2px 0;
-    border-style: solid;
-    transform-origin: bottom left;
-    transform: rotate(45deg)
+  content: '';
+  display: block;
+  box-sizing: border-box;
+  position: absolute;
+  left: 3px;
+  top: -1px;
+  width: 6px;
+  height: 10px;
+  border-width: 0 2px 2px 0;
+  border-style: solid;
+  transform-origin: bottom left;
+  transform: rotate(45deg);
 }
 </style>
