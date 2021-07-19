@@ -33,6 +33,7 @@ export default defineComponent({
     const formattedStart = computed(() =>
       lightFormat(new Date(props.event.date), "d.MM.yyyy 'la' HH:mm")
     )
+
     const formattedDeadline = computed(() =>
       props.event.deadline
         ? lightFormat(new Date(props.event.deadline), "d.MM.yyyy 'la' HH:mm")
