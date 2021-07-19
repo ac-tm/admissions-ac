@@ -13,7 +13,7 @@ Fii cu ochii pe această pagină!
 
 <Block color="red">
 
-Comisia încă procesează rezultate! Ne pare rău pentru întârziere. Rezultatele vor apărea astăzi, după ora **21.30**!
+Comisia încă procesează rezultatele de la examenul de astăzi! Ne pare rău pentru întârziere. Rezultatele vor apărea astăzi, după ora **21.30**!
 
 </Block>
 
