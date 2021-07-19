@@ -21,15 +21,7 @@ fullPath: licenta/admitere/rezultate
 
 <Attachment label="Sportivi" file="/uploads/sportivi2.pdf"></Attachment>
 
-### Rezultatele Secțiunea 10L
 
-<Attachment label="Admiși" file="/uploads/10l-r0-admisi.pdf"></Attachment>
-
-<Attachment label="Rural" file="/uploads/10l-r0-admisi-rural.pdf"></Attachment>
-
-<Attachment label="Olimpici" file="/uploads/10l-r0-admisi-o-1-.pdf"></Attachment>
-
-<Attachment label="Toți înscrișii - 10L" file="/uploads/10ll-r0-rezultate-.pdf"></Attachment>
 
 ### Rezultatele preselecției portofoliului de realizări (Etapa 1)
 
