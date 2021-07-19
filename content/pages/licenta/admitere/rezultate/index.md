@@ -21,12 +21,6 @@ fullPath: licenta/admitere/rezultate
 
 <Attachment label="Sportivi" file="/uploads/sportivi2.pdf"></Attachment>
 
-### Rezultatele Secțiunea 10L
-
-<Attachment label="Admiși" file="/uploads/10l-r0-admisi.pdf"></Attachment>
-
-<Attachment label="Olimpici" file="/uploads/10l-r0-admisi-o.pdf"></Attachment>
-
 ### Rezultatele preselecției portofoliului de realizări (Etapa 1)
 
 Comisia felicită [candidații admiși pentru calificarea la următoarea probă de interviu](https://admitere.ac.upt.ro/uploads/portofoliu-etapa-1.pdf) (revenim cu detalii), iar pe candidații respinși îi invită să susțină proba de matematică [conform orarului](/licenta/admitere/ultimele-anunturi/).
