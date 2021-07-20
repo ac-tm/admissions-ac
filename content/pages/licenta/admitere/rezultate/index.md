@@ -5,9 +5,9 @@ image:
   src: /uploads/accepted-application.jpg
 fullPath: licenta/admitere/rezultate
 ---
-### Rezultatele Secțiunea 6L
+### Rezultate Secțiunea 6L
 
-<Attachment label="Admiși" file="/uploads/6l-r0-admisi.pdf"></Attachment>
+<Attachment label="Admiși" file="/uploads/6l-r0-rezultate.pdf"></Attachment>
 
 <Attachment label="Olimpici" file="/uploads/6l-r0-admisi-o.pdf"></Attachment>
 
@@ -21,7 +21,13 @@ fullPath: licenta/admitere/rezultate
 
 <Attachment label="Sportivi" file="/uploads/sportivi2.pdf"></Attachment>
 
+### Rezultate Secțiunea 10L
 
+<Attachment label="Admiși" file="/uploads/10l-r0-admisi.pdf"></Attachment>
+
+<Attachment label="Olimpici" file="/uploads/10l-r0-admisi-o.pdf"></Attachment>
+
+<Attachment label="Rural" file="/uploads/10l-r0-admisi-rural.pdf"></Attachment>
 
 ### Rezultatele preselecției portofoliului de realizări (Etapa 1)
 
