@@ -11,9 +11,9 @@ Fii cu ochii pe această pagină!
 
 - - -
 
-<Block color="red">
+<Block color="green">
 
-Comisia încă procesează rezultatele de la examenul de astăzi! Ne pare rău pentru întârziere. Rezultatele vor apărea astăzi, după ora **21.30**!
+[Rezultatele admiterii](https://admitere.ac.upt.ro/licenta/admitere/rezultate/) au fost afișate!
 
 </Block>
 
