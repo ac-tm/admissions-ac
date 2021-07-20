@@ -1,13 +1,13 @@
 ---
 title: Rezultatele admiterii
-description: Rezultate
+description: "Intră aici și află la ce specializare ai fost admis! "
 image:
   src: /uploads/accepted-application.jpg
 fullPath: licenta/admitere/rezultate
 ---
 ### Rezultate Secțiunea 6L
 
-<Attachment label="Admiși" file="/uploads/6l-r0-rezultate.pdf"></Attachment>
+<Attachment label="Rezultate" file="/uploads/6l-r0-rezultate.pdf"></Attachment>
 
 <Attachment label="Olimpici" file="/uploads/6l-r0-admisi-o.pdf"></Attachment>
 
@@ -23,7 +23,7 @@ fullPath: licenta/admitere/rezultate
 
 ### Rezultate Secțiunea 10L
 
-<Attachment label="Admiși" file="/uploads/10l-r0-admisi.pdf"></Attachment>
+<Attachment label="Rezultate" file="/uploads/site-10ll-r0-rezultate.pdf"></Attachment>
 
 <Attachment label="Olimpici" file="/uploads/10l-r0-admisi-o.pdf"></Attachment>
 
