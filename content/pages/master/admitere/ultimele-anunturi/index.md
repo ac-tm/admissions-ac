@@ -15,14 +15,14 @@ Fii cu ochii pe această pagină!
 
 Până [miercuri 21 iulie ora 12](/master/admitere/calendarul-admiterii-la-master-sesiunea-iulie-2021/) se fac înscrieri pentru concursul de admitere, pe **[locurile rămase libere după prima etapă](/master/admitere/master/)**.
 
-Candidați înscriși la finalul zilei de 20 iulie: 16
+Candidați înscriși la finalul zilei de 21 iulie: 20
 
 | **Program** | **Candidați** |
 | ----------- | ------------- |
 | AES         | 2             |
-| CCIOT       | 4             |
-| TI          | 4             |
-| TML         | 2             |
+| CCIOT       | 5             |
+| TI          | 5             |
+| TML         | 3             |
 | TTI         | 1             |
 | TSE         | 1             |
 | TCCIOT      | 2             |
