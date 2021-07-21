@@ -5,7 +5,15 @@ image:
   src: /uploads/accepted-application.jpg
 fullPath: licenta/admitere/rezultate
 ---
-### Rezultate Secțiunea 6L
+### Rezultate Secțiunea 6L (Runda II)
+
+<Attachment label="Rezultate" file="/uploads/6l-r1-rezultate1.pdf"></Attachment>
+
+### Rezultate Secțiunea 10L (Runda II)
+
+<Attachment label="Rezultate" file="/uploads/10l-r1-rezultate.pdf"></Attachment>
+
+### Rezultate Secțiunea 6L (Runda I)
 
 <Attachment label="Rezultate" file="/uploads/6l-r0-rezultate.pdf"></Attachment>
 
@@ -21,7 +29,7 @@ fullPath: licenta/admitere/rezultate
 
 <Attachment label="Sportivi" file="/uploads/sportivi2.pdf"></Attachment>
 
-### Rezultate Secțiunea 10L
+### Rezultate Secțiunea 10L (Runda I)
 
 <Attachment label="Rezultate" file="/uploads/site-10ll-r0-rezultate.pdf"></Attachment>
 
