@@ -23,6 +23,16 @@ fullPath: licenta/admitere/rezultate
 
 <Attachment label="Rezultate" file="/uploads/10l-r1-rezultate.pdf"></Attachment>
 
+<Attachment label="Olimpici" file="/uploads/10l-admisi_olimpici.pdf"></Attachment>
+
+<Attachment label="Sportivi" file="/uploads/10l-admisi_sportivi.pdf"></Attachment>
+
+<Attachment label="Plasament" file="/uploads/10l-admisi-plasamant.pdf"></Attachment>
+
+<Attachment label="Rural" file="/uploads/10l-admisi-rurali.pdf"></Attachment>
+
+- - -
+
 ### Rezultate Secțiunea 6L (Runda I)
 
 <Attachment label="Rezultate" file="/uploads/6l-r0-rezultate.pdf"></Attachment>
