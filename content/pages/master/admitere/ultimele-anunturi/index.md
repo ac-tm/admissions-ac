@@ -11,6 +11,21 @@ Fii cu ochii pe această pagină!
 
 - - -
 
+## Liste de verificare
+
+Candidații sunt obligați să verifice in listele de mai jos validitatea datelor de concurs. Eventualele contestații, pe adresa secretariatului care gestionează programul pe care l-ați precizat ca primă opțiune. 
+
+* [Candidații cu prima opțiune **AES, SISC, sau TI**](https://vision.cs.upt.ro/index.php/apps/onlyoffice/s/ySmRLj9EaytyCFJ). Termen: **joi, 22 iulie 2021, ora 9:00**. Adresă secretariat: secretariat.admitere@aut.upt.ro
+* [Candidații cu prima opțiune **CCIoT, ML, sau SE**](https://vision.cs.upt.ro/index.php/apps/onlyoffice/s/ySmRLj9EaytyCFJ). **Termen: joi, 22 iulie 2021, ora 9:00**. Adresă secretariat: secretariat@cs.upt.ro
+
+### Probleme dosar
+
+Candidați cu **probleme**/lipsă acte la dosar:
+
+* [Candidați care au specificat ca primă opțiune una dintre specializările organizate de Departamentul **Automatică și Informatică Aplicată**](https://docs.google.com/spreadsheets/d/e/2PACX-1vTCZZozrWq1s1bYkMeLCOmNyzWXTHOm6X1SwYhlCT2jNSBWH-qpOuBwG0czHcXBF_IG_1rYY_egeJ4g/pubhtml?gid=0&single=true) (AES, ISA, SIAPS, SIIS, SISC, TI)
+* [Candidați care au specificat ca primă opțiune una dintre specializările organizate de Departamentul **Calculatoare și Tehnologia Informației**](https://docs.google.com/spreadsheets/d/1I6bQHahUGYQxD4p3KDrnYspPQg8kKjCebifGIrOFiy0/edit#gid=1052880165) (CCIoT, IT, ML, SE)
+
+
 ### Înscrieri etapa 2
 
 Până [miercuri 21 iulie ora 12](/master/admitere/calendarul-admiterii-la-master-sesiunea-iulie-2021/) se fac înscrieri pentru concursul de admitere, pe **[locurile rămase libere după prima etapă](/master/admitere/master/)**.
@@ -27,12 +42,7 @@ Candidați înscriși la finalul zilei de 21 iulie: 20
 | TSE         | 1             |
 | TCCIOT      | 2             |
 
-### Probleme dosar
 
-Candidați cu **probleme**/lipsă acte la dosar:
-
-* [Candidați care au specificat ca primă opțiune una dintre specializările organizate de Departamentul **Automatică și Informatică Aplicată**](https://docs.google.com/spreadsheets/d/e/2PACX-1vTCZZozrWq1s1bYkMeLCOmNyzWXTHOm6X1SwYhlCT2jNSBWH-qpOuBwG0czHcXBF_IG_1rYY_egeJ4g/pubhtml?gid=0&single=true) (AES, ISA, SIAPS, SIIS, SISC, TI)
-* [Candidați care au specificat ca primă opțiune una dintre specializările organizate de Departamentul **Calculatoare și Tehnologia Informației**](https://docs.google.com/spreadsheets/d/1I6bQHahUGYQxD4p3KDrnYspPQg8kKjCebifGIrOFiy0/edit#gid=1052880165) (CCIoT, IT, ML, SE)
 
 ### Rezultate etapa 1
 
