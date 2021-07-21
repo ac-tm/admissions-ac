@@ -11,12 +11,29 @@ Fii cu ochii pe această pagină!
 
 - - -
 
-## Liste de verificare
+
+## Liste de verificare, etapa 2
 
 Candidații sunt obligați să verifice in listele de mai jos validitatea datelor de concurs. Eventualele contestații, pe adresa secretariatului care gestionează programul pe care l-ați precizat ca primă opțiune. 
 
 * [Candidații cu prima opțiune **AES, SISC, sau TI**](https://vision.cs.upt.ro/index.php/apps/onlyoffice/s/ySmRLj9EaytyCFJ). Termen: **joi, 22 iulie 2021, ora 9:00**. Adresă secretariat: secretariat.admitere@aut.upt.ro
 * [Candidații cu prima opțiune **CCIoT, ML, sau SE**](https://vision.cs.upt.ro/index.php/apps/onlyoffice/s/ySmRLj9EaytyCFJ). **Termen: joi, 22 iulie 2021, ora 9:00**. Adresă secretariat: secretariat@cs.upt.ro
+
+
+
+## Programarea la interviu, etapa 2
+
+Vă rugăm reveniți pentru detalii despre organizarea interviului de admitere.
+
+* [Programarea la interviu](https://vision.cs.upt.ro/index.php/apps/onlyoffice/s/MiKroxWTJ9q2yeP). Interviul va avea loc **joi, 22.07.2021**.
+
+  Interviul constă într-o prezentare de către candidat a unei propuneri de temă de cercetare pe care doreste sa o abordeze in cadrul programului de Master, urmată de intrebări din partea membrilor comisiei.
+
+  * Capacitatea candidatului de a desfăşura o activitate de cercetare ştiinţifică,
+  * Consistenţa şi documentarea temei prezentate si rezultatele scontate
+  * Capacitatea de a găsi metode şi de a obţine rezultate în cercetare
+  * Exprimarea în limba engleză (pentru programele in engleza)
+  * Răspunsurile candidatului la întrebările comisiei (legate, de regulă, de tematica prezentării).
 
 ### Probleme dosar
 
@@ -70,14 +87,14 @@ Datele contului bancar de plăți de admitere sunt:
 
 Candidați înscriși la finalul zilei de 3 iulie: **278**.
 
-## Liste de verificare
+## Liste de verificare, etapa 1
 
 Candidații sunt obligați să verifice in listele de mai jos validitatea datelor de concurs. Eventualele contestații, pe adresa secretariatului care gestionează programul pe care l-ați precizat ca primă opțiune. 
 
 * [Candidații cu prima opțiune **AES, ISA, SIAPS, SIIS, SISC, sau TI**](https://docs.google.com/spreadsheets/d/e/2PACX-1vTIfY-XrAPzGcS-HSkesZl2IKVxD5b_xV8ldr7zitdUw2rZOp39OMC7H5B1JfqzmhEc5gbeRSv24Lkn/pubhtml?gid=0&single=true). Termen: **luni, 5 iulie 2021, ora 9:00**. Adresă secretariat: secretariat.admitere@aut.upt.ro
 * [Candidații cu prima opțiune **CCIoT, IT, ML, sau SE**](https://vision.cs.upt.ro/index.php/apps/onlyoffice/s/92BPksH9EaWioMm). **Termen: marți, 6 iulie 2021, ora 8:30**. Adresă secretariat: secretariat@cs.upt.ro
 
-## Programarea la interviu
+## Programarea la interviu, etapa 1
 
 Vă rugăm reveniți pentru detalii despre organizarea interviului de admitere.
 
