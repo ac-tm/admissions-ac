@@ -9,6 +9,16 @@ fullPath: licenta/admitere/rezultate
 
 <Attachment label="Rezultate" file="/uploads/6l-r1-rezultate1.pdf"></Attachment>
 
+<Attachment label="Olimpici" file="/uploads/admisi_olimpici.pdf"></Attachment>
+
+<Attachment label="Olimpici (probă cu nota 10)" file="/uploads/admisi_olimpici_d.pdf"></Attachment>
+
+<Attachment label="Plasament" file="/uploads/admisi_plasament.pdf"></Attachment>
+
+<Attachment label="Rural" file="/uploads/admisi_rurali.pdf"></Attachment>
+
+<Attachment label="Sportivi" file="/uploads/admisi_sportivi.pdf"></Attachment>
+
 ### Rezultate Secțiunea 10L (Runda II)
 
 <Attachment label="Rezultate" file="/uploads/10l-r1-rezultate.pdf"></Attachment>
