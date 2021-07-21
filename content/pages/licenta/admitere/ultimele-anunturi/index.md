@@ -11,11 +11,13 @@ Fii cu ochii pe această pagină!
 
 - - -
 
-<Block color="green">
+<Block color="red">
 
-[Rezultatele admiterii](https://admitere.ac.upt.ro/licenta/admitere/rezultate/) au fost afișate!
+Rezultatele după prima rundă de confirmări vor fi afișate astăzi, 21.07, după ora 21.30. Mulțumim pentru înțelegere.
 
 </Block>
+
+#### [Rezultate (Runda I)](https://admitere.ac.upt.ro/licenta/admitere/rezultate/)
 
 #### Interviu online portofoliu (Luni, 19.07.2021, ora 10)
 
