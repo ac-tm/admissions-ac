@@ -7,7 +7,7 @@ fullPath: licenta/admitere/rezultate
 ---
 ### Rezultate Secțiunea 6L (Runda II)
 
-<Attachment label="Rezultate" file="/uploads/6l-r1-rezultate1.pdf"></Attachment>
+<Attachment label="Rezultate" file="/uploads/r2-v2-6l.pdf"></Attachment>
 
 <Attachment label="Olimpici" file="/uploads/admisi_olimpici.pdf"></Attachment>
 
@@ -21,7 +21,7 @@ fullPath: licenta/admitere/rezultate
 
 ### Rezultate Secțiunea 10L (Runda II)
 
-<Attachment label="Rezultate" file="/uploads/10l-r1-rezultate.pdf"></Attachment>
+<Attachment label="Rezultate" file="/uploads/r2-v2-10l.pdf"></Attachment>
 
 <Attachment label="Olimpici" file="/uploads/10l-admisi_olimpici.pdf"></Attachment>
 
