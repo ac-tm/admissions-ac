@@ -17,11 +17,9 @@ IMPORTANT: Cei care au confirmat în prima rundă de confirmări, NU trebuie să
 
 </Block>
 
-#### Rezultate (Runda II)
+#### [Rezultate (Runda II)](https://admitere.ac.upt.ro/licenta/admitere/rezultate/)
 
 #### [Rezultate (Runda I)](https://admitere.ac.upt.ro/licenta/admitere/rezultate/)
-
-
 
 #### Interviu online portofoliu (Luni, 19.07.2021, ora 10)
 
