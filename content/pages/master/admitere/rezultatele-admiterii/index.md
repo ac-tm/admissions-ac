@@ -5,7 +5,7 @@ image:
   src: https://aielpo.eplo.int/wp-content/uploads/2021/01/admission.jpg
 fullPath: master/admitere/rezultatele-admiterii
 ---
-<Block color="yellow">Rezultate și confirmări etapa 2, după interviu, IULIE 2021</Block>
+<Block color="green">Rezultate și confirmări etapa 2, după interviu, IULIE 2021</Block>
 
 **IMPORTANT**: Candidații declarați admiși mai jos trebuie să achite taxa de confirmare în sistemul de admitere Enroll și, dacă au ocupat un loc fără taxă, să aducă la Secretariatul corespunzător primei opțiuni exprimate, în original, adeverința de licență sau diploma, vineri 23.07.2021 orele 8-15:
 
@@ -20,19 +20,15 @@ Absolvenții AC care au optat pentru completarea adeverinței de licență și f
 
 **Neprezentarea la confirmări sau necompletarea actelor atrage excluderea din concurs, inclusiv pentru candidații declarați admiși.** 
 
-[Rezultatele înainte de confirmări, candidați licențiați](https://admitere.ac.upt.ro/uploads/6m-examen2-runda0-20210722.pdf)
-
+[Rezultatele etapei 2, înainte de confirmări, candidați licențiați](https://admitere.ac.upt.ro/uploads/6m-examen2-runda0-20210722.pdf)
 
 <Block color="yellow">Rezultate finale etapa 1, IULIE 2021</Block>
 
 Rezultate după prima rundă de confirmări și finale ale etapei 1 de admitere (deoarece nu mai e necesară runda 2 de confirmări):
-- [Rezultate etapa 1](https://admitere.ac.upt.ro/uploads/6m-examen1-runda2-20210708.pdf)
-- [Candidați respinși etapa 1](<https://admitere.ac.upt.ro/uploads/6m-examen1-runda2-respinși-20210708.pdf>)
-- [Rezultatele și perioada de confirmări pentru candidații români de pretutindeni](https://upt.ro/Informatii_romani-de-pretutindeni---admitere-master_1498_ro.html)
 
-
-
-
+* [Rezultate etapa 1](https://admitere.ac.upt.ro/uploads/6m-examen1-runda2-20210708.pdf)
+* [Candidați respinși etapa 1](https://admitere.ac.upt.ro/uploads/6m-examen1-runda2-respinși-20210708.pdf)
+* [Rezultatele și perioada de confirmări pentru candidații români de pretutindeni](https://upt.ro/Informatii_romani-de-pretutindeni---admitere-master_1498_ro.html)
 
 <Block color="yellow">Rezultate și confirmări etapa 1, după interviu, IULIE 2021</Block>
 
