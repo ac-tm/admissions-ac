@@ -50,6 +50,7 @@ Candidați înscriși la finalul zilei de 21 iulie: 20
 | AES         | 2             |
 | CCIOT       | 5             |
 | TI          | 5             |
+| TSISC       | 1             |
 | TML         | 3             |
 | TTI         | 1             |
 | TSE         | 1             |
