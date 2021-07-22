@@ -11,13 +11,17 @@ Fii cu ochii pe această pagină!
 
 - - -
 
-<Block color="green">
+<Block color=Yellow">
 
-Rezultatele după prima rundă de confirmări au fost afișate [AICI](https://admitere.ac.upt.ro/licenta/admitere/rezultate/).
+IMPORTANT: Cei care au confirmat în prima rundă de confirmări, NU trebuie să mai confirme și în runda a doua sau a treia. Chiar dacă în urma confirmărilor (sau neconfirmărilor) unor candidați se urcă în clasament și se trece de la cu taxă la fară taxă, confirmarea noului loc NU este necesară, repartizarea se face automat.
 
 </Block>
 
-#### Rezultate (Runda I)
+#### Rezultate (Runda II)
+
+#### [Rezultate (Runda I)](https://admitere.ac.upt.ro/licenta/admitere/rezultate/)
+
+
 
 #### Interviu online portofoliu (Luni, 19.07.2021, ora 10)
 
