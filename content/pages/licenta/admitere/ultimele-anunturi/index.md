@@ -11,6 +11,12 @@ Fii cu ochii pe această pagină!
 
 - - -
 
+<Block color=Red">
+
+În continuare se procesează rezultatele după **Runda II** de confirmări. Vom afișa rezultatele în curând și vom ajusta calendarul pentru **Runda III** de confirmări. Mulțumim pentru înțelegere.
+
+</Block>
+
 <Block color=Yellow">
 
 IMPORTANT: Cei care au confirmat în prima rundă de confirmări, NU trebuie să mai confirme și în runda a doua sau a treia. Chiar dacă în urma confirmărilor (sau neconfirmărilor) unor candidați se urcă în clasament și se trece de la cu taxă la fară taxă, confirmarea noului loc NU este necesară, repartizarea se face automat.
