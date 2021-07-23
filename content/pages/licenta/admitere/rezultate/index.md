@@ -5,6 +5,12 @@ image:
   src: /uploads/accepted-application.jpg
 fullPath: licenta/admitere/rezultate
 ---
+### Rezultate Runda III
+
+<Attachment label="Rezultate secțiunea 6L" file="/uploads/r3-6l-rezultate.pdf"></Attachment>
+
+- - -
+
 ### Rezultate Secțiunea 6L (Runda II)
 
 <Attachment label="Rezultate" file="/uploads/r2-v2-6l.pdf"></Attachment>
