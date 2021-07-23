@@ -11,9 +11,9 @@ Fii cu ochii pe această pagină!
 
 - - -
 
-<Block color="Red">
+<Block color="Yellow">
 
-Încă procesăm rezultatele după **Runda II** de confirmări. Vom afișa rezultatele în curând și vom ajusta calendarul pentru **Runda III** de confirmări. Mulțumim pentru înțelegere.
+**Runda III** **de confirmări** se desfășoară astăzi, 23 iulie, între intervalul orar 18:30 - 20:30. Mulțumim pentru înțelegere!
 
 </Block>
 
