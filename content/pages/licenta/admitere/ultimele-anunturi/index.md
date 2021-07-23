@@ -13,7 +13,7 @@ Fii cu ochii pe această pagină!
 
 <Block color=Red">
 
-În continuare se procesează rezultatele după **Runda II** de confirmări. Vom afișa rezultatele în curând și vom ajusta calendarul pentru **Runda III** de confirmări. Mulțumim pentru înțelegere.
+Încă procesăm rezultatele după **Runda II** de confirmări. Vom afișa rezultatele în curând și vom ajusta calendarul pentru **Runda III** de confirmări. Mulțumim pentru înțelegere.
 
 </Block>
 
