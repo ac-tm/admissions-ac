@@ -11,13 +11,13 @@ Fii cu ochii pe această pagină!
 
 - - -
 
-<Block color="Red">
+<Block color="red">
 
 **Runda III** **de confirmări** se desfășoară astăzi, 23 iulie, între intervalul orar 18:30 - 20:30. Mulțumim pentru înțelegere!
 
 </Block>
 
-<Block color="Yellow">
+<Block color="yellow">
 
 IMPORTANT: Cei care au confirmat în prima rundă de confirmări, NU trebuie să mai confirme și în runda a doua sau a treia. Chiar dacă în urma confirmărilor (sau neconfirmărilor) unor candidați se urcă în clasament și se trece de la cu taxă la fară taxă, confirmarea noului loc NU este necesară, repartizarea se face automat.
 
