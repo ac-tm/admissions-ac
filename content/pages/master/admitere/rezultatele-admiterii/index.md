@@ -5,7 +5,21 @@ image:
   src: https://aielpo.eplo.int/wp-content/uploads/2021/01/admission.jpg
 fullPath: master/admitere/rezultatele-admiterii
 ---
-<Block color="green">Rezultate și confirmări etapa 2, după interviu, IULIE 2021</Block>
+**În atenția candidaților admiși pe locuri cu taxă**: vă rugăm reveniți pentru a afla perioada de plată a taxei de școlarizare.
+
+**În atenția candidaților admiși**: formularele pentru alegerea disciplinelor opționale din anul 1 master vor fi disponibile online în curând, vă rugăm reveniți.
+
+
+<Block color="green">Rezultate finale etapa 2, IULIE 2021</Block>
+
+Rezultate după prima rundă de confirmări și finale ale etapei 2 de admitere (deoarece nu mai e necesară runda 2 de confirmări):
+
+* [Rezultate etapa 2](https://admitere.ac.upt.ro/uploads/6m-examen2-final-20210723.pdf)
+* [Rezultatele și perioada de confirmări pentru candidații români de pretutindeni](https://upt.ro/Informatii_romani-de-pretutindeni---admitere-master_1498_ro.html)
+
+
+
+<Block color="yellow">Rezultate și confirmări etapa 2, după interviu, IULIE 2021</Block>
 
 **IMPORTANT**: Candidații declarați admiși mai jos trebuie să achite taxa de confirmare în sistemul de admitere Enroll și, dacă au ocupat un loc fără taxă, să aducă la Secretariatul corespunzător primei opțiuni exprimate, în original, adeverința de licență sau diploma, vineri 23.07.2021 orele 8-15:
 
