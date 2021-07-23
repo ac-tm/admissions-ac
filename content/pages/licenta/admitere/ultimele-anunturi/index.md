@@ -13,6 +13,12 @@ Fii cu ochii pe această pagină!
 
 <Block color="red">
 
+**Rezultatele finale au fost afișate!** Un fișier conține rezultatele pentru toate opțiunile.
+
+</Block>
+
+<Block color="yellow">
+
 **Runda III** **de confirmări** se desfășoară astăzi, 23 iulie, între intervalul orar 18:30 - 20:30. Mulțumim pentru înțelegere!
 
 </Block>
