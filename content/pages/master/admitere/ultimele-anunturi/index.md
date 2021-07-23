@@ -11,6 +11,11 @@ Fii cu ochii pe această pagină!
 
 - - -
 
+**În atenția candidaților admiși pe locuri cu taxă**: vă rugăm reveniți pentru a afla perioada de plată a taxei de școlarizare.
+
+**În atenția candidaților admiși**: formularele pentru alegerea disciplinelor opționale din anul 1 master vor fi disponibile online în curând, vă rugăm reveniți.
+
+
 ### Rezultate etapa 2
 
 **Au fost publicate rezultatele examenului 2 [în secțiunea dedicată](https://admitere.ac.upt.ro/master/admitere/rezultatele-admiterii/).**
