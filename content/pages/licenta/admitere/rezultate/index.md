@@ -9,6 +9,8 @@ fullPath: licenta/admitere/rezultate
 
 <Attachment label="Rezultate secțiunea 6L" file="/uploads/r3-6l-rezultate.pdf"></Attachment>
 
+<Attachment label="Rezultate secțiunea 10" file="/uploads/rezultate-10l-r3.pdf"></Attachment>
+
 - - -
 
 ### Rezultate Secțiunea 6L (Runda II)
