@@ -5,7 +5,7 @@ image:
   src: /uploads/accepted-application.jpg
 fullPath: licenta/admitere/rezultate
 ---
-### Rezultate FINALE Secțiunea 6L
+### Rezultate FINALE Secțiunea 6L (toate opțiunile)
 
 <Attachment label="Rezultate" file="/uploads/6l-rf-admisi-b.pdf"></Attachment>
 
@@ -21,15 +21,13 @@ fullPath: licenta/admitere/rezultate
 
 <Attachment label="Rural" file="/uploads/6l-rf-admisi-u.pdf"></Attachment>
 
-### Rezultate FINALE Secțiunea 10L
+### Rezultate FINALE Secțiunea 10L (toate opțiunile)
 
 <Attachment label="Rezultate" file="/uploads/10l-rf-admisi-b.pdf"></Attachment>
 
 <Attachment label="Olimpici" file="/uploads/10l-rf-admisi-o.pdf"></Attachment>
 
 <Attachment label="Plasament" file="/uploads/10l-rf-admisi-p.pdf"></Attachment>
-
-
 
 <Attachment label="Rural" file="/uploads/10l-rf-admisi-u.pdf"></Attachment>
 
