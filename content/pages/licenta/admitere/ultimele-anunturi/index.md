@@ -11,7 +11,7 @@ Fii cu ochii pe această pagină!
 
 - - -
 
-<Block color="Green">
+<Block color="Red">
 
 **Runda III** **de confirmări** se desfășoară astăzi, 23 iulie, între intervalul orar 18:30 - 20:30. Mulțumim pentru înțelegere!
 
