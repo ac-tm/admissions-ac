@@ -5,38 +5,40 @@ image:
   src: https://aielpo.eplo.int/wp-content/uploads/2021/01/admission.jpg
 fullPath: master/admitere/rezultatele-admiterii
 ---
+<Block color="green">Rezultate finale IULIE 2021</Block>
+
+| **program master** | **locuri iulie** | **înscriși iulie** | **admiși iulie** | **locuri disponibile septembrie** |
+| ------------------ | ---------------- | ------------------ | ---------------- | --------------------------------- |
+| AES                | 20               | 20                 | 18               | 2                                 |
+| CCIOT              | 25               | 18                 | 17               | 8                                 |
+| ISA                | 25               | 21                 | 18               | 7                                 |
+| IT                 | 25               | 6                  | 7                | 18                                |
+| ML                 | 40               | 43                 | 40               | 0                                 |
+| SE                 | 30+5             | 40                 | 35               | 0                                 |
+| SIAPS              | 30+11            | 47                 | 41               | 0                                 |
+| SIIS               | 25               | 26                 | 25               | 0                                 |
+| SISC               | 25+5             | 34                 | 30               | 0                                 |
+| TI                 | 30               | 29                 | 29               | 1                                 |
+| AES - taxă         | 5                | 0                  | 0                | 5                                 |
+| CCIOT - taxă       | 5                | 2                  | 2                | 3                                 |
+| ISA - taxă         | 5                | 0                  | 0                | 5                                 |
+| IT - taxă          | 5                | 0                  | 0                | 5                                 |
+| ML - taxă          | 10               | 7                  | 9                | 1                                 |
+| SE - taxă          | 5                | 1                  | 4                | 1                                 |
+| SIAPS - taxă       | 5                | 0                  | 1                | 4                                 |
+| SIIS - taxă        | 5                | 0                  | 0                | 5                                 |
+| SISC - taxă        | 5                | 3                  | 5                | 0                                 |
+| TI - taxă          | 5                | 2                  | 1                | 4                                 |
+| **Total**          | **351**          | **299**            | **282**          | **69**                            |
+
+* [Admiși și Respinși în sesiunea iulie](https://admitere.ac.upt.ro/uploads/6m-lista-admisi-respinsi-20210724.txt)
+
+* [Rezultatele și perioada de confirmări pentru candidații români de pretutindeni](https://upt.ro/Informatii_romani-de-pretutindeni---admitere-master_1498_ro.html)
+
 **În atenția candidaților admiși pe locuri cu taxă**: vă rugăm reveniți pentru a afla perioada de plată a taxei de școlarizare.
 
 **În atenția candidaților admiși**: formularele pentru alegerea disciplinelor opționale din anul 1 master vor fi disponibile online în curând, vă rugăm reveniți.
 
-
-<Block color="green">Rezultate finale IULIE 2021</Block>
-
-| **program master**  | **locuri iulie** | **înscriși iulie** | **admiși iulie** | **locuri disponibile septembrie** |
-| ------------ | ---------- | ------------ | ---------- | -------------- |
-| AES          | 20         | 20           | 18         | 2              |
-| CCIOT        | 25         | 18           | 17         | 8              |
-| ISA          | 25         | 21           | 18         | 7              |
-| IT           | 25         | 6            | 7          | 18             |
-| ML           | 40         | 43           | 40         | 0              |
-| SE           | 30+5       | 40           | 35         | 0              |
-| SIAPS        | 30+11      | 47           | 41         | 0              |
-| SIIS         | 25         | 26           | 25         | 0              |
-| SISC         | 25+5       | 34           | 30         | 0              |
-| TI           | 30         | 29           | 29         | 1              |
-| AES - taxă   | 5          | 0            | 0          | 5              |
-| CCIOT - taxă | 5          | 2            | 2          | 3              |
-| ISA - taxă   | 5          | 0            | 0          | 5              |
-| IT - taxă    | 5          | 0            | 0          | 5              |
-| ML - taxă    | 10         | 7            | 9          | 1              |
-| SE - taxă    | 5          | 1            | 4          | 1              |
-| SIAPS - taxă | 5          | 0            | 1          | 4              |
-| SIIS - taxă  | 5          | 0            | 0          | 5              |
-| SISC - taxă  | 5          | 3            | 5          | 0              |
-| TI - taxă    | 5          | 2            | 1          | 4              |
-| **Total**    | **351**    | **299**      | **282**    | **69**         |
-
-* [Rezultatele și perioada de confirmări pentru candidații români de pretutindeni](https://upt.ro/Informatii_romani-de-pretutindeni---admitere-master_1498_ro.html)
 
 
 <Block color="yellow">Rezultate finale etapa 2, IULIE 2021</Block>
