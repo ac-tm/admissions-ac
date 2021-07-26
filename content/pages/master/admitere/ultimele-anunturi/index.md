@@ -13,13 +13,14 @@ Fii cu ochii pe această pagină!
 
 **În atenția candidaților admiși pe locuri cu taxă**: vă rugăm reveniți pentru a afla perioada de plată a taxei de școlarizare.
 
-**În atenția candidaților admiși**: formularele pentru alegerea disciplinelor opționale din anul 1 master vor fi disponibile online în curând, vă rugăm reveniți.
+**În atenția candidaților admiși**: formularele pentru alegerea disciplinelor opționale din anul 1 master :
 
+* [vor fi disponibile aici pentru studenții la **AES, ISA, SIAPS, SIIS, SISC, TI**](http://www.aut.upt.ro/alegere_optionale.php#top)
+* [vor fi disponibile aici pentru studenții la **CCIOT, IT, ML, SE**](https://www.cs.upt.ro/education/master/electives)
 
-### Rezultate etapa 2
+### Rezultate sesiunea iulie
 
 **Au fost publicate rezultatele examenului 2 [în secțiunea dedicată](https://admitere.ac.upt.ro/master/admitere/rezultatele-admiterii/).**
-
 
 ## Liste de verificare, etapa 2
 
@@ -32,7 +33,7 @@ Candidații sunt obligați să verifice în listele de mai jos validitatea datel
 
 Vă rugăm reveniți pentru detalii despre organizarea interviului de admitere.
 
-* [**Programarea la interviul de joi 22.07.2021**](https://vision.cs.upt.ro/index.php/apps/onlyoffice/s/MiKroxWTJ9q2yeP)
+* **[Programarea la interviul de joi 22.07.2021](https://vision.cs.upt.ro/index.php/apps/onlyoffice/s/MiKroxWTJ9q2yeP)**
 
   Interviul constă într-o prezentare de către candidat a unei propuneri de temă de cercetare pe care doreste sa o abordeze in cadrul programului de Master, urmată de intrebări din partea membrilor comisiei.
 
