@@ -37,7 +37,10 @@ fullPath: master/admitere/rezultatele-admiterii
 
 **În atenția candidaților admiși pe locuri cu taxă**: vă rugăm reveniți pentru a afla perioada de plată a taxei de școlarizare.
 
-**În atenția candidaților admiși**: formularele pentru alegerea disciplinelor opționale din anul 1 master vor fi disponibile online în curând, vă rugăm reveniți.
+**În atenția candidaților admiși**: formularele pentru alegerea disciplinelor opționale din anul 1 master :
+
+* [vor fi disponibile aici pentru studenții la **AES, ISA, SIAPS, SIIS, SISC, TI**](http://www.aut.upt.ro/alegere_optionale.php#top)
+* [vor fi disponibile aici pentru studenții la **CCIOT, IT, ML, SE**](https://www.cs.upt.ro/education/master/electives)
 
 
 
