@@ -5,6 +5,12 @@ image:
   src: /uploads/accepted-application.jpg
 fullPath: licenta/admitere/rezultate
 ---
+### Rezultate Admitere Secțiunea 6L (Iulie 2021)
+
+### Rezultate Admitere Secțiunea 10L (Iulie 2021)
+
+
+
 ### Rezultate FINALE Secțiunea 6L (toate opțiunile)
 
 <Attachment label="Rezultate" file="/uploads/6l-rf-admisi-b.pdf"></Attachment>
