@@ -5,37 +5,11 @@ image:
   src: /uploads/accepted-application.jpg
 fullPath: licenta/admitere/rezultate
 ---
-### Rezultate FINALE Secțiunea 6L (toate opțiunile)
-
-<Attachment label="Rezultate" file="/uploads/6l-rf-admisi-b.pdf"></Attachment>
-
-<Attachment label="Olimpici" file="/uploads/6l-rf-admisi-o.pdf"></Attachment>
-
-<Attachment label="Olimpici (o probă)" file="/uploads/6l-rf-admisi-o-proba-.pdf"></Attachment>
-
-<Attachment label="Studenți" file="/uploads/6l-rf-admisi-s.pdf"></Attachment>
-
-<Attachment label="Sportivi" file="/uploads/6l-rf-admisi-sport.pdf"></Attachment>
-
-<Attachment label="Plasament" file="/uploads/6l-rf-admisi-p.pdf"></Attachment>
-
-<Attachment label="Rural" file="/uploads/6l-rf-admisi-u.pdf"></Attachment>
-
-### Rezultate FINALE Secțiunea 10L (toate opțiunile)
-
-<Attachment label="Rezultate" file="/uploads/10l-rf-admisi-b.pdf"></Attachment>
-
-<Attachment label="Olimpici" file="/uploads/10l-rf-admisi-o.pdf"></Attachment>
-
-<Attachment label="Plasament" file="/uploads/10l-rf-admisi-p.pdf"></Attachment>
-
-<Attachment label="Rural" file="/uploads/10l-rf-admisi-u.pdf"></Attachment>
-
 ### Rezultate Runda III
 
 <Attachment label="Rezultate secțiunea 6L" file="/uploads/r3-6l-rezultate.pdf"></Attachment>
 
-<Attachment label="Rezultate secțiunea 10" file="/uploads/rezultate-10l-r3.pdf"></Attachment>
+<Attachment label="Rezultate secțiunea 10L" file="/uploads/rezultate-10l-r3.pdf"></Attachment>
 
 - - -
 
