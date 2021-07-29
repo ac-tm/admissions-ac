@@ -37,4 +37,4 @@ fullPath: licenta/admitere/rezultate-finale
 
 #### Pentru rezultatele fiecărei runde, accesează linkul: 
 
-<Attachment label="undefined" internal="licenta/admitere/rezultate"></Attachment>
+<Attachment label="Rezultate pe runde" internal="licenta/admitere/rezultate"></Attachment>
