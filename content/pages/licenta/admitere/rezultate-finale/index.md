@@ -5,7 +5,7 @@ image:
   src: /uploads/accepted-application.jpg
 fullPath: licenta/admitere/rezultate-finale
 ---
-### Rezultate Admitere Secțiunea 6L (Iulie 2021) (toate specializările, *buget* și *cu taxă*)
+### Rezultate Admitere Secțiunea 6L, Iulie 2021 (toate specializările, *buget* și *cu taxă*)
 
 <Attachment label="Rezultate" file="/uploads/6l-admisi_rf_bac.pdf"></Attachment>
 
@@ -23,7 +23,9 @@ fullPath: licenta/admitere/rezultate-finale
 
 - - -
 
-### Rezultate Admitere Secțiunea 10L (Iulie 2021)
+### Rezultate Admitere Secțiunea 10L, Iulie 2021 (toate specializările, *buget* și *cu taxă*)
+
+<Attachment label="Rezultate" file="/uploads/6l-admisi_rf_bac.pdf"></Attachment>
 
 <Attachment label="Rezultate" file="/uploads/10l_admisi_rf_bac.pdf"></Attachment>
 
