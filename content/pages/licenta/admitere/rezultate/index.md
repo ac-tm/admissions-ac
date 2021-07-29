@@ -1,5 +1,5 @@
 ---
-title: Rezultatele pe runde
+title: Rezultate pe runde
 description: "Intră aici și află la ce specializare ai fost admis! "
 image:
   src: /uploads/accepted-application.jpg
