@@ -27,6 +27,17 @@
   },
   "sections": [
     {
+      "type": "pages",
+      "list": [
+        "licenta/admitere/calendarul-admiterii",
+        "licenta/admitere/rezultate-finale",
+        "licenta/admitere/ultimele-anunturi",
+        "licenta/admitere/dupa-ce-esti-acceptat",
+        "licenta/admitere/unde-ma-inscriu",
+        "licenta/admitere/documente-necesare"
+      ]
+    },
+    {
       "type": "specializations",
       "title": "Să începem cu începutul...",
       "description": "Înainte să te înscrii este important să îți alegi specializarea la care îți dorești să fii admis. Nu te teme, poți să te înscrii la mai multe specializări în domeniile Calculatoare și Tehnologia Informației, Ingineria Sistemelor și Informatică.",
@@ -51,10 +62,7 @@
           "width": "half",
           "specialization": "informatică-la-distanță"
         }
-      ]
-    },
-    {
-      "type": "pages",
+      ],
       "list": [
         "licenta/admitere/calendarul-admiterii",
         "licenta/admitere/rezultate",
