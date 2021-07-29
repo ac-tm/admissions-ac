@@ -11,6 +11,19 @@ Fii cu ochii pe această pagină!
 
 - - -
 
+### Admitere toamnă
+
+Pentru sesiunea de admitere master din luna septembrie, pentru toate facultățile și programele de studii, perioada de înscriere este **10-17 septembrie** 2021.
+
+
+
+Concursul de admitere se desfășoară în ziua de **20 septembrie** 2021, iar confirmarea candidaților admiși se va face în ziua de **21 septembrie** 2021.
+
+
+
+- - -
+
+
 **În atenția candidaților admiși pe locuri cu taxă**: prima rată poate fi plătită până pe **27 august** 2021, preferabil online cu cardul din [sistemul de admitere Enroll](https://admitere.upt.ro/master/).
 
 <Attachment label="Termenul de plată a taxei de școlarizare pentru studenții admiși cu taxă în iulie 2021" file="/uploads/adresa-12750_09.07.2021-privind-termenul-de-plata-a-taxei-de-scolarizare-admisi-cu-taxa-iulie-2021.pdf"></Attachment>
