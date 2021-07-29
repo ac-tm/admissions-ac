@@ -11,7 +11,9 @@ Fii cu ochii pe această pagină!
 
 - - -
 
-**În atenția candidaților admiși pe locuri cu taxă**: vă rugăm reveniți pentru a afla perioada de plată a taxei de școlarizare.
+**În atenția candidaților admiși pe locuri cu taxă**: prima rată poate fi plătită până pe **27 august** 2021
+
+<Attachment label=" Termenul de plată a taxei de școlarizare pentru studenții admiși cu taxă în iulie 2021" file="/uploads/adresa-12750_09.07.2021-privind-termenul-de-plata-a-taxei-de-scolarizare-admisi-cu-taxa-iulie-2021.pdf"></Attachment>
 
 **În atenția candidaților admiși**: formularele pentru alegerea disciplinelor opționale din anul 1 master :
 
