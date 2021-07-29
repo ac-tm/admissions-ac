@@ -11,7 +11,7 @@ Fii cu ochii pe această pagină!
 
 - - -
 
-**În atenția candidaților admiși pe locuri cu taxă**: prima rată poate fi plătită până pe **27 august** 2021, preferabil online cu cardul din [sistemul de admitere Enroll](https://admitere.upt.ro/public/login).
+**În atenția candidaților admiși pe locuri cu taxă**: prima rată poate fi plătită până pe **27 august** 2021, preferabil online cu cardul din [sistemul de admitere Enroll](https://admitere.upt.ro/master/).
 
 <Attachment label=" Termenul de plată a taxei de școlarizare pentru studenții admiși cu taxă în iulie 2021" file="/uploads/adresa-12750_09.07.2021-privind-termenul-de-plata-a-taxei-de-scolarizare-admisi-cu-taxa-iulie-2021.pdf"></Attachment>
 
