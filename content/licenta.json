@@ -30,9 +30,7 @@
       "type": "pages",
       "list": [
         "licenta/admitere/calendarul-admiterii",
-        "licenta/admitere/rezultate-finale",
-        "licenta/admitere/ultimele-anunturi",
-        "licenta/admitere/documente-necesare"
+        "licenta/admitere/rezultate-finale"
       ]
     },
     {
