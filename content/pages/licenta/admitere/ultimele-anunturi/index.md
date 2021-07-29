@@ -17,7 +17,7 @@ Fii cu ochii pe această pagină!
 
 <Block color="red">
 
-**[Rezultatele finale au fost afișate!](/licenta/admitere/rezultate/)** Un fișier conține rezultatele pentru toate opțiunile.
+**[Rezultatele finale au fost afișate!](/licenta/admitere/rezultate-finale/)** Un fișier conține rezultatele pentru toate opțiunile.
 
 </Block>
 
@@ -25,17 +25,9 @@ Fii cu ochii pe această pagină!
 
 **Runda III** **de confirmări** se desfășoară astăzi, 23 iulie, între intervalul orar 18:30 - 20:30. Mulțumim pentru înțelegere!
 
-</Block>
-
-<Block color="yellow">
-
 IMPORTANT: Cei care au confirmat în prima rundă de confirmări, NU trebuie să mai confirme și în runda a doua sau a treia. Chiar dacă în urma confirmărilor (sau neconfirmărilor) unor candidați se urcă în clasament și se trece de la cu taxă la fară taxă, confirmarea noului loc NU este necesară, repartizarea se face automat.
 
 </Block>
-
-#### [Rezultate (Runda II)](https://admitere.ac.upt.ro/licenta/admitere/rezultate/)
-
-#### [Rezultate (Runda I)](https://admitere.ac.upt.ro/licenta/admitere/rezultate/)
 
 #### Interviu online portofoliu (Luni, 19.07.2021, ora 10)
 
