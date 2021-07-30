@@ -1,5 +1,5 @@
 ---
-title: Calendarul admiterii la master
+title: Calendarul admiterii
 description: Dacă nu ai aplicat sau nu ai fost admis în vară, încearcă în
   septembrie. Ne dorim să fii studentul nostru la master!
 image:
