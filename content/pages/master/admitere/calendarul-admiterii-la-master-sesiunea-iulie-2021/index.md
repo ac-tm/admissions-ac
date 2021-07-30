@@ -7,3 +7,5 @@ image:
 fullPath: master/admitere/calendarul-admiterii-la-master-sesiunea-iulie-2021
 ---
 <Timeline slug="admitere-master"></Timeline>
+
+<Attachment label="Uită-te pe pagina aceasta ca să vezi la ce mastere mai sunt locuri libere." internal="licenta/admitere/ultimele-anunturi"></Attachment>
