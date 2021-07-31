@@ -1,7 +1,9 @@
 ---
-title: Calendarul admiterii din toamnă
+title: Calendarul admiterii toamnă
 description: Nu ai fost admis în vară? Nu e nicio problemă! Te așteptăm să te
   înscrii în toamnă!
+image:
+  src: /uploads/untitled-design-1-.png
 fullPath: licenta/admitere/calendarul-admiterii-din-toamna
 ---
 <Timeline slug="admitere-licență-septembrie-2021"></Timeline>
