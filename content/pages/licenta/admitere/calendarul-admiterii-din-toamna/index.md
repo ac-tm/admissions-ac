@@ -1,5 +1,5 @@
 ---
-title: Calendarul admiterii toamnă
+title: Calendarul admiterii
 description: Nu ai fost admis în vară? Nu e nicio problemă! Te așteptăm să te
   înscrii în toamnă!
 image:
