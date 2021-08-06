@@ -1,5 +1,5 @@
 ---
-title: Numărul de locuri rămase
+title: Numărul de locuri neocupate
 description: "Te întrebi câte locuri au rămas libere la AC după finalizarea
   înscrierilor din vară? "
 fullPath: licenta/admitere/numarul-de-locuri-ramase
