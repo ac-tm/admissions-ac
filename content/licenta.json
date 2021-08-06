@@ -1,8 +1,8 @@
 {
   "meta": {
     "title": "Admiterea la Licenta",
-    "description": "Admiterea la licenta.",
-    "image": ""
+    "description": "Inovează și proiectează-te în viitor – 2 pași spre succes prin Automatică și Calculatoare.",
+    "image": "/uploads/undraw_graduation_ktn0.svg"
   },
   "hero": {
     "notification": {
@@ -30,7 +30,9 @@
       "type": "pages",
       "list": [
         "licenta/admitere/calendarul-admiterii-din-toamna",
-        "licenta/admitere/rezultate-finale"
+        "licenta/admitere/rezultate-finale",
+        "licenta/admitere/numarul-de-locuri-ramase",
+        "licenta/admitere/documente-necesare"
       ]
     },
     {
