@@ -30,9 +30,9 @@
     {
       "type": "pages",
       "list": [
-        "master/admitere/ultimele-anunturi",
         "master/admitere/rezultatele-admiterii",
         "master/admitere/calendarul-admiterii-la-master-sesiunea-iulie-2021",
+        "master/admitere/master",
         "master/admitere/documente-necesare22"
       ]
     },
