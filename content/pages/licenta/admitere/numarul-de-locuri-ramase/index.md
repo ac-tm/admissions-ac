@@ -6,7 +6,7 @@ image:
   src: /uploads/graduate.jpg
 fullPath: licenta/admitere/numarul-de-locuri-ramase
 ---
-La finalul rundei III de confirmări din sesiunea de înscrieri a lunii IULIE 2021, situația locurilor rămase neocupate la facultatea noastră este cea expusă în tabelul de mai jos. Cu alte cuvinte, au mai rămas locuri doar la specializarea *Informatică*, unde admiterea se face pe baza concursului de dosare.
+La finalul rundei III de confirmări din sesiunea de înscrieri a lunii IULIE 2021, situația locurilor rămase neocupate la facultatea noastră este cea expusă în tabelul de mai jos. 
 
 | **Domeniul**                                             | **Locuri buget** | **Locuri cu taxă** |
 | -------------------------------------------------------- | ---------------- | ------------------ |
@@ -16,3 +16,5 @@ La finalul rundei III de confirmări din sesiunea de înscrieri a lunii IULIE 20
 | **Informatică**                                          | 20               | 5                  |
 | **Informatică – ID**                                     | 0                | 0                  |
 | **TOTAL**                                                | 20               | 5                  |
+
+Cu alte cuvinte, au mai rămas locuri doar la specializarea *Informatică*, unde admiterea se face pe baza concursului de dosare.
