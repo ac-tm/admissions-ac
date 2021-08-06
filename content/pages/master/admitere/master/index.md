@@ -7,16 +7,16 @@ fullPath: master/admitere/master
 ---
 La finalul sesiunii de înscrieri din luna IULIE 2021, situația locurilor rămase neocupate la facultatea noastră este cea expusă în tabelul de mai jos:
 
-| **Domeniul de studii universitare de masterat** | **Programul de studii universitare de masterat**           | **Locuri buget** | **Locuri taxă** |
-| ----------------------------------------------- | ---------------------------------------------------------- | ---------------- | --------------- |
-| Calculatoare și Tehnologia Informației          | **Cloud Computing and Internet of Things – limba engleză** | 8                | 3               |
-| Calculatoare și Tehnologia Informației          | **Information Technology – limba engleză**                 | 13               | 5               |
-| Calculatoare și Tehnologia Informației          | **Machine Learning – limba engleză**                       | 0                | 1               |
-| Calculatoare și Tehnologia Informației          | **Software Engineering – limba engleză**                   | 0                | 1               |
-| Ingineria Sistemelor                            | **Automotive Embedded Software – limba engleză**           | 2                | 5               |
-| Ingineria Sistemelor                            | **Ingineria Sistemelor Automate**                          | 7                | 5               |
-| Ingineria Sistemelor                            | **Sisteme Informatice Aplicate în Producție și Servicii**  | 0                | 4               |
-| Ingineria Sistemelor                            | **Sisteme Informatice în Îngrijirea Sănătății**            | 0                | 5               |
-| Ingineria Sistemelor                            | **Securitatea informațiilor și a sistemelor cibernetice**  | 0                | 0               |
-| Informatică                                     | **Tehnologii Informatice**                                 | 6                | 4               |
-|                                                 | **TOTAL**                                                  | **36**           | **33**          |
+| **Domeniul de studii**  | **Programul de studii**                                    | **Nr. Locuri buget** | **Nr. Locuri taxă** |
+| ----------------------- | ---------------------------------------------------------- | -------------------- | ------------------- |
+| **CTI**                 | **Cloud Computing and Internet of Things – limba engleză** | 8                    | 3                   |
+| **CTI**                 | **Information Technology – limba engleză**                 | 13                   | 5                   |
+| **CTI**                 | **Machine Learning – limba engleză**                       | 0                    | 1                   |
+| **CTI**                 | **Software Engineering – limba engleză**                   | 0                    | 1                   |
+| **IS**                  | **Automotive Embedded Software – limba engleză**           | 2                    | 5                   |
+| **IS**                  | **Ingineria Sistemelor Automate**                          | 7                    | 5                   |
+| **IS**                  | **Sisteme Informatice Aplicate în Producție și Servicii**  | 0                    | 4                   |
+| **IS**                  | **Sisteme Informatice în Îngrijirea Sănătății**            | 0                    | 5                   |
+| **IS**                  | **Securitatea informațiilor și a sistemelor cibernetice**  | 0                    | 0                   |
+| **INFO.**               | **Tehnologii Informatice**                                 | 6                    | 4                   |
+|                         | **TOTAL**                                                  | **36**               | **33**              |
