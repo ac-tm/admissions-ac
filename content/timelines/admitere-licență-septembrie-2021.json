@@ -14,11 +14,11 @@
     {
       "date": "2021-09-13T06:00:00.000Z",
       "deadline": "2021-09-13T13:00:00.000Z",
-      "title": "Concurs de admitere (examen la matematică sau concurs de dosare)"
+      "title": "Concurs de admitere (concurs de dosare)"
     },
     {
       "date": "2021-09-13T15:00:00.000Z",
-      "deadline": "2021-07-31T20:52:37.412Z",
+      "deadline": "",
       "title": "Runda I: Afișare rezultate"
     },
     {
@@ -33,7 +33,7 @@
     },
     {
       "date": "2021-09-16T07:00:00.000Z",
-      "deadline": "2021-09-17T11:00:00.000Z",
+      "deadline": "2021-09-16T11:00:00.000Z",
       "title": "Runda II: Confirmări"
     },
     {
