@@ -3,19 +3,8 @@
   "events": [
     {
       "date": "2021-09-03T21:00:00.000Z",
-      "deadline": "2021-09-10T11:00:00.000Z",
-      "title": "Înscriere CTI & IS (online)",
-      "details": "Înscrierea se realizează exclusiv în aplicația [de înscriere](https://admitere.upt.ro). Dacă întâmpini dificultăți, accesează [ghidul](http://www.upt.ro/Informatii_acte-necesare-pentru-dosarul-de-inscriere-la-admiterea-la-li_1412_ro.html) nostru despre cum se completează formularul de înscriere."
-    },
-    {
-      "date": "2021-09-03T21:00:00.000Z",
       "deadline": "2021-09-13T11:00:00.000Z",
       "title": "Înscriere INFO (online)"
-    },
-    {
-      "date": "2021-09-05T21:00:00.000Z",
-      "deadline": "2021-09-10T11:00:00.000Z",
-      "title": "Înscriere CTI & IS (fizic)"
     },
     {
       "date": "2021-09-05T21:00:00.000Z",
