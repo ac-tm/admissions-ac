@@ -3,19 +3,8 @@
   "events": [
     {
       "date": "2021-09-03T21:00:00.000Z",
-      "deadline": "2021-09-10T11:00:00.000Z",
-      "title": "Înscriere CTI & IS (online)",
-      "details": "Înscrierea se realizează exclusiv în aplicația [de înscriere](https://admitere.upt.ro). Dacă întâmpini dificultăți, accesează [ghidul](http://www.upt.ro/Informatii_acte-necesare-pentru-dosarul-de-inscriere-la-admiterea-la-li_1412_ro.html) nostru despre cum se completează formularul de înscriere."
-    },
-    {
-      "date": "2021-09-03T21:00:00.000Z",
       "deadline": "2021-09-13T11:00:00.000Z",
       "title": "Înscriere INFO (online)"
-    },
-    {
-      "date": "2021-09-05T21:00:00.000Z",
-      "deadline": "2021-09-10T11:00:00.000Z",
-      "title": "Înscriere CTI & IS (fizic)"
     },
     {
       "date": "2021-09-05T21:00:00.000Z",
@@ -25,11 +14,11 @@
     {
       "date": "2021-09-13T06:00:00.000Z",
       "deadline": "2021-09-13T13:00:00.000Z",
-      "title": "Concurs de admitere (examen la matematică sau concurs de dosare)"
+      "title": "Concurs de admitere (concurs de dosare)"
     },
     {
       "date": "2021-09-13T15:00:00.000Z",
-      "deadline": "2021-07-31T20:52:37.412Z",
+      "deadline": "",
       "title": "Runda I: Afișare rezultate"
     },
     {
@@ -44,7 +33,7 @@
     },
     {
       "date": "2021-09-16T07:00:00.000Z",
-      "deadline": "2021-09-17T11:00:00.000Z",
+      "deadline": "2021-09-16T11:00:00.000Z",
       "title": "Runda II: Confirmări"
     },
     {
