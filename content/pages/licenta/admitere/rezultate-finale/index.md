@@ -5,13 +5,11 @@ image:
   src: /uploads/accepted-application.jpg
 fullPath: licenta/admitere/rezultate-finale
 ---
-### Rezultate Admitere Secțiunea 10L, Septembrie 2021 
+### Rezultate Admitere Secțiunea 10L, Septembrie 2021
 
 <Attachment label="Rezultate" file="/uploads/10l-admisi_optiuni-bac.pdf"></Attachment>
 
 <Attachment label="Rural" file="/uploads/10l-admisi_rural.pdf"></Attachment>
-
-
 
 <Attachment label="Studenți" file="/uploads/10l-admisi_student.pdf"></Attachment>
 
