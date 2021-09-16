@@ -13,12 +13,24 @@ Fii cu ochii pe această pagină!
 
 ### Admitere toamnă
 
-Pentru sesiunea de admitere master din luna septembrie, pentru toate facultățile și programele de studii, perioada de înscriere este **10-17 septembrie** 2021.
+Pentru sesiunea de admitere master din luna septembrie, pentru toate facultățile și programele de studii, perioada de înscriere este **10-17 septembrie** 2021, pentru **[locurile rămase libere după sesiunea din luna iulie](/master/admitere/master/)**.
 
 
 
 Concursul de admitere se desfășoară în ziua de **20 septembrie** 2021, iar confirmarea candidaților admiși se va face în ziua de **21 septembrie** 2021.
 
+
+
+Candidați înscriși la finalul zilei de 15 septembrie: 10
+
+| **Program** | **Candidați** |
+| ----------- | ------------- |
+| CCIOT       | 1             |
+| ISA         | 2             |
+| IT          | 1             |
+| TI          | 2             |
+| TAES        | 1             |
+| TML         | 3             |
 
 
 - - -
