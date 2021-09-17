@@ -26,12 +26,11 @@ Candidați înscriși la finalul zilei de 16 septembrie: 21
 | **Program** | **Candidați** |
 | ----------- | ------------- |
 | AES   | 1 |
-| CCIOT | 5 |
+| CCIOT | 7 |
 | ISA   | 2 |
-| IT    | 2 |
+| IT    | 4 |
 | TI    | 2 |
 | TAES  | 1 |
-
 | TML   | 3 |
 | TSE   | 1 |
 
