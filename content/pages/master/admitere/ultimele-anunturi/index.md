@@ -30,7 +30,6 @@ Candidați înscriși la finalul zilei de 16 septembrie: 21
 | ISA   | 2 |
 | IT    | 2 |
 | TI    | 2 |
-
 | TAES  | 1 |
 
 | TML   | 3 |
