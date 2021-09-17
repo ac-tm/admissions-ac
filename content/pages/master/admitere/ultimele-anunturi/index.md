@@ -11,35 +11,38 @@ Fii cu ochii pe această pagină!
 
 - - -
 
-### Admitere toamnă
+# Admitere toamnă
+
+## Liste de verificare, etapa 3 (toamnă)
+
+Candidații sunt obligați să verifice în listele de mai jos validitatea datelor de concurs. Eventualele contestații, pe adresa secretariatului care gestionează programul pe care l-ați precizat ca primă opțiune. 
+
+* Candidații cu prima opțiune **AES, SISC,** sau **TI**. Datele vor fi afișate in curând. Adresă secretariat: secretariat.admitere@aut.upt.ro
+* [Candidații cu prima opțiune **CCIoT, ML,** sau **SE**](https://vision.cs.upt.ro/index.php/apps/onlyoffice/s/ZYQXzk5MicLebPj). Termen: **luni, 20.09.2021, ora 9:00**. Adresă secretariat: secretariat@cs.upt.ro
+
+## Informații sesiune toamnă
 
 Pentru sesiunea de admitere master din luna septembrie, pentru toate facultățile și programele de studii, perioada de înscriere este **10-17 septembrie** 2021, pentru **[locurile rămase libere după sesiunea din luna iulie](/master/admitere/master/)**.
 
-
-
 Concursul de admitere se desfășoară în ziua de **20 septembrie** 2021, iar confirmarea candidaților admiși se va face în ziua de **21 septembrie** 2021.
-
-
 
 Candidați înscriși la finalul zilei de 17 septembrie: 46
 
 | **Program** | **Candidați** |
-|------------|----------------|
-| AES        | 3              |
-| CCIOT      | 10             |
-| ISA        | 10             |
-| IT         | 5              |
-| TI         | 8              |
-| TAES       | 1              |
-| TCCIOT     | 1              |
-| TML        | 3              |
-| TSE        | 2              |
-| TSIAPS     | 2              |
-| TTI        | 1              |
-
+| ----------- | ------------- |
+| AES         | 3             |
+| CCIOT       | 10            |
+| ISA         | 10            |
+| IT          | 5             |
+| TI          | 8             |
+| TAES        | 1             |
+| TCCIOT      | 1             |
+| TML         | 3             |
+| TSE         | 2             |
+| TSIAPS      | 2             |
+| TTI         | 1             |
 
 - - -
-
 
 **În atenția candidaților admiși pe locuri cu taxă**: prima rată poate fi plătită până pe **27 august** 2021, preferabil online cu cardul din [sistemul de admitere Enroll](https://admitere.upt.ro/master/).
 
