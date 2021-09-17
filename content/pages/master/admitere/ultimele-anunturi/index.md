@@ -21,7 +21,7 @@ Concursul de admitere se desfășoară în ziua de **20 septembrie** 2021, iar c
 
 
 
-Candidați înscriși la finalul zilei de 15 septembrie: 10
+Candidați înscriși la finalul zilei de 16 septembrie: 21
 
 | **Program** | **Candidați** |
 | ----------- | ------------- |
