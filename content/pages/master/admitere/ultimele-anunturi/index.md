@@ -21,16 +21,18 @@ Concursul de admitere se desfășoară în ziua de **20 septembrie** 2021, iar c
 
 
 
-Candidați înscriși la finalul zilei de 15 septembrie: 10
+Candidați înscriși la finalul zilei de 16 septembrie: 21
 
 | **Program** | **Candidați** |
 | ----------- | ------------- |
-| CCIOT       | 1             |
-| ISA         | 2             |
-| IT          | 1             |
-| TI          | 2             |
-| TAES        | 1             |
-| TML         | 3             |
+| AES   | 1 |
+| CCIOT | 7 |
+| ISA   | 2 |
+| IT    | 4 |
+| TI    | 2 |
+| TAES  | 1 |
+| TML   | 3 |
+| TSE   | 1 |
 
 
 - - -
