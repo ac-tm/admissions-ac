@@ -13,6 +13,11 @@ Fii cu ochii pe această pagină!
 
 # Admitere toamnă
 
+## Programari examen
+
+Orarul interviurilor ﻿va fi afișat aici sâmbătă după-masă, vă rugăm reveniți. 
+V
+
 ## Liste de verificare, etapa 3 (toamnă)
 
 Candidații sunt obligați să verifice în listele de mai jos validitatea datelor de concurs. Eventualele contestații, pe adresa secretariatului care gestionează programul pe care l-ați precizat ca primă opțiune. 
