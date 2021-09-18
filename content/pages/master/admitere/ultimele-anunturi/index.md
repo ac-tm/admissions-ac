@@ -15,7 +15,9 @@ Fii cu ochii pe această pagină!
 
 ## Programari examen
 
-Orarul interviurilor ﻿va fi afișat aici sâmbătă după-masă, vă rugăm reveniți. 
+Orarul interviurilor ﻿va fi afișat aici sâmbătă după-masă, vă rugăm reveniți.
+
+- - - 
 V
 
 ## Liste de verificare, etapa 3 (toamnă)
