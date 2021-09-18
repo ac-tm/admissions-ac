@@ -91,9 +91,6 @@ Interviul constă într-o prezentare de către candidat a unei propuneri de tem�
   * Exprimarea în limba engleză (pentru programele în engleză)
   * Răspunsurile candidatului la întrebările comisiei (legate, de regulă, de tematica prezentării).
 
-- - - 
-
-
 ## Liste de verificare, etapa 3 (toamnă)
 
 Candidații sunt obligați să verifice în listele de mai jos validitatea datelor de concurs. Eventualele contestații, pe adresa secretariatului care gestionează programul pe care l-ați precizat ca primă opțiune. 
