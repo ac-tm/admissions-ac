@@ -15,7 +15,81 @@ Fii cu ochii pe această pagină!
 
 ## Programari examen
 
-Orarul interviurilor ﻿va fi afișat aici sâmbătă după-masă, vă rugăm reveniți.
+Lista candidaților care au solicitat echivalarea notei și nu vor avea interviu:
+
+
+| **marca**   | **nota examen echivalentă** |
+|---------|-------------------------|
+| 14-6620 | 8.08                    |
+| 14-6628 | 7.25                    |
+| 14-6629 | 8.19                    |
+| 14-6631 | 7.36                    |
+| 14-6635 | 7.08                    |
+| 14-6636 | 8.04                    |
+| 14-7140 | 7.57                    |
+| 14-7143 | 8.44                    |
+| 14-7152 | 6.64                    |
+
+Programarea la interviu online (Zoom), luni 20 septembrie:
+
+| **ora**   | **marca**   |
+|-------|---------|
+| 08:00 | 14-6634 |
+| 08:05 | ROP 004 |
+| 08:10 | ROP 006 |
+| 08:15 | ROP 009 |
+| 08:20 | 14-7137 |
+| 08:25 | 14-7153 |
+| 08:30 | 14-7147 |
+| 08:35 | 14-7148 |
+| 08:40 | 14-7139 |
+| 08:45 | 14-6619 |
+| 08:50 | 14-6638 |
+| 08:55 | 14-7157 |
+| 09:00 | 14-6637 |
+| 09:05 | 14-6623 |
+| 09:10 | 14-7138 |
+| 09:15 | 14-6639 |
+| 09:20 | 14-7141 |
+| 09:25 | 14-6627 |
+| 09:30 | 14-7136 |
+| 09:35 | 14-7142 |
+| 09:40 | 14-7155 |
+| 09:45 | 14-7150 |
+| 09:50 | 14-6630 |
+| 09:55 | 14-6622 |
+| 10:00 | 14-7144 |
+| 10:05 | 14-6621 |
+| 10:10 | 14-7135 |
+| 10:15 | 14-6640 |
+| 10:20 | 14-7134 |
+| 10:25 | 14-6632 |
+| 10:30 | 14-7149 |
+| 10:35 | 14-7145 |
+| 10:40 | 14-7151 |
+| 10:45 | 14-7152 |
+| 10:50 | 14-7154 |
+| 10:55 | 14-6624 |
+| 11:00 | 14-7146 |
+| 11:05 | 14-7156 |
+| 11:10 | 14-6633 |
+| 11:15 | 14-6626 |
+| 11:20 | ROP 002 |
+
+
+
+*Notă*: informațiile de conectare vor fi trimise prin e-mail de către secretarul de comisie la adresele înregistrate de candidați la înscriere. Verificați inclusiv folderul SPAM!
+
+
+
+
+Interviul constă într-o prezentare de către candidat a unei propuneri de temă de cercetare pe care dorește să o abordeze în cadrul programului de Master, urmată de întrebări din partea membrilor comisiei.
+
+  * Capacitatea candidatului de a desfășura o activitate de cercetare științifică
+  * Consistența și documentarea temei prezentate si rezultatele scontate
+  * Capacitatea de a găsi metode și de a obține rezultate în cercetare
+  * Exprimarea în limba engleză (pentru programele în engleză)
+  * Răspunsurile candidatului la întrebările comisiei (legate, de regulă, de tematica prezentării).
 
 - - - 
 
