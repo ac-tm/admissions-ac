@@ -13,6 +13,11 @@ Fii cu ochii pe această pagină!
 
 # Admitere toamnă
 
+## Rezultate sesiunea septembrie
+
+**Au fost publicate rezultatele interviului [în secțiunea dedicată](https://admitere.ac.upt.ro/master/admitere/rezultatele-admiterii/).**
+
+
 ## Programari examen
 
 Lista candidaților care au solicitat echivalarea notei și nu vor avea interviu:
