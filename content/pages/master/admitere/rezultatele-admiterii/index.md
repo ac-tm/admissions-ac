@@ -20,9 +20,9 @@ Absolvenții AC care au optat pentru completarea adeverinței de licență și f
 
 **Neprezentarea la confirmări sau necompletarea actelor atrage excluderea din concurs, inclusiv pentru candidații declarați admiși.** 
 
-[Rezultatele înainte de confirmări, candidați licențiați](https://admitere.ac.upt.ro/uploads/2020-09-20-6M-runda1.pdf)
+<Attachment label="Rezultatele înainte de confirmări, candidați licențiați" file="/uploads/2020-09-20-6M-runda1.pdf"></Attachment>
 
-[Rezultatele și perioada de confirmări pentru candidații români de pretutindeni](https://upt.ro/Informatii_romani-de-pretutindeni---admitere-master_1498_ro.html)
+De asemenea, pe pagina dedicată se găsesc [rezultatele și perioada de confirmări pentru candidații români de pretutindeni](https://upt.ro/Informatii_romani-de-pretutindeni---admitere-master_1498_ro.html).
 
 - - -
 
