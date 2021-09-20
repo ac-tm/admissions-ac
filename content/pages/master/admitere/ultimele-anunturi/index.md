@@ -74,6 +74,7 @@ Programarea la interviu online ([Zoom Meeting ID: 925 9564 7532](https://upt-ro.
 | 11:10   | 14-6633   |
 | 11:15   | 14-6626   |
 | 11:20   | ROP 002   |
+| 11:25   | ROP 008   |
 
 *Notă*: informațiile de conectare vor fi trimise prin e-mail de către secretarul de comisie la adresele înregistrate de candidați la înscriere. Verificați inclusiv folderul SPAM!
 
