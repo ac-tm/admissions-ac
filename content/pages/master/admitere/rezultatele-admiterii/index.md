@@ -20,7 +20,7 @@ Absolvenții AC care au optat pentru completarea adeverinței de licență și f
 
 **Neprezentarea la confirmări sau necompletarea actelor atrage excluderea din concurs, inclusiv pentru candidații declarați admiși.** 
 
-<Attachment label="Rezultatele înainte de confirmări, candidați licențiați" file="/uploads/2020-09-20-6M-runda1.pdf"></Attachment>
+<Attachment label="Rezultatele înainte de confirmări, candidați licențiați" file="/uploads/2020-09-20-6m-runda1.pdf"></Attachment>
 
 De asemenea, pe pagina dedicată se găsesc [rezultatele și perioada de confirmări pentru candidații români de pretutindeni](https://upt.ro/Informatii_romani-de-pretutindeni---admitere-master_1498_ro.html).
 
@@ -53,7 +53,6 @@ De asemenea, pe pagina dedicată se găsesc [rezultatele și perioada de confirm
 | **Total**          | **351**          | **299**            | **282**          | **69**                            |
 
 * [Admiși și Respinși în sesiunea iulie](https://admitere.ac.upt.ro/uploads/6m-lista-admisi-respinsi-20210724.txt)
-
 * [Rezultatele și perioada de confirmări pentru candidații români de pretutindeni](https://upt.ro/Informatii_romani-de-pretutindeni---admitere-master_1498_ro.html)
 
 **În atenția candidaților admiși pe locuri cu taxă**: prima rată poate fi plătită până pe **27 august** 2021, preferabil online cu cardul din [sistemul de admitere Enroll](https://admitere.upt.ro/master/).
@@ -64,8 +63,6 @@ De asemenea, pe pagina dedicată se găsesc [rezultatele și perioada de confirm
 
 * [vor fi disponibile aici pentru studenții la **AES, ISA, SIAPS, SIIS, SISC, TI**](http://www.aut.upt.ro/alegere_optionale.php#top)
 * [vor fi disponibile aici pentru studenții la **CCIOT, IT, ML, SE**](https://www.cs.upt.ro/education/master/electives)
-
-
 
 <Block color="yellow">Rezultate finale etapa 2, IULIE 2021</Block>
 
