@@ -5,6 +5,25 @@ image:
   src: https://aielpo.eplo.int/wp-content/uploads/2021/01/admission.jpg
 fullPath: master/admitere/rezultatele-admiterii
 ---
+<Block color="yellow">Rezultate și confirmări etapa 1, după interviu, SEPTEMBRIE 2021</Block>
+
+**IMPORTANT**: Candidații declarați admiși mai jos trebuie să achite taxa de confirmare în sistemul de admitere Enroll și, dacă au ocupat un loc fără taxă, să aducă la Secretariatul corespunzător primei opțiuni exprimate, în original, adeverința de licență sau diploma, marți 21 iulie, orele 9-12:
+
+* Candidații cu prima opțiune **AES, ISA, SIAPS, SIIS, SISC, sau TI**: în sala B615 (corp Electro, Secretariat etaj 6, tel. +40.256.403.505, email: secretariat.admitere@aut.upt.ro);
+* Candidații cu prima opțiune **CCIoT, IT, ML, sau SE**: în sala B512 (corp Electro, Secretariat etaj 5, tel. +40.256.403.261, email: secretariat@cs.upt.ro);
+
+Absolvenții AC care au optat pentru completarea adeverinței de licență și foii matricole de către comisia de admitere trebuie să achite **taxa** de confirmare și să aducă [eventualele alte documente **lipsă în original**](/master/admitere/ultimele-anunturi/) până la sfârșitul ultimei etape de confirmări:
+
+* două **fotografii** color tip diplomă
+* adeverință **medicală**, eliberată de medicul de familie
+* dovadă **scutire** de taxă de înscriere pentru candidații aflați în această situație
+
+**Neprezentarea la confirmări sau necompletarea actelor atrage excluderea din concurs, inclusiv pentru candidații declarați admiși.** 
+
+[Rezultatele înainte de confirmări, candidați licențiați](https://admitere.ac.upt.ro/uploads/2020-09-20-6M-runda1.pdf)
+
+- - -
+
 <Block color="green">Rezultate finale IULIE 2021</Block>
 
 | **program master** | **locuri iulie** | **înscriși iulie** | **admiși iulie** | **locuri disponibile septembrie** |
