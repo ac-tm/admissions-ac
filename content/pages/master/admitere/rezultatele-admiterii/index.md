@@ -5,6 +5,21 @@ image:
   src: https://aielpo.eplo.int/wp-content/uploads/2021/01/admission.jpg
 fullPath: master/admitere/rezultatele-admiterii
 ---
+<Block color="red">Rezultate finale, SEPTEMBRIE 2021</Block>
+
+Rezultate după prima rundă de confirmări și finale ale sesiunii septembrie de admitere (deoarece nu mai e necesară runda 2 de confirmări):
+
+<Attachment label="Rezultate septembrie" file="/uploads/2020-09-20-6m-finale.pdf"></Attachment>
+
+De asemenea, pe pagina dedicată se găsesc [rezultatele și perioada de confirmări pentru candidații români de pretutindeni](https://upt.ro/Informatii_romani-de-pretutindeni---admitere-master_1498_ro.html).
+
+**În atenția candidaților admiși**: formularele pentru alegerea disciplinelor opționale din anul 1 master :
+
+* [vor fi disponibile aici pentru studenții la **AES, ISA, SIAPS, SIIS, SISC, TI**](http://www.aut.upt.ro/alegere_optionale.php#top)
+* [vor fi disponibile aici pentru studenții la **CCIOT, IT, ML, SE**](https://www.cs.upt.ro/education/master/electives)
+
+**În atenția candidaților admiși pe locuri cu taxă**: prima rată poate fi plătită preferabil online cu cardul din [sistemul de admitere Enroll](https://admitere.upt.ro/master/).
+
 <Block color="yellow">Rezultate și confirmări etapa 1, după interviu, SEPTEMBRIE 2021</Block>
 
 **IMPORTANT**: Candidații declarați admiși mai jos trebuie să achite taxa de confirmare în sistemul de admitere Enroll și, dacă au ocupat un loc fără taxă, să aducă la Secretariatul corespunzător primei opțiuni exprimate, în original, adeverința de licență sau diploma, marți 21 iulie, orele 9-12:
