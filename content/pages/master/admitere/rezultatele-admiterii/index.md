@@ -18,7 +18,10 @@ De asemenea, pe pagina dedicată se găsesc [rezultatele și perioada de confirm
 * [vor fi disponibile aici pentru studenții la **AES, ISA, SIAPS, SIIS, SISC, TI**](http://www.aut.upt.ro/alegere_optionale.php#top)
 * [vor fi disponibile aici pentru studenții la **CCIOT, IT, ML, SE**](https://www.cs.upt.ro/education/master/electives)
 
-**În atenția candidaților admiși pe locuri cu taxă**: prima rată poate fi plătită preferabil online cu cardul din [sistemul de admitere Enroll](https://admitere.upt.ro/master/).
+
+
+
+**În atenția candidaților admiși pe locuri cu taxă**: prima rată a taxelor de studii poate fi plătită preferabil online cu cardul din [sistemul de admitere Enroll](https://admitere.upt.ro/master/).
 
 <Block color="yellow">Rezultate și confirmări etapa 1, după interviu, SEPTEMBRIE 2021</Block>
 
