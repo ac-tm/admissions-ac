@@ -15,8 +15,7 @@ Fii cu ochii pe această pagină!
 
 ## Rezultate sesiunea septembrie
 
-**Au fost publicate rezultatele interviului [în secțiunea dedicată](https://admitere.ac.upt.ro/master/admitere/rezultatele-admiterii/).**
-
+**Au fost publicate rezultatele finale [în secțiunea dedicată](https://admitere.ac.upt.ro/master/admitere/rezultatele-admiterii/).**
 
 ## Programari examen
 
