@@ -36,44 +36,84 @@
     {
       "date": "2022-07-14T06:00:00.000Z",
       "deadline": "",
-      "title": "Concurs de admitere (Matematică sau Interviu portofoliu de realizări)"
+      "title": "[CTI/IS] Concurs de admitere (Matematică sau Interviu portofoliu de realizări)"
     },
     {
       "date": "2022-07-14T17:00:00.000Z",
       "deadline": "",
-      "title": "Afișare rezultate (Runda I)",
+      "title": "[CTI/IS] Afișare rezultate (Runda I)",
       "details": "[](https://admitere.ac.upt.ro/licenta/admitere/rezultate/)Odată procesate rezultatele, le vei putea accesa pe acest site, la secțiunea *Rezultate*."
     },
     {
       "date": "2022-07-15T07:00:00.000Z",
       "deadline": "2022-07-18T13:00:00.000Z",
-      "title": "Confirmări Runda I",
+      "title": "[CTI/IS] Confirmări Runda I",
       "details": "Nu uita să iți [confirmi](https://admitere.ac.upt.ro/licenta/admitere/dupa-ce-esti-acceptat/) locul dacă ești printre cei admiși. Altfel se consideră că te-ai răzgândit și locul tău va ajunge la alții."
     },
     {
       "date": "2022-07-18T16:00:00.000Z",
       "deadline": "",
-      "title": "Afișare rezultate (Runda II)"
+      "title": "[CTI/IS] Afișare rezultate (Runda II)"
     },
     {
       "date": "2022-07-19T07:00:00.000Z",
       "deadline": "2022-07-20T13:00:00.000Z",
-      "title": "Confirmări Runda II"
+      "title": "[CTI/IS] Confirmări Runda II"
     },
     {
       "date": "2022-07-20T16:00:00.000Z",
       "deadline": "",
-      "title": "Afișare rezultate (Runda III)"
+      "title": "[CTI/IS] Afișare rezultate (Runda III)"
     },
     {
       "date": "2022-07-21T07:00:00.000Z",
       "deadline": "2022-07-21T17:00:00.000Z",
-      "title": "Confirmări Runda III"
+      "title": "[CTI/IS] Confirmări Runda III"
     },
     {
       "date": "2022-07-21T17:00:00.000Z",
       "deadline": "",
-      "title": "Rezultate finale"
+      "title": "[CTI/IS] Rezultate finale"
+    },
+    {
+      "date": "2022-07-25T07:00:00.000Z",
+      "deadline": "",
+      "title": "[Info] Concurs de dosare"
+    },
+    {
+      "date": "2022-07-25T17:00:00.000Z",
+      "deadline": "",
+      "title": "[Info] Afișare rezultate (Runda I)"
+    },
+    {
+      "date": "2022-07-26T07:00:00.000Z",
+      "deadline": "2022-07-27T13:00:00.000Z",
+      "title": "[Info] Confirmări Runda I"
+    },
+    {
+      "date": "2022-07-27T16:00:00.000Z",
+      "deadline": "",
+      "title": "[Info] Afișare rezultate (Runda II)"
+    },
+    {
+      "date": "2022-07-28T07:00:00.000Z",
+      "deadline": "2022-07-29T09:00:00.000Z",
+      "title": "[Info] Confirmări Runda II"
+    },
+    {
+      "date": "2022-07-29T11:00:00.000Z",
+      "deadline": "",
+      "title": "[Info] Afișare rezultate (Runda III)"
+    },
+    {
+      "date": "2022-07-29T11:00:00.000Z",
+      "deadline": "2022-07-29T15:00:00.000Z",
+      "title": "[Info] Confirmări Runda III"
+    },
+    {
+      "date": "2022-07-29T17:00:00.000Z",
+      "deadline": "",
+      "title": "Rezultate finale AC (CTI/IS/Info)"
     }
   ]
 }
