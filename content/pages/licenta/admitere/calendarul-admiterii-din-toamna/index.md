@@ -1,7 +1,7 @@
 ---
 title: Calendarul admiterii
-description: Nu ai fost admis în vară? Nu e nicio problemă! Te așteptăm să te
-  înscrii în toamnă!
+description: Abia așteptăm să fii studentul nostru! Marchează-ți în calendar
+  datele următoare și... ne vedem din toamnă.
 image:
   src: /uploads/untitled-design-1-.png
 fullPath: licenta/admitere/calendarul-admiterii-din-toamna
