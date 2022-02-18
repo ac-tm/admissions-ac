@@ -3,7 +3,7 @@ title: Rezultate finale (2021)
 description: Aici găsești rezultatele finale după sesiunea 2021!
 image:
   src: /uploads/accepted-application.jpg
-fullPath: licenta/admitere/rezultate-finale
+fullPath: licenta/admitere/arhiva-rezultate/rezultate-finale
 ---
 ### Rezultate Admitere Secțiunea 10L, Septembrie 2021
 
