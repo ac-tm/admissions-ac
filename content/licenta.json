@@ -29,10 +29,10 @@
     {
       "type": "pages",
       "list": [
+        "licenta/admitere/pregatire-pentru-examenul-de-admitere",
         "licenta/admitere/calendarul-admiterii-din-toamna",
-        "licenta/admitere/rezultate-finale",
-        "licenta/admitere/numarul-de-locuri-ramase",
-        "licenta/admitere/documente-necesare"
+        "licenta/admitere/modalitatile-de-admitere",
+        "licenta/admitere/admiterea-pentru-olimpici"
       ]
     },
     {
