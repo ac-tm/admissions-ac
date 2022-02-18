@@ -8,4 +8,4 @@ fullPath: licenta/admitere/calendarul-admiterii-din-toamna
 ---
 <Timeline slug="admitere-cti-is-licență"></Timeline>
 
-<Attachment label="Pentru mai multe detalii sau informații despre admiterea la învățământul la distanță sau cu frecvență redusă, te rugăm să accesezi acest link." external="http://upt.ro/Informatii_admitere-licenta_1536_ro.html"></Attachment>
+<Attachment label="Pentru mai multe detalii sau informații despre admiterea la învățământul la distanță sau cu frecvență redusă, te rugăm să accesezi acest link." external="https://www.upt.ro/Informatii_admitere-licenta-2022_1536_ro.html"></Attachment>
