@@ -10,7 +10,7 @@ fullPath: licenta/admitere/documente-necesare
 
 Documente ce se vor încărca **ONLINE**, pe [platformă](https://admitere.upt.ro), color, în format pdf sau format de fișier grafic (jpeg sau png). Detalii suplimentare [AICI](https://www.upt.ro/Informatii_acte-necesare-pentru-dosarul-de-inscriere-la-admiterea-la-li_1412_ro.html). Dacă nu ai acces la internet și crezi că ai nevoie de ajutor în încărcarea documentelor, îl vei găsi în centrele de înscriere zonale sau la facultate unde colegii nostri sunt pe baricade.
 
-Dacă ești **absolvent** de **bacalaureat** în anul **2021**, **în țară**, lucrurile sunt de destul de simple. Intri pe [platformă](https://admitere.upt.ro) și încarci următoarele documente (punctele **a-g** din [ghid](http://www.upt.ro/Informatii_acte-necesare-pentru-dosarul-de-inscriere-la-admiterea-la-li_1412_ro.html)):
+Dacă ești **absolvent** de **bacalaureat** în anul **2022**, **în țară**, lucrurile sunt de destul de simple. Intri pe [platformă](https://admitere.upt.ro) și încarci următoarele documente (punctele **a-g** din [ghid](http://www.upt.ro/Informatii_acte-necesare-pentru-dosarul-de-inscriere-la-admiterea-la-li_1412_ro.html)):
 
 <DocumentCheckbox text="Diploma de bacalaureat sau diploma echivalentă (a)"></DocumentCheckbox>
 
@@ -57,6 +57,6 @@ Necesare pentru situațiile deosebite, conform ghidului de admitere:
 
 <DocumentCheckbox text="Patru fotografii color tip diplomă (f)"></DocumentCheckbox>
 
-## Etapa 3 - Prima zi a anului universitar (2021-2022)
+## Etapa 3 - Prima zi a anului universitar (2022-2023)
 
 Dacă ai lăsat pentru etapa a 3-a ce puteai depune în etapa a 2-a, atunci mai ai de depus documentele **c-f**.
