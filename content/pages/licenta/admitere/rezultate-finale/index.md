@@ -1,5 +1,5 @@
 ---
-title: Rezultate finale
+title: Rezultate finale (2021)
 description: Aici găsești rezultatele finale după sesiunea din vară 2021!
 image:
   src: /uploads/accepted-application.jpg
