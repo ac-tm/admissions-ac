@@ -4,7 +4,7 @@ description: "Intră aici și află cu ce medie au intrat colegii de anul trecut
   fiecare specializare! "
 image:
   src: /uploads/accepted-application.jpg
-fullPath: licenta/admitere/rezultate
+fullPath: licenta/admitere/arhiva-rezultate/rezultate
 ---
 <Attachment label="Rezultate FINALE sesiunea IULIE 2021" internal="licenta/admitere/rezultate-finale"></Attachment>
 
