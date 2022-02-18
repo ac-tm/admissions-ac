@@ -1,5 +1,5 @@
 ---
-title: Rezultate pe runde
+title: Rezultate pe runde (2021)
 description: "Intră aici și află la ce specializare ai fost admis! "
 image:
   src: /uploads/accepted-application.jpg
