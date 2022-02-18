@@ -5,7 +5,7 @@
       "date": "2022-06-27T06:00:00.000Z",
       "deadline": "2022-07-12T13:00:00.000Z",
       "title": "Înscriere CTI & IS (online și fizic)",
-      "details": "Înscrierea se realizează exclusiv în aplicația [de înscriere](https://admitere.upt.ro). Dacă întâmpini dificultăți, accesează [ghidul](http://www.upt.ro/Informatii_acte-necesare-pentru-dosarul-de-inscriere-la-admiterea-la-li_1412_ro.html) nostru despre cum se completează formularul de înscriere.",
+      "details": "Înscrierea se realizează exclusiv în **[aplicația de înscriere](https://admitere.upt.ro)**. Dacă întâmpini dificultăți, accesează [ghidul](http://www.upt.ro/Informatii_acte-necesare-pentru-dosarul-de-inscriere-la-admiterea-la-li_1412_ro.html) nostru despre cum se completează formularul de înscriere.",
       "cta": {
         "label": "Formular de înscriere",
         "path": "licenta"
@@ -15,7 +15,7 @@
       "date": "2022-06-27T06:00:00.000Z",
       "deadline": "2021-07-22T13:00:00.000Z",
       "title": "Înscriere INFO (online și fizic)",
-      "details": "Înscrierea se realizează exclusiv în aplicația [de înscriere](https://admitere.upt.ro). Dacă întâmpini dificultăți, accesează [ghidul](http://www.upt.ro/Informatii_acte-necesare-pentru-dosarul-de-inscriere-la-admiterea-la-li_1412_ro.html) nostru despre cum se completează formularul de înscriere."
+      "details": "Înscrierea se realizează exclusiv în **[aplicația de înscriere](https://admitere.upt.ro)**. Dacă întâmpini dificultăți, accesează [ghidul](http://www.upt.ro/Informatii_acte-necesare-pentru-dosarul-de-inscriere-la-admiterea-la-li_1412_ro.html) nostru despre cum se completează formularul de înscriere."
     },
     {
       "date": "2022-06-27T06:00:00.000Z",
@@ -31,7 +31,7 @@
       "date": "2022-07-12T17:00:00.000Z",
       "deadline": "",
       "title": "Afișare rezultate Portofoliu (Etapa 1)",
-      "details": "Candidații înscriși pe bază de portofoliu de realizări vor fi anunțați dacă s-au calificat mai departe la interviul din 19.07. Cei necalificați la interviu vor susține proba de matematică."
+      "details": "Candidații înscriși pe bază de portofoliu de realizări vor fi anunțați dacă s-au calificat mai departe la interviul din 14.07. Cei necalificați la interviu vor susține proba de matematică."
     },
     {
       "date": "2022-07-14T06:00:00.000Z",
@@ -42,7 +42,7 @@
       "date": "2022-07-14T17:00:00.000Z",
       "deadline": "",
       "title": "Afișare rezultate (Runda I)",
-      "details": "Poți verifica rezultatele [AICI](https://admitere.ac.upt.ro/licenta/admitere/rezultate/)"
+      "details": "[](https://admitere.ac.upt.ro/licenta/admitere/rezultate/)Odată procesate rezultatele, le vei putea accesa pe acest site, la secțiunea *Rezultate*."
     },
     {
       "date": "2022-07-15T07:00:00.000Z",
