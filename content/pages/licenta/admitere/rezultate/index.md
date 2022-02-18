@@ -1,6 +1,7 @@
 ---
-title: Rezultate pe runde (2021)
-description: "Intră aici și află la ce specializare ai fost admis! "
+title: Rezultate iulie 2021
+description: "Intră aici și află cu ce medie au intrat colegii de anul trecut la
+  fiecare specializare! "
 image:
   src: /uploads/accepted-application.jpg
 fullPath: licenta/admitere/rezultate
