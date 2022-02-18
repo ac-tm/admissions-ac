@@ -1,3 +1,30 @@
 {
-  "title": "Pregăriri matematică 2022"
+  "title": "Pregăriri matematică 2022",
+  "events": [
+    {
+      "date": "2022-02-19T08:05:00.000Z",
+      "deadline": "",
+      "title": "Mulțimea numerelor reale. Tipuri de raționament. Șiruri și Progresii. Funcţia de gradul al doilea."
+    },
+    {
+      "date": "2022-02-26T08:05:00.000Z",
+      "deadline": "",
+      "title": "Funcția putere. Funcţia exponenţială şi funcţia logaritmică. Sisteme de ecuaţii neliniare. Numere complexe."
+    },
+    {
+      "date": "2022-03-05T08:05:00.000Z",
+      "deadline": "",
+      "title": "Analiză combinatorie. Binomul lui Newton. Probabilități."
+    },
+    {
+      "date": "2022-03-12T08:00:00.000Z",
+      "deadline": "",
+      "title": "Matrice, determinanţi, sisteme liniare."
+    },
+    {
+      "date": "2022-03-19T08:00:00.000Z",
+      "deadline": "",
+      "title": "Funcţii trigonometrice şi aplicaţii în geometria plană."
+    }
+  ]
 }
