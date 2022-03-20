@@ -57,6 +57,31 @@
       "date": "2022-07-29T17:00:00.000Z",
       "deadline": "",
       "title": "Rezultate finale (sesiunea IULIE)"
+    },
+    {
+      "date": "2022-08-21T21:00:00.000Z",
+      "deadline": "2022-09-17T11:00:00.000Z",
+      "title": "Etapa III (septembrie): Înscriere CTI, IS și INFO (online)"
+    },
+    {
+      "date": "2022-09-09T06:00:00.000Z",
+      "deadline": "2022-09-17T11:00:00.000Z",
+      "title": "Etapa III (septembrie): Înscriere CTI, IS și INFO (fizic)"
+    },
+    {
+      "date": "2022-09-19T05:00:00.000Z",
+      "deadline": "",
+      "title": "Etapa III (septembrie): Concurs de admitere (Interviu)"
+    },
+    {
+      "date": "2022-09-19T15:00:00.000Z",
+      "deadline": "",
+      "title": "Etapa III (septembrie): Afișare rezultate"
+    },
+    {
+      "date": "2022-09-20T06:00:00.000Z",
+      "deadline": "2022-09-21T13:00:00.000Z",
+      "title": "Definitivarea rezultatelor"
     }
   ]
 }
