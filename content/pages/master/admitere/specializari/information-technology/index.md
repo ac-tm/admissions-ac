@@ -3,7 +3,7 @@ title: Information Technology
 description: Cum stă treaba cu masterul de IT? Accesează linkul și te lămurim!
 fullPath: master/admitere/specializari/information-technology
 ---
-Care-i faza cu masterul de IT? Primul lucru pe care trebuie să-l știi e că e un master de la CTI, deci e-n engleză! Good luck with that!
+Care-i faza cu masterul de IT? Primul lucru pe care trebuie să-l știi e că e un [master de la CTI](https://cs.upt.ro/ro/education/master), deci e-n engleză! Lucky you - împuști doi iepuri! Și e și master de cercetare, pe de-asupra!
 
 În cazul în care vei opta pentru acest master, vei avea, în fiecare semestru, o materie de *cercetare*, unde vei aprofunda noțiunile mai teoretice de la celelalte materii. Vorbim imediat și despre ele, dar stai să o lămurim pe-asta cu cercetarea. Aici vei citi articole de specialitate, vei analiza ce au făcut alții deja, vei compara ce au făcut unii și alții și, nu în ultimul rând, vei 'cerceta' și tu la rândul tău! Ce zici? Sună tare fain, nu? 
 
