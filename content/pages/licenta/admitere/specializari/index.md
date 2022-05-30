@@ -1,5 +1,5 @@
 ---
-title: Specializări
+title: Specializări și nr. de locuri
 description: Noi îți oferim 5 posibilități, decizia e la tine!
 fullPath: licenta/admitere/specializari
 ---
