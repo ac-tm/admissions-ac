@@ -6,7 +6,7 @@ image:
   src: /uploads/accepted-application.jpg
 fullPath: licenta/admitere/arhiva-rezultate/rezultate
 ---
-<Attachment label="Rezultate FINALE sesiunea IULIE 2021" internal="licenta/admitere/rezultate-finale"></Attachment>
+<Attachment label="Rezultate FINALE sesiunea IULIE 2021" internal="licenta/admitere/arhiva-rezultate/rezultate"></Attachment>
 
 ### Rezultate Runda III
 
