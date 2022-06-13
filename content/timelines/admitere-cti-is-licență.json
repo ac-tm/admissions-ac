@@ -19,6 +19,12 @@
     },
     {
       "date": "2022-06-27T06:00:00.000Z",
+      "deadline": "2021-07-22T11:00:00.000Z",
+      "title": "Înscriere INFO (online)",
+      "details": "Înscrierea se realizează exclusiv în **[aplicația de înscriere](https://admitere.upt.ro)**. Dacă întâmpini dificultăți, accesează [ghidul](http://www.upt.ro/Informatii_acte-necesare-pentru-dosarul-de-inscriere-la-admiterea-la-li_1412_ro.html) nostru despre cum se completează formularul de înscriere."
+    },
+    {
+      "date": "2022-06-27T06:00:00.000Z",
       "deadline": "2022-07-12T11:00:00.000Z",
       "title": "Transmitere portofolii de realizări (online)",
       "details": "Încarci pe platformă toate dovezile realizărilor tale. [Aici](https://www.upt.ro/Informatii_admitere-licenta_1536_ro.html) găsești detalii, template și exemplu.",
@@ -28,16 +34,22 @@
       }
     },
     {
+      "date": "2022-07-04T06:00:00.000Z",
+      "deadline": "2022-07-22T11:00:00.000Z",
+      "title": "Înscriere INFO (fizic în centrul de admitere din cadrul facultății conform orar afișat)",
+      "details": ""
+    },
+    {
       "date": "2022-07-06T07:00:00.000Z",
       "deadline": "2022-06-12T13:00:00.000Z",
       "title": "Înscriere CTI & IS (fizic în centrele zonale de admitere conform orarului afișat)",
       "details": "**06.07.2022 - 08.07.2022** până la ora 16:00\\\n**11.07.2022 - 12.07.2022** până la ora 16:00"
     },
     {
-      "date": "2022-06-27T06:00:00.000Z",
-      "deadline": "2021-07-22T13:00:00.000Z",
-      "title": "Înscriere INFO (online)",
-      "details": "Înscrierea se realizează exclusiv în **[aplicația de înscriere](https://admitere.upt.ro)**. Dacă întâmpini dificultăți, accesează [ghidul](http://www.upt.ro/Informatii_acte-necesare-pentru-dosarul-de-inscriere-la-admiterea-la-li_1412_ro.html) nostru despre cum se completează formularul de înscriere."
+      "date": "2022-07-06T06:00:00.000Z",
+      "deadline": "2022-07-19T13:00:00.000Z",
+      "details": "**06.07.2022 - 08.07.2022** până la ora 16:00\\\n**11.07.2022 - 12.07.2022** până la ora 16:00 \\\n**18.07.2022 - 19.07.2022** până la ora 16:00",
+      "title": "Înscriere INFO (fizic în centrele zonale de admitere conform orarului afișat)"
     },
     {
       "date": "2022-07-12T17:00:00.000Z",
@@ -59,7 +71,7 @@
     {
       "date": "2022-07-15T07:00:00.000Z",
       "deadline": "2022-07-18T13:00:00.000Z",
-      "title": "[CTI/IS] Confirmări Runda I (online)",
+      "title": "[CTI/IS] Confirmări Runda I",
       "details": "Nu uita să iți [confirmi](https://admitere.ac.upt.ro/licenta/admitere/dupa-ce-esti-acceptat/) locul dacă ești printre cei admiși. Altfel se consideră că te-ai răzgândit și locul tău va ajunge la alții."
     },
     {
@@ -75,7 +87,7 @@
     {
       "date": "2022-07-19T07:00:00.000Z",
       "deadline": "2022-07-20T13:00:00.000Z",
-      "title": "[CTI/IS] Confirmări Runda II (online)"
+      "title": "[CTI/IS] Confirmări Runda II"
     },
     {
       "date": "2022-07-19T07:00:00.000Z",
@@ -113,6 +125,11 @@
       "title": "[Info] Confirmări Runda I"
     },
     {
+      "date": "2022-07-26T06:00:00.000Z",
+      "deadline": "2022-07-27T13:00:00.000Z",
+      "title": "[Info] Confirmări Runda I (fizic la centrele zonale)"
+    },
+    {
       "date": "2022-07-27T16:00:00.000Z",
       "deadline": "",
       "title": "[Info] Afișare rezultate (Runda II)"
@@ -123,6 +140,11 @@
       "title": "[Info] Confirmări Runda II"
     },
     {
+      "date": "2022-07-28T07:00:00.000Z",
+      "deadline": "2022-07-29T09:00:00.000Z",
+      "title": "[Info] Confirmări Runda II (fizic la centrele zonale)"
+    },
+    {
       "date": "2022-07-29T11:00:00.000Z",
       "deadline": "",
       "title": "[Info] Afișare rezultate (Runda III)"
@@ -131,6 +153,11 @@
       "date": "2022-07-29T11:00:00.000Z",
       "deadline": "2022-07-29T15:00:00.000Z",
       "title": "[Info] Confirmări Runda III"
+    },
+    {
+      "date": "2022-07-29T11:00:00.000Z",
+      "deadline": "2022-07-29T13:00:00.000Z",
+      "title": "[Info] Confirmări Runda III (fizic la centrele zonale)"
     },
     {
       "date": "2022-07-29T17:00:00.000Z",
