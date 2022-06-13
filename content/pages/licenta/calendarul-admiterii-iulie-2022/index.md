@@ -1,7 +1,7 @@
 ---
 title: Calendarul admiterii iulie 2022
 description: Abia așteptăm să fii studentul nostru! Marchează-ți în calendar
-  datele următoare și... ne vedem din toamnă.
+  datele următoare și... ne vedem din toamnă!
 image:
   src: /uploads/untitled-design-1-.png
 fullPath: licenta/calendarul-admiterii-iulie-2022
