@@ -5,7 +5,7 @@
       "date": "2022-07-03T21:00:00.000Z",
       "deadline": "2022-07-09T13:00:00.000Z",
       "title": "Etapa I: Înscriere CTI, IS și INFO (online și fizic)",
-      "details": "Înscrierea se realizează exclusiv în aplicația [de înscriere](https://admitere.upt.ro). Dacă întâmpini dificultăți, accesează [ghidul](http://www.upt.ro/Informatii_acte-necesare-pentru-dosarul-de-inscriere---admitere-master-_1411_ro.html) nostru despre cum se completează formularul de înscriere.",
+      "details": "Înscrierea se realizează online în aplicația [de înscriere](https://admitere.upt.ro). Dacă întâmpini dificultăți, accesează [ghidul](http://www.upt.ro/Informatii_acte-necesare-pentru-dosarul-de-inscriere---admitere-master-_1411_ro.html) nostru despre cum se completează formularul de înscriere.\\\nÎnscrierea se poate face și fizic, în centrele de admitere din cadrul facultăților conform orarului afișat, în perioada **04.07.2022 - 09.07.2022** până la ora 14:00.",
       "cta": {
         "label": "Formular de înscriere",
         "path": "licenta"
@@ -13,7 +13,7 @@
     },
     {
       "date": "2022-07-11T05:00:00.000Z",
-      "deadline": "",
+      "deadline": "2022-07-12T10:00:00.000Z",
       "title": "Etapa I: Concurs de admitere (Interviu)",
       "details": "Îți reamintim că interviul este *opțional* în cazul în care continui la aceeași specializare la care ai terminat ciclul *licență* (adică dacă ai terminat la CTI și continui cu un master tot la CTI) și dorești să îți echivalezi proba interviului cu media multianuală."
     },
@@ -21,7 +21,7 @@
       "date": "2022-07-12T15:00:00.000Z",
       "deadline": "",
       "title": "Etapa I: Afișare rezultate",
-      "details": "Chiar [AICI](https://admitere.ac.upt.ro/master/admitere/rezultatele-admiterii/) vei găsi rezultatele. Mai așteaptă puțin!"
+      "details": "[AICI](https://admitere.ac.upt.ro/master/admitere/rezultatele-admiterii/) vei găsi rezultatele. Mai așteaptă puțin!"
     },
     {
       "date": "2022-07-13T06:00:00.000Z",
@@ -33,11 +33,11 @@
       "date": "2022-07-14T05:00:00.000Z",
       "deadline": "2022-07-26T13:00:00.000Z",
       "title": "Etapa II: Înscriere CTI, IS și INFO (online și fizic)",
-      "details": "Înscrierea se face pe locurile rămase libere după confirmările primei runde."
+      "details": "Înscrierea se face pe locurile rămase libere după confirmările primei runde. \\\nÎnscrierea se poate face și **online**, în aplicația [de înscriere](https://admitere.upt.ro), dar și **fizic**, în centrele de admitere din cadrul facultăților conform orarului afișat, în perioada **04.07.2022 - 09.07.2022** până la ora 14:00."
     },
     {
       "date": "2022-07-27T05:00:00.000Z",
-      "deadline": "",
+      "deadline": "2022-07-27T10:00:00.000Z",
       "title": "Etapa II: Concurs de admitere (Interviu)",
       "details": "Îți reamintim că interviul este *opțional* în cazul în care continui la aceeași specializare la care ai terminat ciclul *licență* (adică dacă ai terminat la CTI și continui cu un master tot la CTI) și dorești să îți echivalezi proba interviului cu media multianuală."
     },
@@ -61,7 +61,8 @@
     {
       "date": "2022-08-21T21:00:00.000Z",
       "deadline": "2022-09-17T11:00:00.000Z",
-      "title": "Etapa III (septembrie): Înscriere CTI, IS și INFO (online)"
+      "title": "Etapa III (septembrie): Înscriere CTI, IS și INFO (online)",
+      "details": "Nu aștepta până la a treia etapă, aici admiterea se va face doar pe locurile rămase libere după sesiunea de admitere din IULIE."
     },
     {
       "date": "2022-09-09T06:00:00.000Z",
