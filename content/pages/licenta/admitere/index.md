@@ -19,7 +19,7 @@ Află în continuare tot ce trebuie să știi înainte să te înscrii, document
    <Attachment label="Modalitățile de admitere" internal="licenta/admitere/modalitatile-de-admitere"></Attachment>
 3. **Calendarul admiterii.** Chiar dacă admiterea este în vară, este important să te pregătești din timp! Notează-ți datele importante în calendar ca să nu le uiți.
 
-   <Attachment label="Calendarul admiterii" internal="licenta/admitere/calendarul-admiterii"></Attachment>
+   <Attachment label="Calendarul admiterii" internal="licenta/admitere/calendarul-admiterii-iulie-2022"></Attachment>
 4. **Documentele de care ai nevoie.** Ți-am pregătit o listă cu toate documentele de care ai nevoie pentru înscriere, să nu le lași pe ultima sută de metri!
 
    <Attachment label="Lista de documente" internal="licenta/admitere/documente-necesare"></Attachment>
