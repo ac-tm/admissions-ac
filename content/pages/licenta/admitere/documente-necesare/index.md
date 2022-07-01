@@ -32,14 +32,14 @@ Dacă ești **absolvent** de **bacalaureat** în anul **2022**, **în țară**, 
 
 Necesare pentru situațiile deosebite, conform ghidului de admitere:
 
-* Beneficiezi de **taxă de scutire** (h)
-* Ești **olimpic** (b)
-* Ești **rrom** și vrei să intri pe locurile speciale (j)
-* Provii din sistem de **protecție socială** și vrei să intri pe locurile speciale (k)
-* Ai absolvit liceul **în 2021**, dar nu în țară (l-m)
-* Ai absolvit liceul **înainte de 2021** (n-p)
-* Candidezi la un program de studiu în **engleză sau germană** (q)
-* Ești **sportiv de performanță** și vrei să intri pe locurile speciale (r-w)
+* Beneficiezi de **taxă de scutire** ([h](https://www.upt.ro/Informatii_acte-necesare-pentru-dosarul-de-inscriere-la-admiterea-la-li_1412_ro.html))
+* Ești **olimpic** ([b](https://www.upt.ro/Informatii_acte-necesare-pentru-dosarul-de-inscriere-la-admiterea-la-li_1412_ro.html))
+* Ești **rrom** și vrei să intri pe locurile speciale ([j](https://www.upt.ro/Informatii_acte-necesare-pentru-dosarul-de-inscriere-la-admiterea-la-li_1412_ro.html))
+* Provii din sistem de **protecție socială** și vrei să intri pe locurile speciale ([k](https://www.upt.ro/Informatii_acte-necesare-pentru-dosarul-de-inscriere-la-admiterea-la-li_1412_ro.html))
+* Ai absolvit liceul **în 2021**, dar nu în țară ([l-m](https://www.upt.ro/Informatii_acte-necesare-pentru-dosarul-de-inscriere-la-admiterea-la-li_1412_ro.html))
+* Ai absolvit liceul **înainte de 2021** ([n-p](https://www.upt.ro/Informatii_acte-necesare-pentru-dosarul-de-inscriere-la-admiterea-la-li_1412_ro.html))
+* Candidezi la un program de studiu în **engleză sau germană** ([q](https://www.upt.ro/Informatii_acte-necesare-pentru-dosarul-de-inscriere-la-admiterea-la-li_1412_ro.html))
+* Ești **sportiv de performanță** și vrei să intri pe locurile speciale ([r-w](https://www.upt.ro/Informatii_acte-necesare-pentru-dosarul-de-inscriere-la-admiterea-la-li_1412_ro.html))
 
 </Block>
 
@@ -59,4 +59,4 @@ Necesare pentru situațiile deosebite, conform ghidului de admitere:
 
 ## Etapa 3 - Prima zi a anului universitar (2022-2023)
 
-Dacă ai lăsat pentru etapa a 3-a ce puteai depune în etapa a 2-a, atunci mai ai de depus documentele **c-f**.
+Dacă ai lăsat pentru etapa a 3-a ce puteai depune în etapa a 2-a, atunci mai ai de depus documentele **[c-f](https://www.upt.ro/Informatii_acte-necesare-pentru-dosarul-de-inscriere-la-admiterea-la-li_1412_ro.html)**.
