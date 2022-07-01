@@ -30,10 +30,10 @@ Dacă ești **absolvent** de **bacalaureat** în anul **2022**, **în țară**, 
 
 ## **Alte documente**
 
-Necesare pentru situațiile deosebite, conform ghidului de admitere:
+Necesare pentru situațiile deosebite, conform [ghidului](https://www.upt.ro/Informatii_acte-necesare-pentru-dosarul-de-inscriere-la-admiterea-la-li_1412_ro.html) de admitere:
 
 * Beneficiezi de **taxă de scutire** ([h](https://www.upt.ro/Informatii_acte-necesare-pentru-dosarul-de-inscriere-la-admiterea-la-li_1412_ro.html))
-* Ești **olimpic** ([b](https://www.upt.ro/Informatii_acte-necesare-pentru-dosarul-de-inscriere-la-admiterea-la-li_1412_ro.html))
+* Ești **olimpic** ([](https://www.upt.ro/Informatii_acte-necesare-pentru-dosarul-de-inscriere-la-admiterea-la-li_1412_ro.html)[i](https://www.upt.ro/Informatii_acte-necesare-pentru-dosarul-de-inscriere-la-admiterea-la-li_1412_ro.html))
 * Ești **rrom** și vrei să intri pe locurile speciale ([j](https://www.upt.ro/Informatii_acte-necesare-pentru-dosarul-de-inscriere-la-admiterea-la-li_1412_ro.html))
 * Provii din sistem de **protecție socială** și vrei să intri pe locurile speciale ([k](https://www.upt.ro/Informatii_acte-necesare-pentru-dosarul-de-inscriere-la-admiterea-la-li_1412_ro.html))
 * Ai absolvit liceul **în 2021**, dar nu în țară ([l-m](https://www.upt.ro/Informatii_acte-necesare-pentru-dosarul-de-inscriere-la-admiterea-la-li_1412_ro.html))
