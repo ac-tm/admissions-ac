@@ -16,15 +16,13 @@ Află în continuare tot ce trebuie să știi înainte să te înscrii, document
      Evaluează-te obiectiv și alege una dintre cele două posibilități care îți maximizează șansele.
    * În cazul în care provii de la o altă facultate sau de la o altă specializare (ai studiat la IS/Info și dorești să aplici la un master de la CTI sau invers), interviul este obligatoriu. Dar nu îți face griji, nu va fi așa de complicat, îți povestim noi și despre el.
 
-     3**. Interviu de limbă engleză:**
+     **Interviu de limbă engleză:**
 
      * Pentru specializările derulate în limba engleză:
 
        * Curs de engleză în ciclu de licență (foaia matricolă)
        * Atestat (certificat) în limba engleză
        * Interviu de limbă
-
-
 
    <Attachment label="Citește aici cum se calculează media de admitere!" internal="master/admitere/media-de-admitere"></Attachment>
 3. **Calendarul admiterii.** Chiar dacă admiterea este în vară, este important să te pregătești din timp! Notează-ți datele importante în calendar ca să nu le uiți.
