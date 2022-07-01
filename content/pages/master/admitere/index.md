@@ -11,7 +11,7 @@ Află în continuare tot ce trebuie să știi înainte să te înscrii, document
 1. **Domeniile în care te poți specializa.** Poți aprofunda cunoștințele tale la una din cele 10 specializări în cadrul facultății noastre, [află mai multe despre acestea](https://admitere.ac.upt.ro/master/admitere/specializari/).
 2. **Decide cum dai admiterea!**
 
-   * **Tu decizi cum dai admitere!** Ai două variante: dai interviu online cu o comisie căreia să îi prezinți ce îți dorești să aprofundezi la master sau îți echivalezi această notă cu media multianuală de la licență (media notelor obținute pe parcursul anilor de licență). **ATENȚIE!** Îți poți echivala media multianuală dacă aplici la un **master în limba engleză** numai dacă ai absolvit un program de studii de licență în limba engleză. În cazul în care ai absolvit un program de studii în limba română și aplici la cel puțin un master în limba engleză, va trebui să susții interviul.
+   * **Tu decizi cum dai admitere!** Ai două variante: dai interviu online cu o comisie căreia să îi prezinți ce îți dorești să aprofundezi la master sau îți echivalezi această notă cu media multianuală de la licență (media notelor obținute pe parcursul anilor de licență). 
 
      Evaluează-te obiectiv și alege una dintre cele două posibilități care îți maximizează șansele.
    * În cazul în care provii de la o altă facultate sau de la o altă specializare (ai studiat la IS/Info și dorești să aplici la un master de la CTI sau invers), interviul este obligatoriu. Dar nu îți face griji, nu va fi așa de complicat, îți povestim noi și despre el.
