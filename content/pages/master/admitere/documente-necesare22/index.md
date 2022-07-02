@@ -8,11 +8,11 @@ fullPath: master/admitere/documente-necesare22
 ---
 ## Etapa 1 - Înscrierea
 
-Documente ce se vor încărca **ONLINE**, pe [platformă](https://admitere.upt.ro), color, în format *pdf* sau format de fișier grafic (*jpeg* sau *png*). Detalii suplimentare [AICI](http://www.upt.ro/Informatii_acte-necesare-pentru-dosarul-de-inscriere---admitere-master-_1411_ro.html). 
+Documente ce se vor încărca **ONLINE**, pe [platformă](https://admitere.upt.ro), color, în format *pdf* sau format de fișier grafic (*jpeg* sau *png*). Detalii suplimentare [AICI](https://upt.ro/img/files/2021-2022/Admitere/Master/Documente_necesare_inscriere_master.pdf). 
 
 Nu îți face griji, lucrurile sunt de destul de simple. Intri pe [platformă](https://admitere.upt.ro) și încarci următoarele documente:
 
-<DocumentCheckbox text="Copie diplomă de licență sau diploma echivalentă (absolvenții promoției 2021 pot depune adeverința de absolvire)"></DocumentCheckbox>
+<DocumentCheckbox text="Copie diplomă de licență sau diploma echivalentă (absolvenții promoției 2022 pot depune adeverința de absolvire)"></DocumentCheckbox>
 
 <DocumentCheckbox text="Copie foaie matricolă cu notele obținute pe parcursul facultății"></DocumentCheckbox>
 
@@ -22,7 +22,7 @@ Nu îți face griji, lucrurile sunt de destul de simple. Intri pe [platformă](h
 
 <DocumentCheckbox text="Dovada achitării taxei de înscriere (care este 150 lei)"></DocumentCheckbox>
 
-<DocumentCheckbox text="Copie după declarația pe proprie răspundere autentificată de un notariat privind nefinanțarea/finanțarea anterioară de la bugetul statului român pentru urmarea de studii universitare de master (în cazul candidaților care au absolvit facultatea înainte de 2021)"></DocumentCheckbox>
+<DocumentCheckbox text="Copie după declarația pe proprie răspundere autentificată de un notariat privind nefinanțarea/finanțarea anterioară de la bugetul statului român pentru urmarea de studii universitare de master (în cazul candidaților care au absolvit facultatea înainte de 2022)"></DocumentCheckbox>
 
 <Block color="yellow">
 
@@ -41,7 +41,7 @@ Necesare pentru situațiile deosebite, conform ghidului de admitere:
 
 Odată ce ești declarat admis, pentru a-ți confirma locul, e necesar să achiți taxa de confirmare (**100 lei**) și să depui la dosar, **în original**, următoarele documente:
 
-<DocumentCheckbox text="Diplomă de licență/diplomă echivalentă sau adeverința de absolvire pentru absolvenții promoției 2021 (pentru candidații admiși la buget) (a)"></DocumentCheckbox>
+<DocumentCheckbox text="Diplomă de licență/diplomă echivalentă sau adeverința de absolvire pentru absolvenții promoției 2022 (pentru candidații admiși la buget) (a)"></DocumentCheckbox>
 
 <DocumentCheckbox text="Foaia matricolă cu notele obținute pe parcursul facultății (b)"></DocumentCheckbox>
 
@@ -53,6 +53,6 @@ Odată ce ești declarat admis, pentru a-ți confirma locul, e necesar să achi�
 
 <DocumentCheckbox text="Patru fotografii color tip diplomă (f)"></DocumentCheckbox>
 
-## Etapa 3 - Prima zi a anului universitar (2021-2022)
+## Etapa 3 - Prima zi a anului universitar (2022-2023)
 
 Dacă ai lăsat pentru etapa a 3-a ce puteai depune în etapa a 2-a, atunci mai ai de depus documentele **c-f**.
