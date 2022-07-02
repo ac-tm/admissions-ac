@@ -12,6 +12,8 @@ fullPath: master/admitere/taxe-de-admitere
 * **150 LEI** — **taxa de** **înscriere**, percepută pentru toate formele de învățământ și pentru toate tipurile de concurs: 
 * **100 LEI — taxa de confirmare**, percepută pentru toate formele de învățământ și pentru toate tipurile de concurs
 
+*Informații despre condițiile de scutire a plății taxei de înscriere se găsesc pe pagina dedicată*.
+
 - - -
 
 Taxele de admitere (înscriere/confirmare) se pot plăti:
