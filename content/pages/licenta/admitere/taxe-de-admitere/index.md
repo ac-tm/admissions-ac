@@ -7,7 +7,7 @@ image:
   alt: Taxe de admitere
 fullPath: licenta/admitere/taxe-de-admitere
 ---
-*La licență*, [taxele de admitere](http://www.upt.ro/img/files/hca/2021/HCA44_14.04.2021_taxe_admitere_pt_anul_2021-2022.pdf) percepute pentru anul universitar 2021 - 2022 sunt:
+*La licență*, [taxele de admitere](http://www.upt.ro/img/files/hca/2021/HCA44_14.04.2021_taxe_admitere_pt_anul_2021-2022.pdf) percepute pentru anul universitar 2022 - 2023 sunt:
 
 * **100 LEI** — **taxa de** **înscriere**, percepută pentru toate formele de învățământ și pentru toate tipurile de concurs: 
 * **100 LEI — taxa de confirmare**, percepută pentru toate formele de învățământ și pentru toate tipurile de concurs
