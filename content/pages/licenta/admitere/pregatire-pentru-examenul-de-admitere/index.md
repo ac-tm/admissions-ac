@@ -5,7 +5,7 @@ image:
   src: /uploads/untitled-design-5-.png
 fullPath: licenta/admitere/pregatire-pentru-examenul-de-admitere
 ---
-Universitatea Politehnica Timișoara continuă tradiționalele lecții de matematică pentru pregătirea elevilor și a viitorilor studenți UPT 2021. Împreună dorim să construim viitorul și să oferim șansa noii generații de studenți UPT de a obține rezultate remarcabile atât în ceea ce privește promovabilitatea bacalaureatului cât și a admiterii la facultate.
+Universitatea Politehnica Timișoara continuă tradiționalele lecții de matematică pentru pregătirea elevilor și a viitorilor studenți UPT 2022. Împreună dorim să construim viitorul și să oferim șansa noii generații de studenți UPT de a obține rezultate remarcabile atât în ceea ce privește promovabilitatea bacalaureatului cât și a admiterii la facultate.
 
 Prin Departamentul de Matematică, UPT organizează în perioada **19 februarie - 04 iunie 2022** cursuri pregătitoare de Matematici pentru potențialii săi studenți, indiferent de facultatea pe care doresc să o urmeze și independent de forma admiterii (concurs de dosare sau concurs cu probe de verificare) pentru care optează, cursuri care vor fi utile atât pentru examenul de bacalaureat cât și pentru examenul din anul l de studii.
 
