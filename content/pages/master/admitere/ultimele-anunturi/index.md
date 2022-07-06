@@ -10,219 +10,24 @@ fullPath: master/admitere/ultimele-anunturi
 Fii cu ochii pe această pagină!
 
 - - -
+### Înscrieri etapa 1
 
-# Admitere toamnă
 
-## Rezultate sesiunea septembrie
+Până [marți 5 iulie ora 16](/master/admitere/calendarul-admiterii-master-2022/) s-au înscris 15 candidați:
 
-**Au fost publicate rezultatele finale [în secțiunea dedicată](https://admitere.ac.upt.ro/master/admitere/rezultatele-admiterii/).**
 
-## Programari examen
 
-Lista candidaților care au solicitat echivalarea notei și nu vor avea interviu:
-
-| **marca** | **nota examen echivalentă** |
-| --------- | --------------------------- |
-| 14-6620   | 8.08                        |
-| 14-6628   | 7.25                        |
-| 14-6629   | 8.19                        |
-| 14-6631   | 7.36                        |
-| 14-6635   | 7.08                        |
-| 14-6636   | 8.04                        |
-| 14-7140   | 7.57                        |
-| 14-7143   | 8.44                        |
-| 14-7152   | 6.64                        |
-
-Programarea la interviu online ([Zoom Meeting ID: 925 9564 7532](https://upt-ro.zoom.us/j/92595647532)), luni 20 septembrie:
-
-| **ora** | **marca** |
-| ------- | --------- |
-| 08:00   | 14-6634   |
-| 08:05   | ROP 004   |
-| 08:10   | ROP 006   |
-| 08:15   | ROP 009   |
-| 08:20   | 14-7137   |
-| 08:25   | 14-7153   |
-| 08:30   | 14-7147   |
-| 08:35   | 14-7148   |
-| 08:40   | 14-7139   |
-| 08:45   | 14-6619   |
-| 08:50   | 14-6638   |
-| 08:55   | 14-7157   |
-| 09:00   | 14-6637   |
-| 09:05   | 14-6623   |
-| 09:10   | 14-7138   |
-| 09:15   | 14-6639   |
-| 09:20   | 14-7141   |
-| 09:25   | 14-6627   |
-| 09:30   | 14-7136   |
-| 09:35   | 14-7142   |
-| 09:40   | 14-7155   |
-| 09:45   | 14-7150   |
-| 09:50   | 14-6630   |
-| 09:55   | 14-6622   |
-| 10:00   | 14-7144   |
-| 10:05   | 14-6621   |
-| 10:10   | 14-7135   |
-| 10:15   | 14-6640   |
-| 10:20   | 14-7134   |
-| 10:25   | 14-6632   |
-| 10:30   | 14-7149   |
-| 10:35   | 14-7145   |
-| 10:40   | 14-7151   |
-| 10:45   | 14-7152   |
-| 10:50   | 14-7154   |
-| 10:55   | 14-6624   |
-| 11:00   | 14-7146   |
-| 11:05   | 14-7156   |
-| 11:10   | 14-6633   |
-| 11:15   | 14-6626   |
-| 11:20   | ROP 002   |
-| 11:25   | ROP 008   |
-
-*Notă*: informațiile de conectare vor fi trimise prin e-mail de către secretarul de comisie la adresele înregistrate de candidați la înscriere. Verificați inclusiv folderul SPAM!
-
-Interviul constă într-o prezentare de către candidat a unei propuneri de temă de cercetare pe care dorește să o abordeze în cadrul programului de Master, urmată de întrebări din partea membrilor comisiei.
-
-* Capacitatea candidatului de a desfășura o activitate de cercetare științifică
-* Consistența și documentarea temei prezentate si rezultatele scontate
-* Capacitatea de a găsi metode și de a obține rezultate în cercetare
-* Exprimarea în limba engleză (pentru programele în engleză)
-* Răspunsurile candidatului la întrebările comisiei (legate, de regulă, de tematica prezentării).
-
-## Liste de verificare, etapa 3 (toamnă)
-
-Candidații sunt obligați să verifice în listele de mai jos validitatea datelor de concurs. Eventualele contestații, pe adresa secretariatului care gestionează programul pe care l-ați precizat ca primă opțiune. 
-
-* [Candidații cu prima opțiune **AES, ISA, SIAPS, SISC,** sau **TI**](https://admitere.ac.upt.ro/uploads/liste-verificare.txt). Termen: **luni, 20.09.2021, ora 9:00**. Adresă secretariat: secretariat.admitere@aut.upt.ro
-* [Candidații cu prima opțiune **CCIoT, ML,** sau **SE**](https://vision.cs.upt.ro/index.php/apps/onlyoffice/s/ZYQXzk5MicLebPj). Termen: **luni, 20.09.2021, ora 9:00**. Adresă secretariat: secretariat@cs.upt.ro
-
-## Informații sesiune toamnă
-
-Pentru sesiunea de admitere master din luna septembrie, pentru toate facultățile și programele de studii, perioada de înscriere este **10-17 septembrie** 2021, pentru **[locurile rămase libere după sesiunea din luna iulie](/master/admitere/master/)**.
-
-Concursul de admitere se desfășoară în ziua de **20 septembrie** 2021, iar confirmarea candidaților admiși se va face în ziua de **21 septembrie** 2021.
-
-Candidați înscriși la finalul zilei de 17 septembrie: 46
 
 | **Program** | **Candidați** |
-| ----------- | ------------- |
-| AES         | 3             |
-| CCIOT       | 10            |
-| ISA         | 10            |
-| IT          | 5             |
-| TI          | 8             |
-| TAES        | 1             |
-| TCCIOT      | 1             |
-| TML         | 3             |
-| TSE         | 2             |
-| TSIAPS      | 2             |
-| TTI         | 1             |
+:------------|--------------:
+ CCIOT       | 1             
+ IT          | 1             
+ ML          | 3             
+ SE          | 5             
+ SIAPS       | 1             
+ SIIS        | 1             
+ TI          | 1             
+ TML         | 1             
+ TSISC       | 1             
 
-- - -
 
-**În atenția candidaților admiși pe locuri cu taxă**: prima rată poate fi plătită până pe **27 august** 2021, preferabil online cu cardul din [sistemul de admitere Enroll](https://admitere.upt.ro/master/).
-
-<Attachment label="Termenul de plată a taxei de școlarizare pentru studenții admiși cu taxă în iulie 2021" file="/uploads/adresa-12750_09.07.2021-privind-termenul-de-plata-a-taxei-de-scolarizare-admisi-cu-taxa-iulie-2021.pdf"></Attachment>
-
-**În atenția candidaților admiși**: formularele pentru alegerea disciplinelor opționale din anul 1 master :
-
-* [vor fi disponibile aici pentru studenții la **AES, ISA, SIAPS, SIIS, SISC, TI**](http://www.aut.upt.ro/alegere_optionale.php#top)
-* [vor fi disponibile aici pentru studenții la **CCIOT, IT, ML, SE**](https://www.cs.upt.ro/education/master/electives)
-
-### Rezultate sesiunea iulie
-
-**Au fost publicate rezultatele examenului 2 [în secțiunea dedicată](https://admitere.ac.upt.ro/master/admitere/rezultatele-admiterii/).**
-
-## Liste de verificare, etapa 2
-
-Candidații sunt obligați să verifice în listele de mai jos validitatea datelor de concurs. Eventualele contestații, pe adresa secretariatului care gestionează programul pe care l-ați precizat ca primă opțiune. 
-
-* [Candidații cu prima opțiune **AES, SISC,** sau **TI**](https://vision.cs.upt.ro/index.php/apps/onlyoffice/s/ySmRLj9EaytyCFJ). Termen: **joi, 22 iulie 2021, ora 9:00**. Adresă secretariat: secretariat.admitere@aut.upt.ro
-* [Candidații cu prima opțiune **CCIoT, ML,** sau **SE**](https://vision.cs.upt.ro/index.php/apps/onlyoffice/s/ySmRLj9EaytyCFJ). Termen: **joi, 22 iulie 2021, ora 9:00**. Adresă secretariat: secretariat@cs.upt.ro
-
-## Programarea la interviu, etapa 2
-
-Vă rugăm reveniți pentru detalii despre organizarea interviului de admitere.
-
-* **[Programarea la interviul de joi 22.07.2021](https://vision.cs.upt.ro/index.php/apps/onlyoffice/s/MiKroxWTJ9q2yeP)**
-
-  Interviul constă într-o prezentare de către candidat a unei propuneri de temă de cercetare pe care doreste sa o abordeze in cadrul programului de Master, urmată de intrebări din partea membrilor comisiei.
-
-  * Capacitatea candidatului de a desfăşura o activitate de cercetare ştiinţifică,
-  * Consistenţa şi documentarea temei prezentate si rezultatele scontate
-  * Capacitatea de a găsi metode şi de a obţine rezultate în cercetare
-  * Exprimarea în limba engleză (pentru programele in engleza)
-  * Răspunsurile candidatului la întrebările comisiei (legate, de regulă, de tematica prezentării).
-
-### Probleme dosar
-
-Candidați cu **probleme**/lipsă acte la dosar:
-
-* [Candidați care au specificat ca primă opțiune una dintre specializările organizate de Departamentul **Automatică și Informatică Aplicată**](https://docs.google.com/spreadsheets/d/e/2PACX-1vTCZZozrWq1s1bYkMeLCOmNyzWXTHOm6X1SwYhlCT2jNSBWH-qpOuBwG0czHcXBF_IG_1rYY_egeJ4g/pubhtml?gid=0&single=true) (AES, ISA, SIAPS, SIIS, SISC, TI)
-* [Candidați care au specificat ca primă opțiune una dintre specializările organizate de Departamentul **Calculatoare și Tehnologia Informației**](https://docs.google.com/spreadsheets/d/1I6bQHahUGYQxD4p3KDrnYspPQg8kKjCebifGIrOFiy0/edit#gid=1052880165) (CCIoT, IT, ML, SE)
-
-### Înscrieri etapa 2
-
-Până [miercuri 21 iulie ora 12](/master/admitere/calendarul-admiterii-la-master-sesiunea-iulie-2021/) se fac înscrieri pentru concursul de admitere, pe **[locurile rămase libere după prima etapă](/master/admitere/master/)**.
-
-Candidați înscriși la finalul zilei de 21 iulie: 20
-
-| **Program** | **Candidați** |
-| ----------- | ------------- |
-| AES         | 2             |
-| CCIOT       | 5             |
-| TI          | 5             |
-| TSISC       | 1             |
-| TML         | 3             |
-| TTI         | 1             |
-| TSE         | 1             |
-| TCCIOT      | 2             |
-
-### Rezultate etapa 1
-
-**Au fost publicate primele rezultate ale examenului [în secțiunea dedicată](https://admitere.ac.upt.ro/master/admitere/rezultatele-admiterii/).**
-
-### Probleme tehnice
-
-În dimineața zilei de 7 iulie au apărut probleme tehnice în sistemul de admitere Enroll UPT la finalizarea plății cu cardul a taxei de confirmare.
-
-Problema s-a rezolvat la ora 14:30.
-
-Informativ, o altă metodă de plată a taxei de confirmare este prin ordin de plată (online sau cu aplicație mobilă) și încărcarea dovezii în sistemul Enroll (a se vedea și link-ul Observații de lângă „Încarcă dovada plăţii taxei de confirmare la AC”).
-
-Datele contului bancar de plăți de admitere sunt:
-
-* Universitatea Politehnica Timișoara
-* Cod FISCAL: 4269282
-* Cont IBAN:  RO90 BACX 0000 0030 1782 5061  (Taxe de MASTER prin Ordin de plată)
-* Banca: UniCredit Bank
-* Dovada plății va trebui să conțină următorul text: „Taxă de înscriere/confirmare admitere la AC pentru... (se va menționa numele complet al candidatului)”.
-
-  * Exemplu: Taxă de confirmare la AC pentru RUSU Adrian-Ion
-
-- - -
-
-Candidați înscriși la finalul zilei de 3 iulie: **278**.
-
-## Liste de verificare, etapa 1
-
-Candidații sunt obligați să verifice in listele de mai jos validitatea datelor de concurs. Eventualele contestații, pe adresa secretariatului care gestionează programul pe care l-ați precizat ca primă opțiune. 
-
-* [Candidații cu prima opțiune **AES, ISA, SIAPS, SIIS, SISC, sau TI**](https://docs.google.com/spreadsheets/d/e/2PACX-1vTIfY-XrAPzGcS-HSkesZl2IKVxD5b_xV8ldr7zitdUw2rZOp39OMC7H5B1JfqzmhEc5gbeRSv24Lkn/pubhtml?gid=0&single=true). Termen: **luni, 5 iulie 2021, ora 9:00**. Adresă secretariat: secretariat.admitere@aut.upt.ro
-* [Candidații cu prima opțiune **CCIoT, IT, ML, sau SE**](https://vision.cs.upt.ro/index.php/apps/onlyoffice/s/92BPksH9EaWioMm). **Termen: marți, 6 iulie 2021, ora 8:30**. Adresă secretariat: secretariat@cs.upt.ro
-
-## Programarea la interviu, etapa 1
-
-Vă rugăm reveniți pentru detalii despre organizarea interviului de admitere.
-
-* [Candidații cu prima opțiune **AES, ISA, SIAPS, SIIS, SISC, sau TI**](https://docs.google.com/spreadsheets/d/e/2PACX-1vT_nsYX8D4eUvYAHxDeril84ZGX89_Tqyo1IDB0ZWQijLJ_IC8OnQMb43yLGsLUbY6Iw1FTP1W3CsWi/pubhtml?gid=1047737596&single=true). Interviul va avea loc **luni, 05.07.2021**.
-* [Candidații cu prima opțiune **CCIoT, IT, ML, sau SE**](https://vision.cs.upt.ro/index.php/apps/onlyoffice/s/SrZrdDo8kaktir6). Interviul va avea loc **marți, 06.07.2021**.
-
-  Interviul constă într-o prezentare de către candidat a unei propuneri de temă de cercetare pe care doreste sa o abordeze in cadrul programului de Master, urmată de intrebări din partea membrilor comisiei.
-
-  * Capacitatea candidatului de a desfăşura o activitate de cercetare ştiinţifică,
-  * Consistenţa şi documentarea temei prezentate si rezultatele scontate
-  * Capacitatea de a găsi metode şi de a obţine rezultate în cercetare
-  * Exprimarea în limba engleză (pentru programele in engleza)
-  * Răspunsurile candidatului la întrebările comisiei (legate, de regulă, de tematica prezentării).
