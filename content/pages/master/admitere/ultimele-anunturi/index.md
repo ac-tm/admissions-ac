@@ -19,7 +19,7 @@ Până [marți 5 iulie ora 16](/master/admitere/calendarul-admiterii-master-2022
 
 
 | **Program** | **Candidați** |
-:------------|--------------:
+------------|--------------
  CCIOT       | 1             
  IT          | 1             
  ML          | 3             
