@@ -13,21 +13,32 @@ Fii cu ochii pe această pagină!
 ### Înscrieri etapa 1
 
 
-Până [marți 5 iulie ora 16](/master/admitere/calendarul-admiterii-master-2022/) s-au înscris 15 candidați:
+Până [miercuri 6 iulie ora 16](/master/admitere/calendarul-admiterii-master-2022/) s-au înscris 68 candidați:
+
+
 
 
 
 
 | **Program** | **Candidați** |
-------------|--------------
- CCIOT       | 1             
- IT          | 1             
- ML          | 3             
- SE          | 5             
- SIAPS       | 1             
- SIIS        | 1             
- TI          | 1             
- TML         | 1             
- TSISC       | 1             
+|--------|-------|
+| AES    | 1     |
+| CCIOT  | 3     |
+| IT     | 1     |
+| ML     | 14    |
+| SE     | 14    |
+| SIAPS  | 3     |
+| SIIS   | 10    |
+| SISC   | 7     |
+| TI     | 11    |
+| TML    | 1     |
+| TSIIS  | 1     |
+| TSISC  | 1     |
+| TTI    | 1     |
+
+
+
+
+        
 
 
