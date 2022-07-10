@@ -15,7 +15,8 @@ Fii cu ochii pe această pagină!
 
 **9 iulie 2022, ora 20.00**
 
-Numărul total de candidați înscriși, precum și distribuția candidaților la secțiunile 6L, 10L și 10DL - Automatică și Calculatoare se regăsesc în urm[torul tabel. 
+Următorul table prezintă numărul total de candidați înscriși, precum și distribuția acestora la secțiunile 6L, 10L și 10DL, pentru adimiterea la Facultatea de Automatică și Calculatoare. \
+Tabelele prezintă numărul de candidați înscriși luând în calcul numai prima lor opțiune.
 
 |          | 6L – Automatică și Calculatoare (AC) – **concurs cu probe**                          | **Total înscriși** |
 | -------- | ------------------------------------------------------------------------------------ | ------------------ |
