@@ -13,7 +13,7 @@ Fii cu ochii pe această pagină!
 
 **STATISTICI ÎNSCRIERI, 9 iulie 2022, ora 20.00**
 
-Următorul table prezintă numărul total de candidați înscriși, precum și distribuția acestora la secțiunile 6L, 10L și 10DL, pentru adimiterea la Facultatea de Automatică și Calculatoare. 
+Următorul tabel prezintă numărul total de candidați înscriși, precum și distribuția acestora la secțiunile 6L, 10L și 10DL, pentru admiterea la **Facultatea de Automatică și Calculatoare**. 
 Tabelele prezintă numărul de candidați înscriși luând în calcul numai prima lor opțiune.
 
 |          | **6L – Concurs cu probe**                                                      |         |
