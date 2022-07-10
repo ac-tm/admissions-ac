@@ -16,18 +16,18 @@ Fii cu ochii pe această pagină!
 Următorul table prezintă numărul total de candidați înscriși, precum și distribuția acestora la secțiunile 6L, 10L și 10DL, pentru adimiterea la Facultatea de Automatică și Calculatoare. 
 Tabelele prezintă numărul de candidați înscriși luând în calcul numai prima lor opțiune.
 
-|          | 6L – Automatică și Calculatoare (AC) – **concurs cu probe**                          | **Total** |
-| -------- | ------------------------------------------------------------------------------------ | ------------------ |
-| **6L**   | Calculatoare și Tehnologia Informației – engleză – fără taxă                   | **93**             |
-| **6L**   | Calculatoare și Tehnologia Informației – română – fără taxă                    | **370**            |
-| **6L**   | Ingineria Sistemelor – Automatică și informatică aplicată – română – fără taxă | **146**            |
-| **6L**   | Calculatoare și Tehnologia Informației – engleză – cu taxă                     | **1**              |
-| **6L**   | Calculatoare și Tehnologia Informației – română – cu taxă                      | **3**              |
-| **6L**   | Ingineria Sistemelor – Automatică și informatică aplicată – limba română – cu taxă   | **1**              |
-|          | **TOTAL**                                                                            | **614**            |
-| **10L**  | 10L – Automatică și Calculatoare (AC) – **concurs de dosare**                        | **Total** |
-| **10L**  | Informatică – română – fără taxă                                               | **537**            |
-| **10L**  | Informatică – română – cu taxă                                                 | **17**             |
-|          | **TOTAL**                                                                            | **554**            |
-|          | 10DL – Automatică și Calculatoare (AC) – **învățământ la distanță**                  | **Total** |
-| **10DL** | Informatică – română – fără taxă                                               | **67**             |
+|          | **Concurs cu probe**                                                           | **Total** |
+| -------- | ------------------------------------------------------------------------------ | --------- |
+| **6L**   | Calculatoare și Tehnologia Informației – engleză – fără taxă                   | **93**    |
+| **6L**   | Calculatoare și Tehnologia Informației – română – fără taxă                    | **370**   |
+| **6L**   | Ingineria Sistemelor – Automatică și informatică aplicată – română – fără taxă | **146**   |
+| **6L**   | Calculatoare și Tehnologia Informației – engleză – cu taxă                     | **1**     |
+| **6L**   | Calculatoare și Tehnologia Informației – română – cu taxă                      | **3**     |
+| **6L**   | Ingineria Sistemelor – Automatică și informatică aplicată – română – cu taxă   | **1**     |
+|          | **TOTAL**                                                                      | **614**   |
+| **10L**  | **Concurs de dosare**                                                          | **Total** |
+| **10L**  | Informatică – română – fără taxă                                               | **537**   |
+| **10L**  | Informatică – română – cu taxă                                                 | **17**    |
+|          | **TOTAL**                                                                      | **554**   |
+|          | **Învățământ la distanță**                                                     | **Total** |
+| **10DL** | Informatică – română – fără taxă                                               | **67**    |
