@@ -21,10 +21,11 @@ Candidați cu **probleme**/lipsă acte la dosar:
 
 ## Programarea la interviu, etapa 1
 
-Vă rugăm reveniți pentru detalii despre organizarea interviului de admitere.
 
 
 Interviul va avea loc **marți, 12.07.2022**.
+
+Vă rugăm reveniți pentru detalii despre organizarea interviului de admitere.
 
 
 ### Înscrieri etapa 1
