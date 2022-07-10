@@ -15,14 +15,30 @@ Fii cu ochii pe această pagină!
 
 **9 iulie 2022**
 
-Numărul total de candidați înscriși la secțiunile 6L, 10L și 10DL - Automatică și Calculatoare se găsește în tabelul următor. 
+Numărul total de candidați înscriși, precum și distribuția candidaților la secțiunile 6L, 10L și 10DL - Automatică și Calculatoare se regăsesc în tabelele următoare. 
 
-| 6L - Automatică   și Calculatoare (AC) – concurs cu probe                            | Total înscriși |
-| ------------------------------------------------------------------------------------ | -------------- |
-| Calculatoare si   Tehnologia Informatiei - limba engleza - fara taxa                 | **93**         |
-| Calculatoare si Tehnologia Informatiei - limba romana -   fara taxa                  | **370**        |
-| Ingineria Sistemelor - Automatica si informatica aplicata - limba romana - fara taxa | **146**        |
-| Calculatoare si Tehnologia Informatiei - limba engleza   - cu taxa                   | **1**          |
-| Calculatoare si   Tehnologia Informatiei - limba romana - cu taxa                    | **3**          |
-| Ingineria Sistemelor - Automatica si informatica   aplicata - limba romana - cu taxa | **1**          |
-| TOTAL                                                                                | **614**        |
+|**6L - Automatică și Calculatoare (AC) – concurs cu probe**                          | **Total înscriși** |
+| ------------------------------------------------------------------------------------ | ------------------ |
+| Calculatoare și Tehnologia Informației - limba engleză - fără taxă                   | **93**             |
+| Calculatoare și Tehnologia Informației - limba română - fără taxă                    | **370**            |
+| Ingineria Sistemelor - Automatică și informatică aplicată - limba română - fără taxă | **146**            |
+| Calculatoare și Tehnologia Informației - limba engleză - cu taxă                     | **1**              |
+| Calculatoare și Tehnologia Informației - limba română - cu taxă                      | **3**              |
+| Ingineria Sistemelor - Automatică și informatică aplicată - limba română - cu taxă   | **1**              |
+| **TOTAL**                                                                            | **614**            |
+
+- - -
+
+
+
+| **10L - Automatică și Calculatoare (AC) – concurs de dosare** | **Total înscriși** |
+| ------------------------------------------------------------- | ------------------ |
+| Informatică - limba română - fără taxă                        | **537**            |
+| Informatică - limba română - cu taxă                          | **17**             |
+| **TOTAL**                                                     | **554**            |
+
+---
+
+| 10DL -   Automatică și Calculatoare (AC) – învățământ la distanță | **Total înscriși** |
+| ----------------------------------------------------------------- | ------------------ |
+| Informatică -   limba română - fără taxă                          | **67**             |
