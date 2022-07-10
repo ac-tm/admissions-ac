@@ -10,6 +10,24 @@ fullPath: master/admitere/ultimele-anunturi
 Fii cu ochii pe această pagină!
 
 - - -
+
+### Probleme dosar
+
+Candidați cu **probleme**/lipsă acte la dosar:
+
+* [Candidați care au specificat ca primă opțiune una dintre specializările organizate de Departamentul **Automatică și Informatică Aplicată**](https://docs.google.com/spreadsheets/d/e/2PACX-1vTCZZozrWq1s1bYkMeLCOmNyzWXTHOm6X1SwYhlCT2jNSBWH-qpOuBwG0czHcXBF_IG_1rYY_egeJ4g/pubhtml?gid=0&single=true) (AES, ISA, SIAPS, SIIS, SISC, TI)
+* [Candidați care au specificat ca primă opțiune una dintre specializările organizate de Departamentul **Calculatoare și Tehnologia Informației**](https://docs.google.com/spreadsheets/d/1I6bQHahUGYQxD4p3KDrnYspPQg8kKjCebifGIrOFiy0/edit#gid=1052880165) (CCIoT, IT, ML, SE)
+
+
+## Programarea la interviu, etapa 1
+
+
+
+Interviul va avea loc **marți, 12.07.2022**.
+
+Vă rugăm reveniți pentru detalii despre organizarea interviului de admitere.
+
+
 ### Înscrieri etapa 1
 
 
