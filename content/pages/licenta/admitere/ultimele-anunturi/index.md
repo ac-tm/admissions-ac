@@ -5,8 +5,6 @@ image:
   src: /uploads/warning.jpg
 fullPath: licenta/admitere/ultimele-anunturi
 ---
-
-
 ### Aici postăm diferite noutăți, actualizări, și eventuale modificări
 
 Fii cu ochii pe această pagină!
