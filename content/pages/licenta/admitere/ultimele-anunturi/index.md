@@ -15,4 +15,4 @@ Fii cu ochii pe această pagină!
 
 **9 iulie 2022**
 
-Numărul total de candidați înscriși la secțiunile 6L, 10L și 10DL - Automatică și Calculatoare se găsește [aici](static/uploads/statistici-înscrieri-licenta-ac.pdf).
+Numărul total de candidați înscriși la secțiunile 6L, 10L și 10DL - Automatică și Calculatoare se găsește [aici](https://ac.upt.ro/wp-content/uploads/2022/07/Statistici-inscrieri-licenta-AC.pdf).
