@@ -27,7 +27,8 @@ Numărul total de candidați înscriși, precum și distribuția candidaților l
 | Ingineria Sistemelor - Automatică și informatică aplicată - limba română - cu taxă   | **1**              |
 | **TOTAL**                                                                            | **614**            |
 
----
+- - -
+
 
 
 | **10L - Automatică și Calculatoare (AC) – concurs de dosare** | **Total înscriși** |
