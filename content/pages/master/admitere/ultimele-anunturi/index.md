@@ -25,6 +25,14 @@ Candidați cu **probleme**/lipsă acte la dosar:
 
 Interviul va avea loc **marți, 12.07.2022**.
 
+Interviul constă într-o prezentare de către candidat a unei propuneri de temă de cercetare pe care dorește să o abordeze în cadrul programului de Master, urmată de întrebări din partea membrilor comisiei.
+
+* Capacitatea candidatului de a desfășura o activitate de cercetare științifică
+* Consistența și documentarea temei prezentate si rezultatele scontate
+* Capacitatea de a găsi metode și de a obține rezultate în cercetare
+* Exprimarea în limba engleză (dacă cel puțin una din opțiuni este un program în engleză)
+* Răspunsurile candidatului la întrebările comisiei (legate, de regulă, de tematica prezentării).
+
 Vă rugăm reveniți pentru detalii despre organizarea interviului de admitere.
 
 
