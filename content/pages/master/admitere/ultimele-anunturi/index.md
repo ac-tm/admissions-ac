@@ -22,7 +22,7 @@ Candidați cu **probleme**/lipsă acte la dosar:
 
 Candidații sunt obligați să verifice în listele de mai jos validitatea datelor de concurs. Eventualele contestații, pe adresa secretariatului care gestionează programul pe care l-ați precizat ca primă opțiune. 
 
-* [Candidații cu prima opțiune **AES, ISA, SIAPS, SISC,** sau **TI**](https://uptro29158-my.sharepoint.com/:x:/g/personal/dan_alexandru_upt_ro/EZfyEiRIunRAtGZ6Z_oveyoBbpATKSB9SersqO4RTkwmZw?e=ea8G5p). Termen: **marți, 12 iulie, ora 9:00**. Adresă secretariat: secretariat.admitere@aut.upt.ro
+* [Candidații cu prima opțiune **AES, ISA, SIAPS, SIIS, SISC,** sau **TI**](https://uptro29158-my.sharepoint.com/:x:/g/personal/dan_alexandru_upt_ro/EZfyEiRIunRAtGZ6Z_oveyoBbpATKSB9SersqO4RTkwmZw?e=ea8G5p). Termen: **marți, 12 iulie, ora 9:00**. Adresă secretariat: secretariat.admitere@aut.upt.ro
 * [Candidații cu prima opțiune **CCIoT, ML,** sau **SE**](https://uptro29158-my.sharepoint.com/:x:/g/personal/dan_alexandru_upt_ro/EZfyEiRIunRAtGZ6Z_oveyoBbpATKSB9SersqO4RTkwmZw?e=ea8G5p). Termen: **marți, 12 iulie, ora 9:00**. Adresă secretariat: secretariat@cs.upt.ro
 
 ## Programarea la interviu, etapa 1
@@ -40,8 +40,8 @@ Interviul constă într-o prezentare de către candidat a unei propuneri de tem�
 Nota: informațiile de conectare vor fi trimise prin e-mail la ora 19 de către secretarul de comisie la adresele înregistrate de candidați la înscriere. Verificați inclusiv folderul SPAM!
 
 * <Attachment label="Programarea la interviu online (Zoom) pentru candidați **CCIoT, ML,** sau **SE**, marți 12 iulie 2022" file="/uploads/programari-cti-2022-07-12.xlsx"></Attachment>
-* <Attachment label="Programarea la interviu online (Zoom) pentru candidați **AES, ISA, SIAPS, SISC, sau TI**, marți 12 iulie 2022" file="/uploads/programari-aia-2022-07-12.txt"></Attachment>
-* <Attachment label="Lista candidaților **AES, ISA, SIAPS, SISC, sau TI** care au solicitat echivalarea notei și nu vor avea interviu" file="/uploads/echivalari-aia-2022-07-12.txt"></Attachment>
+* <Attachment label="Programarea la interviu online (Zoom) pentru candidați **AES, ISA, SIAPS, SIIS, SISC, sau TI**, marți 12 iulie 2022" file="/uploads/programari-aia-2022-07-12.txt"></Attachment>
+* <Attachment label="Lista candidaților **AES, ISA, SIAPS, SIIS, SISC, sau TI** care au solicitat echivalarea notei și nu vor avea interviu" file="/uploads/echivalari-aia-2022-07-12.txt"></Attachment>
 
 Vă rugăm reveniți pentru detalii despre organizarea interviului de admitere.
 
