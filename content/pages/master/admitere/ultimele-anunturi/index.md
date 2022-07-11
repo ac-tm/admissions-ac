@@ -22,8 +22,8 @@ Candidați cu **probleme**/lipsă acte la dosar:
 
 Candidații sunt obligați să verifice în listele de mai jos validitatea datelor de concurs. Eventualele contestații, pe adresa secretariatului care gestionează programul pe care l-ați precizat ca primă opțiune. 
 
-* [Candidații cu prima opțiune **AES, ISA, SIAPS, SISC,** sau **TI**](https://uptro29158-my.sharepoint.com/:x:/g/personal/dan_alexandru_upt_ro/EeLgv0tNVgJNh6f8phKIYV4BCYiJmgrqkHY0GDo_g_ITMw?e=HBhmnW). Termen: **marți, 12 iulie, ora 9:00**. Adresă secretariat: secretariat.admitere@aut.upt.ro
-* [Candidații cu prima opțiune **CCIoT, ML,** sau **SE**](https://uptro29158-my.sharepoint.com/:x:/g/personal/dan_alexandru_upt_ro/EeLgv0tNVgJNh6f8phKIYV4BCYiJmgrqkHY0GDo_g_ITMw?e=HBhmnW). Termen: **marți, 12 iulie, ora 9:00**. Adresă secretariat: secretariat@cs.upt.ro
+* [Candidații cu prima opțiune **AES, ISA, SIAPS, SISC,** sau **TI**](https://uptro29158-my.sharepoint.com/:x:/g/personal/dan_alexandru_upt_ro/EZfyEiRIunRAtGZ6Z_oveyoBbpATKSB9SersqO4RTkwmZw?e=ea8G5p). Termen: **marți, 12 iulie, ora 9:00**. Adresă secretariat: secretariat.admitere@aut.upt.ro
+* [Candidații cu prima opțiune **CCIoT, ML,** sau **SE**](https://uptro29158-my.sharepoint.com/:x:/g/personal/dan_alexandru_upt_ro/EZfyEiRIunRAtGZ6Z_oveyoBbpATKSB9SersqO4RTkwmZw?e=ea8G5p). Termen: **marți, 12 iulie, ora 9:00**. Adresă secretariat: secretariat@cs.upt.ro
 
 
 
