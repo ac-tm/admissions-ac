@@ -32,7 +32,7 @@ Candidații sunt obligați să verifice în listele de mai jos validitatea datel
 
 
 
-Interviul va avea loc **marți, 12.07.2022**.
+Interviul online va avea loc **marți, 12.07.2022**.
 
 Interviul constă într-o prezentare de către candidat a unei propuneri de temă de cercetare pe care dorește să o abordeze în cadrul programului de Master, urmată de întrebări din partea membrilor comisiei.
 
