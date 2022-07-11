@@ -103,7 +103,7 @@ Nota: informațiile de conectare vor fi trimise prin e-mail de către secretarul
 | 11:00 | 6M-0245 |
 | 11:05 | 6M-0250 |
 | 11:10 | 6M-0257 |
-| 11:15 | 6M-0258 | (doar test de compentențe lingvistice)
+| 11:15 | 6M-1258 |
 | 11:20 | 6M-0259 |
 | 11:25 | 6M-0262 |
 | 11:30 | 6M-0263 |

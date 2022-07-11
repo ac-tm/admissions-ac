@@ -35,4 +35,5 @@ Lista candidaților **AES, ISA, SIAPS, SISC, sau TI** care au solicitat echivala
 6M-0227
 6M-0230
 6M-0241
+6M-0258
 
