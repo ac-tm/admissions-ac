@@ -2,6 +2,12 @@ Programarea la interviu online (Zoom) pentru candidați **AES, ISA, SIAPS, SISC,
 		
 Nota: informațiile de conectare vor fi trimise prin e-mail de către secretarul de comisie la adresele înregistrate de candidați la înscriere. Verificați inclusiv folderul SPAM!		
 
+
+## Comisia 6 ##
+
+Secretar: lorena.hedrea@upt.ro
+
+
 | ora   | marca   |
 |-------|---------|
 | 09:00 | 6M-0001 |
@@ -40,6 +46,20 @@ Nota: informațiile de conectare vor fi trimise prin e-mail de către secretarul
 | 11:45 | 6M-0076 |
 | 11:50 | 6M-0077 |
 | 11:55 | 6M-0078 |
+
+
+## Comisia 7 ##
+
+Secretar: camil.jichici@upt.ro
+
+Topic: Admitere Master - 12.07.2022 - Ora 9:00
+Time: Jul 12, 2022 09:00 AM Bucharest
+Join Zoom Meeting ID: 971 4294 3766
+https://upt-ro.zoom.us/j/97142943766
+
+
+| ora   | marca   |
+|-------|---------|
 | 09:00 | 6M-0083 |
 | 09:05 | 6M-0087 |
 | 09:10 | 6M-0088 |
@@ -76,6 +96,21 @@ Nota: informațiile de conectare vor fi trimise prin e-mail de către secretarul
 | 11:45 | 6M-0174 |
 | 11:50 | 6M-0177 |
 | 11:55 | 6M-0178 |
+
+
+
+## Comisia 8 ##
+
+Secretar: raul-cristian.roman@upt.ro
+
+Topic: Examen admitere master IS - 12.07.2022
+Time: Jul 12, 2022 09:00 AM Bucharest
+Join Zoom Meeting ID: 992 2060 8946
+https://upt-ro.zoom.us/j/99220608946
+
+
+| ora   | marca   |
+|-------|---------|
 | 09:00 | 6M-0183 |
 | 09:05 | 6M-0188 | (doar test de compentențe lingvistice)
 | 09:10 | 6M-0190 |
