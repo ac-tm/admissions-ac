@@ -13,7 +13,7 @@ Fii cu ochii pe această pagină!
 
 **INFORMAȚII EXAMEN MATEMATICĂ, 14 iulie 2022**
 
-Examenul de matematică va avea loc în data de 14 iulie 2022, ora 10:00. Accesul candidaților în sălile de examen se va face începând cu ora 9:00. În decursul zilei de 13 iulie 2022 vom revenii cu informații privind repartizarea candidaților în sălile de examen.
+Examenul de matematică va avea loc în data de 14 iulie 2022, ora 10:00. Accesul candidaților în sălile de examen se va face începând cu ora 9:00. În decursul zilei de 13 iulie 2022 vom reveni cu informații privind repartizarea candidaților în sălile de examen.
 
 **STATISTICI ÎNSCRIERI, 11 iulie 2022, ora 20.00**
 
