@@ -25,12 +25,7 @@ Candidații sunt obligați să verifice în listele de mai jos validitatea datel
 * [Candidații cu prima opțiune **AES, ISA, SIAPS, SISC,** sau **TI**](https://uptro29158-my.sharepoint.com/:x:/g/personal/dan_alexandru_upt_ro/EZfyEiRIunRAtGZ6Z_oveyoBbpATKSB9SersqO4RTkwmZw?e=ea8G5p). Termen: **marți, 12 iulie, ora 9:00**. Adresă secretariat: secretariat.admitere@aut.upt.ro
 * [Candidații cu prima opțiune **CCIoT, ML,** sau **SE**](https://uptro29158-my.sharepoint.com/:x:/g/personal/dan_alexandru_upt_ro/EZfyEiRIunRAtGZ6Z_oveyoBbpATKSB9SersqO4RTkwmZw?e=ea8G5p). Termen: **marți, 12 iulie, ora 9:00**. Adresă secretariat: secretariat@cs.upt.ro
 
-
-
-
 ## Programarea la interviu, etapa 1
-
-
 
 Interviul online va avea loc **marți, 12.07.2022**.
 
@@ -42,49 +37,33 @@ Interviul constă într-o prezentare de către candidat a unei propuneri de tem�
 * Exprimarea în limba engleză (dacă cel puțin una din opțiuni este un program în engleză)
 * Răspunsurile candidatului la întrebările comisiei (legate, de regulă, de tematica prezentării).
 
-Vă rugăm reveniți pentru detalii despre organizarea interviului de admitere.
+Nota: informațiile de conectare vor fi trimise prin e-mail la ora 19 de către secretarul de comisie la adresele înregistrate de candidați la înscriere. Verificați inclusiv folderul SPAM!
 
+* Programarea la interviu online (Zoom) pentru candidați **CCIoT, ML,** sau **SE**, marți 12 iulie 2022 - vă rugăm reveniți
+* <Attachment label="Lista candidaților **AES, ISA, SIAPS, SISC, sau TI** care au solicitat echivalarea notei și nu vor avea interviu" file="/uploads/echivalari-aia-2022-07-12.txt"></Attachment>
+* <Attachment label="Programarea la interviu online (Zoom) pentru candidați **AES, ISA, SIAPS, SISC, sau TI**, marți 12 iulie 2022" file="/uploads/programari-aia-2022-07-12.txt"></Attachment>
+
+Vă rugăm reveniți pentru detalii despre organizarea interviului de admitere.
 
 ### Înscrieri etapa 1
 
-
 Până [sâmbătă 9 iulie ora 16](/master/admitere/calendarul-admiterii-master-2022/) s-au înscris 268 candidați:
 
-
-
-
-
-
-
-
-
 | **Program** | **Candidați** |
-|----------------|----------------------|
-|AES|7|
-|CCIOT|15|
-|ISA|11|
-|IT|9|
-|ML|60|
-|SE|40|
-|SIAPS|24|
-|SIIS|19|
-|SISC|29|
-|TAES|1|
-|TI|47|
-|TML|2|
-|TSE|1|
-|TSIIS|1|
-|TSISC|1|
-|TTI|1|
-
-
-
-
-
-
-
-
-
-        
-
-
+| ----------- | ------------- |
+| AES         | 7             |
+| CCIOT       | 15            |
+| ISA         | 11            |
+| IT          | 9             |
+| ML          | 60            |
+| SE          | 40            |
+| SIAPS       | 24            |
+| SIIS        | 19            |
+| SISC        | 29            |
+| TAES        | 1             |
+| TI          | 47            |
+| TML         | 2             |
+| TSE         | 1             |
+| TSIIS       | 1             |
+| TSISC       | 1             |
+| TTI         | 1             |
