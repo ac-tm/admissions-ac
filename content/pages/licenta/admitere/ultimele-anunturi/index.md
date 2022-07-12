@@ -11,6 +11,24 @@ Fii cu ochii pe această pagină!
 
 - - -
 
+**Listele candidaților înscriși la secțiunea 6 (concurs cu probe)**
+
+[Bacalaureat](https://admitere.ac.upt.ro/uploads/liste-bac-6l.pdf)
+[Cu premii la competiții agreate, admitere cu media 10](https://admitere.ac.upt.ro/uploads/lista-admitere-cu-media-10.pdf)
+[Cu premii la competiții agreate, echivalare probă cu nota 10](https://admitere.ac.upt.ro/uploads/lista-admitere-cu-proba-10.pdf)
+[Absolvent liceu mediul rural](https://admitere.ac.upt.ro/uploads/lista-rurali.pdf)
+[Sportivi de performanță](https://admitere.ac.upt.ro/uploads/lista-sportiv.pdf)
+[Studenți](https://admitere.ac.upt.ro/uploads/lista-student.pdf)
+[SRI](https://admitere.ac.upt.ro/uploads/lista-sri.pdf)
+[Licențiați](https://admitere.ac.upt.ro/uploads/lista-licentiat.pdf)
+[Etnie rromă](https://admitere.ac.upt.ro/uploads/lista-rrom.pdf)
+[Provenind din centre de plasament](https://admitere.ac.upt.ro/uploads/lista-plasament.pdf)
+
+Vă rugăm să verificați opțiunile din listele de mai sus iar problemele apărute vă rugăm să le transmiteți pe emailul: admitere.ac@upt.ro
+
+Rezultate portofoliu (Etapa 1)
+[Rezultatele preselecției portofoliului de realizări](https://admitere.ac.upt.ro/uploads/portofoliu_etapa-1.pdf)
+
 **INFORMAȚII EXAMEN MATEMATICĂ, 14 iulie 2022**
 
 Examenul de matematică va avea loc în data de 14 iulie 2022, ora 10:00. Accesul candidaților în sălile de examen se va face începând cu ora 9:00. În decursul zilei de 13 iulie 2022 vom reveni cu informații privind repartizarea candidaților în sălile de examen.
