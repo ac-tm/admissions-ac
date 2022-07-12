@@ -15,6 +15,8 @@ Fii cu ochii pe această pagină!
 
 Examenul de matematică va avea loc în data de 14 iulie 2022, ora 10:00. Accesul candidaților în sălile de examen se va face începând cu ora 9:00. În decursul zilei de 13 iulie 2022 vom reveni cu informații privind repartizarea candidaților în sălile de examen.
 
+Pentru cei care susțin proba de matematică în data de 14 iulie 2022, oferim cazare în căminul 4C, la tariful de 30,00 lei/persoană/noapte. Rezervări și alte informații se pot obține la numărul de telefon 0256-404328.
+
 **STATISTICI ÎNSCRIERI, 11 iulie 2022, ora 20.00**
 
 Următorul tabel prezintă numărul total de candidați înscriși, precum și distribuția acestora la secțiunile 6L, 10L și 10DL, pentru admiterea la **Facultatea de Automatică și Calculatoare**. 
