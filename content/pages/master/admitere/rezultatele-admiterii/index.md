@@ -5,6 +5,7 @@ image:
   src: https://aielpo.eplo.int/wp-content/uploads/2021/01/admission.jpg
 fullPath: master/admitere/rezultatele-admiterii
 ---
+
 <Block color="yellow">Rezultate și confirmări etapa 1, după interviu, IULIE 2022</Block>
 
 **IMPORTANT**: Candidații declarați admiși mai jos trebuie să achite taxa de confirmare în sistemul de admitere Enroll și, dacă au ocupat un loc fără taxă, să aducă la Secretariatul corespunzător primei opțiuni exprimate, în original, adeverința de licență sau diploma, miercuri 13.07.2022 orele 9-15:
@@ -20,4 +21,11 @@ Absolvenții AC care au optat pentru completarea adeverinței de licență și f
 
 **Neprezentarea la confirmări sau necompletarea actelor atrage excluderea din concurs, inclusiv pentru candidații declarați admiși.** 
 
-[Rezultatele înainte de confirmări, candidați licențiați](https://admitere.ac.upt.ro/uploads/6m-examen1-runda0-20210706.pdf)
+<Attachment label="Rezultatele înainte de confirmări, candidați licențiați" file="/uploads/master-rezultate-runda0-2022-07-12.pdf"></Attachment>
+
+<Attachment label="Rezultatele înainte de confirmări, candidați rromi" file="/uploads/master-rezultate-rromi-runda0-2022-07-12.pdf"></Attachment>
+
+<Attachment label="Rezultate candidați Români de Pretutindeni urmează să apară pe site-ul dedicat" external="https://upt.ro/Informatii_romani-de-pretutindeni---admitere-master_1498_ro.html"></Attachment>
+
+Candidați respinși în etapa 1, înainte de confirmări: 6M-0258, 6M-0131, 6M-0088, 6M-0052, 6M-0232, 6M-0001, 6M-0199, 6M-0079, 6M-0101, 6M-0207, 6M-0128, 6M-0167, 6M-0155.
+**În eventualitatea eliberării de locuri prin neconfirmare, există posibilitatea ca o parte din candidații respinși să obțină loc. Reveniți miercuri 13 iulie după încheierea confirmărilor.**
