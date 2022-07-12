@@ -11,7 +11,13 @@ Fii cu ochii pe această pagină!
 
 - - -
 
-**Listele candidaților înscriși la secțiunea 6 (concurs cu probe)**
+**[Programare interviu portofoliu - 14 iulie 2022](https://admitere.ac.upt.ro/uploads/portofoliu_programareinterviu.pdf)**
+
+**[Reguli impuse în timpul examenului (acces 8:30-9:45, folosirea mijloacelor tehnice de calcul, etc.)](https://admitere.ac.upt.ro/uploads/reguli-acces-sala-examen-2022.pdf)**
+
+Vom reveni cu repartizarea candidaților în săli.
+
+#### **Listele candidaților înscriși la secțiunea 6 (concurs cu probe)**
 
 * [Bacalaureat](https://admitere.ac.upt.ro/uploads/liste-bac-6l.pdf)[](https://admitere.ac.upt.ro/uploads/lista-admitere-cu-media-10.pdf)
 * [Cu premii la competiții agreate, admitere cu media 10](https://admitere.ac.upt.ro/uploads/lista-admitere-cu-media-10.pdf)[](https://admitere.ac.upt.ro/uploads/lista-admitere-cu-proba-10.pdf)
@@ -31,8 +37,6 @@ Vă rugăm să verificați opțiunile din listele de mai sus iar problemele apă
 * [Rezultatele preselecției portofoliului de realizări](https://admitere.ac.upt.ro/uploads/portofoliu_etapa-1.pdf)
 
 **INFORMAȚII EXAMEN MATEMATICĂ, 14 iulie 2022**
-
-Examenul de matematică va avea loc în data de 14 iulie 2022, ora 10:00. Accesul candidaților în sălile de examen se va face începând cu ora 9:00. În decursul zilei de 13 iulie 2022 vom reveni cu informații privind repartizarea candidaților în sălile de examen.
 
 Pentru cei care susțin proba de matematică în data de 14 iulie 2022, oferim cazare în căminul 4C, la tariful de 30,00 lei/persoană/noapte. Rezervări și alte informații se pot obține la numărul de telefon 0256-404328.
 
