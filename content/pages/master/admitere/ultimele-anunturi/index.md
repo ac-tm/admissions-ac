@@ -11,6 +11,10 @@ Fii cu ochii pe această pagină!
 
 - - -
 
+**Au fost publicate rezultatele finale [în secțiunea dedicată](https://admitere.ac.upt.ro/master/admitere/rezultatele-admiterii/).**
+
+
+
 ### Probleme dosar
 
 Candidați cu **probleme**/lipsă acte la dosar:
