@@ -56,23 +56,23 @@ Vă rugăm să verificați opțiunile din listele de mai sus iar problemele apă
 
 Pentru cei care susțin proba de matematică în data de 14 iulie 2022, oferim cazare în căminul 4C, la tariful de 30,00 lei/persoană/noapte. Rezervări și alte informații se pot obține la numărul de telefon 0256-404328.
 
-**STATISTICI ÎNSCRIERI, 12 iulie 2022, ora 20.00**
+**STATISTICI ÎNSCRIERI, 13 iulie 2022, ora 20.00**
 
 Următorul tabel prezintă numărul total de candidați înscriși, precum și distribuția acestora la secțiunile 6L, 10L și 10DL, pentru admiterea la **Facultatea de Automatică și Calculatoare**. 
 Tabelele prezintă numărul de candidați înscriși luând în calcul numai prima lor opțiune.
 
 |          | **6L – Concurs cu probe**                                                      |         |
 | -------- | ------------------------------------------------------------------------------ | ------- |
-| **6L**   | Calculatoare și Tehnologia Informației – engleză – fără taxă                   | **108** |
-| **6L**   | Calculatoare și Tehnologia Informației – română – fără taxă                    | **423** |
+| **6L**   | Calculatoare și Tehnologia Informației – engleză – fără taxă                   | **109** |
+| **6L**   | Calculatoare și Tehnologia Informației – română – fără taxă                    | **432** |
 | **6L**   | Ingineria Sistemelor – Automatică și informatică aplicată – română – fără taxă | **168** |
 | **6L**   | Calculatoare și Tehnologia Informației – engleză – cu taxă                     | **1**   |
 | **6L**   | Calculatoare și Tehnologia Informației – română – cu taxă                      | **4**   |
 | **6L**   | Ingineria Sistemelor – Automatică și informatică aplicată – română – cu taxă   | **3**   |
-|          | **TOTAL**                                                                      | **707** |
+|          | **TOTAL**                                                                      | **717** |
 | **10L**  | **10L –Concurs de dosare**                                                     |         |
-| **10L**  | Informatică – română – fără taxă                                               | **676** |
-| **10L**  | Informatică – română – cu taxă                                                 | **22**  |
-|          | **TOTAL**                                                                      | **698** |
+| **10L**  | Informatică – română – fără taxă                                               | **709** |
+| **10L**  | Informatică – română – cu taxă                                                 | **27**  |
+|          | **TOTAL**                                                                      | **736** |
 |          | **10DL – Învățământ la distanță**                                              |         |
-| **10DL** | Informatică – română – fără taxă                                               | **72**  |
+| **10DL** | Informatică – română – fără taxă                                               | **90**  |
