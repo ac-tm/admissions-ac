@@ -19,7 +19,7 @@ Fii cu ochii pe această pagină!
 
 #### **Repartizarea candidaților în sălile de examen:**
 
-<Attachment label="Bacalaureat" file="/uploads/repartizari-sali-bac.pdf"></Attachment>
+<Attachment label="Bacalaureat" file="/uploads/repartizari-sali-bac-v2.pdf"></Attachment>
 
 <Attachment label="Etnie rromă" file="/uploads/repartizari-sali-etnierroma.pdf"></Attachment>
 
@@ -29,7 +29,7 @@ Fii cu ochii pe această pagină!
 
 <Attachment label="Sportivi de performanță" file="/uploads/repartizari-sali-sportivi.pdf"></Attachment>
 
-<Attachment label="Candidați SRI" file=""></Attachment>
+<Attachment label="Candidați SRI" file="/uploads/repartizari-sali-sri-v2.pdf"></Attachment>
 
 <Attachment label="Studenți" file="/uploads/repartizari-sali-studenti.pdf"></Attachment>
 
