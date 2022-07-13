@@ -13,9 +13,6 @@ Fii cu ochii pe această pagină!
 
 **Au fost publicate rezultatele inițiale ale concursului de admitere [în secțiunea dedicată](/master/admitere/rezultatele-admiterii/).**
 
-
-
-
 ### Probleme dosar
 
 Candidați cu **probleme**/lipsă acte la dosar:
@@ -25,16 +22,13 @@ Candidați cu **probleme**/lipsă acte la dosar:
 
 ## INSTRUCȚIUNI privind precazarea candidaților admiși în anul I Master în sesiunea de admitere iulie 2022, pentru anul universitar 2022-2023
 
+Procesul de precazare se desfășoară online la adresa [https://student.upt.ro/](https://student.upt.ro/), conform următorului calendar:
 
+* 8-14 august 2022 – depunere cerere cu opțiunile de cazare, online pe student.upt.ro
+* 18-31 august 2022 – afișare rezultate și confirmare loc, online pe student.upt.ro
 
-Procesul de precazare se desfășoară online la adresa: https://student.upt.ro, conform următorului calendar:
-•	8-14 august 2022 – depunere cerere cu opțiunile de cazare, online pe https://student.upt.ro/
-•	18-31 august 2022 – afișare rezultate și confirmare loc, online pe https://student.upt.ro/
-
-
-Pentru autentificare pe platforma https://student.upt.ro/ candidații absolvenți ai UPT vor folosi în continuare conturile instituționale utilizate pe durata ciclului de licență. 
+Pentru autentificare pe platforma student.upt.ro, candidații absolvenți ai UPT vor folosi în continuare conturile instituționale utilizate pe durata ciclului de licență. 
 Pentru candidații absolvenți ai altor universități, se vor crea conturi de student UPT (prenume.nume@student.upt.ro) care le vor fi comunicate, anterior procesului de precazare, prin email la adresa indicată în formularul de înscriere, respectiv prin mesaj la numărul de telefon declarat la înscriere. 
-
 
 ## Liste de verificare, etapa 1
 
