@@ -17,7 +17,7 @@ Fii cu ochii pe această pagină!
 
 **[Amplasare săli de examen (adrese, coordonate GPS, etc.)](https://admitere.ac.upt.ro/uploads/amplasaresaliexamen-2022.pdf) ([harta](https://www.bing.com/maps?osid=b82a5425-ecb1-4a12-83bf-b06516961aaf&cp=45.746817~21.225137&lvl=17&v=2&sV=2&form=S00027))**
 
-#### **Repartizarea candidaților în sălile de examen**
+#### **Repartizarea candidaților în sălile de examen:**
 
 <Attachment label="Bacalaureat" file="/uploads/repartizari-sali-bac.pdf"></Attachment>
 
@@ -29,7 +29,7 @@ Fii cu ochii pe această pagină!
 
 <Attachment label="Sportivi de performanță" file="/uploads/repartizari-sali-sportivi.pdf"></Attachment>
 
-<Attachment label="Candidați SRI" file="/uploads/repartizari-sali-sri.pdf"></Attachment>
+<Attachment label="Candidați SRI" file=""></Attachment>
 
 <Attachment label="Studenți" file="/uploads/repartizari-sali-studenti.pdf"></Attachment>
 
