@@ -47,13 +47,13 @@ Tabelele prezintă numărul de candidați înscriși luând în calcul numai pri
 
 |          | **6L – Concurs cu probe**                                                      |         |
 | -------- | ------------------------------------------------------------------------------ | ------- |
-| **6L**   | Calculatoare și Tehnologia Informației – engleză – fără taxă                   | **107** |
-| **6L**   | Calculatoare și Tehnologia Informației – română – fără taxă                    | **421** |
-| **6L**   | Ingineria Sistemelor – Automatică și informatică aplicată – română – fără taxă | **167** |
+| **6L**   | Calculatoare și Tehnologia Informației – engleză – fără taxă                   | **108** |
+| **6L**   | Calculatoare și Tehnologia Informației – română – fără taxă                    | **423** |
+| **6L**   | Ingineria Sistemelor – Automatică și informatică aplicată – română – fără taxă | **168** |
 | **6L**   | Calculatoare și Tehnologia Informației – engleză – cu taxă                     | **1**   |
 | **6L**   | Calculatoare și Tehnologia Informației – română – cu taxă                      | **4**   |
 | **6L**   | Ingineria Sistemelor – Automatică și informatică aplicată – română – cu taxă   | **3**   |
-|          | **TOTAL**                                                                      | **703** |
+|          | **TOTAL**                                                                      | **707** |
 | **10L**  | **10L –Concurs de dosare**                                                     |         |
 | **10L**  | Informatică – română – fără taxă                                               | **676** |
 | **10L**  | Informatică – română – cu taxă                                                 | **22**  |
