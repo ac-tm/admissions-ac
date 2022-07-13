@@ -15,7 +15,21 @@ Fii cu ochii pe această pagină!
 
 **[Reguli impuse în timpul examenului (acces 8:30-9:45, folosirea mijloacelor tehnice de calcul, etc.)](https://admitere.ac.upt.ro/uploads/reguli-acces-sala-examen-2022.pdf)**
 
-Vom reveni cu repartizarea candidaților în săli.
+#### Repartizarea candidaților în sălile de examen
+
+<Attachment label="Bacalaureat" file="/uploads/repartizari-sali-bac.pdf"></Attachment>
+
+<Attachment label="Etnie rromă" file="/uploads/repartizari-sali-etnierroma.pdf"></Attachment>
+
+<Attachment label="Absolvenți liceu mediu rural" file="/uploads/repartizari-sali-mediulrural.pdf"></Attachment>
+
+<Attachment label="Provenind din centre de plasament" file="/uploads/repartizari-sali-plasament.pdf"></Attachment>
+
+<Attachment label="Sportivi de performanță" file="/uploads/repartizari-sali-sportivi.pdf"></Attachment>
+
+<Attachment label="Candidați SRI" file="/uploads/repartizari-sali-sri.pdf"></Attachment>
+
+<Attachment label="Studenți" file="/uploads/repartizari-sali-studenti.pdf"></Attachment>
 
 #### **Listele candidaților înscriși la secțiunea 6 (concurs cu probe)**
 
