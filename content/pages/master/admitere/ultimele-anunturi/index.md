@@ -11,7 +11,7 @@ Fii cu ochii pe această pagină!
 
 - - -
 
-**Au fost publicate rezultatele inițiale ale concursului de admitere și informații despre cazări [în secțiunea dedicată](/master/admitere/rezultatele-admiterii/).**
+**Au fost publicate rezultatele inițiale ale concursului de admitere [în secțiunea dedicată](/master/admitere/rezultatele-admiterii/).**
 
 
 
