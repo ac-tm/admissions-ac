@@ -29,7 +29,7 @@ Fii cu ochii pe această pagină!
 
 <Attachment label="Sportivi de performanță" file="/uploads/repartizari-sali-sportivi.pdf"></Attachment>
 
-<Attachment label="Candidați SRI" file="/uploads/repartizari-sali-sri.pdf"></Attachment>
+<Attachment label="Candidați SRI" file=""></Attachment>
 
 <Attachment label="Studenți" file="/uploads/repartizari-sali-studenti.pdf"></Attachment>
 
