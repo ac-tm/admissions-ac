@@ -29,3 +29,7 @@ Absolvenții AC care au optat pentru completarea adeverinței de licență și f
 
 Candidați respinși în etapa 1, înainte de confirmări: 6M-0258, 6M-0131, 6M-0088, 6M-0052, 6M-0232, 6M-0001, 6M-0199, 6M-0079, 6M-0101, 6M-0207, 6M-0128, 6M-0167, 6M-0155.
 **În eventualitatea eliberării de locuri prin neconfirmare, există posibilitatea ca o parte din candidații respinși să obțină loc. Reveniți miercuri 13 iulie după încheierea confirmărilor.**
+
+[INSTRUCȚIUNI privind precazarea candidaților admiși în anul I Master în sesiunea de admitere iulie 2022, pentru anul universitar 2022-2023 se găsesc pe pagina Noutăți](/master/admitere/ultimele-anunturi/).
+
+
