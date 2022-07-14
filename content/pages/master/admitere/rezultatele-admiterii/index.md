@@ -17,6 +17,10 @@ Rezultate după prima rundă de confirmări și finale ale etapei 1 de admitere 
 
 <Attachment label="Rezultate candidați Români de Pretutindeni pe site-ul dedicat" external="https://upt.ro/Informatii_romani-de-pretutindeni---admitere-master_1498_ro.html"></Attachment>
 
+<Attachment label="Calendarul de plată pentru candidații admiși pe locurile cu taxă" file="/uploads/informare-17644-din-2022-07-13.pdf"></Attachment>
+
+[INSTRUCȚIUNI privind precazarea candidaților admiși în anul I Master în sesiunea de admitere iulie 2022, pentru anul universitar 2022-2023 se găsesc pe pagina Noutăți](/master/admitere/ultimele-anunturi/).
+
 
 <Block color="yellow">Rezultate și confirmări etapa 1, după interviu, IULIE 2022</Block>
 
