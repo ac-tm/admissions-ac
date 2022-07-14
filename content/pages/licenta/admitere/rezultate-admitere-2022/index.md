@@ -6,6 +6,8 @@ image:
   src: /uploads/accepted-application.jpg
 fullPath: licenta/admitere/rezultate-admitere-2022
 ---
+[Abrevieri coduri domenii (LO, LM/ELM, LH/TH/DH, etc.)](https://admitere.ac.upt.ro/uploads/coduri-domenii.pdf)
+
 **Rezultate portofolii (Etapa a 2-a)**
 
 <Attachment label="Rezultate finale portofoliu de realizări (14.07.2022)" file="/uploads/rezultateportofoliu_etapa2.pdf"></Attachment>
