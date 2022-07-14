@@ -72,7 +72,7 @@ Tabelele prezintă numărul de candidați înscriși luând în calcul numai pri
 | **6L**   | Calculatoare și Tehnologia Informației – română – cu taxă                      | **4**   |
 | **6L**   | Ingineria Sistemelor – Automatică și informatică aplicată – română – cu taxă   | **3**   |
 |          | **TOTAL**                                                                      | **717** |
-| **10L**  | **10L –Concurs de dosare**                                                     |         |
+| **10L**  | **10L – Concurs de dosare**                                                    |         |
 | **10L**  | Informatică – română – fără taxă                                               | **709** |
 | **10L**  | Informatică – română – cu taxă                                                 | **27**  |
 |          | **TOTAL**                                                                      | **736** |
