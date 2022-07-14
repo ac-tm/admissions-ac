@@ -5,6 +5,18 @@ image:
   src: https://aielpo.eplo.int/wp-content/uploads/2021/01/admission.jpg
 fullPath: master/admitere/rezultatele-admiterii
 ---
+<Block color="yellow">Rezultate finale etapa 1, IULIE 2022</Block>
+
+Rezultate după prima rundă de confirmări și finale ale etapei 1 de admitere (deoarece nu mai e necesară runda 2 de confirmări):
+
+<Attachment label="Rezultate etapa 1" file="/uploads/6m-examen1-runda2-20220714.pdf"></Attachment>
+
+<Attachment label="Rezultate etapa 1, candidați rromi admiși" file="/uploads/master-rezultate-rromi-runda0-2022-07-12.pdf"></Attachment>
+
+<Attachment label="Candidați respinși etapa 1" file="/uploads/6m-examen1-runda2-respinși-20220714.pdf"></Attachment>
+
+<Attachment label="Rezultate candidați Români de Pretutindeni pe site-ul dedicat" external="https://upt.ro/Informatii_romani-de-pretutindeni---admitere-master_1498_ro.html"></Attachment>
+
 
 <Block color="yellow">Rezultate și confirmări etapa 1, după interviu, IULIE 2022</Block>
 
