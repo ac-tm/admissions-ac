@@ -11,6 +11,8 @@ Fii cu ochii pe această pagină!
 
 - - -
 
+<Attachment label="Odată centralizate rezultatele concursului de matematică de astăzi, vor fi afișate rezultatele la linkul acesta." internal="licenta/admitere/rezultate-admitere-2022"></Attachment>
+
 **[Programare interviu portofoliu - 14 iulie 2022](https://admitere.ac.upt.ro/uploads/portofoliu_programareinterviu.pdf)**
 
 **[Reguli impuse în timpul examenului (acces 8:30-9:45, folosirea mijloacelor tehnice de calcul, etc.)](https://admitere.ac.upt.ro/uploads/reguli-acces-sala-examen-2022.pdf)**
@@ -70,7 +72,7 @@ Tabelele prezintă numărul de candidați înscriși luând în calcul numai pri
 | **6L**   | Calculatoare și Tehnologia Informației – română – cu taxă                      | **4**   |
 | **6L**   | Ingineria Sistemelor – Automatică și informatică aplicată – română – cu taxă   | **3**   |
 |          | **TOTAL**                                                                      | **717** |
-| **10L**  | **10L –Concurs de dosare**                                                     |         |
+| **10L**  | **10L – Concurs de dosare**                                                    |         |
 | **10L**  | Informatică – română – fără taxă                                               | **709** |
 | **10L**  | Informatică – română – cu taxă                                                 | **27**  |
 |          | **TOTAL**                                                                      | **736** |
