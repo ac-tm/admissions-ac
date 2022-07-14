@@ -32,4 +32,4 @@ Candidați respinși în etapa 1, înainte de confirmări: 6M-0258, 6M-0131, 6M-
 
 [INSTRUCȚIUNI privind precazarea candidaților admiși în anul I Master în sesiunea de admitere iulie 2022, pentru anul universitar 2022-2023 se găsesc pe pagina Noutăți](/master/admitere/ultimele-anunturi/).
 
-
+<Attachment label="Calendarul de plată pentru candidații admiși pe locurile cu taxă" file="/uploads/informare-17644-din-2022-07-13.pdf"></Attachment>
