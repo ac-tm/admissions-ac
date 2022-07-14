@@ -13,7 +13,7 @@ fullPath: licenta/admitere/rezultate-admitere-2022
 Toți candidații admiși **TREBUIE** să confirme în runda I. Cei care nu confirmă, vor fi eliminați din concurs. \
 Nu contează **momentul** în care elevii confirmă locul (nu trebuie să vă aglomerați în primele ore vineri dimineață). 
 
-<Attachment label="Rezultate Candidați Tip Bacalaureat + Lista de așteptare (pot fi admiși în rundele următoare) + Lista respinși" file="/uploads/r1-bacalaureat-asteptare-respinsi.pdf"></Attachment>
+<Attachment label="Rezultate Candidați Tip Bacalaureat + Lista de așteptare (poți fi admis în rundele următoare) + Lista respinși" file="/uploads/r1-bacalaureat-asteptare-respinsi.pdf"></Attachment>
 
 <Attachment label="Rezultate candidați olimpici" file="/uploads/r1-olimpici.pdf"></Attachment>
 
