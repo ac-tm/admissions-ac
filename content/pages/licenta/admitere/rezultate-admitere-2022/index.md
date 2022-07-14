@@ -8,9 +8,9 @@ fullPath: licenta/admitere/rezultate-admitere-2022
 ---
 [Abrevieri coduri domenii (LO, LM/ELM, LH/TH/DH, etc.)](https://admitere.ac.upt.ro/uploads/coduri-domenii.pdf)
 
-## Rezultate Runda I 
+## Rezultate Runda I
 
-<Attachment label="Rezultate Candidați Tip Bacalaureat + Lista de așteptare (pot fi admiși în rundele următoare)" file="/uploads/r1-bacalaureat-asteptare.pdf"></Attachment>
+<Attachment label="Rezultate Candidați Tip Bacalaureat + Lista de așteptare (pot fi admiși în rundele următoare) + Lista respinși" file="/uploads/r1-bacalaureat-asteptare.pdf"></Attachment>
 
 <Attachment label="Rezultate candidați olimpici" file="/uploads/r1-olimpici.pdf"></Attachment>
 
