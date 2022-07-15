@@ -12,6 +12,8 @@ Fii cu ochii pe această pagină!
 - - -
 
 **Au fost publicate rezultatele finale ale primei etape ale concursului de admitere [în secțiunea dedicată](/master/admitere/rezultatele-admiterii/).**
+Continuă înscrierile pentru etapa 2 de admitere, [pe locurile rămase libere](/master/admitere/master/), până pe [26 iulie](/master/admitere/calendarul-admiterii-master-2022/).
+
 
 ### Probleme dosar
 
@@ -22,7 +24,7 @@ Candidați cu **probleme**/lipsă acte la dosar:
 
 ## INSTRUCȚIUNI privind precazarea candidaților admiși în anul I Master în sesiunea de admitere iulie 2022, pentru anul universitar 2022-2023
 
-Procesul de precazare se desfășoară online la adresa [https://student.upt.ro/](https://student.upt.ro/), conform următorului calendar:
+Procesul de precazare se desfășoară online la adresa <https://student.upt.ro/>, conform următorului calendar:
 
 * 8-14 august 2022 – depunere cerere cu opțiunile de cazare, online pe student.upt.ro
 * 18-31 august 2022 – afișare rezultate și confirmare loc, online pe student.upt.ro
