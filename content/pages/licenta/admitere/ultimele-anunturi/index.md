@@ -11,7 +11,7 @@ Fii cu ochii pe această pagină!
 
 - - -
 
-<Attachment label="Odată centralizate rezultatele concursului de matematică de astăzi, vor fi afișate rezultatele la linkul acesta." internal="licenta/admitere/rezultate-admitere-2022"></Attachment>
+<Attachment label="Rezultatele rundei I ale admiterii au fost afișate AICI." internal="licenta/admitere/rezultate-admitere-2022"></Attachment>
 
 **[Programare interviu portofoliu - 14 iulie 2022](https://admitere.ac.upt.ro/uploads/portofoliu_programareinterviu.pdf)**
 
