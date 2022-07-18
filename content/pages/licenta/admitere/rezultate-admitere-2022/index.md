@@ -10,6 +10,26 @@ fullPath: licenta/admitere/rezultate-admitere-2022
 
 **Informații privind cazarea în cămine pentru studenții admiși în anul I se găsesc [aici](https://admitere.ac.upt.ro/uploads/info-utile-2022-cazare.pdf).**
 
+## Rezultate Runda II
+
+Dacă ai fost admis în runda II pentru prima dată (erai pe lista de așteptare după runda I), poți plăti taxa de confirmare pe [Enroll](https://admitere.upt.ro/). Cei care au trecut de la **fără taxă** la **cu taxă** trebuie sa aducă diploma de bacalaureat în original (daca nu au adus-o deja în original). Pe lista de respinși sunt cei cu media de repartiție <5 și cei care nu au confirmat în runda 1.
+
+<Attachment label="Rezultate Candidați Tip Bacalaureat + Lista de așteptare (poți fi admis în rundele următoare) + Lista respinși" file="/uploads/r2-bacalaureat-asteptare-respinsi.pdf"></Attachment>
+
+<Attachment label="Rezultate candidați olimpici" file="/uploads/r2-olimpici.pdf"></Attachment>
+
+<Attachment label="Rezultate candidați respinși (media de repartiție < 5) sau nu au confirmat în Runda I " file="/uploads/r2-respinsi.pdf"></Attachment>
+
+<Attachment label="Rezultate candidați sportivi" file="/uploads/r2-sportivi.pdf"></Attachment>
+
+<Attachment label="Rezultate candidați mediu rural" file="/uploads/r2-mediulrural.pdf"></Attachment>
+
+<Attachment label="Rezultate candidați Etnie romă" file="/uploads/r2-etnieroma.pdf"></Attachment>
+
+<Attachment label="Rezultate Candidați Centre de Plasament " file="/uploads/r2-centredeplasament.pdf"></Attachment>
+
+<Attachment label="Rezultate candidați locuri SRI" file="/uploads/r2-candidatisri.pdf"></Attachment>
+
 ## Rezultate Runda I
 
 Toți candidații admiși **TREBUIE** să confirme în runda I. Cei care nu confirmă, vor fi eliminați din concurs. \
