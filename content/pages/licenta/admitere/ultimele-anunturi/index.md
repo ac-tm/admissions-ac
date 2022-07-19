@@ -13,7 +13,7 @@ Fii cu ochii pe această pagină!
 
 **Informații cu privire la cazarea în cămine pentru studenții admiși în anul I se găsesc [aici](https://admitere.ac.upt.ro/uploads/info-utile-2022-cazare.pdf).**
 
-<Attachment label="Rezultatele rundei I ale admiterii au fost afișate AICI." internal="licenta/admitere/rezultate-admitere-2022"></Attachment>
+<Attachment label="Rezultatele primelor două runde ale admiterii au fost afișate AICI." internal="licenta/admitere/rezultate-admitere-2022"></Attachment>
 
 **[Programare interviu portofoliu - 14 iulie 2022](https://admitere.ac.upt.ro/uploads/portofoliu_programareinterviu.pdf)**
 
