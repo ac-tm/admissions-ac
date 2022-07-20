@@ -15,7 +15,7 @@ Mai multe detalii privind modalitățile de plată se găsesc [aici](https://ac.
 
 ## Rezultate Runda III
 
-<Attachment label="Rezultate Candidați Tip Bacalaureat + Lista respinși" file="/uploads/r3-bacalaureat-respinsi.pdf"></Attachment>
+<Attachment label="Rezultate Candidați Tip Bacalaureat + Lista respinși" file="/uploads/r3-bacalaureat-respinsi_.pdf"></Attachment>
 
 <Attachment label="Rezultate Candidați olimpici" file="/uploads/r3-olimpici.pdf.pdf"></Attachment>
 
