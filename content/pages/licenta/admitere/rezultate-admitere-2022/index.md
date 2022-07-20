@@ -13,6 +13,24 @@ fullPath: licenta/admitere/rezultate-admitere-2022
 Taxa de școlarizare pentru studenții declarați **admiși, la ciclul licență, pe locurile cu taxă** în **sesiunea iulie 2022** (conform [HCA nr. 49/01.03.2022](http://www.upt.ro/img/files/hca/2022/HCA_49_01.03.2022_privind_taxele_de_studii_pentru_anul_universitar_2022-2023.pdf)) poate fi achitată în două rate egale. Prima rată trebuie achitată în perioada **29 iulie 2022 – 29 august 2022**.
 Mai multe detalii privind modalitățile de plată se găsesc [aici](https://ac.upt.ro/wp-content/uploads/2022/07/Informare-17645-din-2022-7-13.pdf).
 
+## Rezultate Runda III
+
+<Attachment label="Rezultate Candidați Tip Bacalaureat + Lista respinși" file="/uploads/r3-bacalaureat-respinsi.pdf"></Attachment>
+
+<Attachment label="Rezultate Candidați olimpici" file="/uploads/r3-olimpici.pdf"></Attachment>
+
+<Attachment label="Rezultate candidați respinși (media de repartiție < 5) sau nu au confirmat în rundele I și II" file="/uploads/r2-6l-respinsi-2.pdf"></Attachment>
+
+<Attachment label="Rezultate candidați sportivi" file="/uploads/r3-sportivi.pdf"></Attachment>
+
+<Attachment label="Rezultate candidați mediu rural" file="/uploads/r3-mediulrural.pdf"></Attachment>
+
+<Attachment label="Rezultate candidați Etnie romă" file="/uploads/r3-etnieroma.pdf"></Attachment>
+
+<Attachment label="Rezultate Candidați Centre de Plasament " file="/uploads/r3-centredeplasament.pdf"></Attachment>
+
+<Attachment label="Rezultate candidați locuri SRI" file="/uploads/r3-candidatilocurisri.pdf"></Attachment>
+
 ## Rezultate Runda II
 
 Dacă ai fost admis în runda II pentru prima dată (erai pe lista de așteptare după runda I), poți plăti taxa de confirmare pe [Enroll](https://admitere.upt.ro/). Cei care au trecut de la **cu taxă** la **fără taxă** trebuie sa aducă diploma de bacalaureat în original (daca nu au adus-o deja în original). Pe lista de respinși sunt cei cu media de repartiție <5 și cei care nu au confirmat în runda 1.
