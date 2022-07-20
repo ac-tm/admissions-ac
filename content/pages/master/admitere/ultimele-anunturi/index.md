@@ -11,6 +11,27 @@ Fii cu ochii pe această pagină!
 
 - - -
 
+### Înscrieri etapa 2
+
+Până [miercuri 20 iulie ora 16](/master/admitere/calendarul-admiterii-master-2022/) s-au înscris 9 candidați:
+
+| **Program** | **Candidați** |
+|-------------|---------------|
+| AES         | 1             |
+| CCIOT       | 1             |
+| ISA         | 1             |
+| SIAPS       | 1             |
+| SISC        | 2             |
+| TI          | 2             |
+| TTI         | 1             |
+
+
+
+
+- - -
+
+
+
 **Au fost publicate rezultatele finale ale primei etape ale concursului de admitere [în secțiunea dedicată](/master/admitere/rezultatele-admiterii/).**
 Continuă înscrierile pentru etapa 2 de admitere, [pe locurile rămase libere](/master/admitere/master/), până pe [26 iulie](/master/admitere/calendarul-admiterii-master-2022/).
 
