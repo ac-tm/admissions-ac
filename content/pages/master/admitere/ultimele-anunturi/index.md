@@ -21,9 +21,9 @@ Până [miercuri 20 iulie ora 16](/master/admitere/calendarul-admiterii-master-2
 | CCIOT       | 1             |
 | ISA         | 1             |
 | SIAPS       | 1             |
-| SISC        | 2             |
-| TI          | 2             |
-| TTI         | 1             |
+| TSISC       | 2             |
+
+| TTI         | 3             |
 
 
 
