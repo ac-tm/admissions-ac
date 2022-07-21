@@ -3,7 +3,7 @@ title: Admiterea pentru olimpici
 description: Ești olimpic? Poți fi admis cu media 10!
 image:
   src: /uploads/joshua-golde-qiu77bsfdds-unsplash.jpg
-fullPath: licenta/admitere/admiterea-pentru-olimpici
+fullPath: licenta/admitere/modalitatile-de-admitere/admiterea-pentru-olimpici
 ---
 Admiterea pentru olimpici se realizează după cum urmează:
 
