@@ -4,7 +4,7 @@ description: Ești curios să vezi la ce specializare ai intrat? În curând, vo
   apărea aici rezultatele.
 image:
   src: /uploads/accepted-application.jpg
-fullPath: rezultate-admitere-informatica-2022
+fullPath: licenta/admitere/rezultate-admitere-informatica-2022
 ---
 [Abrevieri coduri domenii (LO, LM/ELM, LH/TH/DH, etc.)](https://admitere.ac.upt.ro/uploads/coduri-domenii.pdf)
 
