@@ -1,5 +1,5 @@
 ---
-title: Rezultate admitere 2022
+title: Rezultate admitere 6L (CTI, CTI-en, IS) ― iulie 2022
 description: Ești curios să vezi la ce specializare ai intrat? În curând, vor
   apărea aici rezultatele.
 image:
