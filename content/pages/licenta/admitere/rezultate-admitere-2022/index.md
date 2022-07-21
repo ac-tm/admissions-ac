@@ -1,7 +1,7 @@
 ---
 title: Rezultate admitere 6L (CTI, CTI-en, IS) ― iulie 2022
-description: Ești curios să vezi la ce specializare ai intrat? În curând, vor
-  apărea aici rezultatele.
+description: Ultimele medii de la fiecare dintre cele 3 runde ale admiterii
+  iulie 2022 pentru locurile de la CTI, CTI-engleză și IS sunt disponibile aici.
 image:
   src: /uploads/accepted-application.jpg
 fullPath: licenta/admitere/rezultate-admitere-2022
