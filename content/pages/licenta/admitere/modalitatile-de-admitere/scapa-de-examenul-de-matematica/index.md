@@ -4,7 +4,7 @@ description: Trimite-ne un portofoliu cu realizările tale din trecut și ai șa
   să fii admis fără examen la matematică!
 image:
   src: /uploads/trophy.jpg
-fullPath: licenta/admitere/scapa-de-examenul-de-matematica
+fullPath: licenta/admitere/modalitatile-de-admitere/scapa-de-examenul-de-matematica
 ---
 Admiterea online bazată pe un portofoliu de realizări are ca scop recunoașterea rezultatelor obținute de către candidat la diferite competiții, cât și aptitudinile sale tehnice și valoarea acestora.
 
