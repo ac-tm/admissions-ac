@@ -63,7 +63,7 @@ Vă rugăm să verificați opțiunile din listele de mai sus iar problemele apă
 
 Pentru cei care susțin proba de matematică în data de 14 iulie 2022, oferim cazare în căminul 4C, la tariful de 30,00 lei/persoană/noapte. Rezervări și alte informații se pot obține la numărul de telefon 0256-404328.
 
-**STATISTICI ÎNSCRIERI, 19 iulie 2022, ora 20.00**
+**STATISTICI ÎNSCRIERI, 20 iulie 2022, ora 20.00**
 
 Următorul tabel prezintă numărul total de candidați înscriși, precum și distribuția acestora la secțiunile 6L, 10L și 10DL, pentru admiterea la **Facultatea de Automatică și Calculatoare**. 
 Tabelele prezintă numărul de candidați înscriși luând în calcul numai prima lor opțiune.
@@ -78,8 +78,8 @@ Tabelele prezintă numărul de candidați înscriși luând în calcul numai pri
 | **6L**   | Ingineria Sistemelor – Automatică și informatică aplicată – română – cu taxă   | **3**   |
 |          | **TOTAL**                                                                      | **717** |
 | **10L**  | **10L – Concurs de dosare**                                                    |         |
-| **10L**  | Informatică – română – fără taxă                                               | **790** |
-| **10L**  | Informatică – română – cu taxă                                                 | **39**  |
-|          | **TOTAL**                                                                      | **824** |
+| **10L**  | Informatică – română – fără taxă                                               | **794** |
+| **10L**  | Informatică – română – cu taxă                                                 | **43**  |
+|          | **TOTAL**                                                                      | **831** |
 |          | **10DL – Învățământ la distanță**                                              |         |
-| **10DL** | Informatică – română – fără taxă                                               | **139** |
+| **10DL** | Informatică – română – fără taxă                                               | **159** |
