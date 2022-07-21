@@ -13,7 +13,25 @@ fullPath: licenta/admitere/rezultate-admitere-2022
 Taxa de școlarizare pentru studenții declarați **admiși, la ciclul licență, pe locurile cu taxă** în **sesiunea iulie 2022** (conform [HCA nr. 49/01.03.2022](http://www.upt.ro/img/files/hca/2022/HCA_49_01.03.2022_privind_taxele_de_studii_pentru_anul_universitar_2022-2023.pdf)) poate fi achitată în două rate egale. Prima rată trebuie achitată în perioada **29 iulie 2022 – 29 august 2022**.
 Mai multe detalii privind modalitățile de plată se găsesc [aici](https://ac.upt.ro/wp-content/uploads/2022/07/Informare-17645-din-2022-7-13.pdf).
 
-## Rezultate Runda III
+## Rezultate FINALE 6L (CTI, CTI-en, IS) ― 21.07.2022
+
+<Attachment label="Rezultate Candidați Tip Bacalaureat" file="/uploads/rf-6l-optiuni-b.pdf"></Attachment>
+
+<Attachment label="Rezultate Candidați olimpici" file="/uploads/rf-6l-optiuni-o.pdf"></Attachment>
+
+<Attachment label="Rezultate candidați olimpici II" file="/uploads/rf-6l-optiuni-d.pdf"></Attachment>
+
+<Attachment label="Rezultate candidați sportivi" file="/uploads/rf-6l-optiuni-t.pdf"></Attachment>
+
+<Attachment label="Rezultate candidați mediu rural" file="/uploads/rf-6l-optiuni-u.pdf"></Attachment>
+
+<Attachment label="Rezultate candidați Etnie romă" file="/uploads/rf-6l-optiuni-r.pdf"></Attachment>
+
+<Attachment label="Rezultate Candidați Centre de Plasament " file="/uploads/rf-6l-optiuni-p.pdf"></Attachment>
+
+<Attachment label="Rezultate candidați locuri SRI" file="/uploads/rf-6l-optiuni-i.pdf"></Attachment>
+
+## Rezultate 6L Runda III ― 20.07.2022
 
 <Attachment label="Rezultate Candidați Tip Bacalaureat + Lista respinși" file="/uploads/r3-bacalaureat-respinsi.pdf"></Attachment>
 
@@ -31,7 +49,7 @@ Mai multe detalii privind modalitățile de plată se găsesc [aici](https://ac.
 
 <Attachment label="Rezultate candidați locuri SRI" file="/uploads/r3-candidatilocurisri.pdf"></Attachment>
 
-## Rezultate Runda II
+## Rezultate 6L Runda II ― 18.07.2022
 
 Dacă ai fost admis în runda II pentru prima dată (erai pe lista de așteptare după runda I), poți plăti taxa de confirmare pe [Enroll](https://admitere.upt.ro/). Cei care au trecut de la **cu taxă** la **fără taxă** trebuie sa aducă diploma de bacalaureat în original (daca nu au adus-o deja în original). Pe lista de respinși sunt cei cu media de repartiție <5 și cei care nu au confirmat în runda 1.
 
@@ -51,7 +69,7 @@ Dacă ai fost admis în runda II pentru prima dată (erai pe lista de așteptare
 
 <Attachment label="Rezultate candidați locuri SRI" file="/uploads/r2-candidatisri.pdf"></Attachment>
 
-## Rezultate Runda I
+## Rezultate 6L Runda I ― 14.07.2022
 
 Toți candidații admiși **TREBUIE** să confirme în runda I. Cei care nu confirmă, vor fi eliminați din concurs. \
 Nu contează **momentul** în care elevii confirmă locul (nu trebuie să vă aglomerați în primele ore vineri dimineață). 
