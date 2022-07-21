@@ -3,7 +3,7 @@ title: Rezultate admitere informatică 2022
 description: Ești curios să vezi la ce specializare ai intrat? În curând, vor
   apărea aici rezultatele.
 image:
-  src: /uploads/accepted-application.jpg
+  src: /uploads/pt_6508_114_o.jpg
 fullPath: licenta/admitere/rezultate-admitere-informatica-2022
 ---
 [Abrevieri coduri domenii (LO, LM/ELM, LH/TH/DH, etc.)](https://admitere.ac.upt.ro/uploads/coduri-domenii.pdf)
