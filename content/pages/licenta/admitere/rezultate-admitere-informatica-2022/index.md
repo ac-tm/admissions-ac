@@ -20,18 +20,22 @@ Mai multe detalii privind modalitățile de plată se găsesc [aici](https://ac.
 Toți candidații admiși **TREBUIE** să confirme în runda I. **Cei care nu confirmă, vor fi eliminați din concurs.** \
 Nu contează **momentul** în care elevii confirmă locul (nu trebuie să vă aglomerați în primele ore marți dimineață). 
 
+</Block>
+
 <Attachment label="Candidați Admiși + Lista de așteptare (poți fi admis în rundele următoare)  - învățământ la distanță" file="/uploads/10dl-rezultate_asteptare.pdf"></Attachment>
 
 <Attachment label="Rezultate pe specializări Candidați Admiși - învățământ la distanță" file="/uploads/10dl-admisi.pdf"></Attachment>
 
 <Attachment label="Lista de așteptare (poți fi admis în rundele următoare) - Învățământ la distanță" file="/uploads/10dl-aspteptare.pdf"></Attachment>
 
-</Block>
+<Block color="blue">
 
 ## Rezultate 10L Runda I ― 25.07.2022
 
 Toți candidații admiși **TREBUIE** să confirme în runda I. **Cei care nu confirmă, vor fi eliminați din concurs.** \
 Nu contează **momentul** în care elevii confirmă locul (nu trebuie să vă aglomerați în primele ore marți dimineață). 
+
+</Block>
 
 <Attachment label="Rezultate Candidați Tip Bacalaureat + Lista de așteptare (poți fi admis în rundele următoare)" file="/uploads/10l-rezultate-asteptare.pdf"></Attachment>
 
