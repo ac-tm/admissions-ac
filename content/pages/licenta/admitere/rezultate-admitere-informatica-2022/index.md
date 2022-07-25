@@ -13,6 +13,15 @@ fullPath: licenta/admitere/rezultate-admitere-informatica-2022
 Taxa de școlarizare pentru studenții declarați **admiși, la ciclul licență, pe locurile cu taxă** în **sesiunea iulie 2022** (conform [HCA nr. 49/01.03.2022](http://www.upt.ro/img/files/hca/2022/HCA_49_01.03.2022_privind_taxele_de_studii_pentru_anul_universitar_2022-2023.pdf)) poate fi achitată în două rate egale. Prima rată trebuie achitată în perioada **29 iulie 2022 – 29 august 2022**.
 Mai multe detalii privind modalitățile de plată se găsesc [aici](https://ac.upt.ro/wp-content/uploads/2022/07/Informare-17645-din-2022-7-13.pdf).
 
+## Rezultate 10DL Runda I ― 25.07.2022
+
+Toți candidații admiși **TREBUIE** să confirme în runda I. **Cei care nu confirmă, vor fi eliminați din concurs.** \
+Nu contează **momentul** în care elevii confirmă locul (nu trebuie să vă aglomerați în primele ore marți dimineață). 
+
+<Attachment label="Rezultate Candidați Admiși - învățământ la distanță" file="/uploads/10dl-admisi.pdf"></Attachment>
+
+<Attachment label="Lista de așteptare (poți fi admis în rundele următoare) - Învățământ la distanță" file="/uploads/10dl-aspteptare.pdf"></Attachment>
+
 ## Rezultate 10L Runda I ― 25.07.2022
 
 Toți candidații admiși **TREBUIE** să confirme în runda I. **Cei care nu confirmă, vor fi eliminați din concurs.** \
