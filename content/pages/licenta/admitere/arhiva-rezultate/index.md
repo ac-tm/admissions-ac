@@ -14,7 +14,7 @@ fullPath: licenta/admitere/arhiva-rezultate
 
 </Block>
 
-<Block color="blue">
+<Block color="red">
 
 ## Rezultate 2021 (iulie + septembrie)
 
