@@ -1,5 +1,5 @@
 ---
-title: Rezultate admitere informatică 2022
+title: Rezultate admitere informatică (10L și 10DL) 2022
 description: În curând, vei putea vedea aici dacă, din toamnă, vei fi student la
   informatică.
 image:
