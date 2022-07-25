@@ -18,7 +18,9 @@ Mai multe detalii privind modalitățile de plată se găsesc [aici](https://ac.
 Toți candidații admiși **TREBUIE** să confirme în runda I. **Cei care nu confirmă, vor fi eliminați din concurs.** \
 Nu contează **momentul** în care elevii confirmă locul (nu trebuie să vă aglomerați în primele ore marți dimineață). 
 
-<Attachment label="Rezultate Candidați Admiși - învățământ la distanță" file="/uploads/10dl-admisi.pdf"></Attachment>
+<Attachment label="Candidați Admiși + Lista de așteptare (poți fi admis în rundele următoare)  - învățământ la distanță" file="/uploads/10dl-rezultate_asteptare.pdf"></Attachment>
+
+<Attachment label="Rezultate pe specializări Candidați Admiși - învățământ la distanță" file="/uploads/10dl-admisi.pdf"></Attachment>
 
 <Attachment label="Lista de așteptare (poți fi admis în rundele următoare) - Învățământ la distanță" file="/uploads/10dl-aspteptare.pdf"></Attachment>
 
