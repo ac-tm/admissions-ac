@@ -28,7 +28,7 @@ Nu contează **momentul** în care elevii confirmă locul (nu trebuie să vă ag
 
 </Block>
 
-<Block color="blue">
+<Block color="green">
 
 ## Rezultate 10L Runda I ― 25.07.2022
 
