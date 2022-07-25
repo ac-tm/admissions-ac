@@ -30,7 +30,7 @@ Mai multe detalii privind modalitățile de plată se găsesc [aici](https://ac.
 
 <Attachment label="Bacalaureat" file="/uploads/repartizari-sali-bac-v2.pdf"></Attachment>
 
-<Attachment label="Etnie rromă" file="/uploads/repartizari-sali-etnierroma.pdf"></Attachment>
+<Attachment label="Etnie romă" file="/uploads/repartizari-sali-etnierroma.pdf"></Attachment>
 
 <Attachment label="Absolvenți liceu mediu rural" file="/uploads/repartizari-sali-mediulrural.pdf"></Attachment>
 
