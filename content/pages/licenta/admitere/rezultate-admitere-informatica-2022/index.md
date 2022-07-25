@@ -20,13 +20,13 @@ Mai multe detalii privind modalitățile de plată se găsesc [aici](https://ac.
 Toți candidații admiși **TREBUIE** să confirme în runda I. **Cei care nu confirmă, vor fi eliminați din concurs.** \
 Nu contează **momentul** în care elevii confirmă locul (nu trebuie să vă aglomerați în primele ore marți dimineață). 
 
-</Block>
-
 <Attachment label="Candidați Admiși + Lista de așteptare (poți fi admis în rundele următoare)  - învățământ la distanță" file="/uploads/10dl-rezultate_asteptare.pdf"></Attachment>
 
 <Attachment label="Rezultate pe specializări Candidați Admiși - învățământ la distanță" file="/uploads/10dl-admisi.pdf"></Attachment>
 
 <Attachment label="Lista de așteptare (poți fi admis în rundele următoare) - Învățământ la distanță" file="/uploads/10dl-aspteptare.pdf"></Attachment>
+
+</Block>
 
 <Block color="blue">
 
@@ -34,8 +34,6 @@ Nu contează **momentul** în care elevii confirmă locul (nu trebuie să vă ag
 
 Toți candidații admiși **TREBUIE** să confirme în runda I. **Cei care nu confirmă, vor fi eliminați din concurs.** \
 Nu contează **momentul** în care elevii confirmă locul (nu trebuie să vă aglomerați în primele ore marți dimineață). 
-
-</Block>
 
 <Attachment label="Rezultate Candidați Tip Bacalaureat + Lista de așteptare (poți fi admis în rundele următoare)" file="/uploads/10l-rezultate-asteptare.pdf"></Attachment>
 
@@ -48,3 +46,5 @@ Nu contează **momentul** în care elevii confirmă locul (nu trebuie să vă ag
 <Attachment label="Rezultate Candidați Centre de Plasament " file="/uploads/10l-admisi-p.pdf"></Attachment>
 
 <Attachment label="Rezultate candidați locuri SRI" file="/uploads/10l-admisi-i.pdf"></Attachment>
+
+</Block>
