@@ -11,21 +11,28 @@ Fii cu ochii pe această pagină!
 
 - - -
 
+### Programare interviu 
+
+Programarea la interviul online de miercuri 27 iulie, va fi afișată aici în jurul orei 18.
+Vă rugăm reveniți.
+
+
 ### Înscrieri etapa 2
 
-Până [luni 25 iulie ora 16](/master/admitere/calendarul-admiterii-master-2022/) s-au înscris 23 candidați:
+Până [luni 26 iulie ora 15](/master/admitere/calendarul-admiterii-master-2022/) s-au înscris 34 candidați:
 
 | **Program** | **Candidați** |
 | ----------- | ------------- |
 | AES         | 1             |
-| CCIOT       | 4             |
+| CCIOT       | 7             |
 | ISA         | 1             |
-| IT          | 2             |
-| SIAPS       | 3             |
+| IT          | 3             |
+| SIAPS       | 5             |
 | SIIS        | 5             |
-| TSE         | 1             |
-| TSISC       | 3             |
-| TTI         | 3             |
+| TML         | 1             |
+| TSE         | 2             |
+| TSISC       | 4             |
+| TTI         | 4             |
 
 - - -
 
