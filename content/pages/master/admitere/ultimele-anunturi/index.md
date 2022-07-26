@@ -11,7 +11,7 @@ Fii cu ochii pe această pagină!
 
 - - -
 
-### Programare interviu
+### Programare interviu, etapa 2
 
 Candidații sunt obligați să verifice în listele de mai jos validitatea datelor de concurs. Eventualele contestații, pe adresa secretariatului care gestionează programul pe care l-ați precizat ca primă opțiune (termen miercuri 27 iulie 2022, ora 9): 
 
