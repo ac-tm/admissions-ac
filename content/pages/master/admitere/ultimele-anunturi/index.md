@@ -11,19 +11,16 @@ Fii cu ochii pe această pagină!
 
 - - -
 
-### Programare interviu 
-
+### Programare interviu
 
 Candidații sunt obligați să verifice în listele de mai jos validitatea datelor de concurs. Eventualele contestații, pe adresa secretariatului care gestionează programul pe care l-ați precizat ca primă opțiune (termen miercuri 27 iulie 2022, ora 9): 
-* [Candidații cu prima opțiune **AES, ISA, SIAPS, SISC,** sau **TI**]: secretariat.admitere@aut.upt.ro
-* [Candidații cu prima opțiune **CCIoT, IT, ML,** sau **SE**]: secretariat@cs.upt.ro
 
-
+* Candidații cu prima opțiune **AES, ISA, SIAPS, SIIS, SISC,** sau **TI**: secretariat.admitere@aut.upt.ro
+* Candidații cu prima opțiune **CCIoT, IT, ML,** sau **SE**: secretariat@cs.upt.ro
 
 Interviul constă într-o prezentare de către candidat a unei propuneri de temă de cercetare pe care dorește să o abordeze în cadrul programului de Master, urmată de întrebări din partea membrilor comisiei.
 
 Criterii de evaluare:
-
 
 * Capacitatea candidatului de a desfășura o activitate de cercetare științifică
 * Consistența și documentarea temei prezentate si rezultatele scontate
@@ -42,14 +39,10 @@ https://us04web.zoom.us/j/76001080566?pwd=kqof1LPTkIxtOvXIWZ824xf3-hjibV.1
 Meeting ID: 760 0108 0566
 Passcode: 06ESEG
 
-
-
-
-
 Lista candidaților care au solicitat echivalarea notei și nu vor avea interviu:
 
 | **marca** | **Opțiunea 1** | **Opțiuni rezervă**                              | **media multianuală = nota echivalentă interviu** | **media licență** | **factor K** |
-|-----------|----------------|--------------------------------------------------|---------------------------------------------------|-------------------|--------------|
+| --------- | -------------- | ------------------------------------------------ | ------------------------------------------------- | ----------------- | ------------ |
 | 6M-0267   | CCIOT          | IT, AES, ML, SE, , , , ,                         | 7.5                                               | 9.6               | 5            |
 | 6M-0269   | SIAPS          | ISA, SIIS, , , , , , ,                           | 7.14                                              | 7.5               | 5            |
 | 6M-0277   | SIIS           | SIAPS, SISC, TI, , , , , ,                       | 7.39                                              | 7.75              | 5            |
@@ -59,11 +52,10 @@ Lista candidaților care au solicitat echivalarea notei și nu vor avea interviu
 | 6M-0289   | TML            | CCIOT, IT, , , , , , ,                           | 9.24                                              | 8.8               | 5            |
 | 6M-0291   | TTI            | TI, IT, TIT, SE, TSE, CCIOT, TCCIOT, SIIS, SIAPS | 8.11                                              | 9.2               | 5            |
 
-
 Lista candidaților programați la interviu online:
 
 | **ora interviu** | **marca** | **Opțiunea 1** | **Opțiuni rezervă**                                  | **media multianuală** | **media licență** | **factor K** |
-|------------------|-----------|----------------|------------------------------------------------------|-----------------------|-------------------|--------------|
+| ---------------- | --------- | -------------- | ---------------------------------------------------- | --------------------- | ----------------- | ------------ |
 | 10:00            | 6M-0279   | CCIOT          | , , , , , , , ,                                      | 6.69                  | 7.00              | 3            |
 | 10:05            | 6M-0272   | SIIS           | TI, SISC, , , , , , ,                                | 6.88                  | 8.27              | 0            |
 | 10:10            | 6M-0281   | SIAPS          | TSIAPS, SISC, SIIS, ISA, SE, TI, , ,                 | 7.12                  | 8.33              | 4            |
@@ -89,7 +81,7 @@ Lista candidaților programați la interviu online:
 | 11:50            | 6M-0275   | IT             | , , , , , , , ,                                      | 7.68                  | 8.88              | 4            |
 | 11:55            | 6M-0292   | CCIOT          | TCCIOT, ISA, IT, SIIS, SIAPS, , , ,                  | 8.95                  | 8.00              | 5            |
 | 12:00            | 6M-0276   | TSISC          | SISC, , , , , , , ,                                  | 6.87                  | 8.13              | 4            |
-| 12:05            | 6M-0294  | CCIOT          | TCCIOT, ISA, IT, SIIS, SIAPS, , , ,                  | 8.32                  | 7.66              | 5            |
+| 12:05            | 6M-0294   | CCIOT          | TCCIOT, ISA, IT, SIIS, SIAPS, , , ,                  | 8.32                  | 7.66              | 5            |
 
 * (6M-0294 are programare doar pentru competențe de limba engleză)
 
