@@ -39,6 +39,8 @@ https://us04web.zoom.us/j/76001080566?pwd=kqof1LPTkIxtOvXIWZ824xf3-hjibV.1
 Meeting ID: 760 0108 0566
 Passcode: 06ESEG
 
+Secretar comisie de interviu: cosmin.marsavina@upt.ro
+
 Lista candidaților care au solicitat echivalarea notei și nu vor avea interviu:
 
 | **marca** | **Opțiunea 1** | **Opțiuni rezervă**                              | **media multianuală = nota echivalentă interviu** | **media licență** | **factor K** |
