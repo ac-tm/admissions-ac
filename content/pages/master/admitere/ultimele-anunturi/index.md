@@ -11,6 +11,12 @@ Fii cu ochii pe această pagină!
 
 - - -
 
+### Programare interviu 
+
+Programarea la interviul online de miercuri 27 iulie, va fi afișată aici în jurul orei 18.
+Vă rugăm reveniți.
+
+
 ### Înscrieri etapa 2
 
 Până [luni 26 iulie ora 15](/master/admitere/calendarul-admiterii-master-2022/) s-au înscris 34 candidați:
