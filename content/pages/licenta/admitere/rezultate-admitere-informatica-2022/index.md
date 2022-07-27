@@ -21,17 +21,17 @@ Mai multe detalii privind modalitățile de plată se găsesc [aici](https://ac.
 
 Dacă ai fost admis în runda II pentru prima dată (erai pe lista de așteptare după runda I), poți plăti taxa de confirmare pe [Enroll](https://admitere.upt.ro/). Cei care au trecut de la **cu taxă** la **fără taxă** trebuie sa aducă diploma de bacalaureat în original (daca nu au adus-o deja în original). Pe lista de respinși sunt cei cu media de repartiție <5 și cei care nu au confirmat în runda 1.
 
-<Attachment label="Rezultate Candidați Tip Bacalaureat + Lista de așteptare (poți fi admis în rundele următoare)" file=""></Attachment>
+<Attachment label="Rezultate Candidați Tip Bacalaureat" file="/uploads/10l-r2-admisioptiuni.pdf"></Attachment>
 
-<Attachment label="Rezultate Candidați Olimpici" file=""></Attachment>
+<Attachment label="Rezultate Candidați Olimpici" file="/uploads/10l-r2-olimpici.pdf"></Attachment>
 
 <Attachment label="Rezultate Candidați Sportivi" file=""></Attachment>
 
-<Attachment label="Rezultate Candidați Mediu Rural" file=""></Attachment>
+<Attachment label="Rezultate Candidați Mediu Rural" file="/uploads/10l-r2-rurali.pdf"></Attachment>
 
-<Attachment label="Rezultate Candidați Centre de Plasament " file=""></Attachment>
+<Attachment label="Rezultate Candidați Centre de Plasament " file="/uploads/10l-r2-plasament.pdf"></Attachment>
 
-<Attachment label="Rezultate candidați locuri SRI" file=""></Attachment>
+<Attachment label="Rezultate candidați locuri Rromi" file="/uploads/10l-r2-rromi.pdf"></Attachment>
 
 ## Rezultate 10DL Runda II ― 27.07.2022
 
