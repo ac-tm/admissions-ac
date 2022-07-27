@@ -19,7 +19,9 @@ Mai multe detalii privind modalitățile de plată se găsesc [aici](https://ac.
 
 Dacă ai fost admis în runda II pentru prima dată (erai pe lista de așteptare după runda I), poți plăti taxa de confirmare pe [Enroll](https://admitere.upt.ro/). Cei care au trecut de la **cu taxă** la **fără taxă** trebuie sa aducă diploma de bacalaureat în original (daca nu au adus-o deja în original). Pe lista de respinși sunt cei cu media de repartiție <5 și cei care nu au confirmat în runda 1.
 
-<Attachment label="Rezultate Candidați Tip Bacalaureat" file="/uploads/10l-r2-admisioptiuni.pdf"></Attachment>
+<Attachment label="Rezultate Candidați Tip Bacalaureat + Lista de așteptare (poți fi admis la runda următoare)" file="/uploads/10l-rezultate-admisi-lista-asteptare-r2.pdf"></Attachment>
+
+<Attachment label="Rezultate Candidați Admiși pe opțiuni - Tip Bacalaureat" file="/uploads/10l-r2-admisioptiuni.pdf"></Attachment>
 
 <Attachment label="Rezultate Candidați Olimpici" file="/uploads/10l-r2-olimpici.pdf"></Attachment>
 
