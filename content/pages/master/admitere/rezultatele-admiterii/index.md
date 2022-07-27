@@ -5,6 +5,23 @@ image:
   src: https://aielpo.eplo.int/wp-content/uploads/2021/01/admission.jpg
 fullPath: master/admitere/rezultatele-admiterii
 ---
+<Block color="yellow">Rezultate și confirmări etapa 2, după interviu, IULIE 2022</Block>
+
+**IMPORTANT**: Candidații declarați admiși mai jos trebuie să achite taxa de confirmare în sistemul de admitere Enroll și, dacă au ocupat un loc fără taxă, să aducă la Secretariatul corespunzător primei opțiuni exprimate, în original, adeverința de licență sau diploma, joi 28.07.2022 orele 8-15:
+
+* Candidații cu prima opțiune **AES, ISA, SIAPS, SIIS, SISC, sau TI**: în sala B615 (corp Electro, Secretariat etaj 6, tel. +40.256.403.505, email: secretariat.admitere@aut.upt.ro);
+* Candidații cu prima opțiune **CCIoT, IT, ML, sau SE**: în sala B512 (corp Electro, Secretariat etaj 5, tel. +40.256.403.261, email: secretariat@cs.upt.ro);
+
+Absolvenții AC care au optat pentru completarea adeverinței de licență și foii matricole de către comisia de admitere trebuie să achite **taxa** de confirmare și să aducă [eventualele alte documente **lipsă în original**](/master/admitere/ultimele-anunturi/):
+
+* două **fotografii** color tip diplomă
+* adeverință **medicală**, eliberată de medicul de familie
+* dovadă **scutire** de taxă de înscriere pentru candidații aflați în această situație
+
+**Neprezentarea la confirmări sau necompletarea actelor atrage excluderea din concurs, inclusiv pentru candidații declarați admiși.** 
+
+<Attachment label="Rezultatele înainte de confirmări, candidați licențiați" file="/uploads/6m-examen2-runda0-20220727.pdf"></Attachment>
+
 <Block color="yellow">Rezultate finale etapa 1, IULIE 2022</Block>
 
 Rezultate după prima rundă de confirmări și finale ale etapei 1 de admitere (deoarece nu mai e necesară runda 2 de confirmări):
@@ -20,7 +37,6 @@ Rezultate după prima rundă de confirmări și finale ale etapei 1 de admitere 
 <Attachment label="Calendarul de plată pentru candidații admiși pe locurile cu taxă" file="/uploads/informare-17644-din-2022-07-13.pdf"></Attachment>
 
 [INSTRUCȚIUNI privind precazarea candidaților admiși în anul I Master în sesiunea de admitere iulie 2022, pentru anul universitar 2022-2023 se găsesc pe pagina Noutăți](/master/admitere/ultimele-anunturi/).
-
 
 <Block color="yellow">Rezultate și confirmări etapa 1, după interviu, IULIE 2022</Block>
 
