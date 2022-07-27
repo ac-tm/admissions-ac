@@ -14,7 +14,7 @@ Fii cu ochii pe această pagină!
 ### Confirmări etapa 2
 
 **Au fost publicate rezultatele concursului de admitere după interviul etapei 2 [în secțiunea dedicată](/master/admitere/rezultatele-admiterii/).**
-Confirmarea locului primit se face în data de [28 iulie](/master/admitere/calendarul-admiterii-master-2022/).
+Confirmarea locului obținut se face în data de [28 iulie](/master/admitere/calendarul-admiterii-master-2022/).
 
 
 
