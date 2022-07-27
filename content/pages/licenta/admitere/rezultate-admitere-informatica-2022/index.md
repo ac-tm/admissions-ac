@@ -13,8 +13,6 @@ fullPath: licenta/admitere/rezultate-admitere-informatica-2022
 Taxa de școlarizare pentru studenții declarați **admiși, la ciclul licență, pe locurile cu taxă** în **sesiunea iulie 2022** (conform [HCA nr. 49/01.03.2022](http://www.upt.ro/img/files/hca/2022/HCA_49_01.03.2022_privind_taxele_de_studii_pentru_anul_universitar_2022-2023.pdf)) poate fi achitată în două rate egale. Prima rată trebuie achitată în perioada **29 iulie 2022 – 29 august 2022**.
 Mai multe detalii privind modalitățile de plată se găsesc [aici](https://ac.upt.ro/wp-content/uploads/2022/07/Informare-17645-din-2022-7-13.pdf).
 
-**REZULTATELE PENTRU RUNDA 2 DE CONFIRMĂRI se vor afișa în curând.**
-
 <Block color="green">
 
 ## Rezultate 10L Runda II ― 27.07.2022
@@ -24,8 +22,6 @@ Dacă ai fost admis în runda II pentru prima dată (erai pe lista de așteptare
 <Attachment label="Rezultate Candidați Tip Bacalaureat" file="/uploads/10l-r2-admisioptiuni.pdf"></Attachment>
 
 <Attachment label="Rezultate Candidați Olimpici" file="/uploads/10l-r2-olimpici.pdf"></Attachment>
-
-<Attachment label="Rezultate Candidați Sportivi" file=""></Attachment>
 
 <Attachment label="Rezultate Candidați Mediu Rural" file="/uploads/10l-r2-rurali.pdf"></Attachment>
 
@@ -37,11 +33,7 @@ Dacă ai fost admis în runda II pentru prima dată (erai pe lista de așteptare
 
 Dacă ai fost admis în runda II pentru prima dată (erai pe lista de așteptare după runda I), poți plăti taxa de confirmare pe [Enroll](https://admitere.upt.ro/). Pe lista de respinși sunt cei cu media de repartiție <5 și cei care nu au confirmat în runda 1.
 
-<Attachment label="Candidați Admiși + Lista de așteptare (poți fi admis în rundele următoare)  - învățământ la distanță" file=""></Attachment>
-
-<Attachment label="Rezultate pe specializări Candidați Admiși - învățământ la distanță" file=""></Attachment>
-
-<Attachment label="Lista de așteptare (poți fi admis în rundele următoare) - Învățământ la distanță" file=""></Attachment>
+<Attachment label="Rezultate pe specializări Candidați Admiși - învățământ la distanță" file="/uploads/10dl-rezultate-r2.pdf"></Attachment>
 
 </Block>
 
