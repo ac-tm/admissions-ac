@@ -20,7 +20,11 @@ Absolvenții AC care au optat pentru completarea adeverinței de licență și f
 
 **Neprezentarea la confirmări sau necompletarea actelor atrage excluderea din concurs, inclusiv pentru candidații declarați admiși.** 
 
-<Attachment label="Rezultatele înainte de confirmări, candidați licențiați" file="/uploads/6m-examen2-runda0-20220727.pdf"></Attachment>
+<Attachment label="Rezultatele înainte de confirmări etapa 2, candidați licențiați" file="/uploads/6m-examen2-runda0-20220727.pdf"></Attachment>
+
+<Attachment label="Calendarul de plată pentru candidații admiși pe locurile cu taxă" file="/uploads/informare-17644-din-2022-07-13.pdf"></Attachment>
+
+[INSTRUCȚIUNI privind precazarea candidaților admiși în anul I Master în sesiunea de admitere iulie 2022, pentru anul universitar 2022-2023 se găsesc pe pagina Noutăți](/master/admitere/ultimele-anunturi/).
 
 <Block color="yellow">Rezultate finale etapa 1, IULIE 2022</Block>
 
