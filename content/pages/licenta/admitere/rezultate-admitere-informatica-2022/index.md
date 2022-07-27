@@ -33,10 +33,6 @@ Dacă ai fost admis în runda II pentru prima dată (erai pe lista de așteptare
 
 <Attachment label="Rezultate candidați locuri SRI" file=""></Attachment>
 
-</Block>
-
-<Block color="yellow">
-
 ## Rezultate 10DL Runda II ― 27.07.2022
 
 Dacă ai fost admis în runda II pentru prima dată (erai pe lista de așteptare după runda I), poți plăti taxa de confirmare pe [Enroll](https://admitere.upt.ro/). Cei care au trecut de la **cu taxă** la **fără taxă** trebuie sa aducă diploma de bacalaureat în original (daca nu au adus-o deja în original). Pe lista de respinși sunt cei cu media de repartiție <5 și cei care nu au confirmat în runda 1.
