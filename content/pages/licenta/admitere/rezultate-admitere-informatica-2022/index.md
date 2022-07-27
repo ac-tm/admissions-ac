@@ -58,10 +58,6 @@ Nu contează **momentul** în care elevii confirmă locul (nu trebuie să vă ag
 
 <Attachment label="Lista de așteptare (poți fi admis în rundele următoare) - Învățământ la distanță" file="/uploads/10dl-aspteptare.pdf"></Attachment>
 
-</Block>
-
-<Block color="green">
-
 ## Rezultate 10L Runda I ― 25.07.2022
 
 Toți candidații admiși **TREBUIE** să confirme în runda I. **Cei care nu confirmă, vor fi eliminați din concurs.** \
