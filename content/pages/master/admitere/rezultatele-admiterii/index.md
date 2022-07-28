@@ -5,6 +5,27 @@ image:
   src: https://aielpo.eplo.int/wp-content/uploads/2021/01/admission.jpg
 fullPath: master/admitere/rezultatele-admiterii
 ---
+<Block color="red">Rezultate finale etapa 2, IULIE 2022</Block>
+
+Rezultate după prima rundă de confirmări și finale ale etapei 2 de admitere (deoarece nu mai e necesară runda 2 de confirmări):
+
+<Attachment label="Rezultate etapa 2, iulie 2022" file="/uploads/6m-examen2-runda0-20220727.pdf"></Attachment>
+
+<Attachment label="Rezultate candidați Români de Pretutindeni pe site-ul dedicat" external="https://upt.ro/Informatii_romani-de-pretutindeni---admitere-master_1498_ro.html"></Attachment>
+
+<Attachment label="Calendarul de plată pentru candidații admiși pe locurile cu taxă" file="/uploads/informare-17644-din-2022-07-13.pdf"></Attachment>
+
+[INSTRUCȚIUNI privind precazarea candidaților admiși în anul I Master în sesiunea de admitere iulie 2022, pentru anul universitar 2022-2023 se găsesc pe pagina Noutăți](/master/admitere/ultimele-anunturi/).
+
+
+
+**În atenția candidaților admiși**: formularele pentru alegerea disciplinelor opționale din anul 1 master:
+
+* [vor fi disponibile aici pentru studenții la **AES, ISA, SIAPS, SIIS, SISC, TI**](https://www.aut.upt.ro/alegere_optionale.php)
+* [vor fi disponibile aici pentru studenții la **CCIOT, IT, ML, SE**](https://www.cs.upt.ro/education/master/electives)
+
+
+
 <Block color="yellow">Rezultate și confirmări etapa 2, după interviu, IULIE 2022</Block>
 
 **IMPORTANT**: Candidații declarați admiși mai jos trebuie să achite taxa de confirmare în sistemul de admitere Enroll și, dacă au ocupat un loc fără taxă, să aducă la Secretariatul corespunzător primei opțiuni exprimate, în original, adeverința de licență sau diploma, joi 28.07.2022 orele 8-15:
