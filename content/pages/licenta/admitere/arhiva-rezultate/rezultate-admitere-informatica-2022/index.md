@@ -1,10 +1,10 @@
 ---
-title: Rezultate admitere informatică (10L și 10DL) 2022
+title: Rezultate admitere informatică (10L și 10DL) ― iulie 2022
 description: În curând, vei putea vedea aici dacă, din toamnă, vei fi student la
   informatică.
 image:
   src: /uploads/pt_6508_114_o.jpg
-fullPath: licenta/admitere/rezultate-admitere-informatica-2022
+fullPath: licenta/admitere/arhiva-rezultate/rezultate-admitere-informatica-2022
 ---
 [Abrevieri coduri domenii (LO, LM/ELM, LH/TH/DH, etc.)](https://admitere.ac.upt.ro/uploads/coduri-domenii.pdf)
 
