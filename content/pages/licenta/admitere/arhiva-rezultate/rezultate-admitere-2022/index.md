@@ -4,7 +4,7 @@ description: Ultimele medii de la fiecare dintre cele 3 runde ale admiterii
   iulie 2022 pentru locurile de la CTI, CTI-engleză și IS sunt disponibile aici.
 image:
   src: /uploads/accepted-application.jpg
-fullPath: licenta/admitere/rezultate-admitere-2022
+fullPath: licenta/admitere/arhiva-rezultate/rezultate-admitere-2022
 ---
 [Abrevieri coduri domenii (LO, LM/ELM, LH/TH/DH, etc.)](https://admitere.ac.upt.ro/uploads/coduri-domenii.pdf)
 
