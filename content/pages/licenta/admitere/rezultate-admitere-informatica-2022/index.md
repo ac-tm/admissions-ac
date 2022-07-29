@@ -15,6 +15,30 @@ Mai multe detalii privind modalitățile de plată se găsesc [aici](https://ac.
 
 <Block color="gray">
 
+## Rezultate FINALE 10L ― 29.07.2022, ora 20:00
+
+Felicitări tuturor! Vacanță plăcută și așteptăm să ne fiți studenți. 
+
+<Attachment label="Rezultate Finale Candidați Admiși pe opțiuni - Tip Bacalaureat" file="/uploads/10l-final-bac.pdf"></Attachment>
+
+<Attachment label="Rezultate Finale Candidați Olimpici" file="/uploads/10l-final-olimpici.pdf"></Attachment>
+
+<Attachment label="Rezultate Finale Candidați Mediu Rural" file="/uploads/10l-final-rurali.pdf"></Attachment>
+
+<Attachment label="Rezultate Finale Candidați Centre de Plasament " file="/uploads/10l-final-plasament.pdf"></Attachment>
+
+<Attachment label="Rezultate Finale Candidați SRI" file="/uploads/10l-final-sri.pdf"></Attachment>
+
+<Attachment label="Rezultate Finale Candidați CES" file="/uploads/10l-final-ces.pdf"></Attachment>
+
+## Rezultate FINALE 10DL  ― 29.07.2022, ora 20:00
+
+<Attachment label="Rezultate Finale Candidați Admiși pe opțiuni - Tip Bacalaureat" file="/uploads/10dl-final-bac.pdf"></Attachment>
+
+<Attachment label="Rezultate Finale Candidați Studenți" file="/uploads/10dl-final-studenti.pdf"></Attachment>
+
+</Block>
+
 ## Rezultate 10L Runda III ― 29.07.2022, ora 14:00
 
 Dacă ai fost admis în runda III pentru prima dată (erai pe lista de așteptare după runda II), poți plăti taxa de confirmare pe [Enroll](https://admitere.upt.ro/). Cei care au trecut de la **cu taxă** la **fără taxă** trebuie sa aducă diploma de bacalaureat în original (daca nu au adus-o deja în original).
