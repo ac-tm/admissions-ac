@@ -8,7 +8,7 @@ fullPath: licenta/admitere/arhiva-rezultate
 ---
 <Block color="yellow">
 
-## Rezultate iulie 2022
+## Rezultate IULIE 2022
 
 <Attachment label="Rezultatele de la toate cele 3 runde ale admiterii din iulie 2022 pentru INFO sunt aici." internal="licenta/admitere/rezultate-admitere-informatica-2022"></Attachment>
 
