@@ -29,7 +29,7 @@ Felicitări tuturor! Vacanță plăcută și așteptăm să ne fiți studenți.
 
 <Attachment label="Rezultate Finale Candidați Centre de Plasament " file="/uploads/10l-final-plasament.pdf"></Attachment>
 
-<Attachment label="Rezultate Finale Candidați SRI" file="/uploads/10l-final-sri.pdf"></Attachment>
+<Attachment label="Rezultate Finale Candidați SRI" file="/uploads/10l-final-plasament.pdf"></Attachment>
 
 <Attachment label="Rezultate Finale Candidați CES" file="/uploads/10l-final-ces.pdf"></Attachment>
 
