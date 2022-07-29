@@ -41,38 +41,6 @@ Dacă ai fost admis în runda II pentru prima dată (erai pe lista de așteptare
 
 </Block>
 
-<Block color="yellow">
-
-## Rezultate 10DL Runda I ― 25.07.2022
-
-Toți candidații admiși **TREBUIE** să confirme în runda I. **Cei care nu confirmă, vor fi eliminați din concurs.** \
-Nu contează **momentul** în care elevii confirmă locul (nu trebuie să vă aglomerați în primele ore marți dimineață). 
-
-<Attachment label="Candidați Admiși + Lista de așteptare (poți fi admis în rundele următoare)  - învățământ la distanță" file="/uploads/10dl-rezultate_asteptare.pdf"></Attachment>
-
-<Attachment label="Rezultate pe specializări Candidați Admiși - învățământ la distanță" file="/uploads/10dl-admisi.pdf"></Attachment>
-
-<Attachment label="Lista de așteptare (poți fi admis în rundele următoare) - Învățământ la distanță" file="/uploads/10dl-aspteptare.pdf"></Attachment>
-
-## Rezultate 10L Runda I ― 25.07.2022
-
-Toți candidații admiși **TREBUIE** să confirme în runda I. **Cei care nu confirmă, vor fi eliminați din concurs.** \
-Nu contează **momentul** în care elevii confirmă locul (nu trebuie să vă aglomerați în primele ore marți dimineață). 
-
-<Attachment label="Rezultate Candidați Tip Bacalaureat + Lista de așteptare (poți fi admis în rundele următoare)" file="/uploads/10l-rezultate-asteptare.pdf"></Attachment>
-
-<Attachment label="Rezultate Candidați Olimpici" file="/uploads/10l-admisi-o.pdf"></Attachment>
-
-<Attachment label="Rezultate Candidați Sportivi" file="/uploads/10l-admisi-t.pdf"></Attachment>
-
-<Attachment label="Rezultate Candidați Mediu Rural" file="/uploads/10l-admisi-u.pdf"></Attachment>
-
-<Attachment label="Rezultate Candidați Centre de Plasament " file="/uploads/10l-admisi-p.pdf"></Attachment>
-
-<Attachment label="Rezultate candidați locuri SRI" file="/uploads/10l-admisi-i.pdf"></Attachment>
-
-</Block>
-
 <Block color="green">
 
 ## Rezultate 10L Runda II ― 27.07.2022
