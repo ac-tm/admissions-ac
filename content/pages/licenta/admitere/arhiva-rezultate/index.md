@@ -10,9 +10,9 @@ fullPath: licenta/admitere/arhiva-rezultate
 
 ## Rezultate IULIE 2022
 
-<Attachment label="Rezultatele de la toate cele 3 runde ale admiterii din iulie 2022 pentru INFO sunt aici." internal="licenta/admitere/rezultate-admitere-informatica-2022"></Attachment>
+<Attachment label="Rezultatele finale, dar și pe runde ale admiterii din iulie 2022 - specializarea INFO (10L și 10DL)" internal="licenta/admitere/rezultate-admitere-informatica-2022"></Attachment>
 
-<Attachment label="Rezultatele de la toate cele 3 runde ale admiterii din iulie 2022 pentru CTI, CTI-en și IS sunt aici." internal="licenta/admitere/rezultate-admitere-2022"></Attachment>
+<Attachment label="Rezultatele finale și pe runde ale admiterii din iulie 2022 - 6L - CTI, CTI-en și IS" internal="licenta/admitere/rezultate-admitere-2022"></Attachment>
 
 </Block>
 
