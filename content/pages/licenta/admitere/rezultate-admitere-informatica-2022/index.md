@@ -13,13 +13,15 @@ fullPath: licenta/admitere/rezultate-admitere-informatica-2022
 Taxa de școlarizare pentru studenții declarați **admiși, la ciclul licență, pe locurile cu taxă** în **sesiunea iulie 2022** (conform [HCA nr. 49/01.03.2022](http://www.upt.ro/img/files/hca/2022/HCA_49_01.03.2022_privind_taxele_de_studii_pentru_anul_universitar_2022-2023.pdf)) poate fi achitată în două rate egale. Prima rată trebuie achitată în perioada **29 iulie 2022 – 29 august 2022**.
 Mai multe detalii privind modalitățile de plată se găsesc [aici](https://ac.upt.ro/wp-content/uploads/2022/07/Informare-17645-din-2022-7-13.pdf).
 
-<Block color="gray">
+<Block color="red">
 
 ## Rezultate FINALE 10L ― 29.07.2022, ora 20:00
 
 Felicitări tuturor! Vacanță plăcută și așteptăm să ne fiți studenți. 
 
 <Attachment label="Rezultate Finale Candidați Admiși pe opțiuni - Tip Bacalaureat" file="/uploads/10l-final-bac.pdf"></Attachment>
+
+<Attachment label="Rezultate Finale Candidați Respinși" file="/uploads/10l-final-respinsi.pdf"></Attachment>
 
 <Attachment label="Rezultate Finale Candidați Olimpici" file="/uploads/10l-final-olimpici.pdf"></Attachment>
 
@@ -37,7 +39,11 @@ Felicitări tuturor! Vacanță plăcută și așteptăm să ne fiți studenți.
 
 <Attachment label="Rezultate Finale Candidați Studenți" file="/uploads/10dl-final-studenti.pdf"></Attachment>
 
+<Attachment label="Rezultate Finale Candidați Respinși" file="/uploads/10dl-final-respinsi.pdf"></Attachment>
+
 </Block>
+
+<Block color="yellow">
 
 ## Rezultate 10L Runda III ― 29.07.2022, ora 14:00
 
@@ -120,5 +126,3 @@ Nu contează **momentul** în care elevii confirmă locul (nu trebuie să vă ag
 <Attachment label="Rezultate Candidați Centre de Plasament " file="/uploads/10l-admisi-p.pdf"></Attachment>
 
 <Attachment label="Rezultate candidați locuri SRI" file="/uploads/10l-admisi-i.pdf"></Attachment>
-
-</Block>
