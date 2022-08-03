@@ -11,6 +11,11 @@ Fii cu ochii pe această pagină!
 
 - - -
 
+### Înscrieri admitere septembrie
+
+Continuă înscrierile online pentru etapa 3 de admitere, [pe locurile rămase libere](/master/admitere/master/), până pe [17 septembrie](/master/admitere/calendarul-admiterii-master-2022/).
+
+
 ### Confirmări etapa 2
 
 **Au fost publicate rezultatele finale ale concursului de admitere după interviul etapei 2 [în secțiunea dedicată](/master/admitere/rezultatele-admiterii/).**
