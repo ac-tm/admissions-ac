@@ -11,7 +11,22 @@ Fii cu ochii pe această pagină!
 
 - - -
 
-### Înscrieri admitere septembrie
+## INSTRUCȚIUNI privind precazarea candidaților admiși în anul I Master în sesiunea de admitere iulie 2022, pentru anul universitar 2022-2023
+
+Procesul de precazare se desfășoară online la adresa <https://student.upt.ro/>, conform următorului calendar:
+
+* 8-14 august 2022 – depunere cerere cu opțiunile de cazare, online pe student.upt.ro
+* 18-31 august 2022 – afișare rezultate și confirmare loc, online pe student.upt.ro
+
+Pentru autentificare pe platforma student.upt.ro, candidații absolvenți ai UPT vor folosi în continuare conturile instituționale utilizate pe durata ciclului de licență. 
+Pentru candidații absolvenți ai altor universități, se vor crea conturi de student UPT (prenume.nume@student.upt.ro) care le vor fi comunicate, anterior procesului de precazare, prin email la adresa indicată în formularul de înscriere, respectiv prin mesaj la numărul de telefon declarat la înscriere.
+
+Menționăm că distribuirea în cămine se va face în funcție de media de admitere și de numărul de locuri disponibile în fiecare cămin, pentru anul I master.
+
+Pentru soluționarea eventualelor probleme întâmpinate pe parcursul procesului de precazare vă rugam să transmiteți un email la adresa: maria.palfalvi@upt.ro.
+
+
+## Înscrieri admitere septembrie
 
 Continuă înscrierile online pentru etapa 3 de admitere, [pe locurile rămase libere](/master/admitere/master/), până pe [17 septembrie](/master/admitere/calendarul-admiterii-master-2022/).
 
@@ -127,7 +142,7 @@ Candidați cu **probleme**/lipsă acte la dosar:
 * [Candidați care au specificat ca primă opțiune una dintre specializările organizate de Departamentul **Automatică și Informatică Aplicată**](https://docs.google.com/spreadsheets/d/e/2PACX-1vTCZZozrWq1s1bYkMeLCOmNyzWXTHOm6X1SwYhlCT2jNSBWH-qpOuBwG0czHcXBF_IG_1rYY_egeJ4g/pubhtml?gid=0&single=true) (AES, ISA, SIAPS, SIIS, SISC, TI)
 * [Candidați care au specificat ca primă opțiune una dintre specializările organizate de Departamentul **Calculatoare și Tehnologia Informației**](https://docs.google.com/spreadsheets/d/1I6bQHahUGYQxD4p3KDrnYspPQg8kKjCebifGIrOFiy0/edit#gid=1052880165) (CCIoT, IT, ML, SE)
 
-## INSTRUCȚIUNI privind precazarea candidaților admiși în anul I Master în sesiunea de admitere iulie 2022, pentru anul universitar 2022-2023
+### INSTRUCȚIUNI privind precazarea candidaților admiși în anul I Master în sesiunea de admitere iulie 2022, pentru anul universitar 2022-2023
 
 Procesul de precazare se desfășoară online la adresa <https://student.upt.ro/>, conform următorului calendar:
 
@@ -137,14 +152,14 @@ Procesul de precazare se desfășoară online la adresa <https://student.upt.ro/
 Pentru autentificare pe platforma student.upt.ro, candidații absolvenți ai UPT vor folosi în continuare conturile instituționale utilizate pe durata ciclului de licență. 
 Pentru candidații absolvenți ai altor universități, se vor crea conturi de student UPT (prenume.nume@student.upt.ro) care le vor fi comunicate, anterior procesului de precazare, prin email la adresa indicată în formularul de înscriere, respectiv prin mesaj la numărul de telefon declarat la înscriere. 
 
-## Liste de verificare, etapa 1
+### Liste de verificare, etapa 1
 
 Candidații sunt obligați să verifice în listele de mai jos validitatea datelor de concurs. Eventualele contestații, pe adresa secretariatului care gestionează programul pe care l-ați precizat ca primă opțiune. 
 
 * [Candidații cu prima opțiune **AES, ISA, SIAPS, SIIS, SISC,** sau **TI**](https://uptro29158-my.sharepoint.com/:x:/g/personal/dan_alexandru_upt_ro/EZfyEiRIunRAtGZ6Z_oveyoBbpATKSB9SersqO4RTkwmZw?e=ea8G5p). Termen: **marți, 12 iulie, ora 9:00**. Adresă secretariat: secretariat.admitere@aut.upt.ro
 * [Candidații cu prima opțiune **CCIoT, ML,** sau **SE**](https://uptro29158-my.sharepoint.com/:x:/g/personal/dan_alexandru_upt_ro/EZfyEiRIunRAtGZ6Z_oveyoBbpATKSB9SersqO4RTkwmZw?e=ea8G5p). Termen: **marți, 12 iulie, ora 9:00**. Adresă secretariat: secretariat@cs.upt.ro
 
-## Programarea la interviu, etapa 1
+### Programarea la interviu, etapa 1
 
 Interviul online va avea loc **marți, 12.07.2022**.
 
