@@ -21,3 +21,5 @@ Situația locurilor disponibile la programele de masterat oferite de facultatea 
 | IS                     | Securitatea informațiilor și a sistemelor cibernetice- fără taxă | 0                    | 0                   |
 | INFO.                  | Tehnologii Informatice                                           | 0                    | 0                   |
 |                        | **TOTAL** | **29** | **32** |
+
+Locurile se pot suplimenta în cazul retragerii candidaților admiși în etapele anterioare.
