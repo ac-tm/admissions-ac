@@ -11,6 +11,22 @@ Fii cu ochii pe această pagină!
 
 - - -
 
+## Înscrieri admitere septembrie
+
+Continuă înscrierile online pentru etapa 3 de admitere, [pe locurile rămase libere](/master/admitere/master/), până pe [17 septembrie](/master/admitere/calendarul-admiterii-master-2022/).
+
+Candidați înscriși la finalul zilei de 31 august: 3
+
+| **Program** | **Candidați** |
+| ----------- | ------------- |
+| SIAPS      | 1             |
+| TSIIS         | 1            |
+| TTI         | 1             |
+
+
+
+- - -
+
 ## INSTRUCȚIUNI privind precazarea candidaților admiși în anul I Master în sesiunea de admitere iulie 2022, pentru anul universitar 2022-2023
 
 Procesul de precazare se desfășoară online la adresa <https://student.upt.ro/>, conform următorului calendar:
@@ -26,9 +42,7 @@ Menționăm că distribuirea în cămine se va face în funcție de media de adm
 Pentru soluționarea eventualelor probleme întâmpinate pe parcursul procesului de precazare vă rugam să transmiteți un email la adresa: maria.palfalvi@upt.ro.
 
 
-## Înscrieri admitere septembrie
 
-Continuă înscrierile online pentru etapa 3 de admitere, [pe locurile rămase libere](/master/admitere/master/), până pe [17 septembrie](/master/admitere/calendarul-admiterii-master-2022/).
 
 
 ### Confirmări etapa 2
