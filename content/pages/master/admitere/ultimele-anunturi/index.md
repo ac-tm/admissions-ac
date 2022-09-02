@@ -15,13 +15,16 @@ Fii cu ochii pe această pagină!
 
 Continuă înscrierile online pentru etapa 3 de admitere, [pe locurile rămase libere](/master/admitere/master/), până pe [17 septembrie](/master/admitere/calendarul-admiterii-master-2022/).
 
-Candidați înscriși la finalul zilei de 31 august: 3
+Candidați înscriși la finalul zilei de 2 septembrie: 6
 
 | **Program** | **Candidați** |
 | ----------- | ------------- |
-| SIAPS      | 1             |
-| TSIIS         | 1            |
-| TTI         | 1             |
+| AES   | 1 |
+| ISA   | 1 |
+| IT    | 1 |
+| SIAPS | 1 |
+| TML   | 1 |
+| TSIIS | 1 |
 
 
 
@@ -41,15 +44,9 @@ Menționăm că distribuirea în cămine se va face în funcție de media de adm
 
 Pentru soluționarea eventualelor probleme întâmpinate pe parcursul procesului de precazare vă rugam să transmiteți un email la adresa: maria.palfalvi@upt.ro.
 
-
-
-
-
 ### Confirmări etapa 2
 
 **Au fost publicate rezultatele finale ale concursului de admitere după interviul etapei 2 [în secțiunea dedicată](/master/admitere/rezultatele-admiterii/).**
-
-
 
 ### Programare interviu, etapa 2
 
