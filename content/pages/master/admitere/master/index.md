@@ -18,8 +18,8 @@ Situația locurilor disponibile la programele de masterat oferite de facultatea 
 | IS                     | Ingineria Sistemelor Automate                         | 12                   | 5                   |
 | IS                     | Sisteme Informatice Aplicate în Producţie şi Servicii | 1                    | 5                   |
 | IS                     | Sisteme Informatice în Îngrijirea Sănătăţii           | 0                    | 4                   |
-| IS                     | Securitatea informațiilor și a sistemelor cibernetice | 0                    | 0                   |
+| IS                     | Securitatea informațiilor și a sistemelor cibernetice | 0                    | 1*                  |
 | INFO.                  | Tehnologii Informatice                                | 0                    | 0                   |
 |                        | **TOTAL**                                             | **29**               | **32**              |
 
-Locurile se pot suplimenta în cazul retragerii candidaților admiși în etapele anterioare.
+\*Locurile se pot suplimenta în cazul retragerii candidaților admiși în etapele anterioare.
