@@ -15,7 +15,7 @@ Fii cu ochii pe această pagină!
 
 Continuă înscrierile online pentru etapa 3 de admitere, [pe locurile rămase libere](/master/admitere/master/), până pe [17 septembrie](/master/admitere/calendarul-admiterii-master-2022/).
 
-Candidați înscriși la finalul zilei de 6 septembrie: 7
+Candidați înscriși la finalul zilei de 9 septembrie: 7
 
 | **Program** | **Candidați** |
 | ----------- | ------------- |
