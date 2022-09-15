@@ -15,15 +15,15 @@ Fii cu ochii pe această pagină!
 
 Continuă înscrierile online pentru etapa 3 de admitere, [pe locurile rămase libere](/master/admitere/master/), până pe [17 septembrie](/master/admitere/calendarul-admiterii-master-2022/).
 
-Candidați înscriși la finalul zilei de 9 septembrie: 7
+Candidați înscriși la finalul zilei de 14 septembrie: 10
 
 | **Program** | **Candidați** |
 | ----------- | ------------- |
-| AES         | 1             |
-| ISA         | 1             |
+| AES         | 2             |
+| ISA         | 2             |
 | IT          | 1             |
 | SIAPS       | 1             |
-| TML         | 1             |
+| TML         | 2             |
 | TSE         | 1             |
 | TSIIS       | 1             |
 
