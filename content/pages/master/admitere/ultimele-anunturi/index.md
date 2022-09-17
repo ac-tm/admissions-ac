@@ -11,6 +11,65 @@ Fii cu ochii pe această pagină!
 
 - - -
 
+## Liste de verificare și programare interviu, etapa 3 (toamnă)
+
+Candidații sunt obligați să verifice în listele de mai jos validitatea datelor de concurs. Eventualele contestații, pe adresa secretariatului care gestionează programul pe care l-ați precizat ca primă opțiune; termen: **luni, 19.09.2022, ora 9:00**. 
+
+* Candidații cu prima opțiune **AES, ISA, SIAPS, SIIS, SISC** sau **TI**: secretariat.admitere@aut.upt.ro
+* Candidații cu prima opțiune **CCIoT, IT, ML,** sau **SE**: secretariat@cs.upt.ro
+
+Lista candidaților care au solicitat echivalarea notei și nu vor avea interviu:
+
+| **Marca** | **Media multianuală = Nota echivalentă interviu** | **Media licență** | **K** | **Prima opțiune** | **Opțiuni de rezervă**                         |
+|-----------|---------------------------------------------------|-------------------|-------|-------------------|------------------------------------------------|
+| 6M-0299   | 7.75                                              | 8.20              | 5     | IT                | TIT, TCCIOT, TML, TSE, , , , ,                 |
+| 6M-0302   | 7.91                                              | 8.75              | 5     | TML               | , , , , , , , ,                                |
+| 6M-0303   | 7.03                                              | 7.00              | 5     | ISA               | SIAPS, AES, TISA, TSIAPS, TAES, , , ,          |
+| 6M-0305   | 7.34                                              | 7.80              | 5     | IT                | AES, TSE, ISA, , , , , ,                       |
+| 6M-0307   | 6.97                                              | 8.90              | 5     | IT                | TSE, TIT, TCCIOT, TML, , , , ,                 |
+| 6M-0309   | 7.76                                              | 8.00              | 5     | IT                | AES, ISA, SIAPS, CCIOT, ML, SISC, SIIS, SE, TI |
+| 6M-0310   | 6.93                                              | 8.50              | 5     | AES               | ISA, , , , , , , ,                             |
+| 6M-0317   | 8.13                                              | 7.66              | 5     | IT                | AES, ISA, , , , , , ,                          |
+
+
+Programarea la interviu online, luni 19 septembrie:
+
+
+| **ora interviu** | **Marca** | **Prima opțiune** | **Opțiuni de rezervă**                            | **Media multianuală** | **Media licență** | **K** |
+|------------------|-----------|-------------------|---------------------------------------------------|-----------------------|-------------------|-------|
+| 09:00            | 6M-0298   | ISA               | TISA, TSIIS, , , , , , ,                          | 8.16                  | 7.37              | 0     |
+| 09:05            | 6M-0306   | IT                | SE, ISA, SIAPS, AES, , , , ,                      | 7.99                  | 8.25              | 5     |
+| 09:10            | 6M-0316   | IT                | SIAPS, ISA, TIT, TSIAPS, TISA, , , ,              | 6.42                  | 6.58              | 4     |
+| 09:15            | 6M-0297   | TML               | TAES, TCCIOT, TIT, , , , , ,                      | 7.42                  | 7.50              | 4     |
+| 09:20            | 6M-0301   | TSE               | TCCIOT, AES, TAES, , , , , ,                      | 6.84                  | 8.10              | 2     |
+| 09:25            | 6M-0315   | IT                | TSE, TIT, , , , , , ,                             | 8.80                  | 7.46              | 2     |
+| 09:30            | 6M-0300   | AES               | IT, , , , , , , ,                                 | 7.77                  | 7.97              | 4     |
+| 09:35            | 6M-0312   | TSIIS             | , , , , , , , ,                                   | 8.16                  | 9.30              | 4     |
+| 09:40            | 6M-0318   | TSE               | TIT, TCCIOT, TML, , , , , ,                       | 7.76                  | 8.00              | 4     |
+| 09:45            | 6M-0311   | SIAPS             | ISA, , , , , , , ,                                | 9.50                  | 9.90              | 4     |
+| 09:50            | 6M-0295   | SIAPS             | ISA, AES, TSIAPS, TISA, TAES, , , ,               | 7.12                  | 8.33              | 4     |
+| 09:55            | 6M-0321   | IT                | TIT, TSE, TCCIOT, , , , , ,                       | 7.08                  | 7.70              | 4     |
+| 10:00            | 6M-0304   | AES               | IT, TAES, TIT, , , , , ,                          | 7.38                  | 7.83              | 5     |
+| 10:05            | 6M-0314   | AES               | IT, ISA, SIAPS, TAES, TML, TSE, TIT, TCCIOT, TISA | 7.38                  | 7.37              | 5     |
+| 10:10            | 6M-0320   | IT                | SIAPS, TCCIOT, , , , , , ,                        | 7.61                  | 9.30              | 5     |
+| 10:15            | 6M-0308   | ISA               | TISA, , , , , , , ,                               | 6.73                  | 7.18              | 3     |
+| 10:20            | 6M-0313   | ISA               | TISA, AES, TAES, , , , , ,                        | 7.00                  | 6.62              | 5     |
+| 10:25            | 6M-0319   | TSE               | TISA, , , , , , , ,                               | 7.01                  | 7.40              | 0     |
+| 10:30            | 6M-0296   | TSIIS             | , , , , , , , ,                                   | 7.74                  | 8.88              | 4     |
+
+
+
+*Notă*: informațiile de conectare vor fi trimise prin e-mail de către secretarul de comisie la adresele înregistrate de candidați la înscriere. Verificați inclusiv folderul SPAM!
+
+Interviul constă într-o prezentare de către candidat a unei propuneri de temă de cercetare pe care dorește să o abordeze în cadrul programului de Master, urmată de întrebări din partea membrilor comisiei.
+
+* Capacitatea candidatului de a desfășura o activitate de cercetare științifică
+* Consistența și documentarea temei prezentate si rezultatele scontate
+* Capacitatea de a găsi metode și de a obține rezultate în cercetare
+* Exprimarea în limba engleză (pentru programele în engleză)
+* Răspunsurile candidatului la întrebările comisiei (legate, de regulă, de tematica prezentării).
+
+
 ## Înscrieri admitere septembrie
 
 Continuă înscrierile online pentru etapa 3 de admitere, [pe locurile rămase libere](/master/admitere/master/), până pe [17 septembrie](/master/admitere/calendarul-admiterii-master-2022/).
