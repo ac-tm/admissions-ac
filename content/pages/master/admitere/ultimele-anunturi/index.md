@@ -13,7 +13,7 @@ Fii cu ochii pe această pagină!
 
 ## Liste de verificare și programare interviu, etapa 3 (toamnă)
 
-Candidații sunt obligați să verifice în listele de mai jos validitatea datelor de concurs. Eventualele contestații, pe adresa secretariatului care gestionează programul pe care l-ați precizat ca primă opțiune; termen: **luni, 19.09.2022, ora 9:00**. 
+Candidații sunt obligați să verifice în listele de mai jos validitatea datelor de concurs. Eventualele contestații, pe adresa secretariatului care gestionează programul pe care l-ați precizat ca primă opțiune; termen: **luni, 19.09.2022, ora 9:00**:
 
 * Candidații cu prima opțiune **AES, ISA, SIAPS, SIIS, SISC** sau **TI**: secretariat.admitere@aut.upt.ro
 * Candidații cu prima opțiune **CCIoT, IT, ML,** sau **SE**: secretariat@cs.upt.ro
