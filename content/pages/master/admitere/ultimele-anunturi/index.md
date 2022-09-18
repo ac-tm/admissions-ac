@@ -32,7 +32,7 @@ Lista candidaților care au solicitat echivalarea notei și nu vor avea interviu
 | 6M-0317   | 8.13                                              | 7.66              | 5     | IT                | AES, ISA, , , , , , ,                          |
 
 
-Programarea la interviu online, luni 19 septembrie:
+Programarea la interviu online ([Meeting ID: 943 3094 1648](https://upt-ro.zoom.us/j/94330941648)), luni 19 septembrie:
 
 
 | **ora interviu** | **Marca** | **Prima opțiune** | **Opțiuni de rezervă**                            | **Media multianuală** | **Media licență** | **K** |
