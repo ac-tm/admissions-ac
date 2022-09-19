@@ -7,7 +7,7 @@ fullPath: master/admitere/rezultatele-admiterii
 ---
 <Block color="yellow">Rezultate și confirmări etapa 1, după interviu, SEPTEMBRIE 2022</Block>
 
-**IMPORTANT**: Candidații declarați admiși mai jos trebuie să achite taxa de confirmare în sistemul de admitere Enroll și, dacă au ocupat un loc fără taxă, să aducă la Secretariatul corespunzător primei opțiuni exprimate, în original, adeverința de licență sau diploma, marți 22 septembrie, orele 8-14:
+**IMPORTANT**: Candidații declarați admiși mai jos trebuie să achite taxa de confirmare în sistemul de admitere Enroll și, dacă au ocupat un loc fără taxă, să aducă la Secretariatul corespunzător primei opțiuni exprimate, în original, adeverința de licență sau diploma, marți 20 septembrie, orele 8-14:
 
 * Candidații cu prima opțiune **AES, ISA, SIAPS, SIIS, SISC, sau TI**: în sala B615 (corp Electro, Secretariat etaj 6, tel. +40.256.403.505, email: secretariat.admitere@aut.upt.ro);
 * Candidații cu prima opțiune **CCIoT, IT, ML, sau SE**: în sala B512 (corp Electro, Secretariat etaj 5, tel. +40.256.403.261, email: secretariat@cs.upt.ro);
@@ -21,6 +21,9 @@ Absolvenții AC care au optat pentru completarea adeverinței de licență și f
 **Neprezentarea la confirmări sau necompletarea actelor atrage excluderea din concurs, inclusiv pentru candidații declarați admiși.** 
 
 <Attachment label="Rezultatele înainte de confirmări, candidați licențiați" file="/uploads/2022-09-20-6m-runda1.pdf"></Attachment>
+
+
+---
 
 <Block color="red">Rezultate finale etapa 2, IULIE 2022</Block>
 
