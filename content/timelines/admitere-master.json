@@ -77,12 +77,14 @@
     {
       "date": "2022-09-19T15:00:00.000Z",
       "deadline": "",
-      "title": "Etapa III (septembrie): Afișare rezultate"
+      "title": "Etapa III (septembrie): Afișare rezultate",
+      "details": "<Attachment label=\"detalii se găsesc pe pagina dedicată\" internal=\"master/admitere/rezultatele-admiterii\"></Attachment>"
     },
     {
       "date": "2022-09-20T06:00:00.000Z",
       "deadline": "2022-09-21T13:00:00.000Z",
-      "title": "Definitivarea rezultatelor"
+      "title": "Definitivarea rezultatelor",
+      "details": "în mai multe runde de confirmări, dacă este necesar"
     }
   ]
 }
