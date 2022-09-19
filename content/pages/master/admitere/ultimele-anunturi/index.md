@@ -11,6 +11,10 @@ Fii cu ochii pe această pagină!
 
 - - -
 
+## Rezultate sesiunea septembrie
+
+**Au fost publicate rezultatele inițiale [în secțiunea dedicată](https://admitere.ac.upt.ro/master/admitere/rezultatele-admiterii/).**
+
 ## Liste de verificare și programare interviu, etapa 3 (toamnă)
 
 Candidații sunt obligați să verifice în listele de mai jos validitatea datelor de concurs. Eventualele contestații, pe adresa secretariatului care gestionează programul pe care l-ați precizat ca primă opțiune; termen: **luni, 19.09.2022, ora 9:00**:
