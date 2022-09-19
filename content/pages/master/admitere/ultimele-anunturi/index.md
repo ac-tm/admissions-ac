@@ -21,7 +21,7 @@ Candidații sunt obligați să verifice în listele de mai jos validitatea datel
 Lista candidaților care au solicitat echivalarea notei și nu vor avea interviu:
 
 | **Marca** | **Media multianuală = Nota echivalentă interviu** | **Media licență** | **K** | **Prima opțiune** | **Opțiuni de rezervă**                         |
-|-----------|---------------------------------------------------|-------------------|-------|-------------------|------------------------------------------------|
+| --------- | ------------------------------------------------- | ----------------- | ----- | ----------------- | ---------------------------------------------- |
 | 6M-0299   | 7.75                                              | 8.20              | 5     | IT                | TIT, TCCIOT, TML, TSE, , , , ,                 |
 | 6M-0302   | 7.91                                              | 8.75              | 5     | TML               | , , , , , , , ,                                |
 | 6M-0303   | 7.03                                              | 7.00              | 5     | ISA               | SIAPS, AES, TISA, TSIAPS, TAES, , , ,          |
@@ -31,18 +31,16 @@ Lista candidaților care au solicitat echivalarea notei și nu vor avea interviu
 | 6M-0310   | 6.93                                              | 8.50              | 5     | AES               | ISA, , , , , , , ,                             |
 | 6M-0317   | 8.13                                              | 7.66              | 5     | IT                | AES, ISA, , , , , , ,                          |
 
-
 Programarea la interviu online ([Meeting ID: 943 3094 1648](https://upt-ro.zoom.us/j/94330941648)), luni 19 septembrie:
 
-
 | **ora interviu** | **Marca** | **Prima opțiune** | **Opțiuni de rezervă**                            | **Media multianuală** | **Media licență** | **K** |
-|------------------|-----------|-------------------|---------------------------------------------------|-----------------------|-------------------|-------|
+| ---------------- | --------- | ----------------- | ------------------------------------------------- | --------------------- | ----------------- | ----- |
 | 09:00            | 6M-0298   | ISA               | TISA, TSIIS, , , , , , ,                          | 8.16                  | 7.37              | 0     |
 | 09:05            | 6M-0306   | IT                | SE, ISA, SIAPS, AES, , , , ,                      | 7.99                  | 8.25              | 5     |
 | 09:10            | 6M-0316   | IT                | SIAPS, ISA, TIT, TSIAPS, TISA, , , ,              | 6.42                  | 6.58              | 4     |
 | 09:15            | 6M-0297   | TML               | TAES, TCCIOT, TIT, , , , , ,                      | 7.42                  | 7.50              | 4     |
 | 09:20            | 6M-0301   | TSE               | TCCIOT, AES, TAES, , , , , ,                      | 6.84                  | 8.10              | 2     |
-| 09:25            | 6M-0315   | IT                | TSE, TIT, , , , , , ,                             | 8.80                  | 7.46              | 2     |
+| 09:25            | 6M-0315   | IT                | TSE, TIT, , , , , , ,                             | 7.46                  | 8.80              | 2     |
 | 09:30            | 6M-0300   | AES               | IT, , , , , , , ,                                 | 7.77                  | 7.97              | 4     |
 | 09:35            | 6M-0312   | TSIIS             | , , , , , , , ,                                   | 8.16                  | 9.30              | 4     |
 | 09:40            | 6M-0318   | TSE               | TIT, TCCIOT, TML, , , , , ,                       | 7.76                  | 8.00              | 4     |
@@ -57,8 +55,6 @@ Programarea la interviu online ([Meeting ID: 943 3094 1648](https://upt-ro.zoom.
 | 10:25            | 6M-0319   | TSE               | TISA, , , , , , , ,                               | 7.01                  | 7.40              | 0     |
 | 10:30            | 6M-0296   | TSIIS             | , , , , , , , ,                                   | 7.74                  | 8.88              | 4     |
 
-
-
 *Notă*: informațiile de conectare vor fi trimise prin e-mail de către secretarul de comisie la adresele înregistrate de candidați la înscriere. Verificați inclusiv folderul SPAM!
 
 Interviul constă într-o prezentare de către candidat a unei propuneri de temă de cercetare pe care dorește să o abordeze în cadrul programului de Master, urmată de întrebări din partea membrilor comisiei.
@@ -68,7 +64,6 @@ Interviul constă într-o prezentare de către candidat a unei propuneri de tem�
 * Capacitatea de a găsi metode și de a obține rezultate în cercetare
 * Exprimarea în limba engleză (pentru programele în engleză)
 * Răspunsurile candidatului la întrebările comisiei (legate, de regulă, de tematica prezentării).
-
 
 ## Înscrieri admitere septembrie
 
