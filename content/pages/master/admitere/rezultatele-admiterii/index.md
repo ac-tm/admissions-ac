@@ -5,6 +5,12 @@ image:
   src: https://aielpo.eplo.int/wp-content/uploads/2021/01/admission.jpg
 fullPath: master/admitere/rezultatele-admiterii
 ---
+<Block color="red">Rezultate finale, SEPTEMBRIE 2022</Block>
+
+Rezultate după prima rundă de confirmări și finale ale sesiunii septembrie de admitere (deoarece nu mai e necesară runda 2 de confirmări):
+
+<Attachment label="Rezultate septembrie" file="/uploads/2022-09-20-6m-runda1.pdf"></Attachment>
+
 <Block color="yellow">Rezultate și confirmări etapa 1, după interviu, SEPTEMBRIE 2022</Block>
 
 **IMPORTANT**: Candidații declarați admiși mai jos trebuie să achite taxa de confirmare în sistemul de admitere Enroll și, dacă au ocupat un loc fără taxă, să aducă la Secretariatul corespunzător primei opțiuni exprimate, în original, adeverința de licență sau diploma, marți 20 septembrie, orele 8-14:
@@ -22,8 +28,7 @@ Absolvenții AC care au optat pentru completarea adeverinței de licență și f
 
 <Attachment label="Rezultatele înainte de confirmări, candidați licențiați" file="/uploads/2022-09-20-6m-runda1.pdf"></Attachment>
 
-
----
+- - -
 
 <Block color="red">Rezultate finale etapa 2, IULIE 2022</Block>
 
