@@ -5,12 +5,12 @@ image:
   src: https://www.sri.ro/assets/img/fb-sri.png
 fullPath: licenta/admitere/modalitatile-de-admitere/locuri-de-admitere-sri
 ---
-UPT oferă 6 locuri Serviciului Român de Informații, dintre care 3 pentru Facultatea de Automatică și Calculatoare, distribuite câte unul pentru fiecare specializare: 
+UPT oferă 4 locuri Serviciului Român de Informații, pentru Facultatea de Automatică și Calculatoare, distribuite pentru fiecare specializare astfel, pentru anul universitar 2023-2024: 
 
-* Calculatoare
-* Informatică
-* Automatică și Informatică Aplicată. 
+* Calculatoare - 1 loc;
+* Informatică - 1 loc;
+* Automatică și Informatică Aplicată - 2 locuri. 
 
-Grăbește-te să te documentezi căci termenul de înscriere este **28.02.2022**.
+Grăbește-te să te documentezi căci termenul de înscriere este **01.03.2023**.
 
-<Attachment label="Află mult mai multe detalii aici!" external="http://www.upt.ro/img/files/2021-2022/Admitere/Licenta/OFERTA_PUBLICA_UPT_2022.pdf"></Attachment>
+<Attachment label="Află mult mai multe detalii aici!" file="undefined"></Attachment>
