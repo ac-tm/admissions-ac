@@ -21,4 +21,4 @@ Temele dezbătute urmează conținutul Culegerii de probleme pentru examenul de 
 
 Pentru a te ajuta la pregătirea pentru examen, poți achiziționa culegerea de matematică cu probleme asemănătoare cu cele de la examen!
 
-<Attachment label="Culegere de probleme de matematică pentru examenul de admitere din anul 2022 la Universitatea Politehnica Timișoara" file="/uploads/culegere_admitere_upt_2022.pdf"></Attachment>
+<Attachment label="Culegere de probleme de matematică pentru examenul de admitere din anul 2023 la Universitatea Politehnica Timișoara" file="/uploads/culegere_poli_admitere2023.pdf"></Attachment>
