@@ -13,4 +13,4 @@ UPT oferă 4 locuri Serviciului Român de Informații, pentru Facultatea de Auto
 
 Grăbește-te să te documentezi căci termenul de înscriere este **01.03.2023**.
 
-<Attachment label="Află mult mai multe detalii aici!" file="undefined"></Attachment>
+<Attachment label="Află mult mai multe detalii aici!" file="/uploads/oferta-publica-upt_2023.pdf"></Attachment>
