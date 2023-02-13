@@ -1,6 +1,6 @@
 ---
 title: Arhivă rezultate
-description: Ești curios care au fost rezultatele de anul trecut și care a fost
+description: Ești curios care au fost rezultatele de anii trecuți și care a fost
   ultima medie?
 image:
   src: /uploads/accepted-application.jpg
