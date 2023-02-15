@@ -2,7 +2,7 @@
 title: Pregătire pentru examenul de admitere
 description: Ce trebuie să știi pentru examenul de admitere.
 image:
-  src: /uploads/untitled-design-5-.png
+  src: /uploads/330990714_1026293551576563_4445566732495113781_n.jpg
 fullPath: licenta/admitere/pregatire-pentru-examenul-de-admitere
 ---
 Universitatea Politehnica Timișoara continuă tradiționalele lecții de matematică pentru pregătirea elevilor și a viitorilor studenți UPT 2023. Împreună dorim să construim viitorul și să oferim șansa noii generații de studenți UPT de a obține rezultate remarcabile atât în ceea ce privește promovabilitatea bacalaureatului cât și a admiterii la facultate.
