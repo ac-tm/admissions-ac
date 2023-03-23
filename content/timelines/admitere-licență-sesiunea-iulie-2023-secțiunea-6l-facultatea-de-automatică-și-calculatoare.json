@@ -30,6 +30,42 @@
       "deadline": "",
       "title": "Afișare rezultate concurs",
       "details": "Online prin [Enroll](https://admitere.upt.ro/), pe <https://ac.upt.ro/> și pe <https://admitere.ac.upt.ro/>"
+    },
+    {
+      "date": "2023-07-18T07:00:00.000Z",
+      "deadline": "2023-03-19T14:00:00.000Z",
+      "title": "Confirmări Runda I",
+      "details": "**Fizic la facultate**: 18.07.2023 - 19.07.2023, 10:00 - 16:00\n\n**Fizic în centrele zonale de admitere**: 18.07.2023 - 19.07.2023, 10:00 - 16:00\n\n**Online prin [Enroll](https://admitere.upt.ro/)**: 18.07.2023 - 19.07.2023, până la ora 16:00 (**DOAR DACĂ** dosarul de înscriere conține **originalul diplomei de bacalaureat** și **foaia matricolă** sau **se confirmă un loc cu taxă**)"
+    },
+    {
+      "date": "2023-07-19T17:00:00.000Z",
+      "deadline": "",
+      "title": "Afișare Runda II",
+      "details": "Online prin [Enroll](https://admitere.upt.ro/), pe <https://ac.upt.ro/> și pe <https://admitere.ac.upt.ro/>"
+    },
+    {
+      "date": "2023-07-20T07:00:00.000Z",
+      "deadline": "2023-07-20T13:00:00.000Z",
+      "title": "Confirmări Runda II",
+      "details": "**Fizic la facultate**: 20.07.2023, 10:00 - 16:00\n\n**Fizic în centrele zonale de admitere**: 20.07.2023, 10:00 - 16:00\n\n**Online prin [Enroll](https://admitere.upt.ro/)**: 20.07.2023, până la ora 16:00 (**DOAR DACĂ** dosarul de înscriere conține **originalul diplomei de bacalaureat** și **foaia matricolă** sau **se confirmă un loc cu taxă**)"
+    },
+    {
+      "date": "2023-07-20T18:00:00.000Z",
+      "deadline": "",
+      "title": "Afișare Runda III",
+      "details": "Online prin [Enroll](https://admitere.upt.ro/), pe <https://ac.upt.ro/> și pe <https://admitere.ac.upt.ro/>"
+    },
+    {
+      "date": "2023-07-21T07:00:00.000Z",
+      "deadline": "2023-07-21T11:00:00.000Z",
+      "title": "Confirmări Runda III",
+      "details": "**Fizic la facultate**: 21.07.2023, 10:00 - 16:00\n\n**Fizic în centrele zonale de admitere**: 21.07.2023, 10:00 - 16:00\n\n**Online prin [Enroll](https://admitere.upt.ro/)**: 21.07.2023, până la ora 16:00 (**DOAR DACĂ** dosarul de înscriere conține **originalul diplomei de bacalaureat** și **foaia matricolă** sau **se confirmă un loc cu taxă**)"
+    },
+    {
+      "date": "2023-07-21T15:00:00.000Z",
+      "deadline": "",
+      "title": "Rezultate finale",
+      "details": "Online prin [Enroll](https://admitere.upt.ro/), pe <https://ac.upt.ro/> și pe <https://admitere.ac.upt.ro/>"
     }
   ]
 }
