@@ -1,0 +1,35 @@
+{
+  "title": "Admitere Licență sesiunea iulie 2023 - secțiunea 6L (Facultatea de Automatică și Calculatoare)",
+  "events": [
+    {
+      "date": "2023-05-31T21:00:00.000Z",
+      "deadline": "2023-07-04T13:00:00.000Z",
+      "title": "Preînscriere candidați",
+      "details": "Preînscrierea se realizează online în **[aplicația de înscriere Enroll](https://admitere.upt.ro)**. Dacă întâmpini dificultăți, accesează [ghidul](http://www.upt.ro/Informatii_acte-necesare-pentru-dosarul-de-inscriere-la-admiterea-la-li_1412_ro.html) nostru despre cum se completează formularul de înscriere."
+    },
+    {
+      "date": "2023-07-05T06:00:00.000Z",
+      "deadline": "2023-07-14T13:00:00.000Z",
+      "title": "Înscriere candidați",
+      "details": "**Online prin [Enroll](https://admitere.upt.ro/)**: 05.07.2023 - 14.07.2023 până la ora 16:00\n\nsau\n\n**Fizic la Facultate**: 05.07.2023 - 14.07.2023 până la ora 16:00 astfel: 05-07.07.2023, 09:00 - 16:00 și 10-14.07.2023, 09:00 - 16:00\n\nsau\n\n**Fizic în centrele zonale de admitere**: 11.07.2023 - 13.07.2023, orele 09:00 - 16:00"
+    },
+    {
+      "date": "2023-07-14T17:00:00.000Z",
+      "deadline": "",
+      "title": "Afișare rezultate portofolii etapa I",
+      "details": "Online prin [Enroll](https://admitere.upt.ro/), pe <https://ac.upt.ro> și pe <https://admitere.ac.upt.ro/>"
+    },
+    {
+      "date": "2023-07-17T07:00:00.000Z",
+      "deadline": "",
+      "title": "Concurs de admitere",
+      "details": "Fizic"
+    },
+    {
+      "date": "2023-07-17T18:00:00.000Z",
+      "deadline": "",
+      "title": "Afișare rezultate concurs",
+      "details": "Online prin [Enroll](https://admitere.upt.ro/), pe <https://ac.upt.ro/> și pe <https://admitere.ac.upt.ro/>"
+    }
+  ]
+}
