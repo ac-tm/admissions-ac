@@ -1,6 +1,6 @@
 ---
-title: Calendarul admiterii licență - secțiunea 10L
-description: Calendar pentru secțiunea 10L de la Facultatea de Automatică și
+title: Calendarul admiterii licență - secțiunea 12L
+description: Calendar pentru secțiunea 12L de la Facultatea de Automatică și
   Calculatoare, Informatică
 fullPath: licenta/admitere/calendarul-admiterii/calendarul-admiterii-licenta-sectiunea-10l
 ---
