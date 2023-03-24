@@ -45,7 +45,7 @@ Cum ziceam, **decizia e la tine! Aruncă o privire** pe descrierea specializări
 
 * Studiază site-ul [facultății](https://ac.upt.ro/) și al [universității](http://upt.ro/)
 * [Vizitează](https://visit.upt.ro) virtual laboratoarele [](http://upt.ro/)
-* Participă la [târgul educațional online](eduexpo.upt.ro) (după 17 Mai)
+* Participă la [târgul educațional online](https://smart.upt.ro/) 
 * Întrebă-ne pe [Facebook](https://www.facebook.com/ac.upt.ro)
 * [Întreabă](https://ligaac.ro/) un student din Liga AC
 * Întreabă un prieten :)
