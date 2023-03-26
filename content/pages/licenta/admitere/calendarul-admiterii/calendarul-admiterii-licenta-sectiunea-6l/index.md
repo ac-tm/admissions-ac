@@ -1,5 +1,5 @@
 ---
-title: Calendarul admiterii licență - secțiunea 6L
+title: Calendarul admiterii licență - secțiunea 6L CTI + IS
 description: Calendar pentru secțiunea 6L de la Facultatea de Automatică și
   Calculatoare, domeniile Calculatoare și Tehnologia Informației și Ingineria
   Sistemelor
