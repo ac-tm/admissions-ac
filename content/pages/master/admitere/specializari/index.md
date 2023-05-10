@@ -22,8 +22,8 @@ Noi îți oferim 11 posibilități, și toate-s de nota 10, **decizia e la tine*
 Cum ziceam, **decizia e la tine! Aruncă o privire** pe descrierea specializărilor, vezi ce ți se potrivește, apoi după ce ai citit în diagonală descrierea, **informează-te cât mai bine** și din mai multe locuri pentru că e vorba de **viitorul tău**:
 
 * Studiază site-ul [facultății](https://ac.upt.ro/) și al [universității](http://upt.ro/)
-* Vizitează virtual laboratoarele (revenim cu link)
-* Participă la [târgul educațional online](eduexpo.upt.ro) (după 17 Mai)
+* [Vizitează virtual laboratoarele](https://visit.upt.ro/)
+* Participă la [târgul educațional online](https://smart.upt.ro/)
 * Întrebă-ne pe [Facebook](https://www.facebook.com/ac.upt.ro)
 * [Întreabă](https://ligaac.ro/) un student din Liga AC
 * Întreabă un prieten :)
