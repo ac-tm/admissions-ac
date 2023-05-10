@@ -1,7 +1,7 @@
 ---
 title: "Locuri alocate masterat "
 description: Locurile disponibile pentru admiterea la programele de masterat,
-  sesiunea SEPTEMBRIE, 2022
+  sesiunea IULIE, 2023
 image:
   src: /uploads/ben-white-mo9vkbg5csg-unsplash.jpg
 fullPath: master/admitere/master
