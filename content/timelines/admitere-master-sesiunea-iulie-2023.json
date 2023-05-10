@@ -11,7 +11,7 @@
       "date": "2023-07-09T11:00:00.000Z",
       "deadline": "",
       "title": "Etapa I: Afișare rezultate portofoliu - master Game Development",
-      "details": "Portofoliul este eliminatoriu pentru admiterea la masterul de Game Development. În situația în care portofoliul nu se încadrează în criteriile de la punctul 2.1 din Anexa 2 din Metodologie sau nu este suficient pentru a evidenția aptitudinile candidatului de a urma acest program de studii, candidatul va fi declarat respins la competiția pentru masterul Game Development și va fi programat la interviul fără portofoliu, pentru a putea concura pentru ocuparea unui loc la celelate program de masterat ale facultății, în funcție de lista acestuia de opțiuni."
+      "details": "Portofoliul este eliminatoriu pentru admiterea la masterul de Game Development. În situația în care portofoliul nu se încadrează în criteriile de la punctul 2.1 din Anexa 2 din Metodologie sau nu este suficient pentru a evidenția aptitudinile candidatului de a urma acest program de studii, candidatul va fi declarat respins la competiția pentru masterul Game Development și va fi programat la interviul fără portofoliu, pentru a putea concura pentru ocuparea unui loc la celelalte program de masterat ale facultății, în funcție de lista acestuia de opțiuni."
     },
     {
       "date": "2023-07-10T05:00:00.000Z",
@@ -56,6 +56,61 @@
       "date": "2023-07-14T11:00:00.000Z",
       "deadline": "",
       "title": "Etapa I: Afișare rezultate finale"
+    },
+    {
+      "date": "2023-07-14T21:00:00.000Z",
+      "deadline": "2023-07-24T11:00:00.000Z",
+      "title": "Etapa II: Înscriere candidați, pe locurile rămase libere de la Etapa I",
+      "details": "**15.07.2023 - 24.07.2023** până la ora 14:00 (online <https://admitere.upt.ro/>)\\\n**17.07.2023 - 21.07.2023** între orele 09:00 - 14:00 (fizic în centrele de admitere din cadrul facultății conform orarului de mai jos):\n\n* Candidații care precizează ca primă opțiune **AES, GD, ISA, SIAPS, SIIS, SISC** sau **TI** (programe gestionate de Departamentul Automatică și Informatică Aplicată): **Luni-Vineri orele 9-14**, în **sala B615** (corp Electro, Secretariat etaj 6, [secretariat.admitere@aut.upt.ro](mailto:secretariat.admitere@aut.upt.ro), tel. +40.256.403.505)\n* Candidații care precizează ca primă opțiune **CCIT, IT, ML** sau **SE** (programe gestionate de Departamentul Calculatoare): **Luni-Vineri orele 9-14**, în **sala B512** (corp Electro, Secretariat etaj 5, [secretariat@cs.upt.ro](mailto:secretariat@cs.upt.ro), tel. +40.256.403.261)\n* Pentru înscrierea în persoană, candidații vor aduce **un dosar plic** conținând toate actele necesare.\n* În plus, pentru candidații care nu sunt scutiți de plata taxei de înscriere de 150 de lei, aceasta se poate achita la biroul de înscriere în numerar, sau prin transfer bancar în contul UPT de admitere master AC, sau preferabil prin plată electronică cu card bancar Visa sau Mastercard în sistemul Enroll de admitere."
+    },
+    {
+      "date": "2023-07-24T11:00:00.000Z",
+      "deadline": "",
+      "title": "Etapa II: Afișare rezultate portofoliu - master Game Development",
+      "details": "Portofoliul este eliminatoriu pentru admiterea la masterul de Game Development. În situația în care portofoliul nu se încadrează în criteriile de la punctul 2.1 din Anexa 2 din Metodologie sau nu este suficient pentru a evidenția aptitudinile candidatului de a urma acest program de studii, candidatul va fi declarat respins la competiția pentru masterul Game Development și va fi programat la interviul fără portofoliu, pentru a putea concura pentru ocuparea unui loc la celelalte program de masterat ale facultății, în funcție de lista acestuia de opțiuni."
+    },
+    {
+      "date": "2023-07-25T05:00:00.000Z",
+      "deadline": "2023-07-25T11:00:00.000Z",
+      "title": "Etapa II: Concurs de admitere (Interviu)",
+      "details": "Îți reamintim că interviul este *opțional* în cazul în care continui la aceeași domeniu la care ai terminat ciclul licență (adică dacă ai terminat la CTI și continui cu un master tot la CTI) și dorești să îți echivalezi proba interviului cu media multianuală.\n\n**ATENȚIE!** ***Echivalarea nu este posibilă dacă în cadrul opțiunilor se regăsește și masterul de Game Development, chiar dacă se continuă același domeniu de la licență.***\n\n***Ora exactă a interviurilor se va stabili ulterior.***"
+    },
+    {
+      "date": "2023-07-25T15:00:00.000Z",
+      "deadline": "",
+      "title": "Etapa II: Afișare rezultate concurs",
+      "details": "[AICI](https://admitere.ac.upt.ro/master/admitere/rezultatele-admiterii/) vei găsi rezultatele. Mai așteaptă puțin!"
+    },
+    {
+      "date": "2023-07-26T06:00:00.000Z",
+      "deadline": "2023-07-26T11:00:00.000Z",
+      "title": "Etapa II: Confirmări Runda I",
+      "details": "Nu uita să iți confirmi locul dacă ești printre cei admiși. Altfel vom considera că te-ai răzgândit și locul tău va ajunge la altcineva."
+    },
+    {
+      "date": "2023-07-26T13:00:00.000Z",
+      "deadline": "",
+      "title": "Etapa II: Afișare rezultate Runda II"
+    },
+    {
+      "date": "2023-07-27T06:00:00.000Z",
+      "deadline": "2023-07-27T09:00:00.000Z",
+      "title": "Etapa II: Confirmări Runda II"
+    },
+    {
+      "date": "2023-07-27T10:00:00.000Z",
+      "deadline": "",
+      "title": "Etapa II: Afișare rezultate Runda III"
+    },
+    {
+      "date": "2023-07-27T11:00:00.000Z",
+      "deadline": "2023-07-27T12:00:00.000Z",
+      "title": "Etapa II: Confirmări Runda III"
+    },
+    {
+      "date": "2023-07-27T13:00:00.000Z",
+      "deadline": "2023-05-10T16:44:12.450Z",
+      "title": "Etapa II: Afișare rezultate finale"
     }
   ]
 }
