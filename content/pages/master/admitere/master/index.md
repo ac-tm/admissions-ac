@@ -7,3 +7,18 @@ image:
 fullPath: master/admitere/master
 ---
 Situația locurilor disponibile la programele de masterat oferite de facultatea noastră, pentru etapa I de admitere din sesiunea IULIE 2023 este următoarea:
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+|     |     |     |     |
+|     |     |     |     |
+|     |     |     |     |
+|     |     |     |     |
+|     |     |     |     |
+|     |     |     |     |
+|     |     |     |     |
+|     |     |     |     |
+|     |     |     |     |
+|     |     |     |     |
+|     |     |     |     |
+|     |     |     |     |
