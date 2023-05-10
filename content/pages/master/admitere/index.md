@@ -8,7 +8,7 @@ Ne bucurăm că dorești să fii student la facultatea noastră! **Comunitatea A
 
 Află în continuare tot ce trebuie să știi înainte să te înscrii, documentele de care ai nevoie, dar și beneficiile și oportunitățile tale ca student al Facultății de Automatică și Calculatoare!
 
-1. **Domeniile în care te poți specializa.** Poți aprofunda cunoștințele tale la una din cele 10 specializări în cadrul facultății noastre, [află mai multe despre acestea](https://admitere.ac.upt.ro/master/admitere/specializari/).
+1. **Domeniile în care te poți specializa.** Poți aprofunda cunoștințele tale la una din cele 11 specializări în cadrul facultății noastre, [află mai multe despre acestea](https://admitere.ac.upt.ro/master/admitere/specializari/).
 2. **Decide cum dai admiterea!**
 
    * **Tu decizi cum dai admitere!** Ai două variante: dai interviu online cu o comisie căreia să îi prezinți ce îți dorești să aprofundezi la master sau îți echivalezi această notă cu media multianuală de la licență (media notelor obținute pe parcursul anilor de licență). 
