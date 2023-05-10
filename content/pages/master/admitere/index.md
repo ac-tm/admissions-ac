@@ -27,7 +27,7 @@ Află în continuare tot ce trebuie să știi înainte să te înscrii, document
    <Attachment label="Citește aici cum se calculează media de admitere!" internal="master/admitere/media-de-admitere"></Attachment>
 3. **Calendarul admiterii.** Chiar dacă admiterea este în vară, este important să te pregătești din timp! Notează-ți datele importante în calendar ca să nu le uiți.
 
-   <Attachment label="Calendarul admiterii" internal="undefined"></Attachment>
+   <Attachment label="Calendarul admiterii" internal="master/admitere/calendarul-admiterii-master-sesiunea-iulie-2023"></Attachment>
 4. **Documentele de care ai nevoie.** Ți-am pregătit o listă cu toate documentele de care ai nevoie pentru înscriere, să nu le lași pe ultima sută de metri!
 
    <Attachment label="Lista de documente" internal="master/admitere/documente-necesare22"></Attachment>
