@@ -6,14 +6,14 @@ image:
   src: /uploads/formula.jpg
 fullPath: master/admitere/media-de-admitere
 ---
-În anul 2020 am lansat o **nouă formulă a mediei de admitere**, recunoscând munca și efortul depus în decursul anilor de **licență**. În cazul în care continui același domeniu de studii, îți punem la dispoziție 2 modalități de admitere. Îți revine ție decizia de a o alege pe cea care te avantajează cel mai bine! Această regulă nu se aplică dacă printre opțiunile tale se găsește și masterul de Game Development. Aici admiterea e pe bază de portofoliu și interviu (detalii în Anexa 2 din metodologie).
+În anul 2020 am lansat o **nouă formulă a mediei de admitere**, recunoscând munca și efortul depus în decursul anilor de **licență**. În cazul în care continui același domeniu de studii, îți punem la dispoziție 2 modalități de admitere. Îți revine ție decizia de a o alege pe cea care te avantajează cel mai bine! Această regulă nu se aplică dacă printre opțiunile tale se găsește și masterul de Game Development. Aici admiterea e pe bază de portofoliu și interviu (detalii în [Anexa 2 din metodologie](https://admitere.ac.upt.ro/uploads/metodologie-admitere-master-ac-2023.pdf)).
 
 În formula de calcul pentru media de admitere intervin:
 
 * Ma – media *finală* de admitere
 * Md – Media examenului de diplomă/licenţă
 * Ni – nota de la interviu sau media multianuală 
-* k – coeficient cu valoarea între 0 şi 5, exprimă corelația dintre domeniul de licență absolvit și domeniul de master pentru care aplici (vezi Anexa 3 din metodologie)
+* k – coeficient cu valoarea între 0 şi 5, exprimă corelația dintre domeniul de licență absolvit și domeniul de master pentru care aplici (vezi [Anexa 3 din metodologie](https://admitere.ac.upt.ro/uploads/metodologie-admitere-master-ac-2023.pdf))
 
 <Fig src="/uploads/formula-media-admitere.png" alt="Formula de calcul pentru media de admitere la master" caption="Formula de calcul pentru media de admitere la master"></Fig>
 
