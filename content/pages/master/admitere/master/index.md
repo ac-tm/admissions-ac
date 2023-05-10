@@ -1,12 +1,12 @@
 ---
 title: "Locuri alocate masterat "
 description: Locurile disponibile pentru admiterea la programele de masterat,
-  sesiunea SEPTEMBRIE, 2022
+  sesiunea IULIE, 2023
 image:
   src: /uploads/ben-white-mo9vkbg5csg-unsplash.jpg
 fullPath: master/admitere/master
 ---
-Situația locurilor disponibile la programele de masterat oferite de facultatea noastră, pentru etapa 3 de admitere din sesiunea SEPTEMBRIE 2022 este următoarea:
+Situația locurilor disponibile la programele de masterat oferite de facultatea noastră, pentru etapa I de admitere din sesiunea IULIE 2023 este următoarea:
 
 | **Domeniul de studii** | **Programul de studii**                               | **Nr. locuri buget** | **Nr. locuri taxă** |
 | ---------------------- | ----------------------------------------------------- | -------------------- | ------------------- |
