@@ -6,9 +6,9 @@ fullPath: licenta/admitere/modalitatile-de-admitere
 ---
 În anul 2020 am lansat în **premieră națională** admiterea bazată pe **portofoliu de realizări**. Tocmai pentru că știm că unii sunt buni la **mate**, iar alții la **programare** am găsit o soluție care să împace și matematicienii, dar și programatorii. 
 
-## 1. Portofoliu de realizări (CTI și IS)
+## 1. Portofoliu de realizări (CTI, IS și Info)
 
-Ești mai tare la **info decât** la **mate?** Adună-ți toate realizările din liceu (rezultate la **competiții**, **proiecte personale** sau orice **altă realizare** cu care te mândrești) și optează pentru această variantă. Dacă dosarul tău este suficient de consistent, vei fi invitat la un **interviu cu o comisie**. Cu dosarul pe masă (de fapt scanat și încarcat online) discuți prin video-conferință cu comisia, te lauzi, răspunzi la întrebări, ne impresionezi cu cunoștiințele tale, iar noi îți dăm o notă... pe măsură (să sperăm ca 10). **Dacă nu ești invitat la interviu**, nici o problemă - te pregătești sufletește să **dai proba de matematică**. 
+Ești mai tare la **info decât** la **mate?** Adună-ți toate realizările din liceu (rezultate la **competiții**, **proiecte personale** sau orice **altă realizare** cu care te mândrești) și optează pentru această variantă. Dacă dosarul tău este suficient de consistent, vei fi invitat la un **interviu cu o comisie**. Cu dosarul pe masă (de fapt scanat și încarcat online) discuți prin video-conferință cu comisia, te lauzi, răspunzi la întrebări, ne impresionezi cu cunoștiințele tale, iar noi îți dăm o notă... pe măsură (să sperăm ca 10). **Dacă nu ești invitat la interviu**, nici o problemă - te pregătești sufletește să **dai proba de matematică** pentru CTI și IS, iar la Info îți echivalăm nota cu nota de la matematică sau informatică de la bac, sau cu 5 dacă nu ai dat una din aceste 2 probe. 
 
 Hai să dezvăluim și un **secret** (dar să nu mai spui la nimeni): dacă chiar ești bun la **algoritmică** sau la aplicații **hard** sau la aplicații **soft** sau la toate, comisia își dă seama rapid și te va nota pe măsură. Dacă faci o mică greșeală nu e la fel de grav ca la grilă. Din experiența de anul trecut, **un dosar valoros vorbește de la sine**, iar interviul este o formalitate și se încheie cu note între (**9.5 și 10**).
 
@@ -24,4 +24,8 @@ Vrei la Informatică și ai **notă mare proba de matematică sau informatică l
 
 La specializările Informatică respectiv Informatică la distanță admiterea se face prin **concurs de dosare**.
 
-**Sfat (poate) util**: Poate nu ar fi rău să studiezi și [**metodologia** de **admitere**](https://www.upt.ro/Informatii_admitere-licenta-2023_1536_ro.html) pentru anul **2023** (chiar dacă e mult de citit) și alte informații utile legate de pe [pagina web a universității](https://www.upt.ro/Informatii_admitere-licenta-2023_1536_ro.html).
+La **Info ID** se ia în calcul doar media de la bacalaureat, chiar dacă nu ai dat matematică sau informatică.
+
+Oferta programelor de studii, tipul concursului și formula de calcul a mediei de admitere o găsești și [aici](https://www.upt.ro/img/files/2022-2023/Admitere/Licenta/2.2_Anexa_1-Adm_licenta_2023_Oferta_programe_studii_final.pdf).
+
+**Sfat (poate) util**: Poate nu ar fi rău să studiezi și [**metodologia** de **admitere**](https://www.upt.ro/img/files/2022-2023/Admitere/Licenta/HBS_03_22.03.2023_Regulament-admitere-licenta-an.univ.2023-2024.pdf) pentru anul **2023** (chiar dacă e mult de citit) și alte informații utile legate de pe [pagina web a universității](https://www.upt.ro/Informatii_admitere-licenta-2023_1536_ro.html).
