@@ -8,7 +8,7 @@ fullPath: licenta/admitere/regulamente
 
 **[Regulamentul de organizare și desfășurare a concursului de admitere la ciclul de studii universitare de licență la UPT](https://www.upt.ro/img/files/2022-2023/Admitere/Licenta/HBS_03_22.03.2023_Regulament-admitere-licenta-an.univ.2023-2024.pdf) -** *sesiunile iulie și septembrie 2023*
 
-* **Anexe la Metodologie:** 
+* **Anexe la Metodologie:**
 
   * **[Anexa 1](https://www.upt.ro/img/files/2022-2023/Admitere/Licenta/2.2_Anexa_1-Adm_licenta_2023_Oferta_programe_studii_final.pdf)** *\- Oferta programelor de studii, tipul concursului și formula de calcul a mediei de admitere* 
   * **[Anexa 2](https://www.upt.ro/img/files/2022-2023/Admitere/Licenta/2.3_Anexa_2-Adm_licenta_2023_Instructiuni_enroll_final.pdf)** *\- Instrucțiuni de înscriere ONLINE folosind platforma Enroll* 
@@ -19,7 +19,7 @@ fullPath: licenta/admitere/regulamente
   * **[Anexa 6](https://www.upt.ro/img/files/2022-2023/Admitere/Licenta/2.7_Anexa_6-Adm_licenta_2023_Concursuri_recunoscute_FINAL.pdf)** *\- Lista concursurilor recunoscute de către UPT, pe baza cărora candidații pot fi admiși în UPT fără concurs de admitere* 
   * **[Anexa 7](https://www.upt.ro/img/files/2022-2023/Admitere/Licenta/2.8_Anexa_7-Adm_licenta_2023_Instructiuni_sportivi_performanta%20FINAL.pdf)** *\- Criterii și condiții speciale de admitere pentru candidații care au calitatea de sportivi de performanță*
 
-\* Conținutul probei scrise a *Concursului de verificare a cunoștintelor (tip grilă) la Matematică* urmează programa de bacalaureat de la disciplina de *Matematică* aprobată prin *Ordinul ministrului educației nr. 5151 din 30 august 2021 privind organizarea și desfășurarea examenului național de bacalaureat 2023*.
+\* Conținutul probei scrise a *Concursului de verificare a cunoștințelor (tip grilă) la Matematică* urmează programa de bacalaureat de la disciplina de *Matematică* aprobată prin *Ordinul ministrului educației nr. 5151 din 30 august 2021 privind organizarea și desfășurarea examenului național de bacalaureat 2023*.
 
 * **Informații Admitere Învățământ la distanță/Frecvență redusă - [detalii](http://www.upt.ro/Informatii_-admitere-2020---invatamant-la-distanta-frecventa-redusa_621_ro.html)** 
 * **[Notă de informare](http://www.upt.ro/img/files/gdpr-date_personale/Nota_informativa_candidati_admitere_UPT_v2.pdf) privind prelucrarea datelor cu caracter persona**l
