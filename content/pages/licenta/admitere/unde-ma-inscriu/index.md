@@ -23,5 +23,3 @@ Pentru orice probleme, întrebări sau neclarități ne poți contacta oricând 
 <Attachment label="Facebook" external="https://facebook.com/ac.upt.ro"></Attachment>
 
 </Block>
-
-*PS: Crede-ne pe cuvânt, tot noi cei de la AC lucrăm intens ca începând cu 2022 aplicația de înscriere pentru admitere la UPT să fie cât mai prietenoasă. 🙈*
