@@ -17,27 +17,27 @@ Noi îți oferim 5 posibilități, **decizia e la tine**!
 
 <Block color="yellow">
 
-**Avem 670 de locuri disponibile:**
+**Avem \_\_\_\_ de locuri disponibile (revenim curând cu numărul de locuri):**
 
 1. **Calculatoare şi tehnologia informaţiei (română)**
 
-   * 155 - buget
-   * 25 - taxă
+   * ___ - buget
+   * ___ - taxă
 2. **Ingineria sistemelor** 
 
-   * 170 - buget
-   * 45 - taxă
+   * ___ - buget
+   * ___ - taxă
 3. **Calculatoare şi tehnologia informaţiei (engleză)**
 
    * 75 - buget
    * 10 - taxă
 4. **Informatică**
 
-   * 60 - buget
-   * 30 - taxă
+   * ___ - buget
+   * ___ - taxă
 5. **Informatică (la distanță)**
 
-   * 100 - taxă
+   * ___ - taxă
 
 </Block>
 
