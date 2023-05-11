@@ -14,7 +14,7 @@ Află în continuare tot ce trebuie să știi înainte să te înscrii, document
    * La [CTI ](/licenta/admitere/specializari/calculatoare-si-tehnologia-informatiei/)și la [IS](/licenta/admitere/specializari/ingineria-sistemelor/) tu decizi cum dai admitere. Ai două variante: îți măsori cunoștințele la matematică în clasicul examen sau depui un portofoliu de realizări software sau hardware și dai interviu online cu o comisie care te va nota. Ce înseamnă portofoliu de realizări? orice ține de proiecte personale, rezultate la concursuri sau alte realizări remarcabile.
 
      Evaluează-te obiectiv și alege una dintre cele două posibilități care îți maximizează șansele.
-   * La [INFO](/licenta/admitere/specializari/informatica/) e simplu: depui dosarul iar șansele tale depind de nota la bac.
+   * La [INFO](/licenta/admitere/specializari/informatica/) e simplu: depui dosarul iar șansele tale depind de nota de matematică sau informatică și media de la bac. Dacă nu ai dat bac-ul la matematică sau informatică îți echivalăm nota cu 5.
 
    <Attachment label="Modalitățile de admitere" internal="licenta/admitere/modalitatile-de-admitere"></Attachment>
 3. **Calendarul admiterii.** Chiar dacă admiterea este în vară, este important să te pregătești din timp! Notează-ți datele importante în calendar ca să nu le uiți.
