@@ -9,4 +9,6 @@ Prin conținutul său, programul de master GD contribuie la dezvoltarea unor com
 
 În cazul în care vei opta pentru acest master, vei avea, la fel ca la oricare alt master de la AC, în fiecare semestru, o materie de *cercetare*, unde vei aprofunda noțiunile mai teoretice de la celelalte materii. Vorbim imediat și despre ele, dar stai să o lămurim pe-asta cu cercetarea. Aici vei citi articole de specialitate, vei analiza ce au făcut alții deja, vei compara ce au făcut unii și alții și, nu în ultimul rând, vei [cerceta](https://cs.upt.ro/ro/education/master/research) și tu la rândul tău! Ce zici? Sună tare fain, nu?
 
+Ca să-ți faci o idee generală despre materiile pe care le poți aprofunda la acest master, aruncă o privire peste figura de mai jos. Și dacă nu ne crezi pe cuvânt cu ce ai citit mai devreme, uită-te [aici](https://ac.upt.ro/specializari/game-development/) și analizează fișa fiecărei discipline! Ne vedem din toamnă la GD?
+
 <Fig src="/uploads/gd-cloud.png" alt="Subiectele de la masterul de Game Development" caption="Subiectele de la masterul de Game Development"></Fig>
