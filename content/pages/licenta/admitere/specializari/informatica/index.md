@@ -9,7 +9,7 @@ Cum sună o **diplomă de licențiat(ă) în informatică** față de o diplomă
 
 ## Ce vei studia?
 
-<Fig src="/uploads/inf.png" alt="" caption=""></Fig>
+<Fig src="/uploads/info-cloud.png" alt="" caption=""></Fig>
 
 <Block color="gray">
 
