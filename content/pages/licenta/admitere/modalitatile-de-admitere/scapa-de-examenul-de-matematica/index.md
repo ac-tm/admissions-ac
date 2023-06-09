@@ -8,7 +8,7 @@ fullPath: licenta/admitere/modalitatile-de-admitere/scapa-de-examenul-de-matemat
 ---
 Admiterea online bazată pe un portofoliu de realizări are ca scop recunoașterea rezultatelor obținute de către candidat la diferite competiții, cât și aptitudinile sale tehnice și valoarea acestora.
 
-Instrucțiunile de completare a dosarului ce conține realizările din liceu le găsești [aici](https://www.upt.ro/img/files/2020-2021/admitere/licenta/Anexa5_la_metod-admitere-licenta-2021-2022.pdf). Portofoliul/dosarul descrie de fapt rezultatele obținute de către tine la concursuri și activități școlare sau extrașcolare de pe parcursul liceului în domeniile: informatică, tehnologii informatice sau alte aplicații de tip hardware-software și tehnologii de comunicații.
+Instrucțiunile de completare a dosarului ce conține realizările din liceu le găsești [aici](https://www.upt.ro/img/files/2022-2023/Admitere/Licenta/2.6_Anexa_5-Adm_licenta_2023_Examen_online_bazat_pe_portofoliu_realiza%CC%86ri_AC_final.pdf). Portofoliul/dosarul descrie de fapt rezultatele obținute de către tine la concursuri și activități școlare sau extrașcolare de pe parcursul liceului în domeniile: informatică, tehnologii informatice sau alte aplicații de tip hardware-software și tehnologii de comunicații.
 
 Categorii de competiții și premii acceptate:
 
