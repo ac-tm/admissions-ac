@@ -23,5 +23,5 @@ Află în continuare tot ce trebuie să știi înainte să te înscrii, document
 4. **Documentele de care ai nevoie.** Ți-am pregătit o listă cu toate documentele de care ai nevoie pentru înscriere, să nu le lași pe ultima sută de metri!
 
    <Attachment label="Lista de documente" internal="licenta/admitere/documente-necesare"></Attachment>
-5. **Aplicația de înscriere.** După ce ai rezolvat toate cele, vine momentul să accesezi [platforma](https://admitere.upt.ro) de înscrieri. Am pregătit un [ghid](https://www.upt.ro/img/files/2022-2023/Admitere/Licenta/2.3_Anexa_2-Adm_licenta_2023_Instructiuni_enroll_final.pdf) special pentru acesta în cazul în care apar nedumeriri.
-6. **Confirmarea locului de studiu.** După ce aflii că ai fost admis urmează 3 runde de confirmări, dacă nu îți accepți locul prin confirmare, ești out.
+5. **Aplicația de înscriere.** După ce ai rezolvat toate cele, vine momentul să accesezi [platforma](https://enroll.upt.ro/) de înscrieri. Am pregătit un [ghid](https://www.youtube.com/watch?v=tLCmCk3mUQg) special pentru acesta în cazul în care apar nedumeriri.
+6. **Confirmarea locului de studiu.** După ce afli că ai fost admis urmează 3 runde de confirmări, dacă nu îți accepți locul prin confirmare, ești out.
