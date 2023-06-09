@@ -1,6 +1,8 @@
 ---
 title: Specializări și nr. de locuri
 description: Noi îți oferim 5 posibilități, decizia e la tine!
+image:
+  src: /uploads/ben-white-mo9vkbg5csg-unsplash.jpg
 fullPath: licenta/admitere/specializari
 ---
 Noi îți oferim 5 posibilități, **decizia e la tine**!
