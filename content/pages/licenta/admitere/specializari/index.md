@@ -7,7 +7,6 @@ Noi îți oferim 5 posibilități, **decizia e la tine**!
 
 <Block color="green">
 
-* Știm că în **2020** am fost în **topul preferințelor** elevilor din vestul țării.
 * Știm că suntem **cea mai căutată facultate** din Universitatea Politehnica Timișoara.
 * Știm că **la AC nu se intră ușor** și e bătaie pe locuri. Dar oare nu prețuim mai mult ce este mai greu de obținut?
 * Știm că avem **cadre didactice valoroase**. 
@@ -17,27 +16,27 @@ Noi îți oferim 5 posibilități, **decizia e la tine**!
 
 <Block color="yellow">
 
-**Avem \_\_\_\_ de locuri disponibile (revenim curând cu numărul de locuri):**
+**Avem 700 de locuri disponibile:**
 
 1. **Calculatoare şi tehnologia informaţiei (română)**
 
-   * ___ - buget
-   * ___ - taxă
+   * 155 - buget
+   * 25 - taxă
 2. **Ingineria sistemelor** 
 
-   * ___ - buget
-   * ___ - taxă
+   * 170 - buget
+   * 45 - taxă
 3. **Calculatoare şi tehnologia informaţiei (engleză)**
 
    * 75 - buget
    * 10 - taxă
 4. **Informatică**
 
-   * ___ - buget
-   * ___ - taxă
+   * 65 - buget
+   * 30 - taxă
 5. **Informatică (la distanță)**
 
-   * ___ - taxă
+   * 120 - taxă
 
 </Block>
 
