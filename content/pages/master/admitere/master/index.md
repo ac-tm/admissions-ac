@@ -10,15 +10,15 @@ Situația locurilor disponibile la programele de masterat oferite de facultatea 
 
 | **Domeniul de studii**                 | **Programul de studii**                               | **Nr. locuri buget** | **Nr. locuri taxă** |
 | -------------------------------------- | ----------------------------------------------------- | -------------------- | ------------------- |
-| Calculatoare și Tehnologia Informației | Cloud Computing and Internet of Things                |                      |                     |
-| Calculatoare și Tehnologia Informației | Information Technology                                |                      |                     |
-| Calculatoare și Tehnologia Informației | Machine Learning                                      |                      |                     |
-| Calculatoare și Tehnologia Informației | Software Engineering                                  |                      |                     |
-| Ingineria Sistemelor                   | Automotive Embedded Software                          |                      |                     |
-| Ingineria Sistemelor                   | Game Development                                      |                      |                     |
-| Ingineria Sistemelor                   | Ingineria Sistemelor Automate                         |                      |                     |
-| Ingineria Sistemelor                   | Sisteme Informatice Aplicate în Producție și Servicii |                      |                     |
-| Ingineria Sistemelor                   | Sisteme Informatice în Îngrijirea Sănătății           |                      |                     |
-| Ingineria Sistemelor                   | Securitatea Informațiilor și a Sistemelor Cibernetice |                      |                     |
-| Informatică                            | Tehnologii Informatice                                |                      |                     |
-|                                        | **TOTAL**                                             |                      |                     |
+| Calculatoare și Tehnologia Informației | Cloud Computing and Internet of Things                | 25                   | 5                   |
+| Calculatoare și Tehnologia Informației | Information Technology                                | 20                   | 5                   |
+| Calculatoare și Tehnologia Informației | Machine Learning                                      | 40                   | 10                  |
+| Calculatoare și Tehnologia Informației | Software Engineering                                  | 30                   | 5                   |
+| Ingineria Sistemelor                   | Automotive Embedded Software                          | 20                   | 5                   |
+| Ingineria Sistemelor                   | Game Development                                      | 20                   | 15                  |
+| Ingineria Sistemelor                   | Ingineria Sistemelor Automate                         | 25                   | 5                   |
+| Ingineria Sistemelor                   | Sisteme Informatice Aplicate în Producție și Servicii | 30                   | 5                   |
+| Ingineria Sistemelor                   | Sisteme Informatice în Îngrijirea Sănătății           | 25                   | 5                   |
+| Ingineria Sistemelor                   | Securitatea Informațiilor și a Sistemelor Cibernetice | 25                   | 5                   |
+| Informatică                            | Tehnologii Informatice                                | 30                   | 5                   |
+|                                        | **TOTAL**                                             | **290**              | **70**              |
