@@ -16,7 +16,8 @@
     "lodash": "^4.17.21",
     "medium-zoom": "^1.0.6",
     "netlify-cms": "^2.10.105",
-    "nuxt": "^2.15.7"
+    "nuxt": "^2.15.7",
+    "sharp": "^0.32.1"
   },
   "devDependencies": {
     "@nuxt/content": "^1.14.0",

@@ -12,13 +12,13 @@ jobs:
     name: Build, deploy to Netlify and upload docker image
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
 
-      - uses: actions/setup-node@v2
+      - uses: actions/setup-node@v3
         with:
-          node-version: '12'
+          node-version: '16'
 
-      - uses: actions/cache@v2
+      - uses: actions/cache@v3
         id: cache
         with:
           path: node_modules
@@ -54,7 +54,7 @@ jobs:
 
       - name: Deploy to Netlify
         run: |
-          npm i -g netlify-cli@11
+          npm i -g netlify-cli@15
           netlify deploy --auth $TOKEN --site $SITE --dir dist --prod --message "${{ github.event.commits[0].message }}"
         env:
           NPM_CONFIG_PREFIX: "~/.npm-global"
