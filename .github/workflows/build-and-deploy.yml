@@ -54,7 +54,7 @@ jobs:
 
       - name: Deploy to Netlify
         run: |
-          npm i -g netlify-cli
+          npm i -g netlify-cli@11
           netlify deploy --auth $TOKEN --site $SITE --dir dist --prod --message "${{ github.event.commits[0].message }}"
         env:
           NPM_CONFIG_PREFIX: "~/.npm-global"
