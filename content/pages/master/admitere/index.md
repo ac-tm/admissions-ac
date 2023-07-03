@@ -22,7 +22,7 @@ Află în continuare tot ce trebuie să știi înainte să te înscrii, document
 
        * Curs de engleză în ciclu de licență (foaia matricolă)
        * Atestat (certificat) în limba engleză
-       * Solicitare testarea competențelor lingvistice de limba engleză la Centrul Interlingua din cadrul Departamentului de Comunicare și Limbi Străine al UPT.
+       * Dacă nu ai un atestat de cunoaștere a limbii engleze vei fi programat la interviu pentru testarea limbii engleze.
 
    <Attachment label="Citește aici cum se calculează media de admitere!" internal="master/admitere/media-de-admitere"></Attachment>
 3. **Calendarul admiterii.** Chiar dacă admiterea este în vară, este important să te pregătești din timp! Notează-ți datele importante în calendar ca să nu le uiți.
