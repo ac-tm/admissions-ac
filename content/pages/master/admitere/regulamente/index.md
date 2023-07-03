@@ -9,9 +9,9 @@ fullPath: master/admitere/regulamente
 
   * **[Metodologia de organizare și desfășurare a concursului de admitere](https://admitere.ac.upt.ro/uploads/metodologie-admitere-master-ac-2023.pdf)** la Facultatea de Automatică și Calculatoare
 
-    * Anexa 2 - Procedura de admitere pe bază de portofoliu - master Game Development! 
+    * **[Anexa 2](https://admitere.ac.upt.ro/uploads/anexa-2-ac-portofoliu-gd.pdf)** - Procedura de admitere pe bază de portofoliu - master Game Development! 
 
-      * Șablon portofoliu (doc); Exemplu de completare portofoliu (pdf); exemplu DOSAR portofoliu (zip).
+      * **[Șablon portofoliu (doc)](https://admitere.ac.upt.ro/uploads/portofoliu_numeprenume_gd.docx); [Exemplu de completare portofoliu (pdf)](https://admitere.ac.upt.ro/uploads/exemplu-portofoliu-completat.pdf); [exemplu DOSAR portofoliu (zip)](https://admitere.ac.upt.ro/uploads/exemplu-completare_gd.zip).**
 
   **Anexe la Metodologie:**
 * *[Anexa 1](https://www.upt.ro/img/files/2022-2023/Admitere/Master/HBS_04_22.03.2023_Anexa_1_Regulament-admitere-master-an.univ.2023-2024.pdf) - Valori ale coeficientului K*
