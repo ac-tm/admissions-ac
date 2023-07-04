@@ -8,9 +8,9 @@ fullPath: master/admitere/documente-necesare22
 ---
 ## Etapa 1 - Înscrierea
 
-Documente ce se vor încărca **ONLINE**, pe [platformă](https://admitere.upt.ro), color, în format *pdf* sau format de fișier grafic (*jpeg* sau *png*). Detalii suplimentare [AICI](https://upt.ro/img/files/2021-2022/Admitere/Master/Documente_necesare_inscriere_master.pdf). 
+Documente ce se vor încărca **ONLINE**, pe [platformă](https://enroll.upt.ro/master/), color, în format *pdf* sau format de fișier grafic (*jpeg* sau *png*). Detalii suplimentare [AICI](https://www.upt.ro/img/files/2022-2023/Admitere/Master/Documente_necesare_inscriere_master_2023.pdf).
 
-Nu îți face griji, lucrurile sunt de destul de simple. Intri pe [platformă](https://admitere.upt.ro) și încarci următoarele documente:
+Nu îți face griji, lucrurile sunt de destul de simple. Intri pe [platformă](https://enroll.upt.ro/master/) și încarci următoarele documente:
 
 <DocumentCheckbox text="Copie diplomă de licență sau diploma echivalentă (absolvenții promoției 2022 pot depune adeverința de absolvire)"></DocumentCheckbox>
 
