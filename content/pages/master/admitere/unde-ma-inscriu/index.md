@@ -7,7 +7,7 @@ fullPath: master/admitere/unde-ma-inscriu
 ---
 **Înscrierea se face, bineînțeles, online!** În cazul în care apar probleme de genul: lipsa internetului sau apar orice probleme, nu ezita să ne contactezi.
 
-Ce trebuie să conțină dosarul? Destul de multe. Totuși, dacă te înscrii online, [aplicația](https://admitere.upt.ro) te ghidează prin fiecare etapă și vei fi sigur(ă) că nu ți-a scăpat nimic. Mai mult, dacă încarci datele pe platformă înseamnă că ai grijă și de mediu, iar noi îți mulțumim că economisești hârtie și ne faci înscrierea mai ușoară.
+Ce trebuie să conțină dosarul? Destul de multe. Totuși, dacă te înscrii online, [aplicația](https://enroll.upt.ro/master/) te ghidează prin fiecare etapă și vei fi sigur(ă) că nu ți-a scăpat nimic. Mai mult, dacă încarci datele pe platformă înseamnă că ai grijă și de mediu, iar noi îți mulțumim că economisești hârtie și ne faci înscrierea mai ușoară.
 
 <Attachment label="Documentele necesare" internal="master/admitere/documente-necesare22"></Attachment>
 
