@@ -24,6 +24,8 @@ Nu îți face griji, lucrurile sunt de destul de simple. Intri pe [platformă](h
 
 <DocumentCheckbox text="Copie după declarația pe proprie răspundere autentificată de un notariat privind nefinanțarea/finanțarea anterioară de la bugetul statului român pentru urmarea de studii universitare de master (în cazul candidaților care au absolvit facultatea înainte de 2022)"></DocumentCheckbox>
 
+<DocumentCheckbox text="Pentru masterul Game Development - portofoliu (vezi Anexa 2 si șablon portofoliu la pagina de Regulamente)"></DocumentCheckbox>
+
 <Block color="yellow">
 
 ## **Alte documente**
