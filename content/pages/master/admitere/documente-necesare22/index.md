@@ -12,7 +12,7 @@ Documente ce se vor încărca **ONLINE**, pe [platformă](https://enroll.upt.ro/
 
 Nu îți face griji, lucrurile sunt de destul de simple. Intri pe [platformă](https://enroll.upt.ro/master/) și încarci următoarele documente:
 
-<DocumentCheckbox text="Copie diplomă de licență sau diploma echivalentă (absolvenții promoției 2022 pot depune adeverința de absolvire)"></DocumentCheckbox>
+<DocumentCheckbox text="Copie diplomă de licență sau diploma echivalentă (absolvenții promoției 2023 pot depune adeverința de absolvire)"></DocumentCheckbox>
 
 <DocumentCheckbox text="Copie foaie matricolă cu notele obținute pe parcursul facultății"></DocumentCheckbox>
 
@@ -22,7 +22,7 @@ Nu îți face griji, lucrurile sunt de destul de simple. Intri pe [platformă](h
 
 <DocumentCheckbox text="Dovada achitării taxei de înscriere (care este 150 lei)"></DocumentCheckbox>
 
-<DocumentCheckbox text="Copie după declarația pe proprie răspundere autentificată de un notariat privind nefinanțarea/finanțarea anterioară de la bugetul statului român pentru urmarea de studii universitare de master (în cazul candidaților care au absolvit facultatea înainte de 2022)"></DocumentCheckbox>
+<DocumentCheckbox text="Copie după declarația pe proprie răspundere autentificată de un notariat privind nefinanțarea/finanțarea anterioară de la bugetul statului român pentru urmarea de studii universitare de master (în cazul candidaților care au absolvit facultatea înainte de 2023)"></DocumentCheckbox>
 
 <DocumentCheckbox text="Pentru masterul Game Development - portofoliu (vezi Anexa 2 si șablon portofoliu la pagina de Regulamente)"></DocumentCheckbox>
 
@@ -43,7 +43,7 @@ Necesare pentru situațiile deosebite, conform ghidului de admitere:
 
 Odată ce ești declarat admis, pentru a-ți confirma locul, e necesar să achiți taxa de confirmare (**100 lei**) și să depui la dosar, **în original**, următoarele documente:
 
-<DocumentCheckbox text="Diplomă de licență/diplomă echivalentă sau adeverința de absolvire pentru absolvenții promoției 2022 (pentru candidații admiși la buget) (a)"></DocumentCheckbox>
+<DocumentCheckbox text="Diplomă de licență/diplomă echivalentă sau adeverința de absolvire pentru absolvenții promoției 2023 (pentru candidații admiși la buget) (a)"></DocumentCheckbox>
 
 <DocumentCheckbox text="Foaia matricolă cu notele obținute pe parcursul facultății (b)"></DocumentCheckbox>
 
