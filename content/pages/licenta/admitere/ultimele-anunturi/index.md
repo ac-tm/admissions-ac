@@ -28,10 +28,12 @@ Următorul tabel prezintă numărul total de candidați înscriși, precum și d
 
 **12L - Automatică și Calculatoare (AC) – concurs de dosare**
 
-Informatică - limba română - fără taxă	**81**
-
-Informatică - limba română - cu taxă	**7**
+| Informatică - limba română - fără taxă | **81** |
+| -------------------------------------- | ------ |
+| Informatică - limba română - cu taxă   | **7**  |
+| **TOTAL**                              | **88** |
 
 **10DL - Automatică și Calculatoare – învățământ la distanță**
 
-Informatică - învăţământ la distanţă (ID) - cu taxă	**78**
+| Informatică - învățământ la distanță (ID) - cu taxă | **78** |
+| --------------------------------------------------- | ------ |
