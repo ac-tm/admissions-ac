@@ -17,15 +17,14 @@ Următorul tabel prezintă numărul total de candidați înscriși, precum și d
 
 **6L - Automatică și Calculatoare (AC) – concurs cu probe**
 
-Calculatoare si Tehnologia Informatiei - limba engleza - fara taxa	**15**
-
-Calculatoare si Tehnologia Informatiei - limba romana - fara taxa	**90**
-
-Ingineria Sistemelor - Automatica si informatica aplicata - limba romana - fara taxa	**22**
-
-Calculatoare si Tehnologia Informatiei - limba romana - cu taxa	**2**
-
-Ingineria Sistemelor - Automatica si informatica aplicata - limba romana - cu taxa	**3**
+| Calculatoare și Tehnologia Informației - limba engleză - fără taxă                   | **15**  |
+| ------------------------------------------------------------------------------------ | ------- |
+| Calculatoare și Tehnologia Informației - limba română - fară taxă                    | **90**  |
+| Ingineria Sistemelor - Automatică și Informatică Aplicată - limba română - fără taxă | **22**  |
+| Calculatoare și Tehnologia Informației - limba română - cu taxă                      | **0**   |
+| Calculatoare și tehnologia Informației - limba română - cu taxă                      | **2**   |
+| Ingineria Sistemelor - Automatică și Informatică Aplicată - limba română - cu taxă   | **3**   |
+| **TOTAL**                                                                            | **132** |
 
 **12L - Automatică și Calculatoare (AC) – concurs de dosare**
 
