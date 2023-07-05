@@ -25,10 +25,12 @@ Următorul tabel prezintă numărul total de candidați înscriși, precum și d
 | Ingineria Sistemelor - Automatică și Informatică Aplicată - limba română - cu taxă   | 3                  |
 | **TOTAL**                                                                            | **143**            |
 
-
-
 | 12L - Automatică și Calculatoare (AC) - concurs de dosare | Candidați înscriși |
 | --------------------------------------------------------- | ------------------ |
 | Informatică - limba română - fără taxă                    | 81                 |
 | Informatică - limba română - cu taxă                      | 7                  |
 | **TOTAL**                                                 | **88**             |
+
+| 10DL - Automatică și Calculatoare - învățământ la distanță | Candidați înscriși |
+| ---------------------------------------------------------- | ------------------ |
+| Informatică - învățământ la distanță (ID) - cu taxă        | 78                 |
