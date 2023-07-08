@@ -15,19 +15,19 @@ Fii cu ochii pe această pagină!
 
 **Pentru cei care susțin proba de matematică** la Facultatea de Automatică și Calculatoare **în data de 17 iulie 2023**, **oferim cazare** în căminul 2MV, la tariful de 35,00 lei/persoană/noapte. Rezervări și alte informații se pot obține la numărul de telefon 0256-404075.
 
-**STATISTICI ÎNSCRIERI, 07 iulie 2023, ora 21.00**
+**STATISTICI ÎNSCRIERI, 08 iulie 2023, ora 22.00**
 
 Următorul tabel prezintă numărul total de candidați înscriși, precum și distribuția acestora la secțiunile 6L, 12L și 10DL, pentru admiterea la **Facultatea de Automatică și Calculatoare**. Tabelele prezintă numărul de candidați înscriși luând în calcul numai prima lor opțiune.
 
 | 6L - Automatică și Calculatoare (AC) - concurs cu probe                              | Candidați înscriși |
 | ------------------------------------------------------------------------------------ | ------------------ |
-| Calculatoare și Tehnologia Informației - limba engleză - fară taxă                   | 26                 |
-| Calculatoare și Tehnologia Informației - limba română - fară taxă                    | 122                |
-| Ingineria Sistemelor - Automatică și Informatică Aplicată - limba română - fară taxă | 29                 |
+| Calculatoare și Tehnologia Informației - limba engleză - fară taxă                   | 27                 |
+| Calculatoare și Tehnologia Informației - limba română - fară taxă                    | 131                |
+| Ingineria Sistemelor - Automatică și Informatică Aplicată - limba română - fară taxă | 31                 |
 | Calculatoare și Tehnologia Informației - limba engleză - cu taxă                     | 0                  |
 | Calculatoare și Tehnologia Informației - limba română - cu taxă                      | 3                  |
 | Ingineria Sistemelor - Automatică și Informatică Aplicată - limba română - cu taxă   | 3                  |
-| **TOTAL**                                                                            | **183**            |
+| **TOTAL**                                                                            | **195**            |
 
 | 12L - Automatică și Calculatoare (AC) - concurs de dosare | Candidați înscriși |
 | --------------------------------------------------------- | ------------------ |
@@ -37,4 +37,4 @@ Următorul tabel prezintă numărul total de candidați înscriși, precum și d
 
 | 10DL - Automatică și Calculatoare - învățământ la distanță | Candidați înscriși |
 | ---------------------------------------------------------- | ------------------ |
-| Informatică - învățământ la distanță (ID) - cu taxă        | 80                 |
+| Informatică - învățământ la distanță (ID) - cu taxă        | 93                 |
