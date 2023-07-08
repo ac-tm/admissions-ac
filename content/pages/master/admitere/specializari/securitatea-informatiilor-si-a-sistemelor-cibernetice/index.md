@@ -4,7 +4,7 @@ description: Ai auzit de noul master de securitate? Hai să îți spunem noi mai
   multe detalii despre el!
 fullPath: master/admitere/specializari/securitatea-informatiilor-si-a-sistemelor-cibernetice
 ---
-Care-i schema la masterul de securitate? În primul rând, trebuie să știi că singura legătură a acestui program de studii cu SRI-ul (Sistemul Român de Informații) este limba română.  
+Care-i schema la masterul de securitate? În primul rând, trebuie să știi că cea mai mare amenintare pentru companii sunt cyber-atacurile.  
 
 Ca oricare alt master de la AC, și la SISC, vei avea, în fiecare semestru, o materie de *cercetare*, unde vei aprofunda noțiunile mai teoretice de la celelalte materii. Vorbim imediat și despre ele, dar stai să o lămurim pe-asta cu cercetarea. Aici vei citi articole de specialitate, vei analiza ce au făcut alții deja, vei compara ce au făcut unii și alții și, nu în ultimul rând, vei 'cerceta' și tu la rândul tău! Ce zici? Sună tare fain, nu? 
 
