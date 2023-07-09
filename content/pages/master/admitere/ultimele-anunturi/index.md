@@ -5,9 +5,19 @@ image:
   src: /uploads/warning.jpg
 fullPath: master/admitere/ultimele-anunturi
 ---
+## Programarea la interviu
+
+Interviul de admitere la programele **AES, CCIoT, SE, ISA, IT, SIAPS, SIIS, SISC, ML, TI** se va desfășura online în data de marți 11 iulie 2023; vă rugăm reveniți luni pentru detalii.
+
+Interviul de admitere la programul **Game Development** se va desfășura online în data de luni 10 iulie 2023.
+
+<Attachment label="Programare interviu Game Development, luni 12 iulie" file="/uploads/programare-gd-20230710.pdf"></Attachment>
+
+Datele de conectare (https://upt-ro.zoom.us/j/96346659115 Meeting ID: 963 4665 9115) au fost trimise candidaților prin e-mail la adresele înregistrate la înscriere de către secretarul de comisie stelian.nicola@upt.ro.
+
 ## Liste de verificare, etapa 1
 
-Candidații sunt obligați să verifice în lista de mai jos validitatea datelor de concurs.
+Toți candidații sunt obligați să verifice în lista de mai jos validitatea datelor de concurs.
 
 <Attachment label="Liste de verificare Enroll" file="/uploads/6m-liste-verificare-20230709.pdf"></Attachment>
 
@@ -17,6 +27,29 @@ Eventualele contestații, pe adresa secretariatului care gestionează programul 
   Adresă secretariat: secretariat.admitere@aut.upt.ro
 * Candidații cu prima opțiune **CCIoT, IT, ML, sau SE**:
   Adresă secretariat: secretariat@cs.upt.ro
+
+### Candidați înscriși la finalul zilei de 8 iulie: 344
+
+| **Program** | **Candidați** |
+| ----------- | ------------- |
+| AES         | 14            |
+| CCIOT       | 32            |
+| GD          | 20            |
+| ISA         | 17            |
+| IT          | 22            |
+| ML          | 36            |
+| SE          | 50            |
+| SIAPS       | 61            |
+| SIIS        | 13            |
+| SISC        | 37            |
+| TI          | 33            |
+| TAES        | 1             |
+| TISA        | 1             |
+| TML         | 1             |
+| TSE         | 2             |
+| TSIAPS      | 1             |
+| TSISC       | 1             |
+| TTI         | 2             |
 
 <Block color="green">
 
