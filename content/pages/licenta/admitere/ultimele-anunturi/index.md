@@ -5,36 +5,30 @@ image:
   src: /uploads/warning.jpg
 fullPath: licenta/admitere/ultimele-anunturi
 ---
-### Aici postăm diferite noutăți, actualizări, și eventuale modificări
-
-Fii cu ochii pe această pagină!
-
-- - -
-
 **Informații cu privire la cazarea în cămine pentru studenții admiși în anul I se găsesc [aici](https://admitere.ac.upt.ro/uploads/info-utile-2023.pdf).**
 
 **Pentru cei care susțin proba de matematică** la Facultatea de Automatică și Calculatoare **în data de 17 iulie 2023**, **oferim cazare** în căminul 2MV, la tariful de 35,00 lei/persoană/noapte. Rezervări și alte informații se pot obține la numărul de telefon 0256-404075.
 
-**STATISTICI ÎNSCRIERI, 08 iulie 2023, ora 22.00**
+**STATISTICI ÎNSCRIERI, 10 iulie 2023, ora 19.00**
 
 Următorul tabel prezintă numărul total de candidați înscriși, precum și distribuția acestora la secțiunile 6L, 12L și 10DL, pentru admiterea la **Facultatea de Automatică și Calculatoare**. Tabelele prezintă numărul de candidați înscriși luând în calcul numai prima lor opțiune.
 
 | 6L - Automatică și Calculatoare (AC) - concurs cu probe                              | Candidați înscriși |
 | ------------------------------------------------------------------------------------ | ------------------ |
-| Calculatoare și Tehnologia Informației - limba engleză - fară taxă                   | 27                 |
-| Calculatoare și Tehnologia Informației - limba română - fară taxă                    | 131                |
-| Ingineria Sistemelor - Automatică și Informatică Aplicată - limba română - fară taxă | 31                 |
-| Calculatoare și Tehnologia Informației - limba engleză - cu taxă                     | 0                  |
-| Calculatoare și Tehnologia Informației - limba română - cu taxă                      | 3                  |
+| Calculatoare și Tehnologia Informației - limba engleză - fară taxă                   | 46                 |
+| Calculatoare și Tehnologia Informației - limba română - fară taxă                    | 187                |
+| Ingineria Sistemelor - Automatică și Informatică Aplicată - limba română - fară taxă | 46                 |
+| Calculatoare și Tehnologia Informației - limba engleză - cu taxă                     | 1                  |
+| Calculatoare și Tehnologia Informației - limba română - cu taxă                      | 5                  |
 | Ingineria Sistemelor - Automatică și Informatică Aplicată - limba română - cu taxă   | 3                  |
-| **TOTAL**                                                                            | **195**            |
+| **TOTAL**                                                                            | **288**            |
 
 | 12L - Automatică și Calculatoare (AC) - concurs de dosare | Candidați înscriși |
 | --------------------------------------------------------- | ------------------ |
-| Informatică - limba română - fără taxă                    | 133                |
-| Informatică - limba română - cu taxă                      | 19                 |
-| **TOTAL**                                                 | **152**            |
+| Informatică - limba română - fără taxă                    | 224                |
+| Informatică - limba română - cu taxă                      | 24                 |
+| **TOTAL**                                                 | **248**            |
 
 | 10DL - Automatică și Calculatoare - învățământ la distanță | Candidați înscriși |
 | ---------------------------------------------------------- | ------------------ |
-| Informatică - învățământ la distanță (ID) - cu taxă        | 93                 |
+| Informatică - învățământ la distanță (ID) - cu taxă        | 98                 |
