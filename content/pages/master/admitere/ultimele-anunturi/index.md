@@ -5,9 +5,17 @@ image:
   src: /uploads/warning.jpg
 fullPath: master/admitere/ultimele-anunturi
 ---
+## Echivalare notă interviu
+
+Candidații eligibili care au solicitat ca nota de apreciere sintetică (Ni) din formula de calcul a mediei de admitere să fie echivalată cu media multianuală de la ciclul licență sunt rugați să urmărească această pagină marți 11 iulie ora 18, pentru rezultate.
+
 ## Programarea la interviu
 
-Interviul de admitere la programele **AES, CCIoT, SE, ISA, IT, SIAPS, SIIS, SISC, ML, TI** se va desfășura online în data de marți 11 iulie 2023; vă rugăm reveniți luni pentru detalii.
+Interviul de admitere la programele **AES, CCIoT, SE, ISA, IT, SIAPS, SIIS, SISC, ML, TI** se va desfășura online în data de marți 11 iulie 2023.
+
+S﻿e recomandă prezența online cu cel puțin 30 de minute de ora programată. Candidații care nu participă la interviu vor fi eliminați din concurs.
+
+<Attachment label="Programări interviu și date de conectare, marți 11 iulie" file="/uploads/programari-20230711.pdf"></Attachment>
 
 Interviul de admitere la programul **Game Development** se va desfășura online în data de luni 10 iulie 2023.
 
