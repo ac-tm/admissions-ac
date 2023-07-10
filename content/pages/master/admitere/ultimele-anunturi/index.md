@@ -15,7 +15,7 @@ Interviul de admitere la programele **AES, CCIoT, SE, ISA, IT, SIAPS, SIIS, SISC
 
 S﻿e recomandă prezența online cu cel puțin 30 de minute de ora programată. Candidații care nu participă la interviu vor fi eliminați din concurs.
 
-Fiecare candidat va pregăti o prezentare care poate să cuprinda: prezentarea si realizarile candidatului, motivatia pentru care opteaza pt master, tematica (tema de studiu pentru disertatie) pe care doreste sa o abordeze la master, capacitatea de a planifica abordarea tematicii (un state of the art, o planificare a abordarii tematicii, detalii tehnice necesare).
+Fiecare candidat va pregăti o prezentare care poate să cuprindă: prezentarea și realizările candidatului, motivația pentru care optează pentru master, tematica (tema de studiu pentru disertație) pe care dorește să o abordeze la master, capacitatea de a planifica abordarea tematicii (un state of the art, o planificare a abordării tematicii, detalii tehnice necesare).
 
 <Attachment label="Programări interviu și date de conectare, marți 11 iulie" file="/uploads/programari-20230711.pdf"></Attachment>
 
