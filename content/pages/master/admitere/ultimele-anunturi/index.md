@@ -5,6 +5,8 @@ image:
   src: /uploads/warning.jpg
 fullPath: master/admitere/ultimele-anunturi
 ---
+## Rezultate admitere master
+
 <Attachment label="Rezultate concurs admitere master - runda I" file="/uploads/6m-rezultate-r0-v2.pdf"></Attachment>
 
 **IMPORTANT: Candidatii trebuie sa confirme locul obtinut! Nefinalizarea procedurii de confirmari, in termenul afisat, atrage eliminarea candidatului din concurs, inclusiv pentru studentii declarati admisi.**
