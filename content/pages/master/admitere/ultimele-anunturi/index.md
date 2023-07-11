@@ -5,7 +5,7 @@ image:
   src: /uploads/warning.jpg
 fullPath: master/admitere/ultimele-anunturi
 ---
-### Rezultate admitere master
+## Rezultate admitere master
 
 <Attachment label="Rezultate concurs admitere master - runda I" file="/uploads/6m-rezultate-r0-v2.pdf"></Attachment>
 
@@ -27,15 +27,15 @@ Pentru confirmare, sunt obligatorii plata taxei de confirmare și, pentru candid
 
 O eventuală rundă 2 de confirmări se va desfășura 13.07, 8-14.
 
-#﻿# Rezultate români de pretutindeni
+### Rezultate români de pretutindeni
 
 <https://upt.ro/Informatii_romani-de-pretutindeni---admitere-master_1498_ro.html>
 
-### Echivalare notă interviu
+## Echivalare notă interviu
 
 Candidații eligibili care au solicitat ca nota de apreciere sintetică (Ni) din formula de calcul a mediei de admitere să fie echivalată cu media multianuală de la ciclul licență sunt rugați să urmărească această pagină marți 11 iulie ora 18, pentru rezultate.
 
-### Programarea la interviu
+## Programarea la interviu
 
 Interviul de admitere la programele **AES, CCIoT, SE, ISA, IT, SIAPS, SIIS, SISC, ML, TI** se va desfășura online în data de marți 11 iulie 2023.
 
