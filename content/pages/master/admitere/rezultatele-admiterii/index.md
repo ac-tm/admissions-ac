@@ -25,4 +25,4 @@ Pentru confirmare, sunt obligatorii plata taxei de confirmare și, pentru candid
 
    * În biroul de confirmări, corpul B, clădirea Electro, sala B512 (daca prima optiune la inscriere a fost la SE, CCIOT, ML, IT) sau sala B615 (altfel), într-un dosar plic, ce contine in **ORIGINAL** adeverinta/diploma, 2 poze color, situatia scolara/foaie matricola/supliment la diploma in **ORIGINAL**, si adeverinta medicala.
 
-O eventuală rundă 2 de confirmări se va desfășura 13.07, 8-14.
+O eventuală rundă 2 de confirmări se va desfășura miercuri 13 iulie, orele 9-14.
