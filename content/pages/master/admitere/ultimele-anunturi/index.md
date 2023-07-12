@@ -5,11 +5,11 @@ image:
   src: /uploads/warning.jpg
 fullPath: master/admitere/ultimele-anunturi
 ---
-## Rezultate admitere master
+## Rezultate admitere master, etapa 1, runda 2
 
-**S-au afișat rezultatele rundei I**
+**S-au afișat rezultatele rundei 2**
 
-<Attachment label="Rezultate runda I" internal="master/admitere/rezultatele-admiterii"></Attachment>
+<Attachment label="Rezultate runda 2" internal="master/admitere/rezultatele-admiterii"></Attachment>
 
 ### Rezultate români de pretutindeni
 
