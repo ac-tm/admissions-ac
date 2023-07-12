@@ -5,6 +5,35 @@ image:
   src: https://aielpo.eplo.int/wp-content/uploads/2021/01/admission.jpg
 fullPath: master/admitere/rezultatele-admiterii
 ---
+## Rezultate admitere master, etapa 1, runda 2
+
+Rezultate după prima rundă de confirmări:
+
+<Attachment label="Rezultate etapa 1, runda 2" file="/uploads/6m-rezultate-r1-20230712.pdf"></Attachment>
+
+<Attachment label="Candidați respinși etapa 1" file="/uploads/em-respinși-20230712.pdf"></Attachment>
+
+<Attachment label="Rezultate candidați Români de Pretutindeni pe site-ul dedicat" external="https://upt.ro/Informatii_romani-de-pretutindeni---admitere-master_1498_ro.html"></Attachment>
+
+**IMPORTANT: Candidații care au confirmat în prima rundă nu mai trebuie să confirme și în runda 2. Candidații respinși în prima rundă trebuie să confirme locul obținut în runda 2; nefinalizarea procedurii de confirmari, in termenul afisat, atrage eliminarea candidatului din concurs, inclusiv pentru studentii declarati nou admisi.**
+
+Candidații pentru care pe coloana "ADMIS LA OPT" nu apare scris nimic NU SUNT ADMIȘI.
+
+Calendarul pentru a doua rundă de confirmări este miercuri 13 iulie, orele 9-14.
+
+Pentru confirmare, sunt obligatorii plata taxei de confirmare și, pentru candidații nou admiși pe locuri fără taxă, depunerea la dosar a **diplomei sau adeverinței de licență** în **ORIGINAL** si **foaia matricola** tot in **ORIGINAL**. 
+
+1. Plata taxei de confirmare se poate face:
+
+   * Din aplicația de admitere Enroll, cu cardul bancar (preferabil)
+   * Prin transfer bancar în contul UPT și încărcare a dovezii plății în aplicația de admitere Enroll
+2. Depunerea dosarului cu toate actele necesare se poate face:
+
+   * În biroul de confirmări, corpul B, clădirea Electro, sala B512 (daca prima optiune la inscriere a fost la SE, CCIOT, ML, IT) sau sala B615 (altfel), într-un dosar plic, ce contine in **ORIGINAL** adeverinta/diploma, 2 poze color, situatia scolara/foaie matricola/supliment la diploma in **ORIGINAL**, si adeverinta medicala.
+
+
+
+
 ## Rezultate admitere master - runda I
 
 <Attachment label="Rezultate concurs admitere master - runda I" file="/uploads/6m-rezultate-r0-v2.pdf"></Attachment>
