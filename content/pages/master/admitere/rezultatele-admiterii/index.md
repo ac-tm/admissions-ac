@@ -9,6 +9,8 @@ fullPath: master/admitere/rezultatele-admiterii
 
 <Attachment label="Rezultate concurs admitere master - runda I" file="/uploads/6m-rezultate-r0-v2.pdf"></Attachment>
 
+**[Rezultate români de pretutindeni](https://upt.ro/img/files/2022-2023/Admitere/ROP/Rez.ROP-master-iulie-2023.pdf)**
+
 **IMPORTANT: Candidatii trebuie sa confirme locul obtinut! Nefinalizarea procedurii de confirmari, in termenul afisat, atrage eliminarea candidatului din concurs, inclusiv pentru studentii declarati admisi.**
 
 Candidații pentru care pe coloana "ADMIS LA OPT" nu apare scris nimic NU SUNT ADMIȘI în prima rundă.
