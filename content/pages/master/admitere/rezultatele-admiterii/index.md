@@ -5,6 +5,16 @@ image:
   src: https://aielpo.eplo.int/wp-content/uploads/2021/01/admission.jpg
 fullPath: master/admitere/rezultatele-admiterii
 ---
+## Rezultate admitere master, etapa 1
+
+Rezultate după a doua rundă de confirmări:
+
+<Attachment label="Rezultate etapa 1" file="/uploads/6m-rezultate-r2-20230713.pdf"></Attachment>
+
+<Attachment label="Candidați respinși etapa 1" file="/uploads/6m-respinși-20230713.pdf"></Attachment>
+
+<Attachment label="Rezultate candidați Români de Pretutindeni pe site-ul dedicat" external="https://upt.ro/Informatii_romani-de-pretutindeni---admitere-master_1498_ro.html"></Attachment>
+
 ## Rezultate admitere master, etapa 1, runda 2
 
 Rezultate după prima rundă de confirmări:
@@ -30,9 +40,6 @@ Pentru confirmare, sunt obligatorii plata taxei de confirmare și, pentru candid
 2. Depunerea dosarului cu toate actele necesare se poate face:
 
    * În biroul de confirmări, corpul B, clădirea Electro, sala B512 (daca prima optiune la inscriere a fost la SE, CCIOT, ML, IT) sau sala B615 (altfel), într-un dosar plic, ce contine in **ORIGINAL** adeverinta/diploma, 2 poze color, situatia scolara/foaie matricola/supliment la diploma in **ORIGINAL**, si adeverinta medicala.
-
-
-
 
 ## Rezultate admitere master - runda I
 
