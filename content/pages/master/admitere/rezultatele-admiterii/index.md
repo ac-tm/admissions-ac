@@ -17,7 +17,7 @@ Rezultate finale ale etapei 1, după rundele de confirmări:
 
 <Attachment label="Rezultate candidați Români de Pretutindeni pe site-ul dedicat" external="https://upt.ro/Informatii_romani-de-pretutindeni---admitere-master_1498_ro.html"></Attachment>
 
-Reveniți pentru anunțuri despre precazare și calendarul de plată a taxei de studii.
+ℹ️ Reveniți pentru anunțuri despre precazare și calendarul de plată a taxei de studii.
 
 </Block>
 
