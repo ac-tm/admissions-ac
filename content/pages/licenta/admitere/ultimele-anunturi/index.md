@@ -5,6 +5,10 @@ image:
   src: /uploads/warning.jpg
 fullPath: licenta/admitere/ultimele-anunturi
 ---
+#### **Informații cu privire la concursul de admitere de luni, 17 iulie 2023 (probă matematică și interviu portofolii de realizări)**
+
+<Block color="green">
+
 **Programare interviu portofoliu - 17 iulie 2023**
 
 **[Reguli impuse în timpul examenului (acces 8:30-9:45, folosirea mijloacelor tehnice de calcul, etc.)](https://admitere.ac.upt.ro/uploads/040-reguli-acces-sala-examen.pdf)**
@@ -13,8 +17,15 @@ fullPath: licenta/admitere/ultimele-anunturi
 
 **[În atenţia candidaţilor la concursul de admitere](https://admitere.ac.upt.ro/uploads/020-anunt-candidati-celulare.pdf)**
 
-**Rezultate portofoliu (Etapa 1)**
+</Block>
+
+<Block color="yellow">
+
+#### **Rezultate portofoliu (Etapa 1)**
+
 •	Rezultatele preselecției portofoliului de realizări
+
+</Block>
 
 **Informații cu privire la cazarea în cămine pentru studenții admiși în anul I se găsesc [aici](https://admitere.ac.upt.ro/uploads/info-utile-2023.pdf).**
 
