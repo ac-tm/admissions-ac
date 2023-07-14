@@ -5,17 +5,14 @@ image:
   src: /uploads/warning.jpg
 fullPath: licenta/admitere/ultimele-anunturi
 ---
-### **Informații cu privire la concursul de admitere de luni, 17 iulie 2023 (probă matematică și interviu portofolii de realizări)**
-
 <Block color="green">
 
-**Programare interviu portofoliu - 17 iulie 2023**
+### **Informații cu privire la concursul de admitere de luni, 17 iulie 2023 (probă matematică și interviu portofolii de realizări)**
 
-**[Reguli impuse în timpul examenului (acces 8:30-9:45, folosirea mijloacelor tehnice de calcul, etc.)](https://admitere.ac.upt.ro/uploads/040-reguli-acces-sala-examen.pdf)**
-
-**[Amplasare săli de examen (adrese, coordonate GPS, etc.)](https://admitere.ac.upt.ro/uploads/010-amplasare-sali-de-examen.pdf)** (**[harta](https://admitere.ac.upt.ro/uploads/harta-sali.pdf)**)
-
-**[În atenţia candidaţilor la concursul de admitere](https://admitere.ac.upt.ro/uploads/020-anunt-candidati-celulare.pdf)**
+* **Programare interviu portofoliu - 17 iulie 2023**
+* **[Reguli impuse în timpul examenului (acces 8:30-9:45, folosirea mijloacelor tehnice de calcul, etc.)](https://admitere.ac.upt.ro/uploads/040-reguli-acces-sala-examen.pdf)**
+* **[Amplasare săli de examen (adrese, coordonate GPS, etc.)](https://admitere.ac.upt.ro/uploads/010-amplasare-sali-de-examen.pdf)** (**[harta](https://admitere.ac.upt.ro/uploads/harta-sali.pdf)**)
+* **[În atenţia candidaţilor la concursul de admitere](https://admitere.ac.upt.ro/uploads/020-anunt-candidati-celulare.pdf)**
 
 </Block>
 
