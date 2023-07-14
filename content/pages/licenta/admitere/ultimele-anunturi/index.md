@@ -5,7 +5,7 @@ image:
   src: /uploads/warning.jpg
 fullPath: licenta/admitere/ultimele-anunturi
 ---
-#### **Informații cu privire la concursul de admitere de luni, 17 iulie 2023 (probă matematică și interviu portofolii de realizări)**
+### **Informații cu privire la concursul de admitere de luni, 17 iulie 2023 (probă matematică și interviu portofolii de realizări)**
 
 <Block color="green">
 
