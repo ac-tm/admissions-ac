@@ -7,7 +7,7 @@ fullPath: licenta/admitere/ultimele-anunturi
 ---
 **Programare interviu portofoliu - 17 iulie 2023**
 
-**[Reguli impuse în timpul examenului (acces 8:30-9:45, folosirea mijloacelor tehnice de calcul, etc.)](https://admitere.ac.upt.ro/static/uploads/040-reguli-acces-sala-examen.pdf)**
+**[Reguli impuse în timpul examenului (acces 8:30-9:45, folosirea mijloacelor tehnice de calcul, etc.)](https://admitere.ac.upt.ro/uploads/040-reguli-acces-sala-examen.pdf)**
 
 **[Amplasare săli de examen (adrese, coordonate GPS, etc.)](https://admitere.ac.upt.ro/uploads/010-amplasare-sali-de-examen.pdf)** (harta)
 
