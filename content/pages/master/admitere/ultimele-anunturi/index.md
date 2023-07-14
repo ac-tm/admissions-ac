@@ -5,7 +5,7 @@ image:
   src: /uploads/warning.jpg
 fullPath: master/admitere/ultimele-anunturi
 ---
-## Înscrieri admitere master, etapa 2
+## 📂 Înscrieri admitere master, etapa 2
 
 A﻿u început înscrierile în a doua etapă a concursului de admitere, [pe locurile rămase libere](/master/admitere/master/).
 
