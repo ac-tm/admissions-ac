@@ -7,7 +7,8 @@ fullPath: master/admitere/ultimele-anunturi
 ---
 ## Rezultate admitere master, etapa 1
 
-**S-au afișat rezultatele finale ale etapei 1, după rundele de confirmări**
+**S-au afișat rezultatele finale ale etapei 1, după rundele de confirmări.**
+
 Reveniți pentru anunțuri despre precazare și calendarul de plată a taxei de studii.
 
 <Attachment label="Rezultate etapa 1" internal="master/admitere/rezultatele-admiterii"></Attachment>
