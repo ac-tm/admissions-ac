@@ -5,7 +5,11 @@ image:
   src: /uploads/warning.jpg
 fullPath: master/admitere/ultimele-anunturi
 ---
-## Rezultate admitere master, etapa 1
+## Înscrieri admitere master, etapa 2
+
+A﻿u început înscrierile în a doua etapă a concursului de admitere, [pe locurile rămase libere](/master/admitere/master/).
+
+## 📰 Rezultate admitere master, etapa 1
 
 **S-au afișat rezultatele finale ale etapei 1, după rundele de confirmări.**
 
