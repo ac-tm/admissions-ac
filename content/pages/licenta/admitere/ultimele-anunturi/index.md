@@ -7,27 +7,21 @@ fullPath: licenta/admitere/ultimele-anunturi
 ---
 <Block color="blue">
 
-#### Listele candidaților înscriși la secțiunea 6 (concurs cu probe) și repartizare pe sălile de examen:
+#### **Listele candidaților înscriși la secțiunea 6 (concurs cu probe) și repartizare pe sălile de examen:**
 
-* [Bacalaureat](https://admitere.ac.upt.ro/uploads/6l-inscrisi-b.pdf)
-* [Cu premii la competiții agreate, admitere cu media 10](https://admitere.ac.upt.ro/uploads/6l-inscrisi-o-admitere-.pdf)
-* [Cu premii la competiții agreate, echivalare probă cu nota 10](https://admitere.ac.upt.ro/uploads/6l-inscrisi-o-proba-.pdf)
-* [Absolvent liceu mediul rural](https://admitere.ac.upt.ro/uploads/6l-inscrisi-u.pdf)
-* [Studenți](https://admitere.ac.upt.ro/uploads/6l-inscrisi-s.pdf)
-* [SRI](https://admitere.ac.upt.ro/uploads/6l-inscrisi-sri.pdf)
-* [Licențiați](https://admitere.ac.upt.ro/uploads/6l-inscrisi-l.pdf)
+* **[Bacalaureat](https://admitere.ac.upt.ro/uploads/6l-inscrisi-b.pdf)**
+* **[Cu premii la competiții agreate, admitere cu media 10](https://admitere.ac.upt.ro/uploads/6l-inscrisi-o-admitere-.pdf)**
+* **[Cu premii la competiții agreate, echivalare probă cu nota 10](https://admitere.ac.upt.ro/uploads/6l-inscrisi-o-proba-.pdf)**
+* **[Absolvent liceu mediul rural](https://admitere.ac.upt.ro/uploads/6l-inscrisi-u.pdf)**
+* **[Studenți](https://admitere.ac.upt.ro/uploads/6l-inscrisi-s.pdf)**
+* **[SRI](https://admitere.ac.upt.ro/uploads/6l-inscrisi-sri.pdf)**
+* **[Licențiați](https://admitere.ac.upt.ro/uploads/6l-inscrisi-l.pdf)**
 
 **Vă rugăm să verificați opțiunile din listele de mai sus iar problemele apărute vă rugăm să le transmiteți pe emailul: [admitere.ac@upt.ro](admitere.ac@upt.ro).**
 
-<Block color="red">
+#### **Accesul în sala de examen se va face în intervalul 8:30 - 9:45, examenul va începe la ora 10:00.** 
 
-**Accesul în sala de examen se va face în intervalul 8:30 - 9:45, examenul va începe la ora 10:00.** 
-
-**Citiți informațiile cu privire la concursul de admitere de luni, de mai jos!**
-
-</Block>
-
-
+#### **Citiți informațiile cu privire la concursul de admitere de luni, de mai jos!**
 
 </Block>
 
