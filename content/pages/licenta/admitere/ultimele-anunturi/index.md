@@ -19,9 +19,15 @@ fullPath: licenta/admitere/ultimele-anunturi
 
 **Vă rugăm să verificați opțiunile din listele de mai sus iar problemele apărute vă rugăm să le transmiteți pe emailul: [admitere.ac@upt.ro](admitere.ac@upt.ro).**
 
+<Block color="red">
+
 **Accesul în sala de examen se va face în intervalul 8:30 - 9:45, examenul va începe la ora 10:00.** 
 
-**Citiți informațiile de mai jos!** 
+**Citiți informațiile cu privire la concursul de admitere de luni, de mai jos!**
+
+</Block>
+
+
 
 </Block>
 
