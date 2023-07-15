@@ -7,7 +7,7 @@ fullPath: licenta/admitere/ultimele-anunturi
 ---
 <Block color="blue">
 
-#### **Listele candidaților înscriși la secțiunea 6 (concurs cu probe) și repartizare pe sălile de examen:**
+#### **Listele candidaților înscriși la secțiunea 6 (concurs cu probe) și repartizarea pe sălile de examen:**
 
 * **[Bacalaureat](https://admitere.ac.upt.ro/uploads/6l-inscrisi-b.pdf)**
 * **[Cu premii la competiții agreate, admitere cu media 10](https://admitere.ac.upt.ro/uploads/6l-inscrisi-o-admitere-.pdf)**
