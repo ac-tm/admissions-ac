@@ -46,7 +46,7 @@ fullPath: licenta/admitere/ultimele-anunturi
 
 **Informații cu privire la cazarea în cămine pentru studenții admiși în anul I se găsesc [aici](https://admitere.ac.upt.ro/uploads/info-utile-2023.pdf).**
 
-**Pentru cei care susțin proba de matematică** la Facultatea de Automatică și Calculatoare **în data de 17 iulie 2023**, **oferim cazare** în căminul 2MV, la tariful de 35,00 lei/persoană/noapte. Rezervări și alte informații se pot obține la numărul de telefon 0256-404075.
+**Pentru cei care susțin proba de matematică** la Facultatea de Automatică și Calculatoare, **în data de 17 iulie 2023**, **oferim cazare** în căminul 2MV, la tariful de 35,00 lei/persoană/noapte. Rezervări și alte informații se pot obține la numărul de telefon 0256-404075.
 
 **STATISTICI ÎNSCRIERI, 14 iulie 2023, ora 21:00**
 
