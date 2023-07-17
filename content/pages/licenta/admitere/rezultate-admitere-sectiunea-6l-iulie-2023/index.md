@@ -16,6 +16,12 @@ fullPath: licenta/admitere/rezultate-admitere-sectiunea-6l-iulie-2023
 
 **IMPORTANT: Candidații trebuie să confirme locul obținut! Nefinalizarea procedurii de confirmări, în termenul afișat, atrage eliminarea candidatului din concurs, inclusiv pentru cei declarați admisi.**
 
+<Block color="red">
+
+**Vă recomandăm să efectuați plata taxei de confirmare, online, cu cardul prin platforma Enroll. Menționăm că nu există categorii de studenți scutiți de la plata taxei de confirmare.**
+
+</Block>
+
 ## Confirmări Runda I
 
 18.07.2023 la 10:00 — 19.03.2023 la 16:00
