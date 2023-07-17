@@ -5,7 +5,7 @@ image:
   src: /uploads/warning.jpg
 fullPath: licenta/admitere/ultimele-anunturi
 ---
-#### **S-au afișat rezultatele admiterii la secțiunea 6L-AC:**
+#### **S-au afișat rezultatele admiterii la secțiunea 6L-AC, runda 1:**
 
 <Attachment label="Rezultate runda 1" internal="licenta/admitere/rezultate-admitere-sectiunea-6l-iulie-2023"></Attachment>
 
