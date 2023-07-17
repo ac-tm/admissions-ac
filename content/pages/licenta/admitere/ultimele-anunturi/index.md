@@ -5,6 +5,10 @@ image:
   src: /uploads/warning.jpg
 fullPath: licenta/admitere/ultimele-anunturi
 ---
+#### **S-au afișat rezultatele admiterii la secțiunea 6L-AC:**
+
+<Attachment label="Rezultate runda 1" internal="licenta/admitere/rezultate-admitere-sectiunea-6l-iulie-2023"></Attachment>
+
 <Block color="red">
 
 #### **Listele candidaților înscriși la secțiunea 6 (concurs cu probe) și repartizarea pe sălile de examen:**
