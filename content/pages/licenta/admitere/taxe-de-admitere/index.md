@@ -7,6 +7,8 @@ image:
   alt: Taxe de admitere
 fullPath: licenta/admitere/taxe-de-admitere
 ---
+**Taxa de școlarizare** pentru studenții declarați **admiși pe locurile cu taxă** în sesiunea iulie 2023 poate fi achitată în două rate egale. Prima rată trebuie achitată în perioada **31 iulie 2023 - 28 august 2023** conform [hotărârii 18883/19.07.2023](https://admitere.upt.ro/uploads/informare-18883-din-2023-7-19.pdf).
+
 *La licență*, [taxele de admitere](https://www.upt.ro/img/files/hca/2023/HCA_13_taxe_admitere_2023.pdf) pentru sesiunea iunie-septembrie 2023 sunt:
 
 **Taxa de înscriere:**
@@ -32,4 +34,5 @@ Universitatea Politehnica Timișoara\
 Cod FISCAL: **4269282**\
 Cont IBAN:  **RO90 BACX 0000 0030 1782 5061**  —  Taxe de MASTER prin Ordin de plată
 
-În situația plății în contul UniCredit, dovada plății va trebui să conțină următorul text: ”**Taxă de înscriere/confirmare admitere la**... (se va menționa [acronimul facultății](http://www.upt.ro/img/files/2019-2020/admitere/licenta/Acronime_facultati.pdf)) **pentru***...* (se va menționa numele complet al candidatului)”, de exemplu: **Taxă de înscriere la AC pentru RUSU Adrian**
+\*În situația plății în contul UniCredit, dovada plății va trebui să conțină următorul text: ”**L, ADM/CONF** (se alege în funcție de tipul taxei – pentru taxa de înscriere se menționează ADM, iar pentru taxa de confirmare de menționează CONF) **la …** (se va menționa *[acronimul facultății](http://upt.ro/img/files/2021-2022/Admitere/Acronime_facultati.pdf)*) , **CNP candidat, NUME candidat** (se va menționa numele complet al candidatului)”.\
+Exemplu: **L, ADM, AC, 2900000000000, Ionescu Flavia Ionela**
