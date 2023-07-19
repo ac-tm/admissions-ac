@@ -48,7 +48,7 @@ fullPath: licenta/admitere/ultimele-anunturi
 
 **Pentru cei care susțin proba de matematică** la Facultatea de Automatică și Calculatoare **în data de 17 iulie 2023**, **oferim cazare** în căminul 2MV, la tariful de 35,00 lei/persoană/noapte. Rezervări și alte informații se pot obține la numărul de telefon 0256-404075.
 
-**STATISTICI ÎNSCRIERI, 18 iulie 2023, ora 21:00**
+**STATISTICI ÎNSCRIERI, 19 iulie 2023, ora 21:00**
 
 Următorul tabel prezintă numărul total de candidați înscriși, precum și distribuția acestora la secțiunile 6L, 12L și 10DL, pentru admiterea la **Facultatea de Automatică și Calculatoare**. Tabelele prezintă numărul de candidați înscriși luând în calcul numai prima lor opțiune.
 
@@ -64,10 +64,10 @@ Următorul tabel prezintă numărul total de candidați înscriși, precum și d
 
 | 12L - Automatică și Calculatoare (AC) - concurs de dosare | Candidați înscriși |
 | --------------------------------------------------------- | ------------------ |
-| Informatică - limba română - fără taxă                    | 761                |
-| Informatică - limba română - cu taxă                      | 52                 |
-| **TOTAL**                                                 | **813**            |
+| Informatică - limba română - fără taxă                    | 801                |
+| Informatică - limba română - cu taxă                      | 54                 |
+| **TOTAL**                                                 | **855**            |
 
 | 10DL - Automatică și Calculatoare - învățământ la distanță | Candidați înscriși |
 | ---------------------------------------------------------- | ------------------ |
-| Informatică - învățământ la distanță (ID) - cu taxă        | 197                |
+| Informatică - învățământ la distanță (ID) - cu taxă        | 205                |
