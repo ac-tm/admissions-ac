@@ -7,6 +7,8 @@ fullPath: licenta/admitere/ultimele-anunturi
 ---
 **Taxa de școlarizare** pentru studenții declarați **admiși pe locurile cu taxă** în sesiunea iulie 2023 poate fi achitată în două rate egale. Prima rată trebuie achitată în perioada **31 iulie 2023 - 28 august 2023** conform [hotărârii 18883/19.07.2023](https://admitere.upt.ro/uploads/informare-18883-din-2023-7-19.pdf).
 
+**Informații cu privire la cazarea în cămine pentru studenții admiși în anul I se găsesc [aici](https://admitere.ac.upt.ro/uploads/info-utile-2023.pdf).**
+
 #### **S-au afișat rezultatele admiterii la secțiunea 6L-AC, runda 1:**
 
 <Attachment label="Rezultate runda 1" internal="licenta/admitere/rezultate-admitere-sectiunea-6l-iulie-2023"></Attachment>
@@ -43,8 +45,6 @@ fullPath: licenta/admitere/ultimele-anunturi
 #### **Rezultate portofoliu (Etapa 1)**
 
 •	[Rezultatele preselecției portofoliului de realizări](https://admitere.ac.upt.ro/uploads/rezultate_portofoliu2023_etapa1.pdf)
-
-**Informații cu privire la cazarea în cămine pentru studenții admiși în anul I se găsesc [aici](https://admitere.ac.upt.ro/uploads/info-utile-2023.pdf).**
 
 **Pentru cei care susțin proba de matematică** la Facultatea de Automatică și Calculatoare **în data de 17 iulie 2023**, **oferim cazare** în căminul 2MV, la tariful de 35,00 lei/persoană/noapte. Rezervări și alte informații se pot obține la numărul de telefon 0256-404075.
 
