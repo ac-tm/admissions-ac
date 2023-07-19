@@ -13,11 +13,11 @@ fullPath: licenta/admitere/rezultate-admitere-sectiunea-6l-iulie-2023
 
 ## Rezultate admitere secțiunea 6L-AC, runda 2
 
-* [Bacalaureat - admiși](https://admitere.ac.upt.ro/uploads/6l-admisi-bac-runda-2-2023.pdf)
-* [Cu premii la competiții agreate, admitere cu media 10](https://admitere.ac.upt.ro/uploads/6l-admisi-olimpici-runda2-2023.pdf)
-* [Cu premii la competiții agreate, echivalare probă cu nota 10](https://admitere.ac.up.ro/uploads/6l-admisi-nota10-runda2-2023.pdf)
-* [Absolvent liceu mediul rural](https://admitere.ac.upt.ro/uploads/6l-admisi-rural-runda2-2023.pdf)
-* [SRI](https://admitere.ac.upt.ro/uploads/6l-admisi-sri-runda2-2023.pdf)
+* Bacalaureat - admiși
+* Cu premii la competiții agreate, admitere cu media 10
+* Cu premii la competiții agreate, echivalare probă cu nota 10
+* Absolvent liceu mediul rural
+* SRI
 
 **IMPORTANT: Candidații care au confirmat în prima rundă nu mai trebuie să confirme și în runda 2. Candidații respinși în prima rundă trebuie să confirme locul obținut în runda 2; nefinalizarea procedurii de confirmari, in termenul afisat, atrage eliminarea candidatului din concurs, inclusiv pentru studentii declarati nou admisi.**
 
