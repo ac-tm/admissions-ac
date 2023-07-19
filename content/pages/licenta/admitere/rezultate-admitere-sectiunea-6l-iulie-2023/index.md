@@ -13,11 +13,7 @@ fullPath: licenta/admitere/rezultate-admitere-sectiunea-6l-iulie-2023
 
 ## Rezultate admitere secțiunea 6L-AC, runda 2
 
-* Bacalaureat - admiși
-* Cu premii la competiții agreate, admitere cu media 10
-* Cu premii la competiții agreate, echivalare probă cu nota 10
-* Absolvent liceu mediul rural
-* SRI
+* Rezultatele de la runda 2 se pot verifica în contul fiecărui candidat de pe platforma Enroll.
 
 **IMPORTANT: Candidații care au confirmat în prima rundă nu mai trebuie să confirme și în runda 2. Candidații respinși în prima rundă trebuie să confirme locul obținut în runda 2; nefinalizarea procedurii de confirmari, in termenul afisat, atrage eliminarea candidatului din concurs, inclusiv pentru studentii declarati nou admisi.**
 
