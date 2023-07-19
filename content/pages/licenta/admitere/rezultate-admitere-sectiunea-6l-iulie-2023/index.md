@@ -11,6 +11,27 @@ fullPath: licenta/admitere/rezultate-admitere-sectiunea-6l-iulie-2023
 
 </Block>
 
+## Rezultate admitere secțiunea 6L-AC, runda 2
+
+* [Bacalaureat - admiși](https://admitere.ac.upt.ro/uploads/6l-admisi-bac-runda-2-2023.pdf)
+* [Cu premii la competiții agreate, admitere cu media 10](https://admitere.ac.upt.ro/uploads/6l-admisi-olimpici-runda2-2023.pdf)
+* [Cu premii la competiții agreate, echivalare probă cu nota 10](https://admitere.ac.up.ro/uploads/6l-admisi-nota10-runda2-2023.pdf)
+* [Absolvent liceu mediul rural](https://admitere.ac.upt.ro/uploads/6l-admisi-rural-runda2-2023.pdf)
+* [SRI](https://admitere.ac.upt.ro/uploads/6l-admisi-sri-runda2-2023.pdf)
+* Rezultate concurs admitere + liste așteptare + respinși
+
+**IMPORTANT: Candidații care au confirmat în prima rundă nu mai trebuie să confirme și în runda 2. Candidații respinși în prima rundă trebuie să confirme locul obținut în runda 2; nefinalizarea procedurii de confirmari, in termenul afisat, atrage eliminarea candidatului din concurs, inclusiv pentru studentii declarati nou admisi.**
+
+## Confirmări Runda II
+
+20.07.2023 ora 10:00 — 20.07.2023 ora 16:00
+
+**Fizic la facultate**: 20.07.2023, 10:00 - 16:00
+
+**Fizic în centrele zonale de admitere**: 20.07.2023, 10:00 - 16:00
+
+**Online prin [Enroll](https://enroll.upt.ro/)**: 20.07.2023, până la ora 16:00 (**DOAR DACĂ** dosarul de înscriere conține **originalul diplomei de bacalaureat** și **foaia matricolă** sau **se confirmă un loc cu taxă**)
+
 ## Rezultate admitere secțiunea 6L-AC, runda I
 
 * [Bacalaureat - admiși](https://admitere.ac.upt.ro/uploads/6l-r0-admisir123.pdf)
