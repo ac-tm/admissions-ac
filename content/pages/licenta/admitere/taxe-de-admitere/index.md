@@ -7,6 +7,8 @@ image:
   alt: Taxe de admitere
 fullPath: licenta/admitere/taxe-de-admitere
 ---
+**Taxa de școlarizare** pentru studenții declarați **admiși pe locurile cu taxă** în sesiunea iulie 2023 poate fi achitată în două rate egale. Prima rată trebuie achitată în perioada **31 iulie 2023 - 28 august 2023** conform [hotărârii 18883/19.07.2023](https://admitere.upt.ro/uploads/informare-18883-din-2023-7-19.pdf).
+
 *La licență*, [taxele de admitere](https://www.upt.ro/img/files/hca/2023/HCA_13_taxe_admitere_2023.pdf) pentru sesiunea iunie-septembrie 2023 sunt:
 
 **Taxa de înscriere:**
