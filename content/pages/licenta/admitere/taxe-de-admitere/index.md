@@ -19,7 +19,7 @@ fullPath: licenta/admitere/taxe-de-admitere
 
 *Obs.: Taxa de înscriere oferă candidatului posibilitatea de a participa la concursul de admitere organizat la maxim două secțiuni. Dacă un candidat se înscrie la mai mult de două secțiuni, va trebui să achite mai multe taxe conform regulii de mai sus.*
 
-**Taxa de confirmare: *100 lei***pentru toate  formele de învățământ și toate tipurile de concurs;
+**Taxa de confirmare: *100 lei*** pentru toate  formele de învățământ și toate tipurile de concurs;
 
 **Taxa de solicitare a echivalării studiilor absolvite: *150 lei;*** se percepe doar candidaților declarați admiși și trebuie achitată deodată cu taxa de confirmare; 
 
