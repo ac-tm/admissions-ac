@@ -11,6 +11,19 @@ fullPath: master/admitere/ultimele-anunturi
 
 A﻿u început înscrierile în **a doua etapă** a concursului de admitere, [pe locurile rămase libere](/master/admitere/master/).
 
+### Candidați înscriși la finalul zilei de 19 iulie: 15
+
+| **Program** | **Candidați** |
+| ----------- | ------------- |
+| AES         | 4             |
+| ISA         | 3             |
+| SIIS        | 2             |
+| TCCIOT      | 2             |
+| TGD         | 1             |
+| TSE         | 1             |
+| TSISC       | 1             |
+| TTI         | 1             |
+
 ## 📰 Rezultate admitere master, etapa 1
 
 S-au afișat **rezultatele finale ale etapei 1**, după rundele de confirmări.
