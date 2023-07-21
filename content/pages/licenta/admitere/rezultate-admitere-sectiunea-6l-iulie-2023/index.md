@@ -5,9 +5,19 @@ image:
   src: /uploads/accepted-application.jpg
 fullPath: licenta/admitere/rezultate-admitere-sectiunea-6l-iulie-2023
 ---
-<Block color="red">
+## Rezultate finale admitere secțiunea 6L-AC
 
-**Vă recomandăm să efectuați plata taxei de confirmare, online, cu cardul prin platforma Enroll. Menționăm că nu există categorii de studenți scutiți de la plata taxei de confirmare.**
+* **[Bacalaureat](https://admitere.ac.upt.ro/uploads/6l-finale-b.pdf)**
+* **[Cu premii la competiții agreate, admitere cu media 10](https://admitere.ac.upt.ro/uploads/6l-finale-o1.pdf)**
+* **[Cu premii la competiții agreate, echivalare probă cu nota 10](https://admitere.ac.upt.ro/uploads/6l-finale-o2.pdf)**
+* **[Absolvent liceu mediul rural](https://admitere.ac.upt.ro/uploads/6l-finale-rurali.pdf)**
+* **[SRI](https://admitere.ac.upt.ro/uploads/6l-finale-sri.pdf)**
+
+<Block color="yellow">
+
+**Taxa de școlarizare** pentru studenții declarați **admiși pe locurile cu taxă** în sesiunea iulie 2023 poate fi achitată în două rate egale. Prima rată trebuie achitată în perioada **31 iulie 2023 - 28 august 2023** conform [hotărârii 18883/19.07.2023](https://admitere.ac.upt.ro/uploads/informare-18883-din-2023-7-19.pdf).
+
+**Informații cu privire la cazarea în cămine pentru studenții admiși în anul I se găsesc [aici](https://admitere.ac.upt.ro/uploads/info-utile-2023.pdf).**
 
 </Block>
 
@@ -21,6 +31,8 @@ fullPath: licenta/admitere/rezultate-admitere-sectiunea-6l-iulie-2023
 * [Rezultate concurs admitere + liste așteptare + respinși](https://admitere.ac.upt.ro/uploads/6l-rezultate-r3.pdf)
 
 **IMPORTANT: Candidații care au confirmat în una din primele 2 runde nu mai trebuie să confirme și în runda 3. Candidații respinși în primele runde și admiși acum trebuie să confirme locul obținut în runda 3; nefinalizarea procedurii de confirmari, in termenul afisat, atrage eliminarea candidatului din concurs, inclusiv pentru studentii declarati nou admisi.**
+
+**Vă recomandăm să efectuați plata taxei de confirmare, online, cu cardul prin platforma Enroll. Menționăm că nu există categorii de studenți scutiți de la plata taxei de confirmare.**
 
 ## Confirmări Runda III
 
