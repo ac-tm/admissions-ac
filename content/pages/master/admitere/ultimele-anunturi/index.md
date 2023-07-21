@@ -11,15 +11,15 @@ fullPath: master/admitere/ultimele-anunturi
 
 A﻿u început înscrierile în **a doua etapă** a concursului de admitere, [pe locurile rămase libere](/master/admitere/master/).
 
-### Candidați înscriși la finalul zilei de 19 iulie: 15
+### Candidați înscriși la finalul zilei de 20 iulie: 18
 
 | **Program** | **Candidați** |
 | ----------- | ------------- |
-| AES         | 4             |
-| ISA         | 3             |
+| AES         | 5﻿            |
+| ISA         | 4             |
 | SIIS        | 2             |
 | TCCIOT      | 2             |
-| TGD         | 1             |
+| TGD         | 2             |
 | TSE         | 1             |
 | TSISC       | 1             |
 | TTI         | 1             |
