@@ -5,7 +5,7 @@ image:
   src: /uploads/accepted-application.jpg
 fullPath: licenta/admitere/rezultate-admitere-sectiunea-6l-iulie-2023
 ---
-## Rezultate finale admitere secțiunea 6L-AC
+## **Rezultate finale admitere secțiunea 6L-AC**
 
 * **[Bacalaureat](https://admitere.ac.upt.ro/uploads/6l-finale-b.pdf)**
 * **[Cu premii la competiții agreate, admitere cu media 10](https://admitere.ac.upt.ro/uploads/6l-finale-o1.pdf)**
