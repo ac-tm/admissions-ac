@@ -9,9 +9,9 @@ fullPath: licenta/admitere/ultimele-anunturi
 
 **Informații cu privire la cazarea în cămine pentru studenții admiși în anul I se găsesc [aici](https://admitere.ac.upt.ro/uploads/info-utile-2023.pdf).**
 
-#### **S-au afișat rezultatele admiterii la secțiunea 6L-AC, runda 3:**
+#### **S-au afișat rezultatele finale ale admiterii la secțiunea 6L-AC:**
 
-<Attachment label="Rezultate runda 3" internal="licenta/admitere/rezultate-admitere-sectiunea-6l-iulie-2023"></Attachment>
+<Attachment label="Rezultate finale secțiunea 6L" internal="licenta/admitere/rezultate-admitere-sectiunea-6l-iulie-2023"></Attachment>
 
 <Block color="red">
 
