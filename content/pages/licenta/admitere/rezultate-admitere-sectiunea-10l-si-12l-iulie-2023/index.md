@@ -7,9 +7,19 @@ fullPath: licenta/admitere/rezultate-admitere-sectiunea-10l-si-12l-iulie-2023
 ---
 ## Rezultate admitere secțiunea 12L-AC și 10L-AC, runda 1
 
+<Block color="green">
+
 **Rezultatele de la Runda 1 se pot verifica în contul fiecărui candidat de pe platforma Enroll.**
 
-**IMPORTANT: Candidații admiși trebuie să confirme locul obținut! Nefinalizarea procedurii de confirmări, în termenul afișat, atrage eliminarea candidatului din concurs, inclusiv pentru cei declarați admisi.**
+</Block>
+
+<Block color="red">
+
+**IMPORTANT: Candidații admiși trebuie să confirme locul obținut! Nefinalizarea procedurii de confirmări, în termenul afișat, atrage eliminarea candidatului din concurs, inclusiv pentru cei declarați admiși.**
+
+**Vă recomandăm să efectuați plata taxei de confirmare, online, cu cardul prin platforma Enroll. Menționăm că nu există categorii de studenți scutiți de la plata taxei de confirmare.**
+
+</Block>
 
 ## Confirmări Runda I
 
