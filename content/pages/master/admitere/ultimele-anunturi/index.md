@@ -13,7 +13,7 @@ S﻿e recomandă prezența online cu cel puțin 30 de minute de ora programată.
 
 Fiecare candidat va pregăti o prezentare care poate să cuprindă: prezentarea și realizările candidatului, motivația pentru care optează pentru master, tematica (tema de studiu pentru disertație) pe care dorește să o abordeze la master, capacitatea de a planifica abordarea tematicii (un state of the art, o planificare a abordării tematicii, detalii tehnice necesare).
 
-<Attachment label="Programări interviu și date de conectare, marți 25 iulie" file="/uploads/Programare interviu master 6M+GD.pdf"></Attachment>
+<Attachment label="Programări interviu și date de conectare, marți 25 iulie" file="/uploads/programare-interviu-master-6m-gd.pdf"></Attachment>
 
 Datele de conectare (https://upt-ro.zoom.us/j/98721657651 Meeting ID: 987 2165 7651) au fost trimise candidaților prin e-mail la adresele înregistrate la înscriere de către secretarul de comisie stelian.nicola@upt.ro.
 
@@ -38,7 +38,7 @@ S-au încheiat înscrierile în **a doua etapă** a concursului de admitere, [pe
 
 | **Program** | **Candidați** |
 | ----------- | ------------- |
-| AES         | 8﻿             |
+| AES         | 8﻿            |
 | ISA         | 7             |
 | SIIS        | 2             |
 | TCCIOT      | 2             |
