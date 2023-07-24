@@ -9,7 +9,19 @@ fullPath: licenta/admitere/rezultate-admitere-sectiunea-10l-si-12l-iulie-2023
 
 <Block color="green">
 
-**Rezultatele de la Runda 1 se pot verifica în contul fiecărui candidat de pe platforma Enroll.**
+**[Bacalaureat](https://admitere.ac.upt.ro/uploads/12l-r1-admisi-bac.pdf)**
+
+**[Olimpici](https://admitere.ac.upt.ro/uploads/12l-r1-admisi-olimpic.pdf)**
+
+**[Centre de plasament](https://admitere.ac.upt.ro/uploads/12l-r1-admisi-plasament.pdf)**
+
+**[Rromi](https://admitere.ac.upt.ro/uploads/12l-r1-admisi-rrom.pdf)**
+
+**[Rural](https://admitere.ac.upt.ro/uploads/12l-r1-admisi-rurali.pdf)**
+
+**[SRI](https://admitere.ac.upt.ro/uploads/12l-r1-admisi-sri.pdf)**
+
+**[Studenți](https://admitere.ac.upt.ro/uploads/12l-r1-admisi-student.pdf)**
 
 </Block>
 
