@@ -47,6 +47,9 @@ A﻿u început înscrierile în **a doua etapă** a concursului de admitere, [pe
 | TSE         | 6             |
 | TSISC       | 2             |
 | TTI         | 3             |
+| TIT       | 1             |
+| TSIAPS| 1             |
+
 
 ## 📰 Rezultate admitere master, etapa 1
 
