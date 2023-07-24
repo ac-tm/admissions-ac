@@ -19,6 +19,14 @@ fullPath: licenta/admitere/rezultate-admitere-sectiunea-10l-si-12l-iulie-2023
 
 </Block>
 
+## Rezultate admitere secțiunea 10L-AC, runda 1
+
+<Block color="green">
+
+* **[Rezultate Candidați Admiși secțiunea 10L](https://elearning.upt.ro/wp-content/uploads/2023/07/Rezultate_10DL_Admisi_Iulie_2023.pdf)**
+
+</Block>
+
 <Block color="red">
 
 **IMPORTANT: Candidații admiși trebuie să confirme locul obținut! Nefinalizarea procedurii de confirmări, în termenul afișat, atrage eliminarea candidatului din concurs, inclusiv pentru cei declarați admiși.**
