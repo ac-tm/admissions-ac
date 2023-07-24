@@ -5,7 +5,7 @@ image:
   src: /uploads/accepted-application.jpg
 fullPath: licenta/admitere/rezultate-admitere-sectiunea-10l-si-12l-iulie-2023
 ---
-## Rezultate admitere secțiunea 12L-AC și 10L-AC, runda 1
+## Rezultate admitere secțiunea 12L-AC, runda 1
 
 <Block color="green">
 
