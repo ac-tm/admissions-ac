@@ -5,15 +5,26 @@ image:
   src: /uploads/warning.jpg
 fullPath: master/admitere/ultimele-anunturi
 ---
-**Taxa de școlarizare** pentru studenții declarați **admiși pe locurile cu taxă** în sesiunea iulie 2023 poate fi achitată în două rate egale. Prima rată trebuie achitată în perioada **31 iulie 2023 - 28 august 2023** conform [hotărârii 18883/19.07.2023](https://admitere.ac.upt.ro/uploads/informare-18883-din-2023-7-19.pdf).
+## Programarea la interviu, etapa 2
+
+Interviul de admitere se va desfășura online în data de marți 25 iulie 2023.
+
+S﻿e recomandă prezența online cu cel puțin 30 de minute de ora programată. Candidații care nu participă la interviu vor fi eliminați din concurs.
+
+Fiecare candidat va pregăti o prezentare care poate să cuprindă: prezentarea și realizările candidatului, motivația pentru care optează pentru master, tematica (tema de studiu pentru disertație) pe care dorește să o abordeze la master, capacitatea de a planifica abordarea tematicii (un state of the art, o planificare a abordării tematicii, detalii tehnice necesare).
+
+<Attachment label="Programări interviu și date de conectare, marți 25 iulie" file="/uploads/Programare interviu master 6M+GD.pdf"></Attachment>
+
+
+Datele de conectare (https://upt-ro.zoom.us/j/98721657651 Meeting ID: 987 2165 7651) au fost trimise candidaților prin e-mail la adresele înregistrate la înscriere de către secretarul de comisie stelian.nicola@upt.ro.
 
 ## Liste de verificare, etapa 2
 
 Toți candidații sunt obligați să verifice în lista de mai jos validitatea datelor de concurs.
 
-<Attachment label="Liste de verificare Enroll" file="/uploads/6m-liste-verificare-20230709.pdf"></Attachment>
+<Attachment label="Liste de verificare Enroll" file="/uploads/6m-liste-verificare-20230724.pdf"></Attachment>
 
-Eventualele contestații, pe adresa secretariatului care gestionează programul pe care l-ați precizat ca primă opțiune. Termen: **marți, 11 iulie 2023, ora 9:00**. 
+Eventualele contestații, pe adresa secretariatului care gestionează programul pe care l-ați precizat ca primă opțiune. Termen: **marți, 25 iulie 2023, ora 12:00**.
 
 * Candidații cu prima opțiune **AES, ISA, GD, SIAPS, SIIS, SISC, sau TI**:
   Adresă secretariat: secretariat.admitere@aut.upt.ro
@@ -28,7 +39,7 @@ A﻿u început înscrierile în **a doua etapă** a concursului de admitere, [pe
 
 | **Program** | **Candidați** |
 | ----------- | ------------- |
-| AES         | 5﻿             |
+| AES         | 5﻿            |
 | ISA         | 5             |
 | SIIS        | 2             |
 | TCCIOT      | 2             |
@@ -42,7 +53,7 @@ A﻿u început înscrierile în **a doua etapă** a concursului de admitere, [pe
 
 S-au afișat **rezultatele finale ale etapei 1**, după rundele de confirmări.
 
-Citiți mai sus despre calendarul de plată a **taxei de studii**.
+**Taxa de școlarizare** pentru studenții declarați **admiși pe locurile cu taxă** în sesiunea iulie 2023 poate fi achitată în două rate egale. Prima rată trebuie achitată în perioada **31 iulie 2023 - 28 august 2023** conform [hotărârii 18883/19.07.2023](https://admitere.ac.upt.ro/uploads/informare-18883-din-2023-7-19.pdf).
 
 Reveniți pentru anunțuri despre **precazare**.
 
