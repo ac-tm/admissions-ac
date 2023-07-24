@@ -34,19 +34,19 @@ Eventualele contestații, pe adresa secretariatului care gestionează programul 
 
 A﻿u început înscrierile în **a doua etapă** a concursului de admitere, [pe locurile rămase libere](/master/admitere/master/).
 
-### Candidați înscriși la finalul zilei de 21 iulie: 20
+### Candidați înscriși la finalul zilei de 24 iulie: 41
 
 | **Program** | **Candidați** |
 | ----------- | ------------- |
-| AES         | 5﻿            |
-| ISA         | 5             |
+| AES         | 8﻿            |
+| ISA         | 7             |
 | SIIS        | 2             |
 | TCCIOT      | 2             |
-| TGD         | 2             |
-| TML         | 1             |
-| TSE         | 1             |
-| TSISC       | 1             |
-| TTI         | 1             |
+| TGD         | 5             |
+| TML         | 4             |
+| TSE         | 6             |
+| TSISC       | 2             |
+| TTI         | 3             |
 
 ## 📰 Rezultate admitere master, etapa 1
 
