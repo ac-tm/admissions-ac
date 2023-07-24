@@ -9,19 +9,19 @@ fullPath: licenta/admitere/rezultate-admitere-sectiunea-10l-si-12l-iulie-2023
 
 <Block color="green">
 
-**[Bacalaureat](https://admitere.ac.upt.ro/uploads/12l-r1-admisi-bac.pdf)**
+**[Rezultate Candidați Tip Bacalaureat](https://admitere.ac.upt.ro/uploads/12l-r1-admisi-bac.pdf)**
 
-**[Olimpici](https://admitere.ac.upt.ro/uploads/12l-r1-admisi-olimpic.pdf)**
+**[Rezultate Candidați Olimpici](https://admitere.ac.upt.ro/uploads/12l-r1-admisi-olimpic.pdf)**
 
-**[Centre de plasament](https://admitere.ac.upt.ro/uploads/12l-r1-admisi-plasament.pdf)**
+**[Rezultate Candidați Centre de Plasament](https://admitere.ac.upt.ro/uploads/12l-r1-admisi-plasament.pdf)**
 
-**[Rromi](https://admitere.ac.upt.ro/uploads/12l-r1-admisi-rrom.pdf)**
+**[Rezultate Candidați Rromi](https://admitere.ac.upt.ro/uploads/12l-r1-admisi-rrom.pdf)**
 
-**[Rural](https://admitere.ac.upt.ro/uploads/12l-r1-admisi-rurali.pdf)**
+**[Rezultate Candidați Mediu Rural](https://admitere.ac.upt.ro/uploads/12l-r1-admisi-rurali.pdf)**
 
-**[SRI](https://admitere.ac.upt.ro/uploads/12l-r1-admisi-sri.pdf)**
+**[Rezultate Candidați locuri SRI](https://admitere.ac.upt.ro/uploads/12l-r1-admisi-sri.pdf)**
 
-**[Studenți](https://admitere.ac.upt.ro/uploads/12l-r1-admisi-student.pdf)**
+**[Rezultate Candidați Studenți](https://admitere.ac.upt.ro/uploads/12l-r1-admisi-student.pdf)**
 
 </Block>
 
