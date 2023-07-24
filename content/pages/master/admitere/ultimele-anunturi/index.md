@@ -15,7 +15,6 @@ Fiecare candidat va pregăti o prezentare care poate să cuprindă: prezentarea 
 
 <Attachment label="Programări interviu și date de conectare, marți 25 iulie" file="/uploads/Programare interviu master 6M+GD.pdf"></Attachment>
 
-
 Datele de conectare (https://upt-ro.zoom.us/j/98721657651 Meeting ID: 987 2165 7651) au fost trimise candidaților prin e-mail la adresele înregistrate la înscriere de către secretarul de comisie stelian.nicola@upt.ro.
 
 ## Liste de verificare, etapa 2
