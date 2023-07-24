@@ -21,7 +21,7 @@ Datele de conectare (https://upt-ro.zoom.us/j/98721657651 Meeting ID: 987 2165 7
 
 Toți candidații sunt obligați să verifice în lista de mai jos validitatea datelor de concurs.
 
-<Attachment label="Liste de verificare Enroll" file="/uploads/6m-liste-verificare-20230724.pdf"></Attachment>
+<Attachment label="Liste de verificare Enroll" file="/uploads/liste-verificare-20230724.pdf"></Attachment>
 
 Eventualele contestații, pe adresa secretariatului care gestionează programul pe care l-ați precizat ca primă opțiune. Termen: **marți, 25 iulie 2023, ora 12:00**.
 
