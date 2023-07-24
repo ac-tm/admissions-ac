@@ -32,7 +32,7 @@ Eventualele contestații, pe adresa secretariatului care gestionează programul 
 
 ## 📂 Înscrieri admitere master, etapa 2
 
-A﻿u început înscrierile în **a doua etapă** a concursului de admitere, [pe locurile rămase libere](/master/admitere/master/).
+S-au încheiat înscrierile în **a doua etapă** a concursului de admitere, [pe locurile rămase libere](/master/admitere/master/).
 
 ### Candidați înscriși la finalul zilei de 24 iulie: 41
 
