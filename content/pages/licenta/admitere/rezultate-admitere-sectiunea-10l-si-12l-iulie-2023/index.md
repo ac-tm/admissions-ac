@@ -17,6 +17,18 @@ fullPath: licenta/admitere/rezultate-admitere-sectiunea-10l-si-12l-iulie-2023
 
 </Block>
 
+**IMPORTANT: Candidații care au confirmat în prima rundă nu mai trebuie să confirme și în runda 2. Candidații respinși în prima rundă trebuie să confirme locul obținut în runda 2; nefinalizarea procedurii de confirmari, in termenul afisat, atrage eliminarea candidatului din concurs, inclusiv pentru studentii declarati nou admisi.**
+
+## Confirmări Runda II
+
+26.07.2023 la 09:00 — 27.07.2023 la 16:00
+
+**Fizic la facultate**: 26.07.2023 - 27.07.2023, 09:00 - 16:00
+
+**Fizic în centrele zonale de admitere**: 26.07.2023 - 27.07.2023, 09:00 - 16:00
+
+**Online prin [Enroll](https://enroll.upt.ro/)**: 26.07.2023 - 27.07.2023, până la ora 16:00 (**DOAR DACĂ** dosarul de înscriere conține **originalul diplomei de bacalaureat** și **foaia matricolă** sau **se confirmă un loc cu taxă**)
+
 ## Rezultate admitere secțiunea 12L-AC, runda 1
 
 <Block color="green">
