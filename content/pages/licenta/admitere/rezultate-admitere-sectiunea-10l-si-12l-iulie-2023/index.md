@@ -5,6 +5,18 @@ image:
   src: /uploads/accepted-application.jpg
 fullPath: licenta/admitere/rezultate-admitere-sectiunea-10l-si-12l-iulie-2023
 ---
+## Rezultate admitere secțiunea 12L-AC, runda 2
+
+<Block color="green">
+
+* **[Rezultate Candidați Tip Bacalaureat](https://admitere.ac.upt.ro/uploads/12l-r2-baci.pdf)**
+* **[Rezultate Candidați Centre de Plasament](https://admitere.ac.upt.ro/uploads/12l-r2-plasament.pdf)**
+* **[Rezultate Candidați Rromi](https://admitere.ac.upt.ro/uploads/12l-r2-rromi.pdf)**
+* **[Rezultate Candidați Mediu Rural](https://admitere.ac.upt.ro/uploads/12l-r2-rurali.pdf)**
+* **[Rezultate Candidați locuri SRI](https://admitere.ac.upt.ro/uploads/12l-r2-sri.pdf)**
+
+</Block>
+
 ## Rezultate admitere secțiunea 12L-AC, runda 1
 
 <Block color="green">
