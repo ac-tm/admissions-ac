@@ -5,9 +5,9 @@ image:
   src: https://aielpo.eplo.int/wp-content/uploads/2021/01/admission.jpg
 fullPath: master/admitere/rezultatele-admiterii
 ---
-## Rezultate admitere master - runda 2
+## Rezultate admitere master - runda 1 de confirmări
 
-<Attachment label="Rezultate concurs admitere master - runda 2" file="/uploads/6m-rezultate-e2-r1-20230725.pdf"></Attachment>
+<Attachment label="Rezultate interviu etapa 2 - runda 1 de confirmări" file="/uploads/6m-rezultate-e2-r1-20230725.pdf"></Attachment>
 
 **[Rezultate români de pretutindeni](https://upt.ro/img/files/2022-2023/Admitere/ROP/Rez.ROP-master-iulie-2023.pdf)**
 
