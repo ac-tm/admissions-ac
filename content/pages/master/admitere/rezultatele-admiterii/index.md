@@ -5,6 +5,30 @@ image:
   src: https://aielpo.eplo.int/wp-content/uploads/2021/01/admission.jpg
 fullPath: master/admitere/rezultatele-admiterii
 ---
+## Rezultate admitere master - runda 2
+
+<Attachment label="Rezultate concurs admitere master - runda 2" file="/uploads/6m-rezultate-e2-r1-20230725.pdf"></Attachment>
+
+**[Rezultate români de pretutindeni](https://upt.ro/img/files/2022-2023/Admitere/ROP/Rez.ROP-master-iulie-2023.pdf)**
+
+**IMPORTANT: Candidatii trebuie sa confirme locul obtinut! Nefinalizarea procedurii de confirmari, in termenul afisat, atrage eliminarea candidatului din concurs, inclusiv pentru studentii declarati admisi.**
+
+Candidații pentru care pe coloana "ADMIS LA OPT" nu apare scris nimic NU SUNT ADMIȘI în prima rundă.
+
+Calendarul pentru prima rundă de confirmări este miercuri 26 iulie între orele 9 și 14.
+
+Pentru confirmare, sunt obligatorii plata taxei de confirmare și, pentru candidații admiși pe locuri fără taxă, depunerea la dosar a **diplomei sau adeverinței de licență** în **ORIGINAL** si **foaia matricola** tot in **ORIGINAL**. 
+
+1. Plata taxei de confirmare se poate face:
+
+   * Din aplicația de admitere Enroll, cu cardul bancar (preferabil)
+   * Prin transfer bancar în contul UPT și încărcare a dovezii plății în aplicația de admitere Enroll
+2. Depunerea dosarului cu toate actele necesare se poate face:
+
+   * În biroul de confirmări, corpul B, clădirea Electro, sala B512 (daca prima optiune la inscriere a fost la SE, CCIOT, ML, IT) sau sala B615 (altfel), într-un dosar plic, ce contine in **ORIGINAL** adeverinta/diploma, 2 poze color, situatia scolara/foaie matricola/supliment la diploma in **ORIGINAL**, si adeverinta medicala.
+
+O eventuală rundă 2 de confirmări se va desfășura joi 24 iulie, orele 9-12.
+
 <Block color="green">
 
 ## Rezultate admitere master, etapa 1
