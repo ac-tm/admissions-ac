@@ -9,7 +9,7 @@ fullPath: master/admitere/rezultatele-admiterii
 
 Rezultate după prima rundă de confirmări:
 
-<Attachment label="Rezultate etapa 2, runda 2" file="/uploads/6m-rezultate-e2-final-20230726.pdf"></Attachment>
+<Attachment label="Rezultate etapa 2" file="/uploads/6m-rezultate-e2-final-20230726.pdf"></Attachment>
 
 <Attachment label="Candidați respinși etapa 2" file="/uploads/6m-respinși-final-20230726.pdf"></Attachment>
 
