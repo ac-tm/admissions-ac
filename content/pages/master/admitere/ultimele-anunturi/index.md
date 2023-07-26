@@ -5,19 +5,15 @@ image:
   src: /uploads/warning.jpg
 fullPath: master/admitere/ultimele-anunturi
 ---
-## 📰 Rezultate după interviu, etapa 2
+## 📰 Rezultate etapa 2
 
-S-au afișat **rezultatele inițiale ale etapei 2**, înainte de runda de confirmări.
+S-au afișat **rezultatele finale ale etapei 2**, după runda de confirmări.
 
 **Taxa de școlarizare** pentru studenții declarați **admiși pe locurile cu taxă** în sesiunea iulie 2023 poate fi achitată în două rate egale. Prima rată trebuie achitată în perioada **31 iulie 2023 - 28 august 2023** conform [hotărârii 18883/19.07.2023](https://admitere.ac.upt.ro/uploads/informare-18883-din-2023-7-19.pdf).
 
 Reveniți pentru anunțuri despre **precazare**.
 
 <Attachment label="Rezultate interviu etapa 2" internal="master/admitere/rezultatele-admiterii"></Attachment>
-
-### Rezultate români de pretutindeni
-
-<https://upt.ro/Informatii_romani-de-pretutindeni---admitere-master_1498_ro.html>
 
 ## Echivalare notă interviu
 
