@@ -16,8 +16,6 @@ fullPath: licenta/admitere/rezultate-admitere-sectiunea-10l-si-12l-iulie-2023
 * **Rezultate Candidați locuri SRI**
 * **[Rezultate Candidați Studenți](https://admitere.ac.upt.ro/uploads/12l-r3-studenti.pdf)**
 
-  </Block>
-
 ## Rezultate admitere secțiunea 10L-AC, runda 3
 
 <Block color="green">
@@ -37,8 +35,6 @@ fullPath: licenta/admitere/rezultate-admitere-sectiunea-10l-si-12l-iulie-2023
 **Fizic în centrele zonale de admitere**: 28.07.2023, 09:00 - 14:00
 
 **Online prin [Enroll](https://enroll.upt.ro/)**: 28.07.2023, până la ora 14:00 (**DOAR DACĂ** dosarul de înscriere conține **originalul diplomei de bacalaureat** și **foaia matricolă** sau **se confirmă un loc cu taxă**)
-
-
 
 ## Rezultate admitere secțiunea 12L-AC, runda 2
 
