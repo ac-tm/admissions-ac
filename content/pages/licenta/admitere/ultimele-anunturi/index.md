@@ -5,9 +5,9 @@ image:
   src: /uploads/warning.jpg
 fullPath: licenta/admitere/ultimele-anunturi
 ---
-#### **S-au afișat rezultatele rundei a 2-a la secțiunea 10L-AC și 12L-AC:**
+#### **S-au afișat rezultatele finale ale admiterii la secțiunea 10L-AC și 12L-AC:**
 
-<Attachment label="Rezultate Runda 2 10L și 12L-AC" internal="licenta/admitere/rezultate-admitere-sectiunea-10l-si-12l-iulie-2023"></Attachment>
+<Attachment label="Rezultate finale 10L și 12L-AC" internal="licenta/admitere/rezultate-admitere-sectiunea-10l-si-12l-iulie-2023"></Attachment>
 
 **Taxa de școlarizare** pentru studenții declarați **admiși pe locurile cu taxă** în sesiunea iulie 2023 poate fi achitată în două rate egale. Prima rată trebuie achitată în perioada **31 iulie 2023 - 28 august 2023** conform [hotărârii 18883/19.07.2023](https://admitere.ac.upt.ro/uploads/informare-18883-din-2023-7-19.pdf).
 
