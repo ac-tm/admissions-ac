@@ -5,6 +5,35 @@ image:
   src: /uploads/accepted-application.jpg
 fullPath: licenta/admitere/rezultate-admitere-sectiunea-10l-si-12l-iulie-2023
 ---
+## Rezultate finale admitere secțiunea 12L-AC - sesiunea iulie 2023
+
+<Block color="green">
+
+* **[Rezultate Candidați Tip Bacalaureat](https://admitere.ac.upt.ro/uploads/listefinale_info_bac.pdf)**
+* **[Rezultate Candidați Centre de Plasament](https://admitere.ac.upt.ro/uploads/listefinale_info_plasament.pdf)**
+* **[Rezultate Candidați Rromi](https://admitere.ac.upt.ro/uploads/listefinale_info_rromi.pdf)**
+* **[Rezultate Candidați Mediu Rural](https://admitere.ac.upt.ro/uploads/listefinale_info_rural.pdf)**
+* **[Rezultate Candidați locuri SRI](https://admitere.ac.upt.ro/uploads/listefinale_info_sri.pdf)**
+* **[Rezultate Candidați Studenți](https://admitere.ac.upt.ro/uploads/listefinale_info_stud.pdf)**
+
+</Block>
+
+## Rezultate finale admitere secțiunea 10L-AC - sesiunea iulie 2023
+
+<Block color="green">
+
+* **[Rezultate Candidați Admiși secțiunea 10L](https://elearning.upt.ro/wp-content/uploads/2023/07/Rezultate-finale_ETcTi-AC-ID.pdf)**
+
+</Block>
+
+<Block color="yellow">
+
+**Taxa de școlarizare** pentru studenții declarați **admiși pe locurile cu taxă** în sesiunea iulie 2023 poate fi achitată în două rate egale. Prima rată trebuie achitată în perioada **31 iulie 2023 - 28 august 2023** conform [hotărârii 18883/19.07.2023](https://admitere.ac.upt.ro/uploads/informare-18883-din-2023-7-19.pdf).
+
+**Informații cu privire la cazarea în cămine pentru studenții admiși în anul I se găsesc [aici](https://admitere.ac.upt.ro/uploads/info-utile-2023.pdf).**
+
+</Block>
+
 ## Rezultate admitere secțiunea 12L-AC, runda 3
 
 <Block color="green">
