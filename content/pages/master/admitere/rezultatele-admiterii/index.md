@@ -5,6 +5,12 @@ image:
   src: https://aielpo.eplo.int/wp-content/uploads/2021/01/admission.jpg
 fullPath: master/admitere/rezultatele-admiterii
 ---
+
+<Attachment label="Calendarul de plată a taxei de studii" file="/uploads/adresa-taxa-scolarizare-sem-1.pdf"></Attachment>
+
+<Attachment label="Instrucțiuni precazare, master an 1" file="/uploads/calendar-cazare-studenti-master-an-i-sesiunea-iulie-2023.pdf"></Attachment>
+
+
 ## Rezultate admitere master, etapa 2
 
 Rezultate după prima rundă de confirmări:
@@ -53,7 +59,7 @@ Rezultate finale ale etapei 1, după rundele de confirmări:
 
 <Attachment label="Calendarul de plată a taxei de studii" file="/uploads/adresa-taxa-scolarizare-sem-1.pdf"></Attachment>
 
-ℹ️ Reveniți pentru anunțuri despre precazare.
+ℹ️ Anunțul despre precazare se găsește mai susa.
 
 </Block>
 
