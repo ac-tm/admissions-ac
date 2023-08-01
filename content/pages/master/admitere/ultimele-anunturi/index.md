@@ -11,9 +11,11 @@ S-au afișat **rezultatele finale ale etapei 2**, după runda de confirmări.
 
 **Taxa de școlarizare** pentru studenții declarați **admiși pe locurile cu taxă** în sesiunea iulie 2023 poate fi achitată în două rate egale. Prima rată trebuie achitată în perioada **31 iulie 2023 - 28 august 2023** conform [hotărârii 18883/19.07.2023](https://admitere.ac.upt.ro/uploads/informare-18883-din-2023-7-19.pdf).
 
-Reveniți pentru anunțuri despre **precazare**.
+Detalii despre **precazare** sunt mai jos.
 
 <Attachment label="Rezultate interviu etapa 2" internal="master/admitere/rezultatele-admiterii"></Attachment>
+
+<Attachment label="Instrucțiuni precazare, master an 1" file="/uploads/calendar-cazare-studenti-master-an-i-sesiunea-iulie-2023.pdf"></Attachment>
 
 ## Echivalare notă interviu
 
