@@ -17,6 +17,12 @@
       "deadline": "",
       "title": "Afișare rezultate concurs",
       "details": "Online prin [Enroll](https://enroll.upt.ro/), pe <https://ac.upt.ro/> și pe <https://admitere.ac.upt.ro/>"
+    },
+    {
+      "date": "2023-09-11T06:00:00.000Z",
+      "deadline": "2023-09-12T13:00:00.000Z",
+      "title": "Confirmări Runda I",
+      "details": "**Fizic la facultate**: 11.09.2023 – 12.09.2023, 9:00 – 16:00\n\n**Online prin [Enroll](https://enroll.upt.ro/)**: 11.09.2023 – 12.09.2023, până la ora 16:00 (**DOAR DACĂ** dosarul de înscriere conține **originalul diplomei de bacalaureat** și **foaia matricolă** sau **se confirmă un loc cu taxă**)"
     }
   ]
 }
