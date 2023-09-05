@@ -5,6 +5,19 @@ image:
   src: /uploads/warning.jpg
 fullPath: master/admitere/ultimele-anunturi
 ---
+## 📂 Înscrieri admitere master, sesiunea septembrie
+
+Au început înscrierile în **sesiunea de toamnă** a concursului de admitere, [pe locurile rămase libere](/master/admitere/master/)
+
+### Candidați înscriși la finalul zilei de 4 septembrie: 7
+
+| **Program** | **Candidați** |
+| ----------- | ------------- |
+| SIIS        | 4             |
+| TAES        | 1             |
+| TML         | 1             |
+| TTI         | 1             |
+
 ## 📰 Rezultate etapa 2
 
 S-au afișat **rezultatele finale ale etapei 2**, după runda de confirmări.
