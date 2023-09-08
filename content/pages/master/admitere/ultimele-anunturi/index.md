@@ -9,7 +9,7 @@ fullPath: master/admitere/ultimele-anunturi
 
 Au început înscrierile în **sesiunea de toamnă** a concursului de admitere, [pe locurile rămase libere](/master/admitere/master/)
 
-### Candidați înscriși la finalul zilei de 6 septembrie: 7
+### Candidați înscriși la finalul zilei de 7 septembrie: 7
 
 | **Program** | **Candidați** |
 | ----------- | ------------- |
