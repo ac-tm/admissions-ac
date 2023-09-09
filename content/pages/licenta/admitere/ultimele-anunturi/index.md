@@ -5,7 +5,7 @@ image:
   src: /uploads/warning.jpg
 fullPath: licenta/admitere/ultimele-anunturi
 ---
-#### **S-au afișat rezultatele finale ale admiterii la secțiunea 10L-AC și 12L-AC:**
+#### **S-au afișat rezultatele rundei I la secțiunea 12L-AC - sesiunea septembrie 2023:**
 
 <Attachment label="Rezultate finale 10L și 12L-AC" internal="licenta/admitere/rezultate-admitere-sectiunea-10l-si-12l-iulie-2023"></Attachment>
 
