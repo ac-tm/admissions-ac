@@ -1,10 +1,16 @@
 ---
-title: Rezultate admitere sectiunea 10L si 12L ― iulie 2023
+title: Rezultate admitere sectiunea 10L si 12L ― iulie și septembrie 2023
 description: Aici, vei putea vedea dacă, din toamnă, vei fi student la AC!
 image:
   src: /uploads/accepted-application.jpg
 fullPath: licenta/admitere/rezultate-admitere-sectiunea-10l-si-12l-iulie-2023
 ---
+## Rezultate admitere secțiunea 12L-AC, runda 1
+
+* Rezultatele de la runda 1 se pot verifica în contul fiecărui candidat de pe platforma Enroll.
+
+  **IMPORTANT: Candidații trebuie să confirme locul obținut! Nefinalizarea procedurii de confirmări, în termenul afișat, atrage eliminarea candidatului din concurs, inclusiv pentru cei declarați admisi.**
+
 ## Rezultate finale admitere secțiunea 12L-AC - sesiunea iulie 2023
 
 <Block color="green">
