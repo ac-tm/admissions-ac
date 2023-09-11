@@ -7,9 +7,17 @@ fullPath: licenta/admitere/rezultate-admitere-sectiunea-10l-si-12l-iulie-2023
 ---
 ## Rezultate admitere secțiunea 12L-AC, runda 1 - sesiunea septembrie 2023
 
-* Rezultatele de la runda 1 se pot verifica în contul fiecărui candidat de pe platforma Enroll.
+<Block color="green">
 
-  **IMPORTANT: Candidații trebuie să confirme locul obținut! Nefinalizarea procedurii de confirmări, în termenul afișat, atrage eliminarea candidatului din concurs, inclusiv pentru cei declarați admisi.**
+* **[Rezultate Candidați Tip Bacalaureat](https://admitere.ac.upt.ro/uploads/toamna-12l-r0-b.pdf)**
+* **[Rezultate Candidați Centre de Plasament](https://admitere.ac.upt.ro/uploads/toamna-12l-r0-p.pdf)**
+* **[Rezultate Candidați Studenți](https://admitere.ac.upt.ro/uploads/toamna-12l-r0-s.pdf)**
+* **[Rezultate Candidați Mediu Rural](https://admitere.ac.upt.ro/uploads/toamna-12l-r0-u.pdf)**
+* **[Rezultate Candidați Admiși+lista de așteptare](https://admitere.ac.upt.ro/uploads/toamna-12l-r0_rez.pdf)**
+
+</Block>
+
+**IMPORTANT: Candidații trebuie să confirme locul obținut! Nefinalizarea procedurii de confirmări, în termenul afișat, atrage eliminarea candidatului din concurs, inclusiv pentru cei declarați admisi.**
 
 ## Rezultate finale admitere secțiunea 12L-AC - sesiunea iulie 2023
 
