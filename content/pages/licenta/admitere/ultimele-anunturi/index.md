@@ -5,6 +5,8 @@ image:
   src: /uploads/warning.jpg
 fullPath: licenta/admitere/ultimele-anunturi
 ---
+**Taxa de școlarizare** pentru studenții declarați **admiși pe locurile cu taxă** în sesiunea **septembrie 2023** poate fi achitată în două rate egale. Prima rată trebuie achitată până vineri, **22 septembrie 2023** conform [hotărârii 23210/12.09.2023](https://admitere.ac.upt.ro/uploads/informare-23210-din-2023-9-12.pdf).
+
 #### **S-au afișat rezultatele rundei I la secțiunea 12L-AC - sesiunea septembrie 2023:**
 
 <Attachment label="Rezultate runda 1 12L-AC - septembrie 2023" internal="licenta/admitere/rezultate-admitere-sectiunea-10l-si-12l-iulie-2023"></Attachment>
