@@ -9,13 +9,14 @@ fullPath: master/admitere/ultimele-anunturi
 
 Au început înscrierile în **sesiunea de toamnă** a concursului de admitere, [pe locurile rămase libere](/master/admitere/master/)
 
-### Candidați înscriși la finalul zilei de 11 septembrie: 8
+### Candidați înscriși la finalul zilei de 12 septembrie: 11
 
 | **Program** | **Candidați** |
 | ----------- | ------------- |
-| SIIS        | 4             |
+| SIIS        | 5﻿            |
 | TAES        | 1             |
 | TML         | 1             |
+| TSE         | 2             |
 | TSISC       | 1             |
 | TTI         | 1             |
 
