@@ -5,21 +5,44 @@ image:
   src: /uploads/warning.jpg
 fullPath: master/admitere/ultimele-anunturi
 ---
+## Programarea la interviu
+
+Toți candidații sunt obligați să verifice în lista de mai jos validitatea datelor de concurs.
+
+Interviul de admitere se va desfășura online în data de vineri 15 septembrie 2023.
+
+S﻿e recomandă prezența online cu cel puțin 30 de minute de ora programată. Candidații care nu participă la interviu vor fi eliminați din concurs.
+
+Fiecare candidat va pregăti o prezentare care poate să cuprindă: prezentarea și realizările candidatului, motivația pentru care optează pentru master, tematica (tema de studiu pentru disertație) pe care dorește să o abordeze la master, capacitatea de a planifica abordarea tematicii (un state of the art, o planificare a abordării tematicii, detalii tehnice necesare).
+
+<Attachment label="Programări interviu și date de conectare, vineri 15 septembrie" file="/uploads/liste-verificare-20230914.pdf"></Attachment>
+
+Datele de conectare (https://upt-ro.zoom.us/j/98585837963 Meeting ID: 985 8583 7963) au fost trimise candidaților prin e-mail la adresele înregistrate la înscriere de către secretarul de comisie dorin.bordeasu@upt.ro.
+
+Eventualele corecții, pe adresa secretariatului care gestionează programul pe care l-ați precizat ca primă opțiune. Termen: **vineri, 15 septembrie 2023, ora 12:00**.
+
+* Candidații cu prima opțiune **AES, ISA, GD, SIAPS, SIIS, SISC, sau TI**:
+  Adresă secretariat: secretariat.admitere@aut.upt.ro
+* Candidații cu prima opțiune **CCIoT, IT, ML, sau SE**:
+  Adresă secretariat: secretariat@cs.upt.ro
+
 ## 📂 Înscrieri admitere master, sesiunea septembrie
 
-Au început înscrierile în **sesiunea de toamnă** a concursului de admitere, [pe locurile rămase libere](/master/admitere/master/)
+S-au încheiat înscrierile în **sesiunea de toamnă** a concursului de admitere, [pe locurile rămase libere](/master/admitere/master/)
 
-### Candidați înscriși la finalul zilei de 13 septembrie: 16
+### Candidați înscriși la finalul zilei de 14 septembrie: 25
 
 | **Program** | **Candidați** |
 | ----------- | ------------- |
-| SIIS        | 8             |
+| SIIS        | 10            |
 | TAES        | 1             |
+| TCCIOT      | 1             |
+| TGD         | 3             |
 | TISA        | 1             |
-| TML         | 1             |
+| TML         | 2             |
 | TSE         | 3             |
-| TSISC       | 1             |
-| TTI         | 1             |
+| TSISC       | 2             |
+| TTI         | 2             |
 
 ## 📰 Rezultate etapa 2
 
