@@ -21,7 +21,7 @@ Situația locurilor disponibile la programele de masterat oferite de facultatea 
 | Ingineria Sistemelor                   | Sisteme Informatice în Îngrijirea Sănătății           | 7+1                  | 5-﻿1                |
 | Ingineria Sistemelor                   | Securitatea Informațiilor și a Sistemelor Cibernetice | \-                   | 1﻿+1                |
 | Informatică                            | Tehnologii Informatice                                | \-                   | 2                   |
-|                                        | **TOTAL**                                             | **8**﻿               | **36-1**            |
+|                                        | **TOTAL**                                             | **7+1**              | **36-1**            |
 
 Situația locurilor disponibile la programele de masterat oferite de facultatea noastră, **pentru etapa 2 de admitere** din sesiunea IULIE 2023 a fost următoarea:
 
