@@ -16,12 +16,12 @@ Situația locurilor disponibile la programele de masterat oferite de facultatea 
 | Calculatoare și Tehnologia Informației | Software Engineering                                  | \-                   | 1﻿+2                |
 | Ingineria Sistemelor                   | Automotive Embedded Software                          | \-﻿                  | 3﻿                  |
 | Ingineria Sistemelor                   | Game Development                                      | \-﻿                  | 9﻿-3                |
-| Ingineria Sistemelor                   | Ingineria Sistemelor Automate                         | \-﻿                  | 4-1                 |
+| Ingineria Sistemelor                   | Ingineria Sistemelor Automate                         | \-﻿                  | 4                   |
 | Ingineria Sistemelor                   | Sisteme Informatice Aplicate în Producție și Servicii | \-                   | 2﻿                  |
-| Ingineria Sistemelor                   | Sisteme Informatice în Îngrijirea Sănătății           | 7+3                  | 5-﻿2                |
+| Ingineria Sistemelor                   | Sisteme Informatice în Îngrijirea Sănătății           | 7+1                  | 5-﻿1                |
 | Ingineria Sistemelor                   | Securitatea Informațiilor și a Sistemelor Cibernetice | \-                   | 1﻿+1                |
 | Informatică                            | Tehnologii Informatice                                | \-                   | 2                   |
-|                                        | **TOTAL**                                             | **10**               | **36-3**            |
+|                                        | **TOTAL**                                             | **8**﻿               | **36-1**            |
 
 Situația locurilor disponibile la programele de masterat oferite de facultatea noastră, **pentru etapa 2 de admitere** din sesiunea IULIE 2023 a fost următoarea:
 
