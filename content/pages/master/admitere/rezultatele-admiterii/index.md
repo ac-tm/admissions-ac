@@ -5,10 +5,28 @@ image:
   src: https://aielpo.eplo.int/wp-content/uploads/2021/01/admission.jpg
 fullPath: master/admitere/rezultatele-admiterii
 ---
+## Rezultate admitere master - runda de confirmări
 
-<Attachment label="Calendarul de plată a taxei de studii" file="/uploads/adresa-taxa-scolarizare-sem-1.pdf"></Attachment>
 
-<Attachment label="Instrucțiuni precazare, master an 1" file="/uploads/calendar-cazare-studenti-master-an-i-sesiunea-iulie-2023.pdf"></Attachment>
+**IMPORTANT: Candidatii trebuie sa confirme locul obtinut! Nefinalizarea procedurii de confirmari, in termenul afisat, atrage eliminarea candidatului din concurs, inclusiv pentru studentii declarati admisi.**
+
+Candidații pentru care pe coloana "ADMIS LA OPT" nu apare scris nimic NU SUNT ADMIȘI în prima rundă.
+
+Pentru confirmarea locului obținut, sunt obligatorii plata taxei de confirmare și, pentru candidații admiși pe locuri fără taxă, depunerea la dosar a **diplomei sau adeverinței de licență** în **ORIGINAL** si **foaia matricola** tot in **ORIGINAL**. 
+
+1. Plata taxei de confirmare se poate face oricând înainte de luni 18 septembrie ora 14:
+
+   * Din aplicația de admitere Enroll, cu cardul bancar (preferabil)
+   * Prin transfer bancar în contul UPT și încărcare a dovezii plății în aplicația de admitere Enroll
+
+2. Depunerea actelor necesare se poate face luni 18 septembrie între orele 9 și 14:
+
+   * În biroul de confirmări, corpul B, clădirea Electro, sala B512 (daca prima optiune la inscriere a fost la SE, CCIOT, ML, IT) sau sala B615 (altfel), aducând în **ORIGINAL** adeverinta/diploma, 2 poze color, situatia scolara/foaie matricola/supliment la diploma in **ORIGINAL**, si adeverinta medicala.
+
+<Block color="green">
+<Attachment label="Rezultate interviu etapa 3" file="/uploads/6m-rezultate-sep-final-20230915.pdf"></Attachment>
+</Block>
+
 
 
 ## Rezultate admitere master, etapa 2
@@ -61,7 +79,7 @@ Rezultate finale ale etapei 1, după rundele de confirmări:
 
 ℹ️ Anunțul despre precazare se găsește mai susa.
 
-</Block>
+
 
 ## Rezultate admitere master, etapa 1, runda 2
 
