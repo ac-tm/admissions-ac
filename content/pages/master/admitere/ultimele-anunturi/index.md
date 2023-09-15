@@ -5,6 +5,12 @@ image:
   src: /uploads/warning.jpg
 fullPath: master/admitere/ultimele-anunturi
 ---
+## 📰 Rezultate admitere master, etapa septembrie
+
+S-au afișat **rezultatele inițiale ale etapei 3**, înainte de confirmări.
+
+<Attachment label="Rezultate etapa 3" internal="master/admitere/rezultatele-admiterii"></Attachment>
+
 ## Programarea la interviu
 
 Toți candidații sunt obligați să verifice în lista de mai jos validitatea datelor de concurs.
