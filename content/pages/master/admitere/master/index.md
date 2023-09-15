@@ -13,15 +13,15 @@ Situația locurilor disponibile la programele de masterat oferite de facultatea 
 | Calculatoare și Tehnologia Informației | Cloud Computing and Internet of Things                | \-                   | 2﻿                  |
 | Calculatoare și Tehnologia Informației | Information Technology                                | \-                   | 3﻿                  |
 | Calculatoare și Tehnologia Informației | Machine Learning                                      | \-                   | 4﻿                  |
-| Calculatoare și Tehnologia Informației | Software Engineering                                  | \-                   | 1﻿                  |
+| Calculatoare și Tehnologia Informației | Software Engineering                                  | \-                   | 1﻿+2                |
 | Ingineria Sistemelor                   | Automotive Embedded Software                          | \-﻿                  | 3﻿                  |
-| Ingineria Sistemelor                   | Game Development                                      | \-﻿                  | 9﻿                  |
-| Ingineria Sistemelor                   | Ingineria Sistemelor Automate                         | \-﻿                  | 4                   |
+| Ingineria Sistemelor                   | Game Development                                      | \-﻿                  | 9﻿-3                |
+| Ingineria Sistemelor                   | Ingineria Sistemelor Automate                         | \-﻿                  | 4-1                 |
 | Ingineria Sistemelor                   | Sisteme Informatice Aplicate în Producție și Servicii | \-                   | 2﻿                  |
-| Ingineria Sistemelor                   | Sisteme Informatice în Îngrijirea Sănătății           | 7                    | 5﻿                  |
-| Ingineria Sistemelor                   | Securitatea Informațiilor și a Sistemelor Cibernetice | \-                   | 1﻿                  |
+| Ingineria Sistemelor                   | Sisteme Informatice în Îngrijirea Sănătății           | 7+3                  | 5-﻿2                |
+| Ingineria Sistemelor                   | Securitatea Informațiilor și a Sistemelor Cibernetice | \-                   | 1﻿+1                |
 | Informatică                            | Tehnologii Informatice                                | \-                   | 2                   |
-|                                        | **TOTAL**                                             | **7**                | **36**              |
+|                                        | **TOTAL**                                             | **1﻿0**              | **36**              |
 
 Situația locurilor disponibile la programele de masterat oferite de facultatea noastră, **pentru etapa 2 de admitere** din sesiunea IULIE 2023 a fost următoarea:
 
