@@ -7,7 +7,7 @@ fullPath: master/admitere/ultimele-anunturi
 ---
 ## 📰 Rezultate admitere master, etapa septembrie
 
-S-au afișat **rezultatele inițiale ale etapei 3**, înainte de confirmări.
+S-au afișat **rezultatele finale ale etapei 3**, după confirmări.
 
 <Attachment label="Rezultate etapa 3" internal="master/admitere/rezultatele-admiterii"></Attachment>
 
