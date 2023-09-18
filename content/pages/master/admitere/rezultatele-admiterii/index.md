@@ -5,7 +5,7 @@ image:
   src: https://aielpo.eplo.int/wp-content/uploads/2021/01/admission.jpg
 fullPath: master/admitere/rezultatele-admiterii
 ---
-## Rezultate admitere master septembrie
+## Rezultate finale admitere master septembrie
 
 <Block color="green">
 <Attachment label="Admiși etapa 3" file="/uploads/6m-admiși-print-20230918.pdf"></Attachment>
