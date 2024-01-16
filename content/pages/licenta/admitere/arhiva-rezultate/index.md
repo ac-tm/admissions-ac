@@ -6,7 +6,7 @@ image:
   src: /uploads/accepted-application.jpg
 fullPath: licenta/admitere/arhiva-rezultate
 ---
-<Block color="yellow">
+<Block color="gray">
 
 ## Rezultate 2023 (iulie + septembrie)
 
