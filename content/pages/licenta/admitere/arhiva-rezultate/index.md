@@ -8,15 +8,17 @@ fullPath: licenta/admitere/arhiva-rezultate
 ---
 <Block color="yellow">
 
+## Rezultate 2023 (iulie + septembrie)
+
+<Attachment label="Rezultatele finale, dar și pe runde ale admiterii din iulie-septembrie 2023 - specializarea INFO" internal="licenta/admitere/arhiva-rezultate/rezultate-admitere-sectiunea-10l-si-12l-iulie-2023"></Attachment>
+
+<Attachment label="Rezultatele finale și pe runde ale admiterii din iulie 2023 - 6L - CTI, CTI-en și IS" internal="licenta/admitere/arhiva-rezultate/rezultate-admitere-sectiunea-6l-iulie-2023"></Attachment>
+
 ## Rezultate IULIE 2022
 
-<Attachment label="Rezultatele finale, dar și pe runde ale admiterii din iulie 2022 - specializarea INFO (10L și 10DL)" internal="licenta/admitere/arhiva-rezultate/rezultate-admitere-informatica-2022"></Attachment>
+<Attachment label="Rezultatele finale, dar și pe runde ale admiterii din iulie 2022 - specializarea INFO" internal="licenta/admitere/arhiva-rezultate/rezultate-admitere-informatica-2022"></Attachment>
 
 <Attachment label="Rezultatele finale și pe runde ale admiterii din iulie 2022 - 6L - CTI, CTI-en și IS" internal="licenta/admitere/arhiva-rezultate/rezultate-admitere-2022"></Attachment>
-
-</Block>
-
-<Block color="red">
 
 ## Rezultate 2021 (iulie + septembrie)
 
