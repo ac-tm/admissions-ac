@@ -15,7 +15,7 @@ Temele dezbătute urmează conținutul Culegerii de probleme pentru examenul de 
 
 ## Calendarul cursurilor de matematică
 
-<Timeline slug="pregăriri-matematică-2022"></Timeline>
+<Timeline slug="lecții-de-matematică"></Timeline>
 
 # Culegerea de exerciții
 
