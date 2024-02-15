@@ -2,7 +2,7 @@
 title: Politehnica Timișoara – Un pas spre viitorul tău
 description: Concurs pentru elevii de liceu din clasele a XI-a și a XII-a
 image:
-  src: /uploads/pozaupvt1.jpg
+  src: /uploads/424585141_784022210420259_9176664208386592842_n.jpg
 fullPath: licenta/admitere/politehnica-timisoara-un-pas-spre-viitorul-tau
 ---
 Universitatea Politehnica Timișoara invită elevii din clasele XI – XII, împreună cu profesorii coordonatori, să participe la o nouă ediție a manifestării „Politehnica Timișoara – un pas spre viitorul tău!”, având astfel ocazia să cunoască mediul universitar tehnic timișorean, oferta de studii a Politehnicii, să-și verifice cunoștințele în domeniile de interes prin participarea la concursurile organizate de facultăți, să ia contact cu cei care sunt deja studenți și să cunoască îndeaproape orașul Timișoara.
