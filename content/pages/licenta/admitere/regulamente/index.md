@@ -1,7 +1,6 @@
 ---
 title: Regulamente
-description: Citește aici ce este necesar să faci pentru a nu îți pierde locul
-  pe care ai fost admis înainte de a deveni studentul nostru.
+description: Citește aici regulamentul admiterii la licență.
 image:
   src: /uploads/regulamente.png
 fullPath: licenta/admitere/regulamente
