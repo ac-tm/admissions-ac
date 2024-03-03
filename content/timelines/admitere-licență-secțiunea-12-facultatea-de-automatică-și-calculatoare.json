@@ -1,3 +1,11 @@
 {
-  "title": "Admitere Licență - secțiunea 12 (Facultatea de Automatică și Calculatoare)"
+  "title": "Admitere Licență - secțiunea 12 (Facultatea de Automatică și Calculatoare)",
+  "events": [
+    {
+      "date": "2024-05-31T21:00:00.000Z",
+      "deadline": "2024-07-10T11:00:00.000Z",
+      "title": "Preînscriere candidați",
+      "details": "Preînscrierea se realizează online în **[aplicația de înscriere Enroll](https://enroll.upt.ro/)**. Dacă întâmpini dificultăți, accesează [ghidul](https://www.youtube.com/watch?v=tLCmCk3mUQg) nostru despre cum se completează formularul de înscriere."
+    }
+  ]
 }
