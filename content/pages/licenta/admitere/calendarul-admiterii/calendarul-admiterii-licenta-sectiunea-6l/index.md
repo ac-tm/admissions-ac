@@ -5,4 +5,4 @@ description: Calendar pentru secțiunea 6L de la Facultatea de Automatică și
   Sistemelor
 fullPath: licenta/admitere/calendarul-admiterii/calendarul-admiterii-licenta-sectiunea-6l
 ---
-<Timeline slug="admitere-licență-sesiunea-iulie-2023-secțiunea-6l-facultatea-de-automatică-și-calculatoare"></Timeline>
+<Timeline slug="admitere-licență-secțiunea-6-facultatea-de-automatică-și-calculatoare"></Timeline>
