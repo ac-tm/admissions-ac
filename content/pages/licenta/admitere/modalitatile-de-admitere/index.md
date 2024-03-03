@@ -14,9 +14,9 @@ Hai să dezvăluim și un **secret** (dar să nu mai spui la nimeni): dacă chia
 
 Anul acesta așteptăm și mai mulți tineri buni la programare! Dacă tot liceul te-ai preocupat mai mult de **programare** decât de matematică, poate aceasta este proba care ți se potrivește!
 
-## 2. Probă de matematică (CTI și IS)
+## 2. Probă de matematică sau informatică (CTI și IS)
 
-Ești **tare la mate**? Ai rezolvat toate [problemele din culegere](http://www.upt.ro//img/files/2022-2023/Admitere/Licenta/Culegere_Poli_Admitere2023.pdf)? Consideri că nu ai multe realizări pe algoritmică/software/hardware ca să ai șanse mai mari de succes prin portofoliu de realizări? Atunci, această probă de matematică probabil ți se potrivește. 
+Ești **tare la mate sau info**? Ai rezolvat toate [problemele din culegerea](http://www.upt.ro//img/files/2022-2023/Admitere/Licenta/Culegere_Poli_Admitere2023.pdf) de matematică sau ai dat bacul la informatică? Consideri că nu ai multe realizări pe algoritmică/software/hardware ca să ai șanse mai mari de succes prin portofoliu de realizări? Atunci, această probă de matematică sau informatică probabil ți se potrivește. 
 
 ## 3. Concurs de dosare (INFO)
 
@@ -28,7 +28,7 @@ La secțiunea 12-AC-Inf, media de admitere se calculează cu formula:
 
 unde: m – media de admitere; n - nota obținută la una dintre următoarele probe de bacalaureat: matematică sau informatică (această opțiune nu presupune o examinare propriu-zisă, ci doar luarea în calcul a notei respective de la examenul de bacalaureat) sau la proba online bazată pe portofoliu de realizări, în funcție de opțiunea candidatului; b – media la bacalaureat.
 
-Dacă în cadrul examenului de bacalaureat, candidatul nu a susținut probe de matematică sau informatică, valoarea lui n este 5. În această situație valoarea lui n se poate echivala și cu nota obținută la proba de matematică din cadrul secțunii 6, dacă candidatul a susținut această probă. Dacă opțiunea candidatului implică proba de matematică din cadrul examenului de bacalaureat, pentru n sunt luate în considerare doar notele la proba de matematică pentru care candidatul s-a pregătit conform următoarelor programe de examen: M_*matematică-informatică, M*_științele naturii și M_tehnologic (nu se consideră M_pedagogic).
+Dacă în cadrul examenului de bacalaureat, candidatul nu a susținut probe de matematică sau informatică, valoarea lui n este 5. În această situație valoarea lui n se poate echivala și cu nota obținută la proba de matematică din cadrul secțunii 6, dacă candidatul a susținut această probă. Dacă opțiunea candidatului implică proba de matematică din cadrul examenului de bacalaureat, pentru n sunt luate în considerare doar notele la proba de matematică pentru care candidatul s-a pregătit conform următoarelor programe de examen: M*matematică-informatică, M*științele naturii și M_tehnologic (nu se consideră M_pedagogic).
 
 La specializările Informatică respectiv Informatică la distanță admiterea se face prin **concurs de dosare**.
 
@@ -36,4 +36,4 @@ La **Info ID** se ia în calcul doar media de la bacalaureat, chiar dacă nu ai 
 
 Oferta programelor de studii, tipul concursului și formula de calcul a mediei de admitere o găsești și [aici](https://www.upt.ro/img/files/2022-2023/Admitere/Licenta/2.2_Anexa_1-Adm_licenta_2023_Oferta_programe_studii_final.pdf).
 
-**Sfat (poate) util**: Poate nu ar fi rău să studiezi și [**metodologia** de **admitere**](https://www.upt.ro/img/files/2022-2023/Admitere/Licenta/HBS_03_22.03.2023_Regulament-admitere-licenta-an.univ.2023-2024.pdf) pentru anul **2023** (chiar dacă e mult de citit) și alte informații utile legate de pe [pagina web a universității](https://www.upt.ro/Informatii_admitere-licenta-2023_1536_ro.html).
+**Sfat (poate) util**: Poate nu ar fi rău să studiezi și [**metodologia** de **admitere**](https://www.upt.ro/img/files/2023-2024/Admitere/2.1_Regulament_admitere_licenta_2024_final3.pdf) pentru anul **2024** (chiar dacă e mult de citit) și alte informații utile legate de pe [pagina web a universității](https://www.upt.ro/Informatii_admitere-licenta-2023_1536_ro.html).
