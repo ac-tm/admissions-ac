@@ -5,6 +5,41 @@
       "date": "2024-03-18T16:30:00.000Z",
       "deadline": "",
       "title": "Formatul probei de concurs; Expresii în C; Funcții logice."
+    },
+    {
+      "date": "2024-03-25T16:30:00.000Z",
+      "deadline": "",
+      "title": "Baze de numerație; Reprezentarea internă a datelor; Operații pe biți"
+    },
+    {
+      "date": "2024-04-08T15:30:00.000Z",
+      "deadline": "",
+      "title": "Subprograme; Recursivitate; Backtracking"
+    },
+    {
+      "date": "2024-04-15T15:30:00.000Z",
+      "deadline": "",
+      "title": "Grafuri; Arbori"
+    },
+    {
+      "date": "2024-04-22T15:30:00.000Z",
+      "deadline": "",
+      "title": "Algoritmi: căutare binară, interclasare; Complexitate algoritmică"
+    },
+    {
+      "date": "2024-05-13T15:30:00.000Z",
+      "deadline": "",
+      "title": "Pregătire BAC: Șiruri de caractere"
+    },
+    {
+      "date": "2024-05-20T15:30:00.000Z",
+      "deadline": "",
+      "title": "Pregătire BAC: Probleme de eficiență"
+    },
+    {
+      "date": "2024-05-27T15:30:00.000Z",
+      "deadline": "",
+      "title": "Recapitulare"
     }
   ]
 }
