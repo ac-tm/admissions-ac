@@ -11,10 +11,10 @@ Află în continuare tot ce trebuie să știi înainte să te înscrii, document
 1. **Domeniile în care te poți specializa.** Poți aplica la 5 specializări în cadrul facultății noastre, [află mai multe despre acestea](/licenta/admitere/specializari).
 2. **Decide cum dai admiterea.**
 
-   * La [CTI ](/licenta/admitere/specializari/calculatoare-si-tehnologia-informatiei/)și la [IS](/licenta/admitere/specializari/ingineria-sistemelor/) tu decizi cum dai admitere. Ai două variante: îți măsori cunoștințele la matematică în clasicul examen sau depui un portofoliu de realizări software sau hardware și dai interviu online cu o comisie care te va nota. Ce înseamnă portofoliu de realizări? orice ține de proiecte personale, rezultate la concursuri sau alte realizări remarcabile.
+   * La [CTI ](/licenta/admitere/specializari/calculatoare-si-tehnologia-informatiei/)și la [IS](/licenta/admitere/specializari/ingineria-sistemelor/) tu decizi cum dai admitere. Ai două variante: îți măsori cunoștințele la matematică sau informatică în clasicul examen sau depui un portofoliu de realizări software sau hardware și dai interviu online cu o comisie care te va nota. Ce înseamnă portofoliu de realizări? orice ține de proiecte personale, rezultate la concursuri sau alte realizări remarcabile.
 
      Evaluează-te obiectiv și alege una dintre cele două posibilități care îți maximizează șansele.
-   * La [INFO](/licenta/admitere/specializari/informatica/) e simplu: depui dosarul iar șansele tale depind de nota de matematică sau informatică și media de la bac. Dacă nu ai dat bac-ul la matematică sau informatică îți echivalăm nota cu 5.
+   * La [INFO](/licenta/admitere/specializari/informatica/) e simplu: depui dosarul iar șansele tale depind de nota de matematică, fizică sau informatică și media de la bac. Dacă nu ai dat bac-ul la matematică, fizică sau informatică îți echivalăm nota cu 5.
 
    <Attachment label="Modalitățile de admitere" internal="licenta/admitere/modalitatile-de-admitere"></Attachment>
 3. **Calendarul admiterii.** Chiar dacă admiterea este în vară, este important să te pregătești din timp! Notează-ți datele importante în calendar ca să nu le uiți.
