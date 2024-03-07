@@ -1,5 +1,5 @@
 ---
-title: Scapă de examenul de matematică
+title: Scapă de examenul de matematică/informatică
 description: Trimite-ne un portofoliu cu realizările tale din trecut și ai șanse
   să fii admis fără examen la matematică!
 image:
