@@ -1,6 +1,6 @@
 ---
-title: Pregătire pentru examenul de admitere
-description: Ce trebuie să știi pentru examenul de admitere.
+title: Pregătire pentru examenul de admitere la matematică
+description: Ce trebuie să știi pentru examenul de admitere la matematică.
 image:
   src: /uploads/lectii-mate-24.jpg
 fullPath: licenta/admitere/pregatire-pentru-examenul-de-admitere
