@@ -18,4 +18,4 @@ Dacă te uiți atent peste planul de învățământ, vei vedea că există și 
 
 Ca să-ți faci o idee despre materiile pe care le poți aprofunda la acest master, aruncă o privire și [aici](https://ac.upt.ro/specializari/quantum-computing-qc/)! Uită-te peste planul de învățământ și fișa fiecărei discipline și convinge-te că va fi fain din toamnă la QC.
 
-<Fig src="undefined" alt="undefined" caption="undefined"></Fig>
+<Fig src="/uploads/qcclo.png" alt="Ce poți aprofunda la masterul de QC?" caption="Ce poți aprofunda la masterul de QC?"></Fig>
