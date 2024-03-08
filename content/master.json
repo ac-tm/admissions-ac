@@ -78,19 +78,19 @@
           "specialization": "quantum-computing"
         },
         {
-          "width": "full",
+          "width": "half",
           "specialization": "cloud-computing-and-internet-of-things"
         },
         {
-          "width": "half",
+          "width": "full",
           "specialization": "software-engineering"
         },
         {
-          "width": "half",
+          "width": "full",
           "specialization": "information-technology"
         },
         {
-          "width": "full",
+          "width": "half",
           "specialization": "machine-learning"
         }
       ]
