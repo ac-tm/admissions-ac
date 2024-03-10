@@ -1,6 +1,6 @@
 ---
 title: Specializări master
-description: Noi îți oferim 11 posibilități, toate de nota 10! Decizia e la tine!
+description: Noi îți oferim 12 posibilități, toate de nota 10! Decizia e la tine!
 image:
   src: /uploads/spec.png
 fullPath: master/admitere/specializari
