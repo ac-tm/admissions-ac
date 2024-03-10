@@ -30,6 +30,32 @@
       "deadline": "2024-07-10T12:00:00.000Z",
       "title": "Etapa I: Confirmări Runda I",
       "details": "Nu uita să iți confirmi locul dacă ești printre cei admiși. Altfel vom considera că te-ai răzgândit și locul tău va ajunge la altcineva."
+    },
+    {
+      "date": "2024-07-10T17:00:00.000Z",
+      "deadline": "",
+      "title": "Etapa I: Afișare rezultate Runda II",
+      "details": "[AICI](https://admitere.ac.upt.ro/master/admitere/rezultatele-admiterii/) vei găsi rezultatele."
+    },
+    {
+      "date": "2024-07-11T06:00:00.000Z",
+      "deadline": "2024-07-11T11:00:00.000Z",
+      "title": "Etapa I: Confirmări Runda II"
+    },
+    {
+      "date": "2024-07-11T13:00:00.000Z",
+      "deadline": "",
+      "title": "Etapa I: Afișare rezultate Runda III "
+    },
+    {
+      "date": "2024-07-12T06:00:00.000Z",
+      "deadline": "2024-07-12T09:00:00.000Z",
+      "title": "Etapa I: Confirmări Runda III"
+    },
+    {
+      "date": "2024-07-12T11:00:00.000Z",
+      "deadline": "",
+      "title": "Etapa I: Afișare rezultate finale"
     }
   ]
 }
