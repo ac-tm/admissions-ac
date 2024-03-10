@@ -1,15 +1,15 @@
 ---
 title: Specializări master
-description: Noi îți oferim 11 posibilități, toate de nota 10! Decizia e la tine!
+description: Noi îți oferim 12 posibilități, toate de nota 10! Decizia e la tine!
 image:
   src: /uploads/spec.png
 fullPath: master/admitere/specializari
 ---
-Noi îți oferim 11 posibilități, și toate-s de nota 10, **decizia e la tine**!
+Noi îți oferim 12 posibilități, și toate-s de nota 10, **decizia e la tine**!
 
 <Block color="green">
 
-* Știm că în **2020** am fost în **topul preferințelor** studenților din vestul țării.
+* Știm că suntem în **topul preferințelor** studenților din vestul țării.
 * Știm că suntem **cea mai căutată facultate** din Universitatea Politehnica Timișoara.
 * Știm că **viitorul este în IT**. Totul se digitalizează pe zi ce trece. Nu te descuraja să te înscrii dacă nu ai studii în specializările *Calculatoare*, *Ingineria Sistemelor* sau *Informatică*. Da, **la AC nu se intră ușor** și e bătaie pe locuri. Dar oare nu prețuim mai mult ce este mai greu de obținut?
 * Știm că avem **cadre didactice valoroase**. 
