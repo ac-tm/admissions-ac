@@ -7,10 +7,10 @@ image:
   alt: Taxe de admitere
 fullPath: master/admitere/taxe-de-admitere
 ---
-*La master*, [taxele de admitere](https://www.upt.ro/img/files/hca/2023/HCA_13_taxe_admitere_2023.pdf) percepute pentru anul universitar 2023 - 2024 sunt:
+*La master*, [taxele de admitere](https://www.upt.ro/img/files/2023-2024/Admitere/HS-nr.14-15.02.2024_taxe_admitere.pdf) percepute pentru sesiunile de admitere iulie și septembrie 2024 sunt:
 
 * **150 LEI** — **taxa de** **înscriere**, pentru toate programele de studii;
-* **100 LEI — taxa de confirmare**, pentru toate programele de studii;
+* **100 LEI — taxa de înmatriculare**, pentru toate programele de studii;
 
 *Informații despre condițiile de scutire a plății taxei de înscriere se găsesc pe pagina dedicată*.
 
