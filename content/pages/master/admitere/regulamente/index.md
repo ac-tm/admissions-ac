@@ -1,11 +1,11 @@
 ---
 title: Regulamente
-description: Citește aici ce este necesar să faci pentru a nu îți pierde locul
-  pe care ai fost admis înainte de a deveni studentul nostru.
+description: Citește aici regulamentul de organizare și desfășurare a
+  concursului de admitere la ciclul de studii universitare de MASTER la UPT.
 fullPath: master/admitere/regulamente
 ---
 * **[OME 3691/01.02.2024](https://www.upt.ro/img/files/2023-2024/Admitere/Metodologie_cardu_organiz_ex.admitere_2024.pdf)** - pentru aprobarea **Metodologiei cadru privind organizarea admiterii în ciclurile de studii universitare de licență, master și doctorat** 
-* **Regulamentul de organizare și desfășurare a concursului de admitere la ciclul de studii universitare de MASTER la UPT -** *sesiunile iulie și septembrie 2024 (cf.**[HS 13/15.02.2024](https://www.upt.ro/img/files/2023-2024/Admitere/master/Regulament_admitere_master_2024.pdf)*** 
+* **Regulamentul de organizare și desfășurare a concursului de admitere la ciclul de studii universitare de MASTER la UPT -** sesiunile iulie și septembrie 2024 (cf.**[HS 13/15.02.2024](https://www.upt.ro/img/files/2023-2024/Admitere/master/Regulament_admitere_master_2024.pdf))**
 
   **Anexe la Metodologie:**
 
