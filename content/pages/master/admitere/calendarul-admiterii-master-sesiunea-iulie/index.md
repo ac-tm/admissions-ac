@@ -1,5 +1,5 @@
 ---
-title: Calendarul admiterii master - sesiunea iulie
+title: Calendarul admiterii master - sesiunea iulie 2024
 description: "Planifică-ți vara în funcție de calendarul admiterii la master și
   devino studentul nostru! "
 image:
