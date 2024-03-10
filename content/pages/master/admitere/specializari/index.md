@@ -5,7 +5,7 @@ image:
   src: /uploads/spec.png
 fullPath: master/admitere/specializari
 ---
-Noi îți oferim 11 posibilități, și toate-s de nota 10, **decizia e la tine**!
+Noi îți oferim 12 posibilități, și toate-s de nota 10, **decizia e la tine**!
 
 <Block color="green">
 
