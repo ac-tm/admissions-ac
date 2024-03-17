@@ -17,11 +17,11 @@ fullPath: licenta/admitere/regulamente
 **Anexe la Metodologie:**
 
 * * **[Anexa 1](https://www.upt.ro/img/files/2023-2024/Admitere/licenta/2.2_Anexa_1-Adm_licenta_2024_Oferta_programe_studii_final.pdf)** *\- Oferta programelor de studii, tipul concursului și formula de calcul a mediei de admitere* 
-  * **Anexa 2** *\- Instrucțiuni de înscriere ONLINE folosind platforma Enroll* 
+  * **[Anexa 2](https://www.upt.ro/img/files/2023-2024/Admitere/licenta/2.3_Anexa_2-Adm_licenta_2024_Instructiuni_enroll_update.pdf)** *\- Instrucțiuni de înscriere ONLINE folosind platforma Enroll* 
   * **Anexa 4** *\- Derularea probei de matematică în cadrul secțiunii 6 de admitere la licență* 
   * **Anexa 5** *\- Procedura de admitere pe bază de portofoliu - ”Examen ONLINE bazat pe portofoliu de realizări! la Facultatea de Automatică și Calculatoare (AC)* 
 
     * **[Șablon portofoliu (doc)](http://www.upt.ro/img/files/2019-2020/admitere/licenta/Portofoliu_NumePrenume.docx); [exemplu de completare portofoliu (pdf)](http://www.upt.ro/img/files/2019-2020/admitere/licenta/Portofoliu_PopDana.pdf); [exemplu DOSAR portofoliu (zip)](http://www.upt.ro/img/files/2019-2020/admitere/licenta/PopDana.zip)** 
-  * **Anexa 6** *\- Lista concursurilor recunoscute de către UPT, pe baza cărora candidații pot fi admiși în UPT fără concurs de admitere* 
+  * **[Anexa 8](https://www.upt.ro/img/files/2023-2024/Admitere/licenta/2.9_Anexa_8-Adm_licenta_2024_Concursuri_recunoscute.pdf)** *\- Lista concursurilor recunoscute de către UPT, pe baza cărora candidații pot fi admiși în UPT fără concurs de admitere* 
   * **Anexa 7** *\- Criterii și condiții speciale de admitere pentru candidații care au calitatea de sportivi de performanță*
 * **Informații Admitere Învățământ la distanță/Frecvență redusă - [detalii](http://www.upt.ro/Informatii_-admitere-2020---invatamant-la-distanta-frecventa-redusa_621_ro.html)**
