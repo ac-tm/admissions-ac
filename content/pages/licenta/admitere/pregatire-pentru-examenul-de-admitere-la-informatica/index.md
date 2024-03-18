@@ -13,6 +13,8 @@ Accesarea platformei Zoom începe la ora 18:15.
 
 Pentru participare vă invităm să accesați link-ul de [aici](https://us02web.zoom.us/j/87248991024?pwd=dnNPYVRPc01ncmFBRmJ6dGVxRzlaZz09).
 
+Model de subiect pentru examenul de admitere la informatică găsiți [aici](https://admitere.ac.upt.ro/uploads/model-subiect-informatica-ac.pdf).
+
 Calendarul întâlnirilor este:
 
 <Timeline slug="sesiuni-de-pregătire-online-la-informatică"></Timeline>
