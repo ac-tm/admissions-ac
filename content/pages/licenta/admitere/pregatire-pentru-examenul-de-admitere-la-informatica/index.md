@@ -15,6 +15,8 @@ Pentru participare vă invităm să accesați link-ul de [aici](https://us02web.
 
 Model de subiect pentru examenul de admitere la informatică găsiți [aici](https://admitere.ac.upt.ro/uploads/model-subiect-informatica-ac.pdf).
 
+Înregistrările sesiunilor de pregătire la informatică le găsiți [aici](https://www.youtube.com/watch?v=bUVpkto3V7M&list=PLVnzOXfytm7OnTNKemm7AxhA-0nLQzR2y).
+
 Calendarul întâlnirilor este:
 
 <Timeline slug="sesiuni-de-pregătire-online-la-informatică"></Timeline>
