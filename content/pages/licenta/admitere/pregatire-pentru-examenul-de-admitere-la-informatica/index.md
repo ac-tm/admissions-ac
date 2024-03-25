@@ -11,7 +11,7 @@ fullPath: licenta/admitere/pregatire-pentru-examenul-de-admitere-la-informatica
 
 Accesarea platformei Zoom începe la ora 18:15.
 
-Pentru participare vă invităm să accesați link-ul de [aici](https://us02web.zoom.us/j/87248991024?pwd=dnNPYVRPc01ncmFBRmJ6dGVxRzlaZz09).
+Pentru participare vă invităm să **accesați link-ul de [aici](https://upt-ro.zoom.us/j/91880578707?pwd=OTFrUU9ZVE9uUmI4c3F2Ylh2eEhUdz09)**.
 
 Model de subiect pentru examenul de admitere la informatică găsiți [aici](https://admitere.ac.upt.ro/uploads/model-subiect-informatica-ac.pdf).
 
