@@ -6,4 +6,3 @@ image:
   src: /uploads/ben-white-mo9vkbg5csg-unsplash.jpg
 fullPath: master/admitere/master
 ---
-Vă rugăm reveniți.
