@@ -13,7 +13,10 @@ Accesarea platformei Zoom începe la ora 18:15.
 
 Pentru participare vă invităm să **accesați link-ul de [aici](https://upt-ro.zoom.us/j/91880578707?pwd=OTFrUU9ZVE9uUmI4c3F2Ylh2eEhUdz09)**.
 
-Model de subiect pentru examenul de admitere la informatică găsiți [aici](https://admitere.ac.upt.ro/uploads/model-subiect-informatica-ac.pdf).
+Modele de subiecte pentru examenul de admitere la informatică: 
+
+* [Model 1](https://admitere.ac.upt.ro/uploads/model-subiect-informatica-ac.pdf)
+* [Model 2](https://admitere.ac.upt.ro/uploads/upt-admitere2024-model2.pdf)
 
 Înregistrările sesiunilor de pregătire la informatică le găsiți [aici](https://www.youtube.com/watch?v=bUVpkto3V7M&list=PLVnzOXfytm7OnTNKemm7AxhA-0nLQzR2y).
 
