@@ -55,6 +55,6 @@ Odată ce ești declarat admis, pentru a-ți confirma locul, e necesar să achi�
 
 <DocumentCheckbox text="Patru fotografii color tip diplomă (f)"></DocumentCheckbox>
 
-## Etapa 3 - Prima zi a anului universitar (2023-2024)
+## Etapa 3 - Prima zi a anului universitar (2024-2025)
 
 Dacă ai lăsat pentru etapa a 3-a ce puteai depune în etapa a 2-a, atunci mai ai de depus documentele **c-f**.
