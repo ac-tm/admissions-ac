@@ -1,5 +1,5 @@
 ---
-title: Specializări master
+title: Specializări masterat
 description: Noi îți oferim 12 posibilități, toate de nota 10! Decizia e la tine!
 image:
   src: /uploads/spec.png
