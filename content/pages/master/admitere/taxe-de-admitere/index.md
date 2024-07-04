@@ -12,7 +12,7 @@ fullPath: master/admitere/taxe-de-admitere
 * **150 LEI** — **taxa de** **înscriere**, pentru toate programele de studii;
 * **100 LEI — taxa de înmatriculare**, pentru toate programele de studii;
 
-*Informații despre condițiile de scutire a plății taxei de înscriere se găsesc pe pagina dedicată*.
+*Informații despre condițiile de [scutire a plății taxei de înscriere se găsesc pe pagina dedicată](/master/admitere/regulamente/)*.
 
 - - -
 
