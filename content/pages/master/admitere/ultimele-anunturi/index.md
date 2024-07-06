@@ -7,26 +7,30 @@ fullPath: master/admitere/ultimele-anunturi
 ---
 
 
-### Candidați înscriși la finalul zilei de 5 iulie: 178
+### Candidați înscriși la finalul zilei de 6 iulie: 415
 
 | **Program** | **Candidați** |
 | ----------- | ------------- |
-|AES|3|
-|CCIOT|13|
-|GD|3|
-|ISA|14|
-|IT|8|
-|ML|35|
-|QC|2|
-|SE|20|
-|SIAPS|21|
-|SIIS|9|
-|SISC|34|
-|TI|12|
+|AES|7|
+|CCIOT|36|
+|GD|14|
+|ISA|27|
+|IT|22|
+|ML|89|
+|QC|13|
+|SE|43|
+|SIAPS|38|
+|SIIS|15|
+|SISC|67|
+|TAES|1|
+|TI|30|
 |TML|1|
 |TQC|2|
-|TSIAPS|1|
-
+|TSE|4|
+|TSIAPS|2|
+|TSIIS|1|
+|TSISC|2|
+|TTI|1|
 
 
 
