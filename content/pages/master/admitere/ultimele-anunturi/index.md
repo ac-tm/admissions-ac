@@ -7,6 +7,12 @@ fullPath: master/admitere/ultimele-anunturi
 ---
 
 
+## Programarea la interviu
+
+Interviul de admitere se va desfășura online în data de luni 8 iulie 2024.
+Vă rugăm reveniți pentru detalii legate de conectare și orele de desfășurare.
+
+
 ## Liste de verificare, etapa 1
 
 Toți candidații sunt obligați să verifice în lista de mai jos validitatea datelor de concurs.
