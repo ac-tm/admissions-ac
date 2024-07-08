@@ -20,6 +20,8 @@ Fiecare candidat va pregăti o prezentare care poate să cuprindă: prezentarea 
 
 Datele de conectare vor fi trimise candidaților și prin e-mail în cursul zilei de duminică la adresele înregistrate la înscriere.
 
+<Attachment label="Membrii comisiilor de interviu" file="/uploads/Comisii-master-AC-2024-07.pdf"></Attachment>
+
 
 
 
