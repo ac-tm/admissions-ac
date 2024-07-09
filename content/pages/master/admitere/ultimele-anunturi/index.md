@@ -6,6 +6,12 @@ image:
 fullPath: master/admitere/ultimele-anunturi
 ---
 
+## 📰 Rezultate admitere master, etapa 1
+
+S-au afișat **rezultatele inițiale ale etapei 1**, pentru prima rundă de confirmări.
+
+
+
 
 ## Programarea la interviu
 
