@@ -27,14 +27,12 @@ Pentru confirmare, sunt obligatorii plata taxei de confirmare și, pentru candid
    * Din aplicația de admitere Enroll, cu cardul bancar (preferabil)
    * Prin transfer bancar în contul UPT și încărcare a dovezii plății în aplicația de admitere Enroll
 
-2. Depunerea tuturor actele necesare la dosar se poate face:
+2. Depunerea tuturor actele necesare la dosar se poate face în biroul de confirmări, corpul B, clădirea Electro, sala B512 (daca prima optiune la inscriere a fost la CCIoT, IT, ML, QC, SE) sau sala B615 (pentru AES, GD, ISA, SIAPS, SIIS, SISC, TI), și include în **ORIGINAL** adeverinta/diploma, 2 poze fotografii color tip diplomă, situatia scolara/foaie matricola/supliment la diploma in **ORIGINAL**, adeverinta medicala, și eventuala declarație notarială deja depuse în sistemul electronic Enroll de admitere.
 
-   * În biroul de confirmări, corpul B, clădirea Electro, sala B512 (daca prima optiune la inscriere a fost la CCIoT, IT, ML, QC, SE) sau sala B615 (pentru AES, GD, ISA, SIAPS, SIIS, SISC, TI), și include în **ORIGINAL** adeverinta/diploma, 2 poze fotografii color tip diplomă, situatia scolara/foaie matricola/supliment la diploma in **ORIGINAL**, adeverinta medicala, și eventuala declarație notarială deja depuse în sistemul electronic Enroll de admitere.
-
-   *Absolvenților AC ai promoției 2024 care au făcut cerere în Campusul Virtual li se va transfera adeverința în original și foaia matricolă direct de la secretariatul facultății în dosarul de admitere master.
+   * Absolvenților AC ai promoției 2024 care au făcut cerere în Campusul Virtual li se va transfera adeverința în original și foaia matricolă direct de la secretariatul facultății în dosarul de admitere master.
 Candidații care ocupă un loc bugetat, și nu au completat cererea (sau care și-au ridicat deja adeverința de la secretariat) sunt obligați să aducă adeverința sau diploma de licență în original până la ora 15.
 
-   *Candidații care nu sunt în localitate pot aduce sau trimite cele 2 fotografii color tip diplomă, adeverința medicală, și eventuala declarație notarială până cel târziu vineri 12 iulie ora 13.
+   * Candidații care nu sunt în localitate pot aduce sau trimite cele 2 fotografii color tip diplomă, adeverința medicală, și eventuala declarație notarială până cel târziu vineri 12 iulie ora 13.
 
 
 O eventuală rundă 2 de confirmări se va desfășura joi 11 iulie, orele 9-14.
