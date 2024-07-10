@@ -57,4 +57,4 @@ Odată ce ești declarat admis, pentru a-ți confirma locul, e necesar să achi�
 
 ## Etapa 3 - Prima zi a anului universitar (2024-2025)
 
-Dacă ai lăsat pentru etapa a 3-a ce puteai depune în etapa a 2-a, atunci mai ai de depus documentele **c-f**.
+În situații excepționale pentru care ai primit aprobare de la comisia de admitere, poți depune la începerea școlii adeverința medicală, fotografiile și eventual dovada de scutire de taxă.
