@@ -5,12 +5,9 @@ image:
   src: https://aielpo.eplo.int/wp-content/uploads/2021/01/admission.jpg
 fullPath: master/admitere/rezultatele-admiterii
 ---
-
-
-
 ## Rezultate admitere master - runda II
 
-<Attachment label="Rezultate concurs admitere master - runda I" file="/uploads/6M-R1-20240710.pdf"></Attachment>
+<Attachment label="Rezultate concurs admitere master - runda II" file="/uploads/6M-R1-20240710.pdf"></Attachment>
 
 **[Rezultate români de pretutindeni pe site-ul dedicat](https://upt.ro/Informatii_romani-de-pretutindeni---admitere-master_1498_ro.html)**
 
@@ -26,18 +23,13 @@ Pentru confirmare, sunt obligatorii plata taxei de confirmare și, pentru candid
 
    * Din aplicația de admitere Enroll, cu cardul bancar (preferabil)
    * Prin transfer bancar în contul UPT și încărcare a dovezii plății în aplicația de admitere Enroll
-
 2. Depunerea tuturor actele necesare la dosar se poate face în biroul de confirmări, corpul B, clădirea Electro, sala B512 (daca prima optiune la inscriere a fost la CCIoT, IT, ML, QC, SE) sau sala B615 (pentru AES, GD, ISA, SIAPS, SIIS, SISC, TI), și include în **ORIGINAL** adeverinta/diploma, 2 poze fotografii color tip diplomă, situatia scolara/foaie matricola/supliment la diploma in **ORIGINAL**, adeverinta medicala, și eventuala declarație notarială deja depuse în sistemul electronic Enroll de admitere.
 
    * Absolvenților AC ai promoției 2024 care au făcut cerere în Campusul Virtual li se va transfera adeverința în original și foaia matricolă direct de la secretariatul facultății în dosarul de admitere master.
-Candidații care ocupă un loc bugetat, și nu au completat cererea (sau care și-au ridicat deja adeverința de la secretariat) sunt obligați să aducă adeverința sau diploma de licență în original până la ora 14.
-
+     Candidații care ocupă un loc bugetat, și nu au completat cererea (sau care și-au ridicat deja adeverința de la secretariat) sunt obligați să aducă adeverința sau diploma de licență în original până la ora 14.
    * Candidații care nu sunt în localitate pot aduce sau trimite cele 2 fotografii color tip diplomă, adeverința medicală, și eventuala declarație notarială până cel târziu vineri 12 iulie ora 13.
 
-
 O eventuală rundă 3 de confirmări se va desfășura vineri 12 iulie, orele 9-12.
-
-
 
 ## Rezultate admitere master - runda I
 
@@ -57,13 +49,10 @@ Pentru confirmare, sunt obligatorii plata taxei de confirmare și, pentru candid
 
    * Din aplicația de admitere Enroll, cu cardul bancar (preferabil)
    * Prin transfer bancar în contul UPT și încărcare a dovezii plății în aplicația de admitere Enroll
-
 2. Depunerea tuturor actele necesare la dosar se poate face în biroul de confirmări, corpul B, clădirea Electro, sala B512 (daca prima optiune la inscriere a fost la CCIoT, IT, ML, QC, SE) sau sala B615 (pentru AES, GD, ISA, SIAPS, SIIS, SISC, TI), și include în **ORIGINAL** adeverinta/diploma, 2 poze fotografii color tip diplomă, situatia scolara/foaie matricola/supliment la diploma in **ORIGINAL**, adeverinta medicala, și eventuala declarație notarială deja depuse în sistemul electronic Enroll de admitere.
 
    * Absolvenților AC ai promoției 2024 care au făcut cerere în Campusul Virtual li se va transfera adeverința în original și foaia matricolă direct de la secretariatul facultății în dosarul de admitere master.
-Candidații care ocupă un loc bugetat, și nu au completat cererea (sau care și-au ridicat deja adeverința de la secretariat) sunt obligați să aducă adeverința sau diploma de licență în original până la ora 15.
-
+     Candidații care ocupă un loc bugetat, și nu au completat cererea (sau care și-au ridicat deja adeverința de la secretariat) sunt obligați să aducă adeverința sau diploma de licență în original până la ora 15.
    * Candidații care nu sunt în localitate pot aduce sau trimite cele 2 fotografii color tip diplomă, adeverința medicală, și eventuala declarație notarială până cel târziu vineri 12 iulie ora 13.
-
 
 O eventuală rundă 2 de confirmări se va desfășura joi 11 iulie, orele 9-14.
