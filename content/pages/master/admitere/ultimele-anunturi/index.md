@@ -8,7 +8,7 @@ fullPath: master/admitere/ultimele-anunturi
 
 ## 📰 Rezultate admitere master, etapa 1
 
-S-au afișat **rezultatele etapei 1 pentru a doua rundă de confirmări**, [pe pagina dedicată](/master/admitere/rezultatele-admiterii/).
+S-au afișat **rezultatele etapei 1 pentru a treia rundă de confirmări**, [pe pagina dedicată](/master/admitere/rezultatele-admiterii/).
 
 S-a suplimentat numărul de locuri de admitere la programele SISC și SIAPS. La programele master din domeniul Calculatoare și Tehnologia Informației au fost scoase la concurs numărul maxim de locuri aprobat de Agenția Română de Asigurare a Calității în Învățământul Superior (ARACIS).
 
