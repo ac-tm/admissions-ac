@@ -14,9 +14,7 @@ fullPath: master/admitere/rezultatele-admiterii
 
 **IMPORTANT: Candidații care au confirmat în primele două runde nu mai trebuie să confirme și în runda 3. Candidații fără loc în primele două runde și admiși acum trebuie să confirme locul obținut în runda 3; nefinalizarea procedurii de confirmari, in termenul afisat, atrage eliminarea candidatului din concurs, inclusiv pentru candidații declarati nou admisi.**
 
-Candidații pentru care pe coloana "ADMIS LA OPT" nu apare scris nimic NU SUNT ADMIȘI în a treia rundă.
-
-Calendarul pentru a doua rundă de confirmări este vineri 12 iulie între orele 9 și 12.
+Calendarul pentru a treia rundă de confirmări este vineri 12 iulie între orele 9 și 12.
 
 Pentru confirmare, sunt obligatorii plata taxei de confirmare și, pentru candidații admiși pe locuri fără taxă, depunerea la dosar a **diplomei sau adeverinței de licență** în **ORIGINAL** si **foaia matricola** tot in **ORIGINAL**. 
 
