@@ -6,6 +6,25 @@ image:
 fullPath: master/admitere/rezultatele-admiterii
 ---
 
+
+
+## Rezultate admitere master - final etapa 1
+
+Rezultate finale ale etapei 1, după cele 3 runde de confirmări:
+
+<Attachment label="Candidați admiși în etapa 1" file="/uploads/6M-E1-admisi-optiuni-20240712.pdf"></Attachment>
+<Attachment label="Candidați respinși în etapa 1" file="/uploads/6M-E1-respinsi-20240712.pdf"></Attachment>
+
+**[Rezultate români de pretutindeni pe site-ul dedicat](https://upt.ro/Informatii_romani-de-pretutindeni---admitere-master_1498_ro.html)**
+
+
+**[Calendarul de plată a taxei de studii](https://upt.ro/img/files/2023-2024/Admitere/HS-nr.15-15.02.2024_taxe_scolarizare.pdf)**
+
+
+ℹ️ Reveniți pentru anunțuri despre precazare.
+
+
+
 ## Rezultate admitere master - runda III
 
 <Attachment label="Rezultate concurs admitere master - runda III" file="/uploads/6M-R3-20240711.pdf"></Attachment>
