@@ -17,6 +17,7 @@ Modele de subiecte pentru examenul de admitere la informatică:
 
 * [Model 1](https://admitere.ac.upt.ro/uploads/model-subiect-informatica-ac.pdf)
 * [Model 2](https://admitere.ac.upt.ro/uploads/upt-admitere2024-model2.pdf)
+* [Model 3](https://admitere.ac.upt.ro/uploads/adm2024-model3.pdf)
 
 Înregistrările sesiunilor de pregătire la informatică le găsiți [aici](https://www.youtube.com/watch?v=bUVpkto3V7M&list=PLVnzOXfytm7OnTNKemm7AxhA-0nLQzR2y).
 
