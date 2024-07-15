@@ -13,12 +13,13 @@ La ***Facultatea de Automatică și Calculatoare*** în etapa 2 de admitere ai l
 
 | **Nume**                                                     | **cod 6M** | **Locuri disponibile a doua etapă** |
 | -------------------------------------------------------- | ------ | ------------------- |
-| Game Development -  fără taxă                            | GD     | 6                   |
-| Sisteme Informatice în Îngrijirea Sănătăţii -  fără taxă | SIIS   | 1                   |
-| Ingineria Sistemelor Automate -  fără taxă | ISA   | 1                   |
+| Game Development -  cu taxă                            | TGD     | 20                   |
 | Ingineria Sistemelor Automate - cu taxă                  | TISA   | 4                   |
 | Sisteme Informatice în Îngrijirea Sănătăţii - cu taxă    | TSIIS  | 4                   |
 | Automotive Embedded Software - cu taxă                   | TAES   | 1                   |
+
+Vă rugăm reveniți.
+
 
 ## Etapa 1 de admitere
 
