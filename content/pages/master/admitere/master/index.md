@@ -18,7 +18,7 @@ La ***Facultatea de Automatică și Calculatoare*** în etapa 2 de admitere ai l
 | Sisteme Informatice în Îngrijirea Sănătăţii - cu taxă    | TSIIS  | 4                   |
 | Automotive Embedded Software - cu taxă                   | TAES   | 1                   |
 
-Vă rugăm reveniți.
+E posibilă suplimentarea locurilor la buget, vă rugăm reveniți în cursul zilei de luni 15 iulie.
 
 
 ## Etapa 1 de admitere
