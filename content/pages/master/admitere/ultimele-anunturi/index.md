@@ -9,7 +9,7 @@ fullPath: master/admitere/ultimele-anunturi
 
 ## Admitere master, etapa 2
 
-A început ultima etapă de admitere.
+[A început ultima etapă](/master/admitere/calendarul-admiterii-master-sesiunea-iulie/) de admitere [pe locurile rămase](/master/admitere/master/).
 
 
 ## 📰 Rezultate admitere master, etapa 1
