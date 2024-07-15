@@ -11,7 +11,7 @@ fullPath: master/admitere/master
 
 La ***Facultatea de Automatică și Calculatoare*** în etapa 2 de admitere ai locuri disponibile următoarele programe de studii universitare de masterat:
 
-| **Nume**                                                     | **cod 6M** | *Locuri disponibile a doua etapă** |
+| **Nume**                                                     | **cod 6M** | **Locuri disponibile a doua etapă** |
 | -------------------------------------------------------- | ------ | ------------------- |
 | Game Development -  fără taxă                            | GD     | 6                   |
 | Sisteme Informatice în Îngrijirea Sănătăţii -  fără taxă | SIIS   | 1                   |
