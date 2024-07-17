@@ -5,6 +5,10 @@ image:
   src: /uploads/warning.jpg
 fullPath: licenta/admitere/ultimele-anunturi
 ---
+**Pentru cei care susțin proba de matematică sau informatică**, la Facultatea de Automatică și Calculatoare **în data de 22 iulie 2024**, **oferim cazare** în căminul 2MV, la tariful de 50,00 lei/persoană/noapte. Rezervări și alte informații se pot obține la numărul de telefon 0745 377854 – d.na Mirela Martinov.
+
+Informații cu privire la **cazarea în cămine pentru studenții admiși în anul I** se găsesc **[aici](https://admitere.ac.upt.ro/uploads/info-utile-2024.pdf)**.
+
 **STATISTICI ÎNSCRIERI,** **16.07.2024, ora 19:00**
 
 Următorul tabel prezintă numărul total de candidați înscriși, precum și distribuția acestora la secțiunile 6L, 12L și 10DL, pentru admiterea la **Facultatea de Automatică și Calculatoare**. Tabelele prezintă numărul de candidați înscriși luând în calcul numai prima lor opțiune.
