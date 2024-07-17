@@ -7,6 +7,8 @@ image:
   alt: Taxe de admitere
 fullPath: licenta/admitere/taxe-de-admitere
 ---
+**Taxa de școlarizare** pentru studenții declarați **admiși pe locurile cu taxă** în sesiunea **iulie 2024** poate fi achitată în două rate egale. Prima rată trebuie achitată până în **26 august 2024** conform [hotărârii 22/17.07.2024](https://admitere.ac.upt.ro/uploads/adresa-taxa-admisi-pe-locuri-cu-taxa.pdf).
+
 *La licență*, [taxele de admitere](https://www.upt.ro/img/files/2023-2024/Admitere/HS-nr.14-15.02.2024_taxe_admitere.pdf) pentru sesiunea iunie-septembrie 2024 sunt:
 
 **Taxa de înscriere:**
