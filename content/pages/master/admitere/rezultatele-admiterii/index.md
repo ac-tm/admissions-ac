@@ -19,7 +19,8 @@ Rezultate finale ale etapei 1, după cele 3 runde de confirmări:
 
 
 <Attachment label="Calendarul de plată a taxei de studii" file="/uploads/adresa-taxa-admisi-pe-locuri-cu-taxa.pdf"></Attachment>
-Neachitarea primei rate din taxa de școlarizare până în data de **26 august 2024** duce la anularea statului de admis la Universitatea Politehnica Timișoara.
+**Taxa de școlarizare** pentru studenții declarați **admiși pe locurile cu taxă** în sesiunea *iulie 2024* poate fi achitată în două rate egale.
+Neachitarea primei rate din taxa de școlarizare până în data de **26 august 2024** duce la anularea statului de admis la Universitatea Politehnica Timișoara, conform adresei de mai sus.
 **[Cuantumul taxei de studii](https://upt.ro/img/files/2023-2024/Admitere/HS-nr.15-15.02.2024_taxe_scolarizare.pdf)**
 
 
