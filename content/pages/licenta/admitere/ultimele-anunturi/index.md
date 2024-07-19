@@ -5,6 +5,24 @@ image:
   src: /uploads/warning.jpg
 fullPath: licenta/admitere/ultimele-anunturi
 ---
+
+
+<Block color="red">
+
+**Concursurile de matematică și informatică, proba scrisă**, la Facultatea de Automatică și Calculatoare (AC) - secțiunea 6, se va desfășura în data de **22 iulie 2024**, începând cu **ora 09.00.**
+
+**Accesul în clădiri se face în intervalul orar 08:00-8:30. La ora 8:30 trebuie să fie toată lumea în săli.**
+
+**La accesul în sală candidații prezintă comisiei de supraveghere actul de identitate** pentru confruntarea cu datele înscrise în lista candidaților. Actul de identitate se va prezenta și la predarea lucrării.
+
+**Se interzice** folosirea altei hârtii decât cea distribuită de supraveghetori. De asemenea, pe durata probelor **se vor preda toate dispozitivele electronice** (calculator, telefon mobil, Smartwatch sau alte mijloace tehnice de calcul).
+
+**Părăsirea sălii** se poate face doar în urma predării lucrării, sub semnătură.
+
+Revenim în cursul zilei de sâmbătă, 20.07.2024 cu **repartizarea în săli și locațiile**.
+
+</Block>
+
 **Pentru cei care susțin proba de matematică sau informatică**, la Facultatea de Automatică și Calculatoare **în data de 22 iulie 2024**, **oferim cazare** în căminul 2MV, la tariful de 50,00 lei/persoană/noapte. Rezervări și alte informații se pot obține la numărul de telefon 0745 377854 – d.na Mirela Martinov.
 
 Informații cu privire la **cazarea în cămine pentru studenții admiși în anul I** se găsesc **[aici](https://admitere.ac.upt.ro/uploads/info-utile-2024.pdf)**.
