@@ -5,7 +5,9 @@ image:
   src: /uploads/warning.jpg
 fullPath: licenta/admitere/ultimele-anunturi
 ---
+**Rezultate portofoliu (Etapa 1)**
 
+* [Rezultatele preselecției portofoliului de realizări](https://admitere.ac.upt.ro/uploads/rezultateportofoliu_etapa1.pdf)
 
 <Block color="red">
 
