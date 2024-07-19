@@ -5,6 +5,10 @@ image:
   src: /uploads/warning.jpg
 fullPath: licenta/admitere/ultimele-anunturi
 ---
+**Informații cu privire la concursul de admitere de luni, 22 iulie 2024 (probă matematică, probă informatică și interviu portofolii de realizări):**
+
+* [Programare interviu portofoliu - 22 iulie 2024, începând cu ora 9:00](https://admitere.ac.upt.ro/uploads/programareinterviu-2024.pdf)
+
 **Rezultate portofoliu (Etapa 1)**
 
 * [Rezultatele preselecției portofoliului de realizări](https://admitere.ac.upt.ro/uploads/rezultateportofoliu_etapa1.pdf)
