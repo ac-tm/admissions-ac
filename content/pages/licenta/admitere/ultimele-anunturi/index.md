@@ -5,6 +5,19 @@ image:
   src: /uploads/warning.jpg
 fullPath: licenta/admitere/ultimele-anunturi
 ---
+**Listele candidaților înscriși la secțiunea 6** (concurs cu probe) și **repartizarea pe sălile de examen**:
+• [Bacalaureat](https://admitere.ac.upt.ro/uploads/6l-liste-b.pdf)
+• [Cu premii la competiții agreate, admitere cu media 10](https://admitere.ac.upt.ro/uploads/6l-liste-o.pdf)
+• [Cu premii la competiții agreate, echivalare probă cu nota 10](https://admitere.ac.upt.ro/uploads/6l-liste-o2.pdf)
+• [Cu cerințe educaționale speciale](https://admitere.ac.upt.ro/uploads/6l-liste-ces.pdf)
+• [Din centre de plasament](https://admitere.ac.upt.ro/uploads/6l-liste-p.pdf)
+• [Absolvent liceu mediul rural](https://admitere.ac.upt.ro/uploads/6l-liste-r.pdf)
+• [Studenți](https://admitere.ac.upt.ro/uploads/6l-liste-s.pdf)
+• [SRI](https://admitere.ac.upt.ro/uploads/6l-liste-sri.pdf)
+• [Sportivi](https://admitere.ac.upt.ro/uploads/6l-liste-t.pdf)
+• [Licențiați](https://admitere.ac.upt.ro/uploads/6l-liste-l.pdf)
+**Vă rugăm să verificați opțiunile din listele de mai sus** iar problemele apărute vă rugăm să le transmiteți pe emailul: [admitere.ac@upt.ro](admitere.ac@upt.ro).
+
 **Informații cu privire la concursul de admitere de luni, 22 iulie 2024 (probă matematică, probă informatică și interviu portofolii de realizări):**
 
 * [Programare interviu portofoliu - 22 iulie 2024, începând cu ora 9:00](https://admitere.ac.upt.ro/uploads/programareinterviu-2024.pdf)
@@ -26,8 +39,6 @@ fullPath: licenta/admitere/ultimele-anunturi
 **Se interzice** folosirea altei hârtii decât cea distribuită de supraveghetori. De asemenea, pe durata probelor **se vor preda toate dispozitivele electronice** (calculator, telefon mobil, Smartwatch sau alte mijloace tehnice de calcul).
 
 **Părăsirea sălii** se poate face doar în urma predării lucrării, sub semnătură.
-
-Revenim în cursul zilei de sâmbătă, 20.07.2024 cu **repartizarea în săli și locațiile**.
 
 </Block>
 
