@@ -8,16 +8,18 @@ fullPath: licenta/admitere/ultimele-anunturi
 <Block color="green">
 
 **Listele candidaților înscriși la secțiunea 6** (concurs cu probe) și **repartizarea pe sălile de examen**:
-• [Bacalaureat](https://admitere.ac.upt.ro/uploads/6l-liste-b.pdf)
-• [Cu premii la competiții agreate, admitere cu media 10](https://admitere.ac.upt.ro/uploads/6l-liste-o.pdf)
-• [Cu premii la competiții agreate, echivalare probă cu nota 10](https://admitere.ac.upt.ro/uploads/6l-liste-o2.pdf)
-• [Cu cerințe educaționale speciale](https://admitere.ac.upt.ro/uploads/6l-liste-ces.pdf)
-• [Din centre de plasament](https://admitere.ac.upt.ro/uploads/6l-liste-p.pdf)
-• [Absolvent liceu mediul rural](https://admitere.ac.upt.ro/uploads/6l-liste-r.pdf)
-• [Studenți](https://admitere.ac.upt.ro/uploads/6l-liste-s.pdf)
-• [SRI](https://admitere.ac.upt.ro/uploads/6l-liste-sri.pdf)
-• [Sportivi](https://admitere.ac.upt.ro/uploads/6l-liste-t.pdf)
-• [Licențiați](https://admitere.ac.upt.ro/uploads/6l-liste-l.pdf)
+
+* [Bacalaureat](https://admitere.ac.upt.ro/uploads/6l-liste-b.pdf)
+* [Cu premii la competiții agreate, admitere cu media 10](https://admitere.ac.upt.ro/uploads/6l-liste-o.pdf)
+* [Cu premii la competiții agreate, echivalare probă cu nota 10](https://admitere.ac.upt.ro/uploads/6l-liste-o2.pdf)
+* [Cu cerințe educaționale speciale](https://admitere.ac.upt.ro/uploads/6l-liste-ces.pdf)
+* [Din centre de plasament](https://admitere.ac.upt.ro/uploads/6l-liste-p.pdf)
+* [Absolvent liceu mediul rural](https://admitere.ac.upt.ro/uploads/6l-liste-r.pdf)
+* [Studenți](https://admitere.ac.upt.ro/uploads/6l-liste-s.pdf)
+* [SRI](https://admitere.ac.upt.ro/uploads/6l-liste-sri.pdf)
+* [Sportivi](https://admitere.ac.upt.ro/uploads/6l-liste-t.pdf)
+* [Licențiați](https://admitere.ac.upt.ro/uploads/6l-liste-l.pdf)
+
 **Vă rugăm să verificați opțiunile din listele de mai sus** iar problemele apărute vă rugăm să le transmiteți pe emailul: [admitere.ac@upt.ro](admitere.ac@upt.ro).
 
 </Block>
