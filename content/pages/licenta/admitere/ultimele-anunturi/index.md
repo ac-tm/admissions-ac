@@ -5,6 +5,8 @@ image:
   src: /uploads/warning.jpg
 fullPath: licenta/admitere/ultimele-anunturi
 ---
+<Block color="green">
+
 **Listele candidaților înscriși la secțiunea 6** (concurs cu probe) și **repartizarea pe sălile de examen**:
 • [Bacalaureat](https://admitere.ac.upt.ro/uploads/6l-liste-b.pdf)
 • [Cu premii la competiții agreate, admitere cu media 10](https://admitere.ac.upt.ro/uploads/6l-liste-o.pdf)
@@ -18,6 +20,10 @@ fullPath: licenta/admitere/ultimele-anunturi
 • [Licențiați](https://admitere.ac.upt.ro/uploads/6l-liste-l.pdf)
 **Vă rugăm să verificați opțiunile din listele de mai sus** iar problemele apărute vă rugăm să le transmiteți pe emailul: [admitere.ac@upt.ro](admitere.ac@upt.ro).
 
+</Block>
+
+<Block color="red">
+
 **Informații cu privire la concursul de admitere de luni, 22 iulie 2024 (probă matematică, probă informatică și interviu portofolii de realizări):**
 
 * [Programare interviu portofoliu - 22 iulie 2024, începând cu ora 9:00](https://admitere.ac.upt.ro/uploads/programareinterviu-2024.pdf)
@@ -27,8 +33,6 @@ fullPath: licenta/admitere/ultimele-anunturi
 **Rezultate portofoliu (Etapa 1)**
 
 * [Rezultatele preselecției portofoliului de realizări](https://admitere.ac.upt.ro/uploads/rezultateportofoliu_etapa1.pdf)
-
-<Block color="red">
 
 **Concursurile de matematică și informatică, proba scrisă**, la Facultatea de Automatică și Calculatoare (AC) - secțiunea 6, se va desfășura în data de **22 iulie 2024**, începând cu **ora 09.00.**
 
