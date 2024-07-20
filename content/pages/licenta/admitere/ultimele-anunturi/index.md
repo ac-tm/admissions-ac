@@ -28,7 +28,7 @@ fullPath: licenta/admitere/ultimele-anunturi
 
 **Informații cu privire la concursul de admitere de luni, 22 iulie 2024 (probă matematică, probă informatică și interviu portofolii de realizări):**
 
-* [Programare interviu portofoliu - 22 iulie 2024, începând cu ora 9:00](https://admitere.ac.upt.ro/uploads/programareinterviuportofoliu24.pdf)
+* Programare interviu portofoliu - 22 iulie 2024, începând cu ora 9:00
 * [Amplasare săli de examen (adrese, coordonate GPS, etc.)](https://admitere.ac.upt.ro/uploads/010-amplasare-sali-de-examen-2024.pdf) ([harta Electro, Construcții, ASPC, Mecanică](https://admitere.ac.upt.ro/uploads/030-harta-electro-constr-aspc-mec.pdf), [Management](https://admitere.ac.upt.ro/uploads/030-harta-management.pdf), [Chimie](https://admitere.ac.upt.ro/uploads/050-harta-chimie.pdf))
 * [În atenţia candidaţilor la concursul de admitere](https://admitere.ac.upt.ro/uploads/020-anunt-candidati-celulare.pdf)
 
