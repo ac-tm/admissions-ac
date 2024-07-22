@@ -9,6 +9,20 @@ Rezultatele la portofoliu **Etapa 2** se găsesc la link-ul de mai jos:
 
 <Attachment label="Rezultate secțiunea 6L" internal="licenta/admitere/rezultate-admitere-sectiunea-6l-iulie-2024"></Attachment>
 
+<Block color="gray">
+
+Liga AC împreună cu Facultatea de Automatică și Calculatoare organizează Treasure Hunt Admitere, astazi 22 iulie, începând cu ora 17:00 în fața la sediul Ligii AC (corpul Electro, la parter). 
+
+Dacă vrei sa participi completează acest formular și vino să descoperi Corpul Electro și zonele din împrejurimi.
+
+Înscrierile sunt deschise până la ora 17:00. 
+
+Te așteptăm cu premii și cu voie bună.
+
+Formular: <https://forms.gle/htJpsQL2DbB7AtYn8>
+
+</Block>
+
 <Block color="green">
 
 **Listele candidaților înscriși la secțiunea 6** (concurs cu probe) și **repartizarea pe sălile de examen**:
