@@ -7,6 +7,8 @@ fullPath: licenta/admitere/rezultate-admitere-sectiunea-6l-iulie-2024
 ---
 ## Rezultate 6L Runda I ― 22.07.2024
 
+<Block color="green">
+
 Toți candidații admiși **TREBUIE** să confirme în runda I. Cei care nu confirmă, vor fi eliminați din concurs.
 
 * [REZULTATELE CONCURSULUI DE ADMITERE](https://admitere.ac.upt.ro/uploads/6l-r0-general.pdf)
@@ -23,5 +25,9 @@ Rezultate runda I pe tipuri de candidați:
 * [SRI](https://admitere.ac.upt.ro/uploads/6l-r0-optiuni-sri.pdf)
 * [Sportivi](https://admitere.ac.upt.ro/uploads/6l-r0-optiuni-t.pdf)
 * [Listă așteptare](https://admitere.ac.upt.ro/uploads/6l-r0-optiuni-asteptare.pdf)
+
+</Block>
+
+
 
 [Rezultate portofolii Etapa 2](https://admitere.ac.upt.ro/uploads/rezultateportofoliu_etapa2.pdf)
