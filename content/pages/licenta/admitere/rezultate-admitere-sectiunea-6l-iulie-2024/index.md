@@ -11,7 +11,7 @@ fullPath: licenta/admitere/rezultate-admitere-sectiunea-6l-iulie-2024
 
 Toți candidații admiși **TREBUIE** să confirme în runda I. Cei care nu confirmă, vor fi eliminați din concurs. 
 
-**Nu contează** **momentul** în care elevii confirmă locul în intervalul precizat mai jos (nu trebuie să vă aglomerați în primele ore marți dimineață). 
+**Nu contează** **momentul** în care elevii confirmă locul în intervalul precizat mai jos (nu trebuie să vă aglomerați în primele ore marți dimineață). **Este indicat să faceți plata online, în platforma Enroll, înainte de a veni să depuneți actele originale!**
 
 ### Confirmări Runda I
 
