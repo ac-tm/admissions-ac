@@ -70,7 +70,7 @@ Formular: <https://forms.gle/htJpsQL2DbB7AtYn8>
 
 Informații cu privire la **cazarea în cămine pentru studenții admiși în anul I** se găsesc **[aici](https://admitere.ac.upt.ro/uploads/info-utile-2024.pdf)**.
 
-**STATISTICI ÎNSCRIERI,** **19.07.2024, ora 18:00**
+**STATISTICI ÎNSCRIERI,** **22.07.2024, ora 18:00**
 
 Următorul tabel prezintă numărul total de candidați înscriși, precum și distribuția acestora la secțiunile 6L, 12L și 10DL, pentru admiterea la **Facultatea de Automatică și Calculatoare**. Tabelele prezintă numărul de candidați înscriși luând în calcul numai prima lor opțiune.
 
@@ -86,10 +86,10 @@ Următorul tabel prezintă numărul total de candidați înscriși, precum și d
 
 | **12L - Automatică și Calculatoare (AC) - concurs de dosare** | **Candidați înscriși** |
 | ------------------------------------------------------------- | ---------------------- |
-| Informatică - limba română - fără taxă                        | 719                    |
-| Informatică - limba română - cu taxă                          | 30                     |
-| **TOTAL**                                                     | **749**                |
+| Informatică - limba română - fără taxă                        | 765                    |
+| Informatică - limba română - cu taxă                          | 33                     |
+| **TOTAL**                                                     | **798**                |
 
 | **10DL - Automatică și Calculatoare - învățământ la distanță** | **Candidați înscriși** |
 | -------------------------------------------------------------- | ---------------------- |
-| Informatică - învățământ la distanță (ID) - cu taxă            | 104                    |
+| Informatică - învățământ la distanță (ID) - cu taxă            | 125                    |
