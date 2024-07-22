@@ -9,11 +9,21 @@ fullPath: licenta/admitere/rezultate-admitere-sectiunea-6l-iulie-2024
 
 <Block color="green">
 
-Toți candidații admiși **TREBUIE** să confirme în runda I. Cei care nu confirmă, vor fi eliminați din concurs.
+Toți candidații admiși **TREBUIE** să confirme în runda I. Cei care nu confirmă, vor fi eliminați din concurs. 
 
-* [REZULTATELE CONCURSULUI DE ADMITERE](https://admitere.ac.upt.ro/uploads/6l-r0-general.pdf)
+**Nu contează** **momentul** în care elevii confirmă locul în intervalul precizat mai jos (nu trebuie să vă aglomerați în primele ore marți dimineață). 
 
-Rezultate runda I pe tipuri de candidați:
+### Confirmări Runda I
+
+**23.07.2024 la 10:00 — 24.07.2024 la 16:00**
+
+* **Fizic la facultate**: 23.07.2024 – 24.07.2024, 10:00 – 16:00
+* **Fizic în centrele zonale de admitere**: 23.07.2024 – 24.07.2024, 10:00 – 16:00
+* **Online prin [Enroll](https://enroll.upt.ro/)**: 23.07.2024 – 24.07.2024, până la ora 16:00 (**DOAR DACĂ** dosarul de înscriere conține **originalul diplomei de bacalaureat** și **foaia matricolă** sau **se confirmă un loc cu taxă**[](https://admitere.ac.upt.ro/uploads/6l-r0-general.pdf)
+
+  [REZULTATELE CONCURSULUI DE ADMITERE](https://admitere.ac.upt.ro/uploads/6l-r0-general.pdf)
+
+**Rezultate runda I pe tipuri de candidați:**
 
 * [Bacalaureat](https://admitere.ac.upt.ro/uploads/6l-r0-optiuni.pdf)
 * [Cu premii la competiții agreate, admitere cu media 10](https://admitere.ac.upt.ro/uploads/6l-r0-optiuni-o.pdf)
