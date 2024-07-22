@@ -5,25 +5,13 @@ image:
   src: /uploads/warning.jpg
 fullPath: licenta/admitere/ultimele-anunturi
 ---
-Rezultatele la portofoliu **Etapa 2** se găsesc la link-ul de mai jos:
+S-au afișat rezultatele pentru secțiunea 6L - Runda 1:
 
 <Attachment label="Rezultate secțiunea 6L" internal="licenta/admitere/rezultate-admitere-sectiunea-6l-iulie-2024"></Attachment>
 
-<Block color="gray">
+Informații cu privire la **cazarea în cămine pentru studenții admiși în anul I** se găsesc **[aici](https://admitere.ac.upt.ro/uploads/info-utile-2024.pdf)**.
 
-Liga AC împreună cu Facultatea de Automatică și Calculatoare organizează Treasure Hunt Admitere, astazi 22 iulie, începând cu ora 17:00 în fața la sediul Ligii AC (corpul Electro, la parter). 
-
-Dacă vrei sa participi completează acest formular și vino să descoperi Corpul Electro și zonele din împrejurimi.
-
-Înscrierile sunt deschise până la ora 17:00. 
-
-Te așteptăm cu premii și cu voie bună.
-
-Formular: <https://forms.gle/htJpsQL2DbB7AtYn8>
-
-</Block>
-
-<Block color="green">
+**Taxa de școlarizare** pentru studenții declarați **admiși pe locurile cu taxă** în sesiunea **iulie 2024** poate fi achitată în două rate egale. Prima rată trebuie achitată până în **26 august 2024** conform [hotărârii 22/17.07.2024](https://admitere.ac.upt.ro/uploads/adresa-taxa-admisi-pe-locuri-cu-taxa.pdf).
 
 **Listele candidaților înscriși la secțiunea 6** (concurs cu probe) și **repartizarea pe sălile de examen**:
 
@@ -67,8 +55,6 @@ Formular: <https://forms.gle/htJpsQL2DbB7AtYn8>
 </Block>
 
 **Pentru cei care susțin proba de matematică sau informatică**, la Facultatea de Automatică și Calculatoare **în data de 22 iulie 2024**, **oferim cazare** în căminul 2MV, la tariful de 50,00 lei/persoană/noapte. Rezervări și alte informații se pot obține la numărul de telefon 0745 377854 – d.na Mirela Martinov.
-
-Informații cu privire la **cazarea în cămine pentru studenții admiși în anul I** se găsesc **[aici](https://admitere.ac.upt.ro/uploads/info-utile-2024.pdf)**.
 
 **STATISTICI ÎNSCRIERI,** **22.07.2024, ora 18:00**
 
