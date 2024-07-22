@@ -24,10 +24,8 @@ Rezultate runda I pe tipuri de candidați:
 * [Studenți](https://admitere.ac.upt.ro/uploads/6l-r0-optiuni-s.pdf)
 * [SRI](https://admitere.ac.upt.ro/uploads/6l-r0-optiuni-sri.pdf)
 * [Sportivi](https://admitere.ac.upt.ro/uploads/6l-r0-optiuni-t.pdf)
-* [Listă așteptare](https://admitere.ac.upt.ro/uploads/6l-r0-optiuni-asteptare.pdf)
+* [Candidați respinși](https://admitere.ac.upt.ro/uploads/6l-r0-optiuni-asteptare.pdf)
 
 </Block>
-
-
 
 [Rezultate portofolii Etapa 2](https://admitere.ac.upt.ro/uploads/rezultateportofoliu_etapa2.pdf)
