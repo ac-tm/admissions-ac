@@ -7,6 +7,23 @@ fullPath: master/admitere/ultimele-anunturi
 ---
 
 
+## Programarea la interviu, etapa 2
+
+Interviul de admitere se va desfășura online în data de miercuri, 24 iulie 2024.
+Vă rugăm reveniți pentru detalii.
+
+
+
+## Liste de verificare, etapa 2
+
+Toți candidații sunt obligați să verifice în lista de mai jos validitatea datelor de concurs.
+
+<Attachment label="Liste de verificare Enroll" file="/uploads/6m-liste-verificare-20240723.pdf"></Attachment>
+
+Eventualele contestații, pe adresa secretariat@aut.upt.ro. Termen: **miercuri, 24 iulie 2024, ora 9:00**.
+
+
+
 ## Admitere master, etapa 2
 
 [A început ultima etapă](/master/admitere/calendarul-admiterii-master-sesiunea-iulie/) de admitere [pe locurile rămase](/master/admitere/master/).
