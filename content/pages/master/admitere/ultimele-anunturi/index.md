@@ -11,7 +11,7 @@ fullPath: master/admitere/ultimele-anunturi
 
 Interviul de admitere se va desfășura online în data de miercuri, 24 iulie 2024.
 
-S﻿e recomandă prezența online cu cel puțin 15 minute de ora programată. Candidații care nu participă la interviu vor fi eliminați din concurs.
+S﻿e recomandă prezența online cu aproximativ 30 de minute înainte de ora programată. Candidații care nu participă la interviu vor fi eliminați din concurs.
 
 Fiecare candidat va pregăti o prezentare care poate să cuprindă: prezentarea și realizările candidatului, motivația pentru care optează pentru master, tematica (tema de studiu pentru disertație) pe care dorește să o abordeze la master, capacitatea de a planifica abordarea tematicii (un state of the art, o planificare a abordării tematicii, detalii tehnice necesare).
 
