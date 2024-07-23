@@ -10,7 +10,27 @@ fullPath: master/admitere/ultimele-anunturi
 ## Programarea la interviu, etapa 2
 
 Interviul de admitere se va desfășura online în data de miercuri, 24 iulie 2024.
-Vă rugăm reveniți pentru detalii.
+
+S﻿e recomandă prezența online cu cel puțin 15 minute de ora programată. Candidații care nu participă la interviu vor fi eliminați din concurs.
+
+Fiecare candidat va pregăti o prezentare care poate să cuprindă: prezentarea și realizările candidatului, motivația pentru care optează pentru master, tematica (tema de studiu pentru disertație) pe care dorește să o abordeze la master, capacitatea de a planifica abordarea tematicii (un state of the art, o planificare a abordării tematicii, detalii tehnice necesare).
+
+<Attachment label="Programări interviu și date de conectare, AES, GD, ISA, SIAPS, SIIS, SISC, TI" file="/uploads/ProgramariAIA-20240723.pdf"></Attachment>
+
+Datele de conectare vor fi trimise candidaților și prin e-mail în cursul zilei de marți la adresele înregistrate la înscriere:
+> Topic: Admitere Master - Sesiunea 24 Iulie 2024
+> Time: Jul 24, 2024 07:45 AM Bucharest
+> Join Zoom Meeting
+> https://upt-ro.zoom.us/j/92645946925?pwd=ETrSwcfb1aTxfHqCPLUwGaqEofQdTT.1
+> Meeting ID: 926 4594 6925
+> Passcode: 616501
+
+Membrii comisiei de interviu:
+- Conf.dr.ing. Adriana ALBU
+- Conf.dr.ing. Iosif SZEIDERT-ȘUBERT
+- Conf.dr.ing. Cristian VAȘAR
+- Ş.l.dr.inf. Oana CHIRILA
+- Ș.l.dr.ing. Stelian NICOLA
 
 
 
