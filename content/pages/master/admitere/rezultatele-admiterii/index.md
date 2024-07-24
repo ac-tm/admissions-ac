@@ -24,7 +24,10 @@ Neachitarea primei rate din taxa de școlarizare până în data de **26 august 
 **[Cuantumul taxei de studii](https://upt.ro/img/files/2023-2024/Admitere/HS-nr.15-15.02.2024_taxe_scolarizare.pdf)**
 
 
-ℹ️ Reveniți pentru anunțuri despre precazare.
+Detalii despre **precazare** sunt mai jos:
+
+<Attachment label="Instrucțiuni precazare, master an 1" file="/uploads/calendar-cazare-studenti-master-an-1-sesiunea-iulie-2024.pdf"></Attachment>
+
 
 
 
