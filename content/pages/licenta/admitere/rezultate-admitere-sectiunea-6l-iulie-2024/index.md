@@ -9,7 +9,7 @@ fullPath: licenta/admitere/rezultate-admitere-sectiunea-6l-iulie-2024
 
 <Block color="green">
 
-* **[Rezultate 6L - runda 2](https://admitere.ac.upt.ro/uploads/6l-rezultate-runda2.pdf)**
+* **[Rezultate 6L - runda 2](https://admitere.ac.upt.ro/uploads/6l-rezultate-runda2-v5.pdf)**
 
 **IMPORTANT: Candidații care au confirmat în prima rundă nu mai trebuie să confirme și în runda 2. Candidații respinși în prima rundă trebuie să confirme locul obținut în runda 2; nefinalizarea procedurii de confirmari, in termenul afisat, atrage eliminarea candidatului din concurs, inclusiv pentru studentii declarati nou admisi.**
 
