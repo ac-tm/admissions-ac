@@ -2,7 +2,7 @@
 title: Unde mă înscriu?
 description: Zilele astea totul se face online, nu?
 image:
-  src: https://www.techadvisor.com/cmsdata/slideshow/3378548/best-kids-tablets_thumb1200_4-3.jpg
+  src: /uploads/best-kids-tablets_thumb1200_4-3.jpg
 fullPath: master/admitere/unde-ma-inscriu
 ---
 **Înscrierea se face** **online sau fizic** conform calendarului și instrucțiunilor de [aici](https://admitere.ac.upt.ro/master/admitere/calendarul-admiterii-master-sesiunea-iulie/).
