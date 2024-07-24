@@ -29,6 +29,15 @@ Pentru confirmare, sunt obligatorii plata taxei de confirmare și, pentru candid
      Candidații care ocupă un loc bugetat, și nu au completat cererea (sau care și-au ridicat deja adeverința de la secretariat) sunt obligați să aducă adeverința sau diploma de licență în original până la ora 14.
    * Candidații care nu sunt în localitate pot aduce sau trimite cele 2 fotografii color tip diplomă, adeverința medicală, și eventuala declarație notarială până cel târziu vineri 26 iulie ora 13.
 
+<Attachment label="Calendarul de plată a taxei de studii" file="/uploads/adresa-taxa-admisi-pe-locuri-cu-taxa.pdf"></Attachment>
+**Taxa de școlarizare** pentru studenții declarați **admiși pe locurile cu taxă** în sesiunea *iulie 2024* poate fi achitată în două rate egale.
+Neachitarea primei rate din taxa de școlarizare până în data de **26 august 2024** duce la anularea statului de admis la Universitatea Politehnica Timișoara, conform adresei de mai sus.
+**[Cuantumul taxei de studii](https://upt.ro/img/files/2023-2024/Admitere/HS-nr.15-15.02.2024_taxe_scolarizare.pdf)**
+
+
+Detalii despre **precazare** sunt mai jos:
+
+<Attachment label="Instrucțiuni precazare, master an 1" file="/uploads/calendar-cazare-studenti-master-an-1-sesiunea-iulie-2024.pdf"></Attachment>
 
 
 ## Rezultate admitere master - final etapa 1
