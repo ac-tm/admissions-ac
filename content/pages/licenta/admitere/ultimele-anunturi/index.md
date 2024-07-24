@@ -5,7 +5,9 @@ image:
   src: /uploads/warning.jpg
 fullPath: licenta/admitere/ultimele-anunturi
 ---
-La secțiunea 12L-Informatică încă se lucrează, rezultatele se vor afișa în cel mai scurt timp.
+S-au afișat rezultatele pentru secțiunea 12L - Runda 1:
+
+<Attachment label="Rezultate secțiunea 12L" internal="licenta/admitere/rezultate-admitere-sectiunea-12l-iulie-2024"></Attachment>
 
 S-au afișat rezultatele pentru secțiunea 6L - Runda 2:
 
