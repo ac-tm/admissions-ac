@@ -5,6 +5,10 @@ image:
   src: /uploads/accepted-application.jpg
 fullPath: licenta/admitere/rezultate-admitere-sectiunea-6l-iulie-2024
 ---
+## Rezultate 6L Runda II ― 24.07.2024
+
+* [Rezultate 6L - runda 2](https://admitere.ac.upt.ro/uploads/6l-rezultate-runda2.pdf)
+
 ## Rezultate 6L Runda I ― 22.07.2024
 
 <Block color="green">
