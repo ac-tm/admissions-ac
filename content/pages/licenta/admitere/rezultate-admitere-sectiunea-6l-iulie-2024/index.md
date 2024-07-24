@@ -7,7 +7,21 @@ fullPath: licenta/admitere/rezultate-admitere-sectiunea-6l-iulie-2024
 ---
 ## Rezultate 6L Runda II ― 24.07.2024
 
-* [Rezultate 6L - runda 2](https://admitere.ac.upt.ro/uploads/6l-rezultate-runda2.pdf)
+<Block color="green">
+
+* **[Rezultate 6L - runda 2](https://admitere.ac.upt.ro/uploads/6l-rezultate-runda2.pdf)**
+
+**IMPORTANT: Candidații care au confirmat în prima rundă nu mai trebuie să confirme și în runda 2. Candidații respinși în prima rundă trebuie să confirme locul obținut în runda 2; nefinalizarea procedurii de confirmari, in termenul afisat, atrage eliminarea candidatului din concurs, inclusiv pentru studentii declarati nou admisi.**
+
+### Confirmări Runda II
+
+25.07.2024 la 10:00 — 25.07.2024 la 16:00
+
+* **Fizic la facultate**: 25.07.2024, 10:00 - 16:00
+* **Fizic în centrele zonale de admitere**: 25.07.2024, 10:00 - 16:00
+* **Online prin [Enroll](https://enroll.upt.ro/)**: 25.07.2024, până la ora 16:00 (**DOAR DACĂ** dosarul de înscriere conține **originalul diplomei de bacalaureat** și **foaia matricolă** sau **se confirmă un loc cu taxă**)
+
+</Block>
 
 ## Rezultate 6L Runda I ― 22.07.2024
 
