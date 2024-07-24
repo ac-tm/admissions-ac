@@ -50,7 +50,7 @@ Toți candidații admiși **TREBUIE** să confirme în runda I. Cei care nu conf
 * [Din centre de plasament](https://admitere.ac.upt.ro/uploads/6l-r0-optiuni-p.pdf)
 * [Absolvent liceu mediul rural](https://admitere.ac.upt.ro/uploads/6l-r0-optiuni-u.pdf)
 * [Studenți](https://admitere.ac.upt.ro/uploads/6l-r0-optiuni-s.pdf)
-* [SRI](https://admitere.ac.upt.ro/uploads/6l-r0-optiuni-sri.pdf)
+* [SRI](https://admitere.ac.upt.ro/uploads/6l-r1-sri.pdf)
 * [Sportivi](https://admitere.ac.upt.ro/uploads/6l-r0-optiuni-t.pdf)
 * [Candidați respinși](https://admitere.ac.upt.ro/uploads/6l-r0-optiuni-asteptare.pdf)
 
