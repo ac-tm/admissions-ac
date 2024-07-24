@@ -16,3 +16,7 @@ fullPath: licenta/admitere/rezultate-admitere-sectiunea-12l-iulie-2024
 * **[Plasament](https://admitere.ac.upt.ro/uploads/12l-admisi-p.pdf)**
 * **[SRI](https://admitere.ac.upt.ro/uploads/12l-admisi-sri.pdf)**
 * **[Rural](https://admitere.ac.upt.ro/uploads/12l-admisi-u.pdf)**
+
+Informații cu privire la **cazarea în cămine pentru studenții admiși în anul I** se găsesc **[aici](https://admitere.ac.upt.ro/uploads/info-utile-2024.pdf)**.
+
+**Taxa de școlarizare** pentru studenții declarați **admiși pe locurile cu taxă** în sesiunea **iulie 2024** poate fi achitată în două rate egale. Prima rată trebuie achitată până în **26 august 2024** conform [hotărârii 22/17.07.2024](https://admitere.ac.upt.ro/uploads/adresa-taxa-admisi-pe-locuri-cu-taxa.pdf).
