@@ -60,7 +60,7 @@ Informații cu privire la **cazarea în cămine pentru studenții admiși în an
 
 **Pentru cei care susțin proba de matematică sau informatică**, la Facultatea de Automatică și Calculatoare **în data de 22 iulie 2024**, **oferim cazare** în căminul 2MV, la tariful de 50,00 lei/persoană/noapte. Rezervări și alte informații se pot obține la numărul de telefon 0745 377854 – d.na Mirela Martinov.
 
-**STATISTICI ÎNSCRIERI,** **23.07.2024, ora 20:00**
+**STATISTICI ÎNSCRIERI,** **24.07.2024, ora 14:00**
 
 Următorul tabel prezintă numărul total de candidați înscriși, precum și distribuția acestora la secțiunile 6L, 12L și 10DL, pentru admiterea la **Facultatea de Automatică și Calculatoare**. Tabelele prezintă numărul de candidați înscriși luând în calcul numai prima lor opțiune.
 
@@ -76,10 +76,10 @@ Următorul tabel prezintă numărul total de candidați înscriși, precum și d
 
 | **12L - Automatică și Calculatoare (AC) - concurs de dosare** | **Candidați înscriși** |
 | ------------------------------------------------------------- | ---------------------- |
-| Informatică - limba română - fără taxă                        | 792                    |
-| Informatică - limba română - cu taxă                          | 38                     |
-| **TOTAL**                                                     | **830**                |
+| Informatică - limba română - fără taxă                        | 842                    |
+| Informatică - limba română - cu taxă                          | 47                     |
+| **TOTAL**                                                     | **889**                |
 
 | **10DL - Automatică și Calculatoare - învățământ la distanță** | **Candidați înscriși** |
 | -------------------------------------------------------------- | ---------------------- |
-| Informatică - învățământ la distanță (ID) - cu taxă            | 148                    |
+| Informatică - învățământ la distanță (ID) - cu taxă            | 172                    |
