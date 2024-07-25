@@ -13,15 +13,13 @@ fullPath: licenta/admitere/rezultate-admitere-sectiunea-6l-iulie-2024
 
 **IMPORTANT: Candidații care au confirmat în una din primele 2 runde nu mai trebuie să confirme și în runda 3. Candidații respinși în primele runde și admiși acum trebuie să confirme locul obținut în runda 3; nefinalizarea procedurii de confirmari, in termenul afisat, atrage eliminarea candidatului din concurs, inclusiv pentru studentii declarati nou admisi.**
 
-## Confirmări Runda III
+### Confirmări Runda III
 
 26.07.2024 la 10:00 — 26.07.2024 la 14:00
 
-**Fizic la facultate**: 26.07.2024, orele 10:00 - 14:00
-
-**Fizic în centrele zonale de admitere**: 26.07.2024, orele 10:00 - 14:00
-
-**Online prin [Enroll](https://enroll.upt.ro/)**: 26.07.2024, până la ora 14:00 (**DOAR DACĂ** dosarul de înscriere conține **originalul diplomei de bacalaureat** și **foaia matricolă** sau **se confirmă un loc cu taxă**)
+* **Fizic la facultate**: 26.07.2024, orele 10:00 - 14:00
+* **Fizic în centrele zonale de admitere**: 26.07.2024, orele 10:00 - 14:00
+* **Online prin [Enroll](https://enroll.upt.ro/)**: 26.07.2024, până la ora 14:00 (**DOAR DACĂ** dosarul de înscriere conține **originalul diplomei de bacalaureat** și **foaia matricolă** sau **se confirmă un loc cu taxă**)
 
 </Block>
 
