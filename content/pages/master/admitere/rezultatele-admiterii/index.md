@@ -6,6 +6,30 @@ image:
 fullPath: master/admitere/rezultatele-admiterii
 ---
 
+
+## Rezultate admitere master
+
+Rezultatele finale după cele două etape de admitere:
+
+<Attachment label="Candidați admiși în etapa 1" file="/uploads/6M-E1E2-admisi-optiuni-20240725.pdf"></Attachment>
+<Attachment label="Candidați respinși în etapa 1" file="/uploads/6M-E1E2-respinsi-20240725.pdf"></Attachment>
+
+**[Rezultate români de pretutindeni pe site-ul dedicat](https://upt.ro/Informatii_romani-de-pretutindeni---admitere-master_1498_ro.html)**
+
+
+<Attachment label="Calendarul de plată a taxei de studii" file="/uploads/adresa-taxa-admisi-pe-locuri-cu-taxa.pdf"></Attachment>
+**Taxa de școlarizare** pentru studenții declarați **admiși pe locurile cu taxă** în sesiunea *iulie 2024* poate fi achitată în două rate egale.
+Neachitarea primei rate din taxa de școlarizare până în data de **26 august 2024** duce la anularea statului de admis la Universitatea Politehnica Timișoara, conform adresei de mai sus.
+**[Cuantumul taxei de studii](https://upt.ro/img/files/2023-2024/Admitere/HS-nr.15-15.02.2024_taxe_scolarizare.pdf)**
+
+
+Detalii despre **precazare** sunt mai jos:
+
+<Attachment label="Instrucțiuni precazare, master an 1" file="/uploads/calendar-cazare-studenti-master-an-1-sesiunea-iulie-2024.pdf"></Attachment>
+
+
+
+
 ## Rezultate admitere master - etapa 2
 
 <Attachment label="Rezultate concurs admitere master - etapa 2" file="/uploads/6M-E2-20240724.pdf"></Attachment>

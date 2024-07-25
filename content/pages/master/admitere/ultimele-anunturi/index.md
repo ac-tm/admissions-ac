@@ -8,7 +8,7 @@ fullPath: master/admitere/ultimele-anunturi
 
 ## 📰 Rezultate admitere master, etapa 2
 
-S-au afișat **rezultatele inițiale ale etapei 2**, [pe pagina dedicată](/master/admitere/rezultatele-admiterii/).
+S-au afișat **rezultatele finale ale etapei 2**, [pe pagina dedicată](/master/admitere/rezultatele-admiterii/).
 
 ## Programarea la interviu, etapa 2
 
