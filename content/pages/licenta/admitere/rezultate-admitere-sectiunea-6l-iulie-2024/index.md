@@ -5,6 +5,27 @@ image:
   src: /uploads/accepted-application.jpg
 fullPath: licenta/admitere/rezultate-admitere-sectiunea-6l-iulie-2024
 ---
+## Rezultate Finale 6L ― 26.07.2024
+
+<Block color="yellow">
+
+* [Bacalaureat](https://admitere.ac.upt.ro/uploads/6l-admisi-b.pdf)
+* [Cu premii la competiții agreate, admitere cu media 10](https://admitere.ac.upt.ro/uploads/6l-rf-admisi-o1.pdf)
+* [Cu premii la competiții agreate, echivalare probă cu nota 10](https://admitere.ac.upt.ro/uploads/6l-rf-admisi-o2.pdf)
+* [Cu cerințe educaționale speciale](https://admitere.ac.upt.ro/uploads/6l-rf-admisi-h.pdf)
+* [Din centre de plasament](https://admitere.ac.upt.ro/uploads/6l-rf-admisi-p.pdf)
+* [Absolvent liceu mediul rural](https://admitere.ac.upt.ro/uploads/6l-rf-admisi-u.pdf)
+* [Studenți](https://admitere.ac.upt.ro/uploads/6l-rf-admisi-s.pdf)
+* [SRI](https://admitere.ac.upt.ro/uploads/6l-rf-admisi-i.pdf)
+
+Informații cu privire la **cazarea în cămine pentru studenții admiși în anul I** se găsesc **[aici](https://admitere.ac.upt.ro/uploads/info-utile-2024.pdf)**.
+
+**Taxa de școlarizare** pentru studenții declarați **admiși pe locurile cu taxă** în sesiunea **iulie 2024** poate fi achitată în două rate egale. Prima rată trebuie achitată până în **26 august 2024** conform [hotărârii 22/17.07.2024](https://admitere.ac.upt.ro/uploads/adresa-taxa-admisi-pe-locuri-cu-taxa.pdf).
+
+**Alte informații utile pentru studenți admiși în anul I licență AC 2024 găsiți [aici](https://ac.upt.ro/evenimente/informatii-admisi-anul-i-licenta-ac-2024/).** 
+
+</Block>
+
 ## Rezultate 6L Runda III ― 25.07.2024
 
 <Block color="green">
