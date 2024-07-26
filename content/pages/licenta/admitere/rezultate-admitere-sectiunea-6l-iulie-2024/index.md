@@ -9,16 +9,14 @@ fullPath: licenta/admitere/rezultate-admitere-sectiunea-6l-iulie-2024
 
 <Block color="yellow">
 
-* [Bacalaureat](https://admitere.ac.upt.ro/uploads/6l-r0-optiuni.pdf)
-* [Cu premii la competiții agreate, admitere cu media 10](https://admitere.ac.upt.ro/uploads/6l-r0-optiuni-o.pdf)
-* [Cu premii la competiții agreate, echivalare probă cu nota 10](https://admitere.ac.upt.ro/uploads/6l-r0-optiuni-o2.pdf)
-* [Cu cerințe educaționale speciale](https://admitere.ac.upt.ro/uploads/6l-r0-optiuni-ces.pdf)
-* [Din centre de plasament](https://admitere.ac.upt.ro/uploads/6l-r0-optiuni-p.pdf)
-* [Absolvent liceu mediul rural](https://admitere.ac.upt.ro/uploads/6l-r0-optiuni-u.pdf)
-* [Studenți](https://admitere.ac.upt.ro/uploads/6l-r0-optiuni-s.pdf)
-* [SRI](https://admitere.ac.upt.ro/uploads/6l-r1-sri.pdf)
-* [Sportivi](https://admitere.ac.upt.ro/uploads/6l-r0-optiuni-t.pdf)
-* [Candidați respinși](https://admitere.ac.upt.ro/uploads/6l-r0-optiuni-asteptare.pdf)
+* [Bacalaureat](https://admitere.ac.upt.ro/uploads/6l-admisi-b.pdf)
+* [Cu premii la competiții agreate, admitere cu media 10](https://admitere.ac.upt.ro/uploads/6l-rf-admisi-o1.pdf)
+* [Cu premii la competiții agreate, echivalare probă cu nota 10](https://admitere.ac.upt.ro/uploads/6l-rf-admisi-o2.pdf)
+* [Cu cerințe educaționale speciale](https://admitere.ac.upt.ro/uploads/6l-rf-admisi-h.pdf)
+* [Din centre de plasament](https://admitere.ac.upt.ro/uploads/6l-rf-admisi-p.pdf)
+* [Absolvent liceu mediul rural](https://admitere.ac.upt.ro/uploads/6l-rf-admisi-u.pdf)
+* [Studenți](https://admitere.ac.upt.ro/uploads/6l-rf-admisi-s.pdf)
+* [SRI](https://admitere.ac.upt.ro/uploads/6l-rf-admisi-i.pdf)
 
 Informații cu privire la **cazarea în cămine pentru studenții admiși în anul I** se găsesc **[aici](https://admitere.ac.upt.ro/uploads/info-utile-2024.pdf)**.
 
