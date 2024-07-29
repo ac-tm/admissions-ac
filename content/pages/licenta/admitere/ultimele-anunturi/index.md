@@ -5,7 +5,7 @@ image:
   src: /uploads/warning.jpg
 fullPath: licenta/admitere/ultimele-anunturi
 ---
-S-au afișat rezultatele pentru secțiunea 12L - Runda 2:
+S-au afișat rezultatele pentru secțiunea 12L - Runda 3:
 
 <Attachment label="Rezultate secțiunea 12L" internal="licenta/admitere/rezultate-admitere-sectiunea-12l-iulie-2024"></Attachment>
 
