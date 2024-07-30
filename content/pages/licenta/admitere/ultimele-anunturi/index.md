@@ -5,7 +5,9 @@ image:
   src: /uploads/warning.jpg
 fullPath: licenta/admitere/ultimele-anunturi
 ---
-S-au afișat rezultatele pentru secțiunea 12L - Runda 3:
+Rezultatele finale pentru 10L-Informatică învățământ la distanță se găsesc [aici](https://elearning.upt.ro/ro/admitere/).
+
+S-au afișat rezultatele finale pentru secțiunea 12L:
 
 <Attachment label="Rezultate secțiunea 12L" internal="licenta/admitere/rezultate-admitere-sectiunea-12l-iulie-2024"></Attachment>
 
@@ -16,6 +18,8 @@ S-au afișat rezultatele finale pentru secțiunea 6L:
 Informații cu privire la **cazarea în cămine pentru studenții admiși în anul I** se găsesc **[aici](https://admitere.ac.upt.ro/uploads/info-utile-2024.pdf)**.
 
 **Taxa de școlarizare** pentru studenții declarați **admiși pe locurile cu taxă** în sesiunea **iulie 2024** poate fi achitată în două rate egale. Prima rată trebuie achitată până în **26 august 2024** conform [hotărârii 22/17.07.2024](https://admitere.ac.upt.ro/uploads/adresa-taxa-admisi-pe-locuri-cu-taxa.pdf).
+
+**Alte informații utile pentru studenți admiși în anul I licență AC 2024 găsiți [aici](https://ac.upt.ro/evenimente/informatii-admisi-anul-i-licenta-ac-2024/).**
 
 **Listele candidaților înscriși la secțiunea 6** (concurs cu probe) și **repartizarea pe sălile de examen**:
 
