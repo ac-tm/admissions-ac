@@ -9,7 +9,7 @@ fullPath: licenta/admitere/rezultate-admitere-sectiunea-12l-iulie-2024
 
 ## Rezultate finale 12L  ― 30.07.2024
 
-* [Bacaualreat](https://admitere.ac.upt.ro/uploads/12l_rf_admisi-b.pdf)
+* [Bacalaureat](https://admitere.ac.upt.ro/uploads/12l_rf_admisi-b.pdf)
 * [Plasament](https://admitere.ac.upt.ro/uploads/12l_rf_admisi-p.pdf)
 * [SRI](https://admitere.ac.upt.ro/uploads/12l_rf_admisi-i.pdf)
 * [Rural](https://admitere.ac.upt.ro/uploads/12l_rf_admisi-u.pdf)
