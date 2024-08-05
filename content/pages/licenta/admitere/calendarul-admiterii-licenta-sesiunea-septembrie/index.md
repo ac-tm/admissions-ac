@@ -6,4 +6,4 @@ image:
   src: /uploads/untitled-design-1-.png
 fullPath: licenta/admitere/calendarul-admiterii-licenta-sesiunea-septembrie
 ---
-<Fig src="/uploads/calendar.jpg" alt="undefined" caption="undefined"></Fig>
+<Fig src="/uploads/calendar.jpg" alt="" caption=""></Fig>
