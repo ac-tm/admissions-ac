@@ -1,5 +1,5 @@
 ---
-title: Calendarul admiterii licență - sesiunea Septembrie
+title: Calendarul admiterii licență - sesiunea Septembrie 2024
 description: Abia așteptăm să fii studentul nostru! Marchează-ți în calendar
   datele următoare și... ne vedem din toamnă!
 image:
