@@ -7,12 +7,12 @@ fullPath: licenta/admitere/numar-locuri-sesiunea-de-toamna
 ---
 <Block color="green">
 
-**Avem 17 locuri disponibile pentru sesiunea din toamnă, 2023, la secțiunea 12L:**
+**Avem 10 locuri disponibile pentru sesiunea din toamnă, 2024, la secțiunea 12L:**
 
 **Informatică**
 
-* 5 - buget
-* 12 - taxă
+* 1 - buget
+* 9 - taxă
 
 </Block>
 
