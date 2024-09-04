@@ -6,6 +6,11 @@ image:
 fullPath: master/admitere/ultimele-anunturi
 ---
 
+## Înscrieri septembrie
+
+A început [concursul de admitere în sesiunea septembrie 2024](/master/admitere/calendarul-admiterii-la-masterat-sesiunea-septembrie/) pe [locurile rămase disponibile](/master/admitere/master/).
+
+
 ## 📰 Rezultate admitere master, etapa 2
 
 S-au afișat **rezultatele finale ale etapei 2**, [pe pagina dedicată](/master/admitere/rezultatele-admiterii/).
