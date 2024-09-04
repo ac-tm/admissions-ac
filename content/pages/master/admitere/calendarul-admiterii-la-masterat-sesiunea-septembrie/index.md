@@ -1,5 +1,5 @@
 ---
-title: Calendarul admiterii la masterat - sesiunea septembrie
+title: Calendarul admiterii la masterat - sesiunea septembrie 2024
 description: Calendarul admiterii la masterat pentru sesiunea septembrie 2024
 image:
   src: /uploads/untitled-design-1-.png
