@@ -1,3 +1,27 @@
 {
-  "title": "Admitere Master - sesiunea septembrie"
+  "title": "Admitere Master - sesiunea septembrie",
+  "events": [
+    {
+      "date": "2024-08-25T21:00:00.000Z",
+      "deadline": "2024-09-12T11:00:00.000Z",
+      "title": "Înscriere candidaţi",
+      "details": "**26.08.2024 -  12.09.2024** până la ora **14:00** (online <https://admitere.upt.ro/>)\n\n**05.09.2024 -  12.09.2024** până la ora **14:00** (fizic în centrul de admitere din cadrul facultății conform orarului afișat după publicarea rezultatelor)"
+    },
+    {
+      "date": "2024-09-13T05:00:00.000Z",
+      "deadline": "",
+      "title": "Concurs de admitere (interviu)"
+    },
+    {
+      "date": "2024-09-13T13:00:00.000Z",
+      "deadline": "",
+      "title": "Rezultatele concursului"
+    },
+    {
+      "date": "2024-09-14T06:00:00.000Z",
+      "deadline": "2024-09-16T13:00:00.000Z",
+      "title": "Definitivarea rezultatelor",
+      "details": "**14.09.2024, 09:00 – 14:00**\n\n**16.09.2024, 09:00 – 16:00**"
+    }
+  ]
 }
