@@ -1,10 +1,16 @@
 ---
-title: Rezultate admitere sectiunea 12L ― iulie 2024
+title: Rezultate admitere sectiunea 12L ― iulie și septembrie 2024
 description: Aici, vei putea vedea dacă, din toamnă, vei fi student la AC!
 image:
   src: /uploads/accepted-application.jpg
 fullPath: licenta/admitere/rezultate-admitere-sectiunea-12l-iulie-2024
 ---
+## Rezultate 12L Runda I ― 10.09.2024
+
+* [Bacalauret](https://admitere.ac.upt.ro/uploads/r0-12l-toamna-2024-b.pdf)
+* [Rural](https://admitere.ac.upt.ro/uploads/12l-toamna-admisi-u.pdf)
+* [Studenți](https://admitere.ac.upt.ro/uploads/12l-toamna-admisi-s.pdf)
+
 <Block color="green">
 
 ## Rezultate finale 12L  ― 30.07.2024
