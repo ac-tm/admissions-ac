@@ -5,6 +5,10 @@ image:
   src: /uploads/warning.jpg
 fullPath: licenta/admitere/ultimele-anunturi
 ---
+S-au afișat rezultatele pentru runda I pentru secțiunea 12L - sesiunea septembrie:
+
+<Attachment label="Rezultate secțiunea 12L" internal="licenta/admitere/rezultate-admitere-sectiunea-12l-iulie-2024"></Attachment>
+
 Rezultatele finale pentru 10L-Informatică învățământ la distanță se găsesc [aici](https://elearning.upt.ro/ro/admitere/).
 
 S-au afișat rezultatele finale pentru secțiunea 12L:
