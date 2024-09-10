@@ -8,7 +8,7 @@ fullPath: master/admitere/master
 ---
 ## Sesiunea Septembrie 2024
 
-Locurile rămase disponibile pentru admiterea la masterat în sesiunea **septembrie 2024** de la Facultatea de Automatică și Calculatoare [se pot vedea aici](https://www.upt.ro/img/files/2023-2024/Admitere/master/Locuri_admitere_Master_2024_septembrie_site.pdf):
+Locurile rămase disponibile pentru admiterea la masterat în sesiunea **septembrie 2024** de la Facultatea de Automatică și Calculatoare [se pot vedea aici](https://upt.ro/img/files/2023-2024/Admitere/master/Locuri%20libere_Master_septembrie_site_update06.09.2024.pdf):
 
 | **Nume**                                              | **cod 6M** | **Locuri disponibile** |
 |-------------------------------------------------------|------------|------------------------|
