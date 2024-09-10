@@ -10,16 +10,15 @@ fullPath: master/admitere/master
 
 Locurile rămase disponibile pentru admiterea la masterat în sesiunea **septembrie 2024** de la Facultatea de Automatică și Calculatoare [se pot vedea aici](https://www.upt.ro/img/files/2023-2024/Admitere/master/Locuri_admitere_Master_2024_septembrie_site.pdf):
 
-| **Nume**                                              | **cod 6M** | **Locuri disponibile septembrie** |
-| ----------------------------------------------------- | ---------- | ----------------------------------- |
-| Game Development -  buget                             | GD         | 6                                   |
-| Game Development -  cu taxă                           | TGD        | 16                                  |
-| Ingineria Sistemelor Automate - buget               | ISA       | 2                                   |
-| Ingineria Sistemelor Automate - cu taxă               | TISA       | -                                   |
-| Sisteme Informatice în Îngrijirea Sănătății - buget | SIIS      | 2                                   |
-| Sisteme Informatice în Îngrijirea Sănătății - cu taxă | TSIIS      | -                                   |
-
-
+| **Nume**                                              | **cod 6M** | **Locuri disponibile** |
+|-------------------------------------------------------|------------|------------------------|
+| Game Development - buget                              | GD         | 6                      |
+| Game Development - cu taxă                            | TGD        | 16                     |
+| Ingineria Sistemelor Automate - buget                 | ISA        | 2                      |
+| Ingineria Sistemelor Automate - cu taxă               | TISA       | 2                      |
+| Sisteme Informatice în Îngrijirea Sănătății - buget   | SIIS       | 2                      |
+| Sisteme Informatice în Îngrijirea Sănătății - cu taxă | TSIIS      | 2                      |
+| Automotive Embedded Software - cu taxă                | TAES       | 2                      |
 
 ## Etapa 2 de admitere
 
