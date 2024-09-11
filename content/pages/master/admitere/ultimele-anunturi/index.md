@@ -14,7 +14,6 @@ A început [concursul de admitere în sesiunea septembrie 2024](/master/admitere
 
 | **Program** | **Candidați** |
 | ----------- | ------------- |
-
 |GD	|4|
 |ISA	|7|
 |SIIS|	2|
