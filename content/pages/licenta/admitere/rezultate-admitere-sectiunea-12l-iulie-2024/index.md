@@ -5,6 +5,10 @@ image:
   src: /uploads/accepted-application.jpg
 fullPath: licenta/admitere/rezultate-admitere-sectiunea-12l-iulie-2024
 ---
+## Rezultate 12L Runda III ― 13.09.2024
+
+[REZULTATELE CONCURSULUI DE ADMITERE - bacalaureat](https://admitere.ac.upt.ro/uploads/r2-12l-toamna-2024-runda-3.pdf)
+
 ## Rezultate 12L Runda II ― 12.09.2024
 
 [REZULTATELE CONCURSULUI DE ADMITERE - bacalaureat](https://admitere.ac.upt.ro/uploads/r1-12l-toamna-2024-v.pdf)
