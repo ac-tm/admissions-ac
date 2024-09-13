@@ -14,9 +14,9 @@ Locurile rămase disponibile pentru admiterea la masterat în sesiunea **septemb
 |-------------------------------------------------------|------------|------------------------|
 | Game Development - buget                              | GD         | 6                      |
 | Game Development - cu taxă                            | TGD        | 16                     |
-| Ingineria Sistemelor Automate - buget                 | ISA        | 2                      |
+| Ingineria Sistemelor Automate - buget                 | ISA        | 2+2                      |
 | Ingineria Sistemelor Automate - cu taxă               | TISA       | 2                      |
-| Sisteme Informatice în Îngrijirea Sănătății - buget   | SIIS       | 2                      |
+| Sisteme Informatice în Îngrijirea Sănătății - buget   | SIIS       | 2+1                      |
 | Sisteme Informatice în Îngrijirea Sănătății - cu taxă | TSIIS      | 2                      |
 | Automotive Embedded Software - cu taxă                | TAES       | 2                      |
 

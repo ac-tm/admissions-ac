@@ -7,6 +7,13 @@ fullPath: master/admitere/ultimele-anunturi
 ---
 
 
+## 📰 Rezultate admitere master, runda 1
+
+S-au afișat **rezultatele inițiale ale sesiunii septembrie**, [pe pagina dedicată](/master/admitere/rezultatele-admiterii/).
+
+S-a suplimentat numărul de locuri de admitere la programele ISA și SIIS.
+
+
 ## Programarea la interviu
 
 Interviul de admitere se va desfășura online în data de vineri 13 septembrie 2024.
