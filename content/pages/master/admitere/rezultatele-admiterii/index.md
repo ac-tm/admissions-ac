@@ -7,6 +7,24 @@ fullPath: master/admitere/rezultatele-admiterii
 ---
 
 
+## Rezultate admitere master - runda II septembrie
+
+<Attachment label="Rezultate concurs admitere master - runda II" file="/uploads/6m-final-confirm-20240914.pdf"></Attachment>
+
+**[Rezultate români de pretutindeni pe site-ul dedicat](https://upt.ro/Informatii_romani-de-pretutindeni---admitere-master_1498_ro.html)**
+
+**IMPORTANT: Candidatii trebuie sa confirme locul obtinut! Nefinalizarea procedurii de confirmari, in termenul afisat, atrage eliminarea candidatului din concurs, inclusiv pentru studentii declarati admisi.**
+
+Pentru candidații admiși pe locuri fără taxă este obligatorie depunerea la dosar a **diplomei sau adeverinței de licență** în **ORIGINAL** si **foaia matricola** tot in **ORIGINAL**. 
+
+Depunerea tuturor actele necesare la dosar se poate face luni 16.09.2024, între orele 9 – 14, în biroul de confirmări, corpul B, clădirea Electro, sala B615, și include în **ORIGINAL** adeverinta/diploma, 2 poze fotografii color tip diplomă, situatia scolara/foaie matricola/supliment la diploma in **ORIGINAL**, adeverinta medicala, și eventuala declarație notarială deja depuse în sistemul electronic Enroll de admitere.
+
+   * Absolvenților AC ai promoției 2024 care au făcut cerere în Campusul Virtual li se va transfera adeverința în original și foaia matricolă direct de la secretariatul facultății în dosarul de admitere master.
+     Candidații care ocupă un loc bugetat, și nu au completat cererea (sau care și-au ridicat deja adeverința de la secretariat) sunt obligați să aducă adeverința sau diploma de licență în original.
+
+Pentru situații excepționale contactați: dan.alexandru@upt.ro
+
+
 ## Rezultate admitere master - runda I septembrie
 
 <Attachment label="Rezultate concurs admitere master - runda I" file="/uploads/6m-runda1-confirm-20240913.pdf"></Attachment>
@@ -29,7 +47,6 @@ Pentru confirmare, sunt obligatorii plata taxei de confirmare și, pentru candid
    * Absolvenților AC ai promoției 2024 care au făcut cerere în Campusul Virtual li se va transfera adeverința în original și foaia matricolă direct de la secretariatul facultății în dosarul de admitere master.
      Candidații care ocupă un loc bugetat, și nu au completat cererea (sau care și-au ridicat deja adeverința de la secretariat) sunt obligați să aducă adeverința sau diploma de licență în original.
 
-Pentru situații excepționale contactați: dan.alexandru@upt.ro
 
 
 ## Rezultate admitere master iulie

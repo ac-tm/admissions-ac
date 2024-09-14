@@ -7,9 +7,9 @@ fullPath: master/admitere/ultimele-anunturi
 ---
 
 
-## 📰 Rezultate admitere master, runda 1
+## 📰 Rezultate admitere master, runda 2
 
-S-au afișat **rezultatele inițiale ale sesiunii septembrie**, [pe pagina dedicată](/master/admitere/rezultatele-admiterii/).
+S-au afișat **rezultatele sesiunii septembrie**, [pe pagina dedicată](/master/admitere/rezultatele-admiterii/).
 
 S-a suplimentat numărul de locuri de admitere la programele ISA și SIIS.
 
