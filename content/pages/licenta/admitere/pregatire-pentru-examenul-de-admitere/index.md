@@ -2,7 +2,7 @@
 title: Pregătire pentru examenul de admitere la matematică
 description: Ce trebuie să știi pentru examenul de admitere la matematică.
 image:
-  src: /uploads/lectii-mate-24.jpg
+  src: /uploads/mate-2025.jpg
 fullPath: licenta/admitere/pregatire-pentru-examenul-de-admitere
 ---
 Universitatea Politehnica Timișoara continuă tradiționalele lecții de matematică pentru pregătirea elevilor și a viitorilor studenți UPT 2024. Împreună dorim să construim viitorul și să oferim șansa noii generații de studenți UPT de a obține rezultate remarcabile atât în ceea ce privește promovabilitatea bacalaureatului cât și a admiterii la facultate.
