@@ -1,23 +1,28 @@
 {
-  "title": "Lecții de matematică 2024",
+  "title": "Lecții de matematică 2025",
   "events": [
     {
-      "date": "2024-01-27T08:00:00.000Z",
+      "date": "2025-01-18T08:00:00.000Z",
       "deadline": "",
       "title": "Mulțimea numerelor reale. Tipuri de raționament. Șiruri și Progresii. Funcţia de gradul al doilea"
     },
     {
-      "date": "2024-02-03T08:00:00.000Z",
+      "date": "2025-01-25T08:00:00.000Z",
       "deadline": "",
-      "title": "Funcția putere. Funcţia exponenţială şi funcţia logaritmică. Sisteme de ecuaţii neliniare. Numere complexe"
+      "title": "Numere complexe. Funcția putere. Funcţia exponenţială şi funcţia logaritmică."
     },
     {
-      "date": "2024-02-17T08:00:00.000Z",
+      "date": "2025-02-01T08:00:00.000Z",
       "deadline": "",
       "title": "Analiză combinatorie. Binomul lui Newton. Probabilități"
     },
     {
-      "date": "2024-02-24T08:00:00.000Z",
+      "date": "2025-02-08T08:00:00.000Z",
+      "deadline": "",
+      "title": "Funcţii trigonometrice şi aplicaţii în geometria plană. Vectori în plan. Geometrie analitică"
+    },
+    {
+      "date": "2025-02-15T08:00:00.000Z",
       "deadline": "",
       "title": "Matrice, determinanţi, sisteme liniare"
     },
@@ -25,11 +30,6 @@
       "date": "2024-03-09T08:00:00.000Z",
       "deadline": "",
       "title": "Polinoame"
-    },
-    {
-      "date": "2024-03-16T08:00:00.000Z",
-      "deadline": "",
-      "title": "Funcţii trigonometrice şi aplicaţii în geometria plană. Vectori în plan. Geometrie analitică"
     },
     {
       "date": "2024-03-23T08:00:00.000Z",
