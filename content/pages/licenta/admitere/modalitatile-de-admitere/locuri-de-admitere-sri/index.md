@@ -5,7 +5,7 @@ image:
   src: /uploads/article-placeholder.png
 fullPath: licenta/admitere/modalitatile-de-admitere/locuri-de-admitere-sri
 ---
-UPT oferă locuri Serviciului Român de Informații, pentru Facultatea de Automatică și Calculatoare, pentru următoarele specializări anul universitar 2025-2026: 
+UPT oferă locuri Serviciului Român de Informații, pentru Facultatea de Automatică și Calculatoare, pentru următoarele specializări în anul universitar 2025-2026: 
 
 * Calculatoare - 1 loc;
 * Informatică - 1 loc;
