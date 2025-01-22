@@ -3,7 +3,7 @@ title: Rezultate admitere sectiunea 6L ― iulie 2024
 description: Aici, vei putea vedea dacă, din toamnă, vei fi student la AC!
 image:
   src: /uploads/accepted-application.jpg
-fullPath: licenta/admitere/rezultate-admitere-sectiunea-6l-iulie-2024
+fullPath: licenta/admitere/arhiva-rezultate/rezultate-admitere-sectiunea-6l-iulie-2024
 ---
 ## Rezultate Finale 6L ― 26.07.2024
 
