@@ -27,42 +27,42 @@
       "title": "Matrice, determinanţi, sisteme liniare"
     },
     {
-      "date": "2024-03-09T08:00:00.000Z",
+      "date": "2025-03-01T08:00:00.000Z",
       "deadline": "",
-      "title": "Polinoame"
+      "title": "Limite de șiruri. Limite de funcţii."
     },
     {
-      "date": "2024-03-23T08:00:00.000Z",
+      "date": "2025-03-08T08:00:00.000Z",
       "deadline": "",
-      "title": "Limite de funcţii. Asimptote"
+      "title": "Asimptote. Funcţii continue. Funcţii derivabile."
     },
     {
-      "date": "2024-04-06T07:00:00.000Z",
-      "deadline": "",
-      "title": "Funcţii continue. Funcţii derivabile"
-    },
-    {
-      "date": "2024-04-13T07:00:00.000Z",
+      "date": "2025-03-15T08:00:00.000Z",
       "deadline": "",
       "title": "Aplicaţii ale derivatelor în studiul variaţiei funcţiilor"
     },
     {
-      "date": "2024-04-20T07:00:00.000Z",
-      "deadline": "",
-      "title": "Primitive şi integrale definite"
-    },
-    {
-      "date": "2024-05-11T07:00:00.000Z",
-      "deadline": "",
-      "title": "Proprietățile integralei definite. Aplicații ale integralei definite"
-    },
-    {
-      "date": "2024-05-18T07:00:00.000Z",
+      "date": "2025-03-22T08:00:00.000Z",
       "deadline": "",
       "title": "Structuri algebrice"
     },
     {
-      "date": "2024-05-25T07:00:00.000Z",
+      "date": "2025-03-29T08:00:00.000Z",
+      "deadline": "",
+      "title": "Primitive şi integrale definite"
+    },
+    {
+      "date": "2025-04-05T07:00:00.000Z",
+      "deadline": "2025-01-22T13:06:30.687Z",
+      "title": "Polinoame. Ecuații algebrice."
+    },
+    {
+      "date": "2025-05-10T07:00:00.000Z",
+      "deadline": "",
+      "title": "Proprietățile integralei definite. Aplicații ale integralei definite"
+    },
+    {
+      "date": "2025-05-17T07:00:00.000Z",
       "deadline": "",
       "title": "Probleme de sinteză. Recapitulare"
     }
