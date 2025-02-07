@@ -10,7 +10,7 @@ fullPath: licenta/admitere/documente-necesare
 
 Documente ce se vor încărca **ONLINE**, pe [platformă](https://admitere.upt.ro), color, în format pdf sau format de fișier grafic (jpeg sau png). Detalii suplimentare [AICI](https://www.upt.ro/img/files/2022-2023/Admitere/Licenta/Documente_necesare_insciere_licenta.pdf). Dacă nu ai acces la internet și crezi că ai nevoie de ajutor în încărcarea documentelor, îl vei găsi în centrele de înscriere zonale sau la facultate unde colegii nostri sunt pe baricade.
 
-Dacă ești **absolvent** de **bacalaureat** în anul **2024**, **în țară**, lucrurile sunt de destul de simple. Intri pe [platformă](https://admitere.upt.ro) și încarci următoarele documente (punctele **a-g** din [ghid](https://www.upt.ro/img/files/2022-2023/Admitere/Licenta/2.3_Anexa_2-Adm_licenta_2023_Instructiuni_enroll_final.pdf)):
+Dacă ești **absolvent** de **bacalaureat** în anul **2025**, **în țară**, lucrurile sunt de destul de simple. Intri pe [platformă](https://admitere.upt.ro) și încarci următoarele documente (punctele **a-g** din [ghid](https://www.upt.ro/img/files/2022-2023/Admitere/Licenta/2.3_Anexa_2-Adm_licenta_2023_Instructiuni_enroll_final.pdf)):
 
 <DocumentCheckbox text="Diploma de bacalaureat sau diploma echivalentă (a)"></DocumentCheckbox>
 
@@ -32,10 +32,10 @@ Dacă ești **absolvent** de **bacalaureat** în anul **2024**, **în țară**, 
 
 Necesare pentru situațiile deosebite, conform [ghidului](https://www.upt.ro/img/files/2022-2023/Admitere/Licenta/Documente_necesare_insciere_licenta.pdf) de admitere:
 
-* Beneficiezi de **taxă de scutire** ([](https://www.upt.ro/Informatii_acte-necesare-pentru-dosarul-de-inscriere-la-admiterea-la-li_1412_ro.html)[i](https://www.upt.ro/img/files/2022-2023/Admitere/Licenta/Documente_necesare_insciere_licenta.pdf))
+* Beneficiezi de **scutire de taxă** ([](https://www.upt.ro/Informatii_acte-necesare-pentru-dosarul-de-inscriere-la-admiterea-la-li_1412_ro.html)[i](https://www.upt.ro/img/files/2022-2023/Admitere/Licenta/Documente_necesare_insciere_licenta.pdf))
 * Ești **licențiat** ([j](https://www.upt.ro/img/files/2022-2023/Admitere/Licenta/Documente_necesare_insciere_licenta.pdf))
 * Ești **student** ([k](https://www.upt.ro/img/files/2022-2023/Admitere/Licenta/Documente_necesare_insciere_licenta.pdf))
-* Ai absolvit liceul **înainte de 2023** ([](https://www.upt.ro/Informatii_acte-necesare-pentru-dosarul-de-inscriere-la-admiterea-la-li_1412_ro.html)[l](https://www.upt.ro/img/files/2022-2023/Admitere/Licenta/Documente_necesare_insciere_licenta.pdf))
+* Ai absolvit liceul **înainte de 2025** ([](https://www.upt.ro/Informatii_acte-necesare-pentru-dosarul-de-inscriere-la-admiterea-la-li_1412_ro.html)[l](https://www.upt.ro/img/files/2022-2023/Admitere/Licenta/Documente_necesare_insciere_licenta.pdf))
 * Faci parte din alte categorii speciale de candidați ([m](https://www.upt.ro/img/files/2022-2023/Admitere/Licenta/Documente_necesare_insciere_licenta.pdf))
 * Candidezi la un program de studiu în **engleză sau germană** ([](https://www.upt.ro/Informatii_acte-necesare-pentru-dosarul-de-inscriere-la-admiterea-la-li_1412_ro.html)[a-c](https://www.upt.ro/img/files/2022-2023/Admitere/Licenta/Documente_necesare_insciere_licenta.pdf))
 
@@ -55,6 +55,6 @@ Necesare pentru situațiile deosebite, conform [ghidului](https://www.upt.ro/img
 
 <DocumentCheckbox text="Patru fotografii color tip diplomă (f)"></DocumentCheckbox>
 
-## Etapa 3 - Prima zi a anului universitar (2024-2025)
+## Etapa 3 - Prima zi a anului universitar (2025-2026)
 
 Dacă ai lăsat pentru etapa a 3-a ce puteai depune în etapa a 2-a, atunci mai ai de depus documentele **[c-f](https://www.upt.ro/img/files/2022-2023/Admitere/Licenta/Documente_necesare_insciere_licenta.pdf)**.
