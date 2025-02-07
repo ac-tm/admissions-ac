@@ -32,7 +32,7 @@ Dacă ești **absolvent** de **bacalaureat** în anul **2024**, **în țară**, 
 
 Necesare pentru situațiile deosebite, conform [ghidului](https://www.upt.ro/img/files/2022-2023/Admitere/Licenta/Documente_necesare_insciere_licenta.pdf) de admitere:
 
-* Beneficiezi de **taxă de scutire** ([](https://www.upt.ro/Informatii_acte-necesare-pentru-dosarul-de-inscriere-la-admiterea-la-li_1412_ro.html)[i](https://www.upt.ro/img/files/2022-2023/Admitere/Licenta/Documente_necesare_insciere_licenta.pdf))
+* Beneficiezi de **scutire de taxă** ([](https://www.upt.ro/Informatii_acte-necesare-pentru-dosarul-de-inscriere-la-admiterea-la-li_1412_ro.html)[i](https://www.upt.ro/img/files/2022-2023/Admitere/Licenta/Documente_necesare_insciere_licenta.pdf))
 * Ești **licențiat** ([j](https://www.upt.ro/img/files/2022-2023/Admitere/Licenta/Documente_necesare_insciere_licenta.pdf))
 * Ești **student** ([k](https://www.upt.ro/img/files/2022-2023/Admitere/Licenta/Documente_necesare_insciere_licenta.pdf))
 * Ai absolvit liceul **înainte de 2023** ([](https://www.upt.ro/Informatii_acte-necesare-pentru-dosarul-de-inscriere-la-admiterea-la-li_1412_ro.html)[l](https://www.upt.ro/img/files/2022-2023/Admitere/Licenta/Documente_necesare_insciere_licenta.pdf))
