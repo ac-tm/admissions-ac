@@ -16,7 +16,7 @@ Anul acesta așteptăm și mai mulți tineri buni la programare! Dacă tot liceu
 
 ## 2. Probă de matematică sau informatică (CTI și IS)
 
-Ești **tare la mate sau info**? Ai rezolvat toate [problemele din culegerea](http://www.upt.ro//img/files/2022-2023/Admitere/Licenta/Culegere_Poli_Admitere2023.pdf) de matematică sau ai dat bacul la informatică? Consideri că nu ai multe realizări pe algoritmică/software/hardware ca să ai șanse mai mari de succes prin portofoliu de realizări? Atunci, această probă de matematică sau informatică probabil ți se potrivește. **Model de subiect pentru examenul de admitere la informatică găsiți [aici](https://admitere.ac.upt.ro/uploads/model-subiect-informatica-ac.pdf).**
+Ești **tare la mate sau info**? Ai rezolvat toate [problemele din culegerea](http://www.upt.ro/img/files/2024-2025/Admitere/licenta/Culegere_admitere_UPT_2025.pdf) de matematică sau ai dat bacul la informatică? Consideri că nu ai multe realizări pe algoritmică/software/hardware ca să ai șanse mai mari de succes prin portofoliu de realizări? Atunci, această probă de matematică sau informatică probabil ți se potrivește. **Model de subiect pentru examenul de admitere la informatică găsiți [aici](https://admitere.ac.upt.ro/uploads/model-subiect-informatica-ac.pdf).**
 
 ## 3. Concurs de dosare (INFO)
 
