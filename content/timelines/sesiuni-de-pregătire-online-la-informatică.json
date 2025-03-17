@@ -1,43 +1,43 @@
 {
-  "title": "Sesiuni de pregătire online la informatică 2024",
+  "title": "Sesiuni de pregătire online la informatică 2025",
   "events": [
     {
-      "date": "2024-03-18T16:30:00.000Z",
+      "date": "2025-03-10T16:00:00.000Z",
       "deadline": "",
       "title": "Formatul probei de concurs; Expresii în C; Funcții logice."
     },
     {
-      "date": "2024-03-25T16:30:00.000Z",
+      "date": "2025-03-17T16:00:00.000Z",
       "deadline": "",
       "title": "Baze de numerație; Reprezentarea internă a datelor; Operații pe biți"
     },
     {
-      "date": "2024-04-08T15:30:00.000Z",
+      "date": "2025-03-24T16:00:00.000Z",
       "deadline": "",
       "title": "Subprograme; Recursivitate; Backtracking"
     },
     {
-      "date": "2024-04-15T15:30:00.000Z",
+      "date": "2025-03-31T15:00:00.000Z",
       "deadline": "",
       "title": "Grafuri; Arbori"
     },
     {
-      "date": "2024-04-22T15:30:00.000Z",
+      "date": "2025-04-07T15:00:00.000Z",
       "deadline": "",
       "title": "Algoritmi: căutare binară, interclasare; Complexitate algoritmică"
     },
     {
-      "date": "2024-05-13T15:30:00.000Z",
+      "date": "2025-04-28T15:00:00.000Z",
       "deadline": "",
       "title": "Pregătire BAC: Șiruri de caractere"
     },
     {
-      "date": "2024-05-20T15:30:00.000Z",
+      "date": "2025-05-05T15:00:00.000Z",
       "deadline": "",
       "title": "Pregătire BAC: Probleme de eficiență"
     },
     {
-      "date": "2024-05-27T15:30:00.000Z",
+      "date": "2025-05-12T15:00:00.000Z",
       "deadline": "",
       "title": "Recapitulare"
     }
