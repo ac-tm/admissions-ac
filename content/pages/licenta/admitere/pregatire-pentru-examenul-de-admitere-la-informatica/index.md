@@ -2,7 +2,7 @@
 title: Pregătire pentru examenul de admitere la informatică
 description: Ce trebuie să știi pentru examenul de admitere la informatică.
 image:
-  src: /uploads/pregatireinfo-retele-socializare.png
+  src: /uploads/lectii-info.png
 fullPath: licenta/admitere/pregatire-pentru-examenul-de-admitere-la-informatica
 ---
 Începând cu **10 martie 2025**, Facultatea de Automatică și Calculatoare din cadrul Universității Politehnica Timișoara organizează **sesiuni gratuite de pregatire la Informatică**, examenul de Bacalaureat și de Admitere la Facultate. Sesiunile de pregătire se vor organiza **online, via Zoom**.
