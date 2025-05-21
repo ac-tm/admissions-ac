@@ -18,15 +18,15 @@ Noi îți oferim 5 posibilități, **decizia e la tine**!
 
 <Block color="yellow">
 
-**Avem 710 de locuri disponibile:**
+**Pentru anul universitar 2025-2026 avem 730 de locuri disponibile:**
 
 1. **Calculatoare şi tehnologia informaţiei (română)**
 
-   * 160 - buget
+   * 170 - buget
    * 25 - taxă
 2. **Ingineria sistemelor** 
 
-   * 175 - buget
+   * 180 - buget
    * 45 - taxă
 3. **Calculatoare şi tehnologia informaţiei (engleză)**
 
@@ -34,7 +34,7 @@ Noi îți oferim 5 posibilități, **decizia e la tine**!
    * 10 - taxă
 4. **Informatică**
 
-   * 65 - buget
+   * 70 - buget
    * 30 - taxă
 5. **Informatică (la distanță)**
 
