@@ -10,4 +10,4 @@ fullPath: master/admitere/master
 
 La ***Facultatea de Automatică și Calculatoare*** în etapa 1 de admitere ai locuri disponibile la 12 programe de studii universitare de masterat, pe 3 domenii de masterat:
 
-<Fig src="/uploads/locuri-masterat-2025.png" alt="undefined" caption="undefined"></Fig>
+<Fig src="/uploads/locuri-masterat-2025.png" alt="" caption=""></Fig>
