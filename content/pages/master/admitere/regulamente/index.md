@@ -6,7 +6,7 @@ fullPath: master/admitere/regulamente
 ---
 * **[OME 3691/01.02.2024](https://www.upt.ro/img/files/2023-2024/Admitere/Metodologie_cardu_organiz_ex.admitere_2024.pdf)** - pentru aprobarea **Metodologiei cadru privind organizarea admiterii în ciclurile de studii universitare de licență, master și doctorat**
 * **Regulamentul de organizare și desfășurare a concursului de admitere la ciclul de studii universitare de MASTER la UPT -** *sesiunile iulie și septembrie 2025 (cf.**[HS 5/13.02.2025](https://www.upt.ro/img/files/2025-2026/Admitere/Master/HSNR5D_1%20(1).pdf)** )*
-* **[Metodologie Admitere Masterat AC 2024](https://admitere.ac.upt.ro/uploads/02_metodologie-admitere-master-ac-2024-final.pdf)**
+* **[Metodologie Admitere Masterat AC 2025](https://admitere.ac.upt.ro/uploads/02_metodologie-admitere-master-ac-2025.pdf)**
 
    **Anexe la Metodologie:**
 
