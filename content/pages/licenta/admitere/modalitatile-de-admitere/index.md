@@ -20,13 +20,13 @@ Ești **tare la mate sau info**? Ai rezolvat toate [problemele din culegerea](ht
 
 ## 3. Concurs de dosare (INFO)
 
-Vrei la Informatică și ai **notă mare proba de matematică sau informatică la bac**? Consideră-te aproape admis(ă), nota la proba de matematică sau informatică și media de bac sunt criteriile de departajare. 
+Vrei la Informatică și ai **notă mare proba de matematică, fizică sau informatică la bac**? Consideră-te aproape admis(ă), nota la proba de matematică, fizică sau informatică și media de bac sunt criteriile de departajare. 
 
 La secțiunea 12-AC-Inf, media de admitere se calculează cu formula:
 
 * 𝑚 = (4 ∗ 𝑛 + 𝑏)/5
 
-unde: m – media de admitere; n - nota obținută la una dintre următoarele probe de bacalaureat: matematică sau informatică (această opțiune nu presupune o examinare propriu-zisă, ci doar luarea în calcul a notei respective de la examenul de bacalaureat) sau la proba online bazată pe portofoliu de realizări, în funcție de opțiunea candidatului; b – media la bacalaureat.
+unde: m – media de admitere; n - nota obținută la una dintre următoarele probe de bacalaureat: matematică, fizică sau informatică (această opțiune nu presupune o examinare propriu-zisă, ci doar luarea în calcul a notei respective de la examenul de bacalaureat) sau la proba online bazată pe portofoliu de realizări, în funcție de opțiunea candidatului; b – media la bacalaureat.
 
 Dacă în cadrul examenului de bacalaureat, candidatul nu a susținut probe de matematică sau informatică, valoarea lui n este 5. În această situație valoarea lui n se poate echivala și cu nota obținută la proba de matematică din cadrul secțunii 6, dacă candidatul a susținut această probă. Dacă opțiunea candidatului implică proba de matematică din cadrul examenului de bacalaureat, pentru n sunt luate în considerare doar notele la proba de matematică pentru care candidatul s-a pregătit conform următoarelor programe de examen: M*matematică-informatică, M*științele naturii și M_tehnologic (nu se consideră M_pedagogic).
 
