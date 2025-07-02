@@ -13,20 +13,20 @@ Următorul tabel prezintă numărul total de candidați înscriși, precum și d
 
 | **6L - Automatică și Calculatoare (AC) - concurs cu probe**                          | **Candidați înscriși** |
 | ------------------------------------------------------------------------------------ | ---------------------- |
-| Calculatoare și Tehnologia Informației - limba engleză - fară taxă                   |                        |
-| Calculatoare și Tehnologia Informației - limba română - fară taxă                    |                        |
-| Ingineria Sistemelor - Automatică și Informatică Aplicată - limba română - fară taxă |                        |
-| Calculatoare și Tehnologia Informației - limba engleză - cu taxă                     |                        |
-| Calculatoare și Tehnologia Informației - limba română - cu taxă                      |                        |
-| Ingineria Sistemelor - Automatică și Informatică Aplicată - limba română - cu taxă   |                        |
-| **TOTAL**                                                                            |                        |
+| Calculatoare și Tehnologia Informației - limba engleză - fară taxă                   | 29                     |
+| Calculatoare și Tehnologia Informației - limba română - fară taxă                    | 154                    |
+| Ingineria Sistemelor - Automatică și Informatică Aplicată - limba română - fară taxă | 53                     |
+| Calculatoare și Tehnologia Informației - limba engleză - cu taxă                     | 1                      |
+| Calculatoare și Tehnologia Informației - limba română - cu taxă                      | 3                      |
+| Ingineria Sistemelor - Automatică și Informatică Aplicată - limba română - cu taxă   | 1                      |
+| **TOTAL**                                                                            | **241**                |
 
 | **12L - Automatică și Calculatoare (AC) - concurs de dosare** | **Candidați înscriși** |
 | ------------------------------------------------------------- | ---------------------- |
-| Informatică - limba română - fără taxă                        |                        |
-| Informatică - limba română - cu taxă                          |                        |
-| **TOTAL**                                                     |                        |
+| Informatică - limba română - fără taxă                        | 112                    |
+| Informatică - limba română - cu taxă                          | 5                      |
+| **TOTAL**                                                     | **117**                |
 
 | **10DL - Automatică și Calculatoare - învățământ la distanță** | **Candidați înscriși** |
 | -------------------------------------------------------------- | ---------------------- |
-| Informatică - învățământ la distanță (ID) - cu taxă            |                        |
+| Informatică - învățământ la distanță (ID) - cu taxă            | 47                     |
