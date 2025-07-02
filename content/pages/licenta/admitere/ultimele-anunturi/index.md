@@ -5,9 +5,11 @@ image:
   src: /uploads/warning.jpg
 fullPath: licenta/admitere/ultimele-anunturi
 ---
-STATISTICI ÎNSCRIERI
+**STATISTICI ÎNSCRIERI**
 
 Următorul tabel prezintă numărul total de candidați înscriși, precum și distribuția acestora la secțiunile 6L, 12L și 10DL, pentru admiterea la **Facultatea de Automatică și Calculatoare**. Tabelele prezintă numărul de candidați înscriși luând în calcul numai prima lor opțiune.
+
+**Înscriși 02.07.2025 ora 20:00**
 
 | **6L - Automatică și Calculatoare (AC) - concurs cu probe**                          | **Candidați înscriși** |
 | ------------------------------------------------------------------------------------ | ---------------------- |
