@@ -15,6 +15,8 @@ fullPath: licenta/admitere/ultimele-anunturi
 * [Candidați absolvenți licențiați](https://admitere.ac.upt.ro/uploads/6l-l.pdf)
 * Candidații SRI vor fi contactați nominal
 
+Dacă sesizați probleme anunțați comisia de admitere.
+
 #### **Admitere concurs portofoliu**
 
 * **[Programare interviu portofolii](https://admitere.ac.upt.ro/uploads/programareinterviu-2025.pdf)**
