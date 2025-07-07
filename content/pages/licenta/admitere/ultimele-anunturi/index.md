@@ -5,9 +5,20 @@ image:
   src: /uploads/warning.jpg
 fullPath: licenta/admitere/ultimele-anunturi
 ---
-**[Programare interviu portofolii](https://admitere.ac.upt.ro/uploads/programareinterviu-2025.pdf)**
+#### **Liste verificare înscriși secțiunea 6L**
 
-**[Rezultate etapa 1 portofolii](https://admitere.ac.upt.ro/uploads/rezultateportofoliu_etapa1-2025.pdf)**
+* [Candidați bacalaureat](https://admitere.ac.upt.ro/uploads/6l-b.pdf)
+* [Candidați olimpici cu premii la competiții agreate - admitere cu media 10](https://admitere.ac.upt.ro/uploads/6l-o1.pdf)
+* [Candidați olimpici cu premii la competiții agreate - echivalare probă cu nota 10](https://admitere.ac.upt.ro/uploads/6l-o2.pdf)
+* [Candidați absolvenți liceu mediu rural](https://admitere.ac.upt.ro/uploads/6l-rural.pdf)
+* [Candidați studenți](https://admitere.ac.upt.ro/uploads/6l-s.pdf)
+* [Candidați absolvenți licențiați](https://admitere.ac.upt.ro/uploads/6l-l.pdf)
+* Candidații SRI vor fi contactați nominal
+
+#### **Admitere concurs portofoliu**
+
+* **[Programare interviu portofolii](https://admitere.ac.upt.ro/uploads/programareinterviu-2025.pdf)**
+* **[Rezultate etapa 1 portofolii](https://admitere.ac.upt.ro/uploads/rezultateportofoliu_etapa1-2025.pdf)**
 
 **STATISTICI ÎNSCRIERI**
 
