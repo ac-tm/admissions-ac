@@ -5,7 +5,9 @@ image:
   src: /uploads/warning.jpg
 fullPath: licenta/admitere/ultimele-anunturi
 ---
-#### **Liste verificare înscriși secțiunea 6L**
+#### [Aplasare săli examen și reguli de acces](https://admitere.ac.upt.ro/uploads/amplasare-sali-de-examen-reguli-acces-2025.pdf)
+
+#### **Liste verificare și amplasare în săli - înscriși secțiunea 6L**
 
 * [Candidați bacalaureat](https://admitere.ac.upt.ro/uploads/6l-b.pdf)
 * [Candidați olimpici cu premii la competiții agreate - admitere cu media 10](https://admitere.ac.upt.ro/uploads/6l-o1.pdf)
