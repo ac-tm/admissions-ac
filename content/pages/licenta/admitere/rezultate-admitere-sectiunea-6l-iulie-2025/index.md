@@ -8,10 +8,6 @@ fullPath: licenta/admitere/rezultate-admitere-sectiunea-6l-iulie-2025
 ---
 <Block color="green">
 
-undefined
-
-</Block>
-
 Toți candidații admiși **TREBUIE** să confirme în runda I. Cei care nu confirmă, vor fi eliminați din concurs.
 
 **Nu contează** **momentul** în care elevii confirmă locul în intervalul precizat mai jos (nu trebuie să vă aglomerați în primele ore marți dimineață). **Este indicat să faceți plata online, în platforma Enroll, înainte de a veni să depuneți actele originale!**
@@ -32,6 +28,7 @@ Toți candidații admiși **TREBUIE** să confirme în runda I. Cei care nu conf
 * [Absolvent liceu mediul rural](https://admitere.ac.upt.ro/uploads/admisi-u.pdf)
 * [Studenți](https://admitere.ac.upt.ro/uploads/admisi-s.pdf)
 * [SRI](https://admitere.ac.upt.ro/uploads/admisi-i.pdf)
-      
+
+</Block> 
 
 [Rezultate portofoliu etapa 2 secțiunea 6L](https://admitere.ac.upt.ro/uploads/rezultateportofoliu_2025.pdf)
