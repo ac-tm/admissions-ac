@@ -6,3 +6,4 @@ image:
   src: /uploads/accepted-application.jpg
 fullPath: licenta/admitere/rezultate-admitere-sectiunea-6l-iulie-2025
 ---
+[Rezultate portofoliu etapa 2 secțiunea 6L](https://admitere.ac.upt.ro/uploads/rezultateportofoliu_2025.pdf)
