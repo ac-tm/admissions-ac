@@ -20,6 +20,8 @@ Toți candidații admiși **TREBUIE** să confirme în runda I. Cei care nu conf
 
 **Online prin [Enroll](https://enroll.upt.ro/)**: 10.07.2025 – 11.07.2025, până la ora 16:00 (**DOAR DACĂ** dosarul de înscriere conține **originalul diplomei de bacalaureat** și **foaia matricolă** sau **se confirmă un loc cu taxă**)
 
+**[Rezultate admitere după medii + listă așteptare + respinși](https://admitere.ac.upt.ro/uploads/6l-r0-rezultate_de_afisat.pdf)**
+
 **Rezultate runda I pe tipuri de candidați:**
 
 * [Bacalaureat](https://admitere.ac.upt.ro/uploads/admisi-b.pdf)
