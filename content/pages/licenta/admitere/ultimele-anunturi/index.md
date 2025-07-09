@@ -5,6 +5,8 @@ image:
   src: /uploads/warning.jpg
 fullPath: licenta/admitere/ultimele-anunturi
 ---
+<Attachment label="S-au afișat rezultatele pentru portofoliu - etapa 2 pe pagina de rezultate" internal="licenta/admitere/rezultate-admitere-sectiunea-6l-iulie-2025"></Attachment>
+
 #### [Aplasare săli examen și reguli de acces](https://admitere.ac.upt.ro/uploads/amplasare-sali-de-examen-reguli-acces-2025.pdf)
 
 #### **Liste verificare și amplasare în săli - înscriși secțiunea 6L**
