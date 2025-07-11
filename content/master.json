@@ -6,8 +6,8 @@
   },
   "hero": {
     "notification": {
-      "showAt": "2024-07-03T16:19:44.650Z",
-      "hideAt": "2024-09-27T10:00:55.102Z",
+      "showAt": "2025-07-04T08:00:00.000 +0300",
+      "hideAt": "2025-07-26T23:59:59.999 +0300",
       "label": "Live update",
       "path": "/master/admitere/ultimele-anunturi"
     },
