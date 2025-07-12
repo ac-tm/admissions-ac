@@ -8,12 +8,6 @@ fullPath: licenta/admitere/rezultate-admitere-sectiunea-6l-iulie-2025
 ---
 <Block color="gray">
 
-undefined
-
-</Block>
-
-<Block color="green">
-
 ### Confirmări Runda III
 
 **[Rezultate admitere după medii + listă așteptare + respinși](https://admitere.ac.upt.ro/uploads/6l-rezultate-r2-2025_de_afisat.pdf)**
