@@ -6,6 +6,26 @@ image:
 fullPath: master/admitere/ultimele-anunturi
 ---
 
+
+## Programarea la interviu, etapa 1
+
+Vă rugăm reveniți în cursul zilei de duminică 13 iulie pentru detalii.
+
+
+## Liste de verificare, etapa 1
+
+Toți candidații sunt obligați să verifice în lista de mai jos validitatea datelor de concurs.
+
+<Attachment label="Liste de verificare Enroll" file="/uploads/6m-liste-verificare-20250712.pdf"></Attachment>
+
+Eventualele contestații, pe adresa secretariatului care gestionează programul pe care l-ați precizat ca primă opțiune. Termen: **luni, 14 iulie 2025, ora 9:00**.
+
+* Candidații cu prima opțiune **AES, GD, ISA, SIAPS, SIIS, SISC, sau TI**:
+  Adresă secretariat: secretariat@aut.upt.ro
+* Candidații cu prima opțiune **CCIoT, DMWD, ML, QC, sau SE**:
+  Adresă secretariat: secretariat@cs.upt.ro
+
+
 ### Candidați înscriși la finalul zilei de 12 iulie: 442
 
 | **Program** | **Candidați** |
