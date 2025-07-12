@@ -21,11 +21,11 @@ fullPath: master/admitere/ultimele-anunturi
 |SIAPS|28|
 |SIIS|27|
 |SISC|84|
+|TI|23|
 |TAES|2|
 |TCCIOT|1|
 |TDMWD|1|
 |TGD|1|
-|TI|23|
 |TISA|3|
 |TML|4|
 |TSE|2|
