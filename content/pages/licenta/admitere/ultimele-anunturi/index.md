@@ -5,7 +5,9 @@ image:
   src: /uploads/warning.jpg
 fullPath: licenta/admitere/ultimele-anunturi
 ---
-<Attachment label="S-au afișat rezultatele pentru Runda 2 de confirmări" internal="licenta/admitere/rezultate-admitere-sectiunea-6l-iulie-2025"></Attachment>
+<Attachment label="S-au afișat rezultatele pentru Runda 1 de confirmări la secțiunea 12L" internal="licenta/admitere/rezultate-admitere-sectiunea-12l-iulie-2025"></Attachment>
+
+<Attachment label="S-au afișat rezultatele pentru Runda 3 de confirmări la secțiunea 6L" internal="licenta/admitere/rezultate-admitere-sectiunea-6l-iulie-2025"></Attachment>
 
 #### [Aplasare săli examen și reguli de acces](https://admitere.ac.upt.ro/uploads/amplasare-sali-de-examen-reguli-acces-2025.pdf)
 
