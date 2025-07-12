@@ -6,6 +6,33 @@ image:
   src: /uploads/accepted-application.jpg
 fullPath: licenta/admitere/rezultate-admitere-sectiunea-6l-iulie-2025
 ---
+<Block color="gray">
+
+undefined
+
+</Block>
+
+<Block color="green">
+
+### Confirmări Runda III
+
+**[Rezultate admitere după medii + listă așteptare + respinși](https://admitere.ac.upt.ro/uploads/6l-rezultate-r2-2025_de_afisat.pdf)**
+
+**Fizic la facultate**: 13.07.2025, orele 10:00 - 14:00
+
+**Online prin [Enroll](https://enroll.upt.ro/)**: 13.07.2025, până la ora 14:00 (**DOAR DACĂ** dosarul de înscriere conține **originalul diplomei de bacalaureat** și **foaia matricolă** sau **se confirmă un loc cu taxă**)
+
+**Rezultate runda II pe tipuri de candidați:**
+
+* [Bacalaureat](https://admitere.ac.upt.ro/uploads/6l-r3-b.pdf)
+* [Cu premii la competiții agreate, admitere cu media 10](https://admitere.ac.upt.ro/uploads/6l-r3-o1.pdf)
+* [Cu premii la competiții agreate, echivalare probă cu nota 10](https://admitere.ac.upt.ro/uploads/6l-r3-o2.pdf)
+* [Absolvent liceu mediul rural](https://admitere.ac.upt.ro/uploads/6l-r3-u.pdf)
+* [Studenți](https://admitere.ac.upt.ro/uploads/6l-r3-s.pdf)
+* [SRI](https://admitere.ac.upt.ro/uploads/6l-r3-i.pdf)
+
+</Block> 
+
 <Block color="yellow">
 
 ### Confirmări Runda II
