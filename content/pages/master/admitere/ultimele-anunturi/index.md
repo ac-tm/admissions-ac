@@ -9,8 +9,16 @@ fullPath: master/admitere/ultimele-anunturi
 
 ## Programarea la interviu, etapa 1
 
-Vă rugăm reveniți în cursul zilei de duminică 13 iulie pentru detalii.
+Pentru candidații care nu au solicitat echivalarea notei de examen cu media multianuală, interviul de admitere se va desfășura online în datele de luni 14 iulie și marți 15 iulie 2025.
 
+S﻿e recomandă prezența online cu cel puțin 30 de minute de ora programată. Candidații care nu participă la interviu vor fi eliminați din concurs.
+
+Fiecare candidat va pregăti o prezentare care poate să cuprindă: prezentarea și realizările candidatului, motivația pentru care optează pentru master, tematica (tema de studiu pentru disertație) pe care dorește să o abordeze la master, capacitatea de a planifica abordarea tematicii (un state of the art, o planificare a abordării tematicii, detalii tehnice necesare).
+
+<Attachment label="Programări interviu și date de conectare, AES, GD, ISA, SIAPS, SIIS, SISC, TI" file="/uploads/ProgramariAIA-20250714.xlsx"></Attachment>
+<Attachment label="Programări interviu și date de conectare, CCIoT, DMWD, ML, QC, SE" file="/uploads/ProgramariCTI-20250714-si-15.xlsx"></Attachment>
+
+Datele de conectare vor fi trimise candidaților și prin e-mail în cursul zilei de duminică la adresele înregistrate la înscriere.
 
 ## Liste de verificare, etapa 1
 
