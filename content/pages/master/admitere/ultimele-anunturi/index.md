@@ -7,6 +7,10 @@ fullPath: master/admitere/ultimele-anunturi
 ---
 
 
+## 📰 Rezultate admitere master, etapa 1
+
+S-au afișat **rezultatele inițiale ale etapei 1**, pentru prima rundă de confirmări, [pe pagina dedicată](/master/admitere/rezultatele-admiterii/).
+
 ## Programarea la interviu, etapa 1
 
 Pentru candidații care nu au solicitat echivalarea notei de examen cu media multianuală, interviul de admitere se va desfășura online în datele de luni 14 iulie și marți 15 iulie 2025.
