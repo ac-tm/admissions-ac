@@ -11,8 +11,8 @@ fullPath: master/admitere/rezultatele-admiterii
 
 Rezultate finale ale etapei 1, după două runde de confirmări:
 
-<Attachment label="Candidați admiși în etapa 1" file="/uploads/6m-etapa1-admiși-20250717"></Attachment>
-<Attachment label="Candidați respinși în etapa 1" file="/uploads/6m-etapa1-respinși-20250717"></Attachment>
+<Attachment label="Candidați admiși în etapa 1" file="/uploads/6m-etapa1-admiși-20250717.pdf"></Attachment>
+<Attachment label="Candidați respinși în etapa 1" file="/uploads/6m-etapa1-respinși-20250717.pdf"></Attachment>
 
 **[Rezultate români de pretutindeni pe site-ul dedicat](https://upt.ro/Informatii_romani-de-pretutindeni---admitere-master_1498_ro.html)**
 
