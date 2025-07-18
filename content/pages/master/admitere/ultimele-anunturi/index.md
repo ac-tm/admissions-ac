@@ -7,6 +7,11 @@ fullPath: master/admitere/ultimele-anunturi
 ---
 
 
+## Admitere master, etapa 2
+
+A început ultima etapă de admitere.
+
+
 ## 📰 Rezultate admitere master, etapa 1
 
 S-au afișat **rezultatele finale ale etapei 1**, [pe pagina dedicată](/master/admitere/rezultatele-admiterii/).
