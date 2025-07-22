@@ -11,6 +11,16 @@ fullPath: master/admitere/ultimele-anunturi
 
 A început ultima etapă de admitere.
 
+Candidați înscriși la finalul zilei de 21 iulie: 8
+
+| **Program** | **Candidați** |
+| ----------- | ------------- |
+| AES | 2 |
+| QC | 2 |
+| TGD | 2 |
+| TTI | 2 |
+
+
 
 ## 📰 Rezultate admitere master, etapa 1
 
