@@ -33,7 +33,9 @@ S﻿e recomandă prezența online cu cel puțin 30 de minute înainte de ora pro
 
 Fiecare candidat va pregăti o prezentare care poate să cuprindă: prezentarea și realizările candidatului, motivația pentru care optează pentru master, tematica (tema de studiu pentru disertație) pe care dorește să o abordeze la master, capacitatea de a planifica abordarea tematicii (un state of the art, o planificare a abordării tematicii, detalii tehnice necesare).
 
-Datele de conectare vor fi trimise candidaților și prin e-mail în cursul zilei de miercuri la adresele înregistrate la înscriere.
+Datele de conectare și detalii despre desfășurarea interviului vor fi trimise candidaților și prin e-mail în cursul zilei de miercuri la adresele înregistrate la înscriere.
+Pentru redundanță, link-ul la ședința Microsoft teams este: [https://teams.microsoft.com/l/meetup-join/19%3ameeting_NmJiMDQ4OTctMTFlYS00ZTljLTg0ZjAtY2JjNzJhYzBkN2Ux%40thread.v2/0?context=%7b%22Tid%22%3a%226bb41fe4-40a3-4a10-b6cd-38278e78b21a%22%2c%22Oid%22%3a%22d0cff670-ba05-412b-8c02-a69a37dd1d84%22%7d](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NmJiMDQ4OTctMTFlYS00ZTljLTg0ZjAtY2JjNzJhYzBkN2Ux%40thread.v2/0?context=%7b%22Tid%22%3a%226bb41fe4-40a3-4a10-b6cd-38278e78b21a%22%2c%22Oid%22%3a%22d0cff670-ba05-412b-8c02-a69a37dd1d84%22%7d)
+
 
 
 
