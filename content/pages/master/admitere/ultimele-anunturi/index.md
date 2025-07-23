@@ -12,6 +12,18 @@ fullPath: master/admitere/ultimele-anunturi
 Interviul de admitere se va desfășura online joi 24 iulie.
 Reveniți pentru programări.
 
+Toți candidații sunt obligați să verifice în lista de mai jos validitatea datelor de concurs.
+
+<Attachment label="Liste de verificare Enroll" file="/uploads/6m-liste-verificare-20250723.pdf"></Attachment>
+
+Eventualele contestații, pe adresa secretariatului care gestionează programul pe care l-ați precizat ca primă opțiune. Termen: **joi, 24 iulie 2025, ora 9:00**.
+
+* Candidații cu prima opțiune **AES, GD, ISA, SIAPS, SIIS, SISC, sau TI**:
+  Adresă secretariat: secretariat@aut.upt.ro
+* Candidații cu prima opțiune **CCIoT, DMWD, ML, QC, sau SE**:
+  Adresă secretariat: secretariat@cs.upt.ro
+
+
 Candidați înscriși la finalul zilei de 22 iulie: 14
 
 | **Program** | **Candidați** |
