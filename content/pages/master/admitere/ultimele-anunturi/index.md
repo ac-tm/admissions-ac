@@ -9,16 +9,17 @@ fullPath: master/admitere/ultimele-anunturi
 
 ## Admitere master, etapa 2
 
-A început ultima etapă de admitere.
+Interviul de admitere se va desfășura online joi 24 iulie.
+Reveniți pentru programări.
 
-Candidați înscriși la finalul zilei de 21 iulie: 8
+Candidați înscriși la finalul zilei de 22 iulie: 14
 
 | **Program** | **Candidați** |
 | ----------- | ------------- |
-| AES | 2 |
-| QC | 2 |
+| AES | 6 |
+| QC | 3 |
 | TGD | 2 |
-| TTI | 2 |
+| TTI | 3 |
 
 
 
