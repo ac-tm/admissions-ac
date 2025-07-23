@@ -10,7 +10,32 @@ fullPath: master/admitere/ultimele-anunturi
 ## Admitere master, etapa 2
 
 Interviul de admitere se va desfășura online joi 24 iulie.
-Reveniți pentru programări.
+
+
+| **Ora** | **Candidat** |
+| ----------- | ------------- |
+| 10:00 | 6M-0456 |
+| 10:06 | 6M-0457 |
+| 10:12 | 6M-0459 |
+| 10:18 | 6M-0455 |
+| 10:24 | 6M-0444 |
+| 10:30 | 6M-0460 |
+| 10:36 | 6M-0453 |
+| 10:42 | 6M-0458 |
+| 10:48 | 6M-0452 |
+| 10:54 | 6M-0454 |
+| 11:00 | 6M-0450 |
+| 11:06 | 6M-0451 |
+| 11:12 | 6M-0461 |
+| 11:18 | 6M-0443 |
+
+S﻿e recomandă prezența online cu cel puțin 30 de minute înainte de ora programată. Candidații care nu participă la interviu vor fi eliminați din concurs.
+
+Fiecare candidat va pregăti o prezentare care poate să cuprindă: prezentarea și realizările candidatului, motivația pentru care optează pentru master, tematica (tema de studiu pentru disertație) pe care dorește să o abordeze la master, capacitatea de a planifica abordarea tematicii (un state of the art, o planificare a abordării tematicii, detalii tehnice necesare).
+
+Datele de conectare vor fi trimise candidaților și prin e-mail în cursul zilei de miercuri la adresele înregistrate la înscriere.
+
+
 
 Toți candidații sunt obligați să verifice în lista de mai jos validitatea datelor de concurs.
 
