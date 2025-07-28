@@ -9,7 +9,7 @@ fullPath: master/admitere/rezultatele-admiterii
 
 ℹ️ Reveniți pentru calendarul de plată a taxei de studii.
 
-ℹ️ Reveniți pentru anunțuri despre materiile opționale din primul an de studii.
+
 
 ## Rezultate admitere master - etapa 2
 
@@ -17,6 +17,9 @@ fullPath: master/admitere/rezultatele-admiterii
 Detalii despre **precazare** sunt mai jos:
 
 <Attachment label="Instrucțiuni precazare, master an 1" file="/uploads/calendar-cazare-studenti-master-an-1-sesiunea-iulie-2025.pdf"></Attachment>
+
+**[Informații despre alegerea materiilor opționale din anul 1 sunt pe site-ul Facultății](https://ac.upt.ro/evenimente/informatii-studenti-anul-i-masterat-2025/)**
+
 
 
 <Attachment label="Rezultate concurs admitere master - etapa 2" file="/uploads/6M-E2-20250724.pdf"></Attachment>
