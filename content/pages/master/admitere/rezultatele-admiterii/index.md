@@ -13,6 +13,9 @@ fullPath: master/admitere/rezultatele-admiterii
 
 ## Rezultate admitere master - etapa 2
 
+<Attachment label="Calendarul de plată a taxei de studii" file="/uploads/adresa-taxa-admisi-pe-locuri-cu-taxa-2025.pdf"></Attachment>
+Pentru candidații admiși pe locuri în regim cu taxă, neachitarea **primei rate** din taxa de școlarizare până în data de **31 august 2025** duce la anularea statului de admis la Universitatea Politehnica Timișoara.
+**[Cuantumul taxei de studii](https://upt.ro/img/files/2025-2026/Admitere/Licență/HS%20nr.%2016%20din%2013.02.2025_privind%20aprobarea%20Cuantumului%20taxelor%20de%20studiu%2C%20an%20universitar%202025-2026%281%29.pdf)**
 
 Detalii despre **precazare** sunt mai jos:
 
