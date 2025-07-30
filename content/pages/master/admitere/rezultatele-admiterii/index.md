@@ -7,7 +7,7 @@ fullPath: master/admitere/rezultatele-admiterii
 ---
 
 
-ℹ️ Reveniți pentru calendarul de plată a taxei de studii.
+
 
 
 
