@@ -1,55 +1,55 @@
 {
-  "title": "Admitere Licență - secțiunea 10 (Facultatea de Automatică și Calculatoare) - iulie 2025",
+  "title": "Admitere Licență - secțiunea 10 (Facultatea de Automatică și Calculatoare) - septembrie 2025",
   "events": [
     {
-      "date": "2025-05-31T21:00:00.000Z",
-      "deadline": "2025-07-12T11:00:00.000Z",
+      "date": "2025-08-24T21:00:00.000Z",
+      "deadline": "2025-09-06T11:00:00.000Z",
       "title": "Înscriere candidați",
-      "details": "**Online prin [Enroll](https://enroll.upt.ro/)**: 01.06.2025 – 12.07.2025 până la ora 14:00 \n\nsau\n\n**Fizic la Facultate** (avand dosarul complet, cu actele necesare, original+copie): \n\n30.06.2025 – 12.07.2025 până la ora 16:00, astfel:                  \n\n30.06.2025 - 04.07.2025, 09:00 – 16:00\n\n05.07.2025 - 9:00 – 14:00\n\n07-12.07.2025, 09:00 – 16:00\n\nsau\n\n**Fizic în centrele zonale de admitere** (avand dosarul complet, cu actele necesare) astfel: \n\n02.07.2025 – 04.07.2025, orele 9:00 – 16.00\n\n10.07.2025 – 11.07.2025, orele 9:00 – 16.00\n\n12.07.2025, orele 9:00 – 14.00"
+      "details": "**Online prin [Enroll](https://enroll.upt.ro/)**: 25.08.2025 – 06.09.2025 până la ora 14:00\n\nsau\n\n**Fizic la Facultate** 01.09.2025 – 06.09.2025 până la ora 14:00, astfel:                  \n\n01.09.2025 - 05.09.2025, 09:00 – 16:00\n\n06.09.2025 - 9:00 – 14:00"
     },
     {
-      "date": "2025-07-12T11:00:00.000Z",
+      "date": "2025-09-06T11:00:00.000Z",
       "deadline": "",
       "title": "Concurs de dosare"
     },
     {
-      "date": "2025-07-12T17:00:00.000Z",
+      "date": "2025-09-06T16:00:00.000Z",
       "deadline": "",
       "title": "Afișare rezultate concurs",
       "details": "Online prin [Enroll](https://enroll.upt.ro/), pe <https://ac.upt.ro/> și pe <https://admitere.ac.upt.ro/>"
     },
     {
-      "date": "2025-07-14T06:00:00.000Z",
-      "deadline": "2025-07-15T13:00:00.000Z",
+      "date": "2025-09-08T06:00:00.000Z",
+      "deadline": "2025-09-09T13:00:00.000Z",
       "title": "Confirmări Runda I",
-      "details": "Pasul 1: Online (taxa de confirmare) +\n\nPasul 2: Fizic la facultate (aducerea dosarului)\n\n14.07.2025 – 15.07.2025, 9:00 – 16:00\n\nsau\n\nPasul 1: Online (taxa de confirmare) +\n\nPasul 2: Fizic în centrele zonale de admitere (aducerea dosarului)\n\n14.07.2025 – 15.07.2025, până la ora 16:00"
+      "details": "Fizic la facultate: 08.09.2025 – 09.09.2025, 9:00 – 16:00\n\nsau\n\nOnline prin Enroll dacă dosarul de înscriere conține originalul diplomei de bacalaureat și foaia matricolă sau se confirmă un loc cu taxă: 08.09.2025 – 09.09.2025, până la ora 16:00"
     },
     {
-      "date": "2025-07-15T17:00:00.000Z",
+      "date": "2025-09-09T16:00:00.000Z",
       "deadline": "",
       "title": "Afișare Runda II",
       "details": "Online prin [Enroll](https://enroll.upt.ro/), pe <https://ac.upt.ro/> și pe <https://admitere.ac.upt.ro/>"
     },
     {
-      "date": "2025-07-16T06:00:00.000Z",
-      "deadline": "2025-07-16T13:00:00.000Z",
+      "date": "2025-09-10T06:00:00.000Z",
+      "deadline": "2025-09-10T13:00:00.000Z",
       "title": "Confirmări Runda II",
-      "details": "Pasul 1: Online (taxa de confirmare) +\n\nPasul 2: Fizic la facultate (aducerea dosarului)\n\n16.07.2025, 9:00 – 16:00\n\n   Sau\n\nPasul 1: Online (taxa de confirmare) +\n\nPasul 2: Fizic în centrele zonale de admitere (aducerea dosarului)\n\n16.07.2025, până la ora 16:00"
+      "details": "Fizic la facultate: 10.09.2025, 9:00 – 16:00\n\nsau\n\nOnline prin Enroll dacă dosarul de înscriere conține originalul diplomei de bacalaureat și foaia matricolă sau se confirmă un loc cu taxă: 10.09.2025, până la ora 16:00"
     },
     {
-      "date": "2025-07-16T17:00:00.000Z",
+      "date": "2025-09-10T16:00:00.000Z",
       "deadline": "",
       "title": "Afișare Runda III",
       "details": "Online prin [Enroll](https://enroll.upt.ro/), pe <https://ac.upt.ro/> și pe <https://admitere.ac.upt.ro/>"
     },
     {
-      "date": "2025-07-17T06:00:00.000Z",
-      "deadline": "2025-07-17T11:00:00.000Z",
+      "date": "2025-09-11T06:00:00.000Z",
+      "deadline": "2025-09-11T11:00:00.000Z",
       "title": "Confirmări Runda III",
-      "details": "Pasul 1: Online (taxa de confirmare) +\n\nPasul 2: Fizic la facultate (aducerea dosarului)\n\n17.07.2025, orele 9:00 - 14:00"
+      "details": "Fizic la facultate: 11.09.2025, 9:00 – 14:00\n\nsau\n\nOnline prin Enroll dacă dosarul de înscriere conține originalul diplomei de bacalaureat și foaia matricolă sau se confirmă un loc cu taxă: 11.09.2025, până la ora 14:00"
     },
     {
-      "date": "2025-07-17T17:00:00.000Z",
+      "date": "2025-09-11T13:00:00.000Z",
       "deadline": "",
       "title": "Rezultate finale",
       "details": "Online prin [Enroll](https://enroll.upt.ro/), pe <https://ac.upt.ro/> și pe <https://admitere.ac.upt.ro/>"
