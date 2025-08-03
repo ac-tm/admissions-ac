@@ -1,27 +1,27 @@
 {
-  "title": "Admitere Master - sesiunea septembrie 2024",
+  "title": "Admitere Master - sesiunea septembrie 2025",
   "events": [
     {
-      "date": "2024-08-25T21:00:00.000Z",
-      "deadline": "2024-09-12T11:00:00.000Z",
+      "date": "2025-09-11T21:00:00.000Z",
+      "deadline": "2025-09-17T11:00:00.000Z",
       "title": "Înscriere candidaţi",
-      "details": "**26.08.2024 -  12.09.2024** până la ora **14:00** (online <https://enroll.upt.ro/master/>)\n\n**05.09.2024 -  12.09.2024** până la ora **14:00** (fizic în centrul de admitere din cadrul facultății conform orarului afișat după publicarea rezultatelor)"
+      "details": "12.09.2025 - 17.09.2025 până la ora 14:00 (online https://admitere.upt.ro/)\n\n15.09.2025 - 17.09.2025 până la ora 14:00 (fizic în centrele de admitere din cadrul facultății conform orarului afișat)"
     },
     {
-      "date": "2024-09-13T05:00:00.000Z",
+      "date": "2025-09-18T05:00:00.000Z",
       "deadline": "",
       "title": "Concurs de admitere (interviu)"
     },
     {
-      "date": "2024-09-13T13:00:00.000Z",
+      "date": "2025-09-18T13:00:00.000Z",
       "deadline": "",
       "title": "Rezultatele concursului"
     },
     {
-      "date": "2024-09-14T06:00:00.000Z",
-      "deadline": "2024-09-16T13:00:00.000Z",
-      "title": "Definitivarea rezultatelor",
-      "details": "**14.09.2024, 09:00 – 14:00**\n\n**16.09.2024, 09:00 – 16:00**"
+      "date": "2025-09-19T06:00:00.000Z",
+      "deadline": "2025-09-20T11:00:00.000Z",
+      "title": "Definitivarea rezultatelor (runde de confirmări)",
+      "details": "19.09.2025, 09:00 – 16:00\n\n20.09.2025, 09:00 – 14:00"
     }
   ]
 }
