@@ -1,5 +1,5 @@
 ---
-title: Calendarul admiterii licență - sesiunea Iulie 2025
+title: Calendarul admiterii licență - sesiunea septembrie 2025
 description: Abia așteptăm să fii studentul nostru! Marchează-ți în calendar
   datele următoare și... ne vedem din toamnă!
 image:
