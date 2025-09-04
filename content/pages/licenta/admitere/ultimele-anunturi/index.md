@@ -5,6 +5,11 @@ image:
   src: /uploads/warning.jpg
 fullPath: licenta/admitere/ultimele-anunturi
 ---
+#### **Admitere concurs portofoliu - sesiunea septembrie 2025**
+
+* **[Programare interviu portofolii](https://admitere.ac.upt.ro/uploads/programareinterviu_toamna.pdf)**
+* **[Rezultate etapa 1 portofolii](https://admitere.ac.upt.ro/uploads/rezultateportofoliu_etapa1_toamna.pdf)**
+
 <Attachment label="S-au afișat rezultatele pentru Runda 1 de confirmări la secțiunea 12L" internal="licenta/admitere/rezultate-admitere-sectiunea-12l-iulie-2025"></Attachment>
 
 <Attachment label="S-au afișat rezultatele pentru Runda 3 de confirmări la secțiunea 6L" internal="licenta/admitere/rezultate-admitere-sectiunea-6l-iulie-2025"></Attachment>
