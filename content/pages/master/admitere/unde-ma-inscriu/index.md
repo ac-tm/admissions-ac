@@ -5,7 +5,7 @@ image:
   src: /uploads/best-kids-tablets_thumb1200_4-3.jpg
 fullPath: master/admitere/unde-ma-inscriu
 ---
-**Înscrierea se face** **online sau fizic** conform calendarului și instrucțiunilor de [aici](https://admitere.ac.upt.ro/master/admitere/calendarul-admiterii-master-sesiunea-septembrie/).
+**Înscrierea se face** **online sau fizic** conform calendarului și instrucțiunilor de [aici](https://admitere.ac.upt.ro/master/admitere/calendarul-admiterii-master-sesiunea-iulie/).
 
 <Attachment label="Documentele necesare" internal="master/admitere/documente-necesare22"></Attachment>
 
