@@ -10,7 +10,7 @@ fullPath: master/admitere/ultimele-anunturi
 ## Admitere septembrie 2025
 
 În 12 septembrie au început înscrierile online la etapa a treia de admitere master.
-[NUMĂRUL DE LOCURI fără taxă și cu taxă repartizat pe facultăți, domenii de master și programe de studii, pentru sesiunea de admitere septembrie 2025](https://upt.ro/img/files/2025-2026/Admitere/Master/Repartizare_locuri_Master_septembrie_2025_pentru_facultati.pdf)
+[Numărul de locuri fără taxă și cu taxă, pentru sesiunea de admitere AC septembrie 2025](https://admitere.ac.upt.ro/master/admitere/master/)
 
 Candidați înscriși la finalul zilei de 15 septembrie: 12
 

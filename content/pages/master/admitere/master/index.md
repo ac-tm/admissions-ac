@@ -10,7 +10,10 @@ fullPath: master/admitere/master
 
 La ***Facultatea de Automatică și Calculatoare*** în etapa 3 de admitere ai locuri disponibile la următoarele programe de studii universitare de masterat:
 
-<Fig src="/uploads/locuri-masterat-sept-2025.png" alt="undefined" caption="undefined"></Fig>
+<Fig src="/uploads/locuri-masterat-sept-2025.png" alt="Numărul de locuri fără taxă și cu taxă, pentru sesiunea de admitere septembrie 2025" caption="Numărul de locuri fără taxă și cu taxă, pentru sesiunea de admitere septembrie 2025"></Fig>
+
+Există posibilitatea suplimentării locurilor scoase la concurs.
+
 
 ## Etapa 2 de admitere
 
