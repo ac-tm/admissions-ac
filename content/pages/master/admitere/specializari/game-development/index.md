@@ -11,7 +11,7 @@ Prin conținutul său, programul de master GD contribuie la dezvoltarea unor com
 
 Dacă te uiți atent pe planul de învățământ, vei observa că există multe materii opționale, care îți oferă posibilitatea să studiezi ceea ce îți place din game development. Deci nu trebuie să îți faci griji dacă nu ești așa de bun pe partea de programare, poți să optezi spre opționalele cu specific artistic al acestui master. Și dacă nu ne crezi pe cuvânt cu ce ai citit mai devreme, uită-te **[aici](https://ac.upt.ro/specializari/game-development/)** și analizează fișa fiecărei discipline!
 
-Ce zici te-am convins? Dacă da, grăbește-te să îți pregătești [portofoliul](https://admitere.ac.upt.ro/uploads/portofoliu_numeprenume_gd.docx) pentru admiterea la acest master. Acesta este eliminatoriu, iar mai multe detalii despre conținutul portofoliului găsești în Anexa 2 din **[metodologie](https://admitere.ac.upt.ro/uploads/metodologie-admitere-master-ac-2025.pdf)**.
+Ce zici te-am convins? Dacă da, grăbește-te să îți pregătești [portofoliul](https://admitere.ac.upt.ro/uploads/portofoliu_numeprenume_gd.docx) pentru admiterea la acest master. Acesta este eliminatoriu, iar mai multe detalii despre conținutul portofoliului găsești în Anexa 2 din **[metodologie](https://admitere.ac.upt.ro/uploads/02_metodologie-admitere-master-ac-2025.pdf)**.
 
 Ca să-ți faci o idee generală despre materiile pe care le poți aprofunda la acest master, aruncă o privire peste figura de mai jos. Ne vedem din toamnă la GD?
 
