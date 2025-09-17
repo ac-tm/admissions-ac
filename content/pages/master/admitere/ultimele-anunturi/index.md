@@ -6,8 +6,24 @@ image:
 fullPath: master/admitere/ultimele-anunturi
 ---
 
+## Programarea la interviu, 18 septembrie 2025
+
+Pentru candidații care nu au solicitat echivalarea notei de examen cu media multianuală, interviul de admitere se va desfășura online în data de joi 18 septembrie 2025.
+
+S﻿e recomandă prezența online cu cel puțin 30 de minute de ora programată. Candidații care nu participă la interviu vor fi eliminați din concurs.
+
+Fiecare candidat va pregăti o prezentare care poate să cuprindă: prezentarea și realizările candidatului, motivația pentru care optează pentru master, tematica (tema de studiu pentru disertație) pe care dorește să o abordeze la master, capacitatea de a planifica abordarea tematicii (un state of the art, o planificare a abordării tematicii, detalii tehnice necesare).
+
+<Attachment label="Programări interviu și date de conectare, AES, GD, ISA, SIAPS, SIIS, SISC, TI" file="/uploads/ProgramariAIA_toamna-20250917.pdf"></Attachment>
+<Attachment label="Programări interviu și date de conectare, CCIoT, DMWD, ML, QC, SE" file="/uploads/ProgramariCTI_toamna-20250917.xlsx"></Attachment>
+
+Datele de conectare vor fi trimise candidaților prin e-mail în cursul zilei de miercuri 17 septembrie la adresele înregistrate la înscriere.
+
+
+
 
 ## Admitere septembrie 2025
+
 
 În 12 septembrie au început înscrierile online la etapa a treia de admitere master.
 [Numărul de locuri fără taxă și cu taxă, pentru sesiunea de admitere AC septembrie 2025](https://admitere.ac.upt.ro/master/admitere/master/)
@@ -29,7 +45,7 @@ Candidați înscriși la finalul zilei de 16 septembrie: 32
 | TTI | 2 |
 
 
-## 📰 Rezultate admitere master, etapa 2
+## 📰 Rezultate admitere master iulie, etapa 2
 
 S-au afișat **rezultatele finale ale etapei 2**, [pe pagina dedicată](/master/admitere/rezultatele-admiterii/).
 
