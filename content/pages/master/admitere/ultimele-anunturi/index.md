@@ -14,7 +14,7 @@ S﻿e recomandă prezența online cu cel puțin 30 de minute de ora programată.
 
 Fiecare candidat va pregăti o prezentare care poate să cuprindă: prezentarea și realizările candidatului, motivația pentru care optează pentru master, tematica (tema de studiu pentru disertație) pe care dorește să o abordeze la master, capacitatea de a planifica abordarea tematicii (un state of the art, o planificare a abordării tematicii, detalii tehnice necesare).
 
-<Attachment label="Programări interviu și date de conectare, AES, GD, ISA, SIAPS, SIIS, SISC, TI" file="/uploads/ProgramariAIA_toamna-20250917.pdf"></Attachment>
+<Attachment label="Programări interviu și date de conectare, AES, GD, ISA, SIAPS, SIIS, SISC, TI" file="/uploads/ProgramariAIA_toamna-20250917.xlsx"></Attachment>
 <Attachment label="Programări interviu și date de conectare, CCIoT, DMWD, ML, QC, SE" file="/uploads/ProgramariCTI_toamna-20250917.xlsx"></Attachment>
 
 Datele de conectare vor fi trimise candidaților prin e-mail în cursul zilei de miercuri 17 septembrie la adresele înregistrate la înscriere.
