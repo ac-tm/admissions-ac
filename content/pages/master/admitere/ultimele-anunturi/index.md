@@ -22,30 +22,9 @@ Datele de conectare vor fi trimise candidaților prin e-mail în cursul zilei de
 
 
 
-## Admitere septembrie 2025
 
 
-În 12 septembrie au început înscrierile online la etapa a treia de admitere master.
-[Numărul de locuri fără taxă și cu taxă, pentru sesiunea de admitere AC septembrie 2025](https://admitere.ac.upt.ro/master/admitere/master/)
-
-Candidați înscriși la finalul zilei de 16 septembrie: 32
-
-| **Program** | **Candidați** |
-| ----------- | ------------- |
-| AES | 4 |
-| CCIOT | 7 |
-| ISA | 1 |
-| ML | 5 |
-| QC | 4 |
-| SE | 3 |
-| TAES | 1 |
-| TGD | 2 |
-| TQC | 2 |
-| TSIAPS | 1 |
-| TTI | 2 |
-
-
-## 📰 Rezultate admitere master iulie, etapa 2
+## 📰 Rezultate admitere master **iulie, etapa 2**
 
 S-au afișat **rezultatele finale ale etapei 2**, [pe pagina dedicată](/master/admitere/rezultatele-admiterii/).
 
