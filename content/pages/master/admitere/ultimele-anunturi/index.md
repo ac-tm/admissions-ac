@@ -6,6 +6,14 @@ image:
 fullPath: master/admitere/ultimele-anunturi
 ---
 
+
+
+## 📰 Rezultate admitere master **septembrie**
+
+S-au afișat **rezultatele finale ale sesiunii septembrie**, [pe pagina dedicată](/master/admitere/rezultatele-admiterii/).
+
+
+
 ## Programarea la interviu, 18 septembrie 2025
 
 Pentru candidații care nu au solicitat echivalarea notei de examen cu media multianuală, interviul de admitere se va desfășura online în data de joi 18 septembrie 2025.

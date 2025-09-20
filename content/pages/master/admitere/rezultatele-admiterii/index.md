@@ -7,6 +7,21 @@ fullPath: master/admitere/rezultatele-admiterii
 ---
 
 
+## Rezultate admitere master septembrie
+
+ℹ️ Reveniți pentru calendarul de plată a taxei de studii.
+
+ℹ️ Reveniți pentru anunțuri despre precazare.
+
+ℹ️ Informații privind alegerea materiilor opționale din primul an de studii pentru masteratele din cadrul domeniului CTI găsiți pe http://cs.upt.ro/education/master/electives iar pentru masteratele din cadrul domeniului AIASI (IS) și INFO găsiți pe http://www.aut.upt.ro/alegere_optionale.php
+
+
+Rezultatele finale ale sesiunii septembrie, după confirmări:
+
+<Attachment label="Candidați admiși septembrie" file="/uploads/6m-admiși-20250919.pdf"></Attachment>
+<Attachment label="Candidați respinși septembrie" file="/uploads/6m-respinși-20250919.pdf"></Attachment>
+
+**[Rezultate români de pretutindeni pe site-ul dedicat](https://upt.ro/Informatii_romani-de-pretutindeni---admitere-master_1498_ro.html)**
 
 
 
