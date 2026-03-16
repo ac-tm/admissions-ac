@@ -1,15 +1,13 @@
 ---
-title: Calendarul admiterii licență - sesiunea septembrie 2025
+title: Calendarul admiterii licență - sesiunea iunie 2026
 description: Abia așteptăm să fii studentul nostru! Marchează-ți în calendar
   datele următoare și... ne vedem din toamnă!
 image:
   src: /uploads/untitled-design-1-.png
 fullPath: licenta/admitere/calendarul-admiterii
 ---
-Selectează calendarul secțiunii la care dorești să te înscrii:
+**Alege domeniul la care dai concurs pentru a vizualiza calendarul:**
 
-<Attachment label="Calendar pentru secțiunea 6 de la Facultatea de Automatică și Calculatoare, domeniile Calculatoare și Tehnologia Informației și Ingineria Sistemelor" internal="licenta/admitere/calendarul-admiterii/calendarul-admiterii-licenta-sectiunea-6l"></Attachment>
-
-<Attachment label="Calendar pentru secțiunea 12 de la Facultatea de Automatică și Calculatoare, Informatică" internal="licenta/admitere/calendarul-admiterii/calendarul-admiterii-licenta-sectiunea-10l"></Attachment>
-
-<Attachment label="Calendar pentru secțiunea 10 de la Facultatea de Automatică și Calculatoare, Informatică la distanță" internal="licenta/admitere/calendarul-admiterii/calendarul-admiterii-licenta-sectiunea-10dl-id"></Attachment>
+* **[Automatică, informatică aplicată și sisteme inteligente și Calculatoare și tehnologia informației](https://www.upt.ro/admitere/licenta/calendare-de-admitere/calendar-pentru-facultatea-de-automatica-si-calculatoare---sectiunea-6#sesiunea-iulie-2026)**
+* **[Informatică](https://www.upt.ro/educatie/oferta-de-studii/licenta/facultati-si-domenii/facultatea-de-automatica-si-calculatoare/informatica-3-ani-ro#calendarele-admiterii)**
+* **[Informatică ID](https://www.upt.ro/educatie/oferta-de-studii/licenta/facultati-si-domenii/facultatea-de-automatica-si-calculatoare/informatica-3-ani-ro-id#calendarul-admiterii)**
