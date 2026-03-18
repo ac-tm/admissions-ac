@@ -1,5 +1,5 @@
 ---
-title: Rezultate admitere sectiunea 12L - septembrie
+title: Rezultate admitere sectiunea 12L - septembrie 2025
 description: Rezultate admitere 12L - septembrie 2025
 image:
   src: /uploads/accepted-application.jpg
