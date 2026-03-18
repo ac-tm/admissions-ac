@@ -3,7 +3,7 @@ title: Rezultate admitere secțiunea 12L - iulie 2025
 description: Aici, vei putea vedea dacă, din toamnă, vei fi student la AC Informatică
 image:
   src: /uploads/accepted-application.jpg
-fullPath: licenta/admitere/rezultate-admitere-sectiunea-12l-iulie-2025
+fullPath: licenta/admitere/arhiva-rezultate/rezultate-admitere-sectiunea-12l-iulie-2025
 ---
 #### Rezultate runda 1 confirmări
 
