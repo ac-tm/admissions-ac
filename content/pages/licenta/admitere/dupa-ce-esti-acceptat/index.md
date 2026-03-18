@@ -16,4 +16,4 @@ Ce faci după ce esti acceptat? Urmezi **3 pași** simpli:
 **Cum confirmi?** 
 
 * **achiți taxa** prin care confirmi statutul de student UPT (noi îți vom răspunde cu o confirmare)
-* **completezi** dosarul cu **restul documentelor** conform [ghidului](https://www.upt.ro/img/files/2022-2023/Admitere/Licenta/Documente_necesare_insciere_licenta.pdf)
+* **completezi** dosarul cu **restul documentelor** conform [ghidului](https://www.upt.ro/admitere/licenta/documente)
