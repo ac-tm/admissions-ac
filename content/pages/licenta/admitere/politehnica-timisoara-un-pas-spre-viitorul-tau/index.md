@@ -5,7 +5,9 @@ image:
   src: /uploads/upsvt25.jpg
 fullPath: licenta/admitere/politehnica-timisoara-un-pas-spre-viitorul-tau
 ---
-Universitatea Politehnica Timișoara invită elevii din clasele XI – XII, împreună cu profesorii coordonatori, să participe la o nouă ediție a manifestării „Politehnica Timișoara – un pas spre viitorul tău!”, având astfel ocazia să cunoască mediul universitar tehnic timișorean, oferta de studii a Politehnicii, să-și verifice cunoștințele în domeniile de interes prin participarea la concursurile organizate de facultăți, să ia contact cu cei care sunt deja studenți și să cunoască îndeaproape orașul Timișoara.
+Ești pregătit să îți pui creativitatea la treabă și să îți testezi abilitățile într-un mod inovator? Te invităm să te încrii la concursurile „Politehnica Timișoara – Un pas spre viitorul tău”, cele mai captivante competiții ale anului, dedicate elevilor.
+
+Fie că ești elev de clasa a XI-a sau a XII-a, curiozitatea și inovația sunt cuvintele de ordine în cadrul manifestării, iar tu ești protagonistul!
 
 Facultatea de Automatică și Calculatoare vă propune 3 concursuri:
 
@@ -13,8 +15,8 @@ Facultatea de Automatică și Calculatoare vă propune 3 concursuri:
 
 Calendar:
 
-* 10.02.2025 ora 08:00 – 23.03.2025 ora 20:00 – perioada de [înscriere online](https://forms.office.com/e/FeqtqmFEgb)
-* 29.03.2025 – proba de concurs la Facultatea de Automatică și Calculatoare
+* 01.02.2026 ora 08:00 – 22.03.2026 ora 20:00 – perioada de [înscriere online](https://forms.office.com/e/ihfNHeExZu)
+* 28.03.2026 – proba de concurs la Facultatea de Automatică și Calculatoare
 
 Detalii: <https://www.concursulvaleriualaci.upt.ro>
 
@@ -22,17 +24,12 @@ Detalii: <https://www.concursulvaleriualaci.upt.ro>
 
 Calendar:
 
-* 03.02.2025 – 01.04.2025 – perioada de [înscriere online](https://forms.office.com/e/CedQ42337K)
+* 26.01.2026 – 16.03.2026 – perioada de [înscriere online](https://forms.office.com/e/5pCJzEXaWT)
 * 12.04.2025 – proba de concurs la Facultatea de Automatică și Calculatoare
 
 Detalii: <https://ac.upt.ro/rogojan>
 
 **CONCURSUL “iTEC”**
-
-Calendar:
-
-* 03.03.2025 – 16.03.2025 – perioada de înscriere online
-* 04 – 06.04.2025 – etapa finală la Facultatea de Automatică și Calculatoare
 
 Detalii: <https://itec.ro/>
 
