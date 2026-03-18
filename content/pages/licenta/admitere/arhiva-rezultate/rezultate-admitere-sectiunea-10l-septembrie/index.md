@@ -3,7 +3,7 @@ title: Rezultate admitere sectiunea 12L - septembrie 2025
 description: Rezultate admitere 12L - septembrie 2025
 image:
   src: /uploads/accepted-application.jpg
-fullPath: licenta/admitere/rezultate-admitere-sectiunea-10l-septembrie
+fullPath: licenta/admitere/arhiva-rezultate/rezultate-admitere-sectiunea-10l-septembrie
 ---
 **[Rezultate runda II](https://admitere.ac.upt.ro/uploads/rezultate-r2-12l.pdf)**
 
