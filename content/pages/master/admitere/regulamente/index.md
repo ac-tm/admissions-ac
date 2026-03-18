@@ -4,15 +4,12 @@ description: Citește aici regulamentul de organizare și desfășurare a
   concursului de admitere la ciclul de studii universitare de MASTER la UPT.
 fullPath: master/admitere/regulamente
 ---
-* **[OME 3691/01.02.2024](https://www.upt.ro/img/files/2023-2024/Admitere/Metodologie_cardu_organiz_ex.admitere_2024.pdf)** - pentru aprobarea **Metodologiei cadru privind organizarea admiterii în ciclurile de studii universitare de licență, master și doctorat**
-* **Regulamentul de organizare și desfășurare a concursului de admitere la ciclul de studii universitare de MASTER la UPT -** *sesiunile iulie și septembrie 2025 (cf.**[HS 5/13.02.2025](https://www.upt.ro/img/files/2025-2026/Admitere/Master/HSNR5D_1%20(1).pdf)** )*
-* **[Metodologie Admitere Masterat AC 2025](https://admitere.ac.upt.ro/uploads/02_metodologie-admitere-master-ac-2025.pdf)**
+* [Regulamentul de organizare a admiterii la programele de studii de masterat din cadrul Universității Politehnica Timișoara – sesiunile iulie și septembrie 2026](https://media.upt.ro/HS-nr.-4-din-29.01.2026.pdf)
+* **[Metodologie Admitere Masterat AC 2026](https://admitere.ac.upt.ro/uploads/02_metodologie-admitere-master-ac-2025.pdf)**
 
    **Anexe la Metodologie:**
 
-  * *[Anexa 1 - Valori ale coeficientului K](https://www.upt.ro/img/files/2025-2026/Admitere/Master/Anexa_1-Adm_master_2025_coef_k.pdf)*
-  * *[Anexa 3 - Oferta programelor de studii universitare de master organizate de UPT în anul universitar 2025-2026](https://www.upt.ro/img/files/2025-2026/Admitere/Master/Anexa_3-Adm_master_2025_Programe_studii_UPT.pdf)*
-  * *[Anexa 4 - Procedura pentru derularea on-line a concursului de admitere la master în UPT](https://www.upt.ro/img/files/2023-2024/Admitere/master/Regulament_admitere_master_2024-anexa-4.pdf)*
+  * *[Anexa 1 - Valori ale coeficientului](https://media.upt.ro/admitere_UPT_masterat_2026_Anexa_1_coef_k.pdf)*
   * **[Notă de informare](http://www.upt.ro/img/files/gdpr-date_personale/Nota_informativa_candidati_admitere_UPT_v2.pdf) privind prelucrarea datelor cu caracter personal**
 * Art. 16 din metodologie: Sunt scutiți de plata **taxei de înscriere** \[nu și a taxei de confirmare], candidații aflați în una din următoarele situații:
 
