@@ -1,5 +1,5 @@
 ---
-title: Calendarul admiterii la masterat - sesiunea septembrie 2025
+title: Calendarul admiterii la masterat - sesiunea iulie 2026
 description: "Planifică-ți vara în funcție de calendarul admiterii la masterat
   și devino studentul nostru! "
 image:
