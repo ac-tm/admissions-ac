@@ -16,7 +16,7 @@ Anul acesta așteptăm și mai mulți tineri buni la programare! Dacă tot liceu
 
 ## 2. Probă de matematică sau informatică (CTI și IS)
 
-Ești **tare la mate sau info**? Ai rezolvat toate [problemele din culegerea](http://www.upt.ro/img/files/2024-2025/Admitere/licenta/Culegere_admitere_UPT_2025.pdf) de matematică sau ai dat bacul la informatică? Consideri că nu ai multe realizări pe algoritmică/software/hardware ca să ai șanse mai mari de succes prin portofoliu de realizări? Atunci, această probă de matematică sau informatică probabil ți se potrivește. **Model de subiect pentru examenul de admitere la informatică găsiți [aici](https://admitere.ac.upt.ro/uploads/model-subiect-informatica-ac.pdf). Subiectul de admitere de la informatică din anul 2024 se găsește [aici](https://admitere.ac.upt.ro/uploads/a-ro.pdf).**
+Ești **tare la mate sau info**? Ai rezolvat toate [problemele din culegerea](http://www.upt.ro/img/files/2024-2025/Admitere/licenta/Culegere_admitere_UPT_2025.pdf) de matematică sau ai dat bacul la informatică? Consideri că nu ai multe realizări pe algoritmică/software/hardware ca să ai șanse mai mari de succes prin portofoliu de realizări? Atunci, această probă de matematică sau informatică probabil ți se potrivește. **Model de subiect pentru examenul de admitere la informatică găsiți [aici](https://admitere.ac.upt.ro/uploads/model-subiect-informatica-ac.pdf). Subiectul de admitere de la informatică din anul 2024 se găsește [aici](https://admitere.ac.upt.ro/uploads/a-ro.pdf) și din anul 2025 [aici](https://admitere.ac.upt.ro/uploads/adm2025-ro-master-x.pdf).** 
 
 ## 3. Concurs de dosare (INFO)
 
@@ -34,6 +34,4 @@ La specializările Informatică respectiv Informatică la distanță admiterea s
 
 La **Info ID** se ia în calcul doar media de la bacalaureat, chiar dacă nu ai dat matematică sau informatică.
 
-Oferta programelor de studii, tipul concursului și formula de calcul a mediei de admitere o găsești și [aici](https://www.upt.ro/img/files/2022-2023/Admitere/Licenta/2.2_Anexa_1-Adm_licenta_2023_Oferta_programe_studii_final.pdf).
-
-**Sfat (poate) util**: Poate nu ar fi rău să studiezi și [**metodologia** de **admitere**](https://upt.ro/img/files/2025-2026/Admitere/Licen%C8%9B%C4%83/HS%20nr.%204%20din%2013.02.2025_privind%20aprobarea%20Regulamentului%20de%20org%20si%20desf%C4%83%C8%99urare%20a%20Concursului%20de%20admitere%20la%20Licen%C8%9B%C4%83%20%C3%AEn%20anul%20universitar%202025-202.pdf) pentru anul **2025** (chiar dacă e mult de citit) și alte informații utile legate de pe [pagina web a universității](https://www.upt.ro/Informatii_admitere-licenta---2025_2718_ro.html).
+Oferta programelor de studii, tipul concursului și formula de calcul a mediei de admitere o găsești și [aici](https://www.upt.ro/educatie/oferta-de-studii/licenta/facultati-si-domenii/facultatea-de-automatica-si-calculatoare).
