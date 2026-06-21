@@ -6,8 +6,8 @@
   },
   "hero": {
     "notification": {
-      "showAt": "2025-07-02T18:48:34.168Z",
-      "hideAt": "2025-09-28T20:59:00.000Z",
+      "showAt": "2026-06-21T17:22:54.609Z",
+      "hideAt": "2026-09-25T20:59:00.000Z",
       "label": "Live update",
       "path": "/licenta/admitere/ultimele-anunturi/"
     },
@@ -29,45 +29,69 @@
     {
       "type": "pages",
       "list": [
-        "licenta/admitere/calendarul-admiterii",
-        "licenta/admitere/locuri-speciale-mapn",
-        "licenta/admitere/politehnica-timisoara-un-pas-spre-viitorul-tau",
-        "licenta/admitere/arhiva-rezultate"
+        "master/admitere/calendarul-admiterii-master-sesiunea-iulie",
+        "master/admitere/master",
+        "master/admitere/documente-necesare22",
+        "master/admitere/specializari"
       ]
     },
     {
       "type": "specializations",
-      "title": "Să începem cu începutul...",
-      "description": "Înainte să te înscrii este important să îți alegi specializarea la care îți dorești să fii admis. Nu te teme, poți să te înscrii la mai multe specializări în domeniile Calculatoare și Tehnologia Informației, Ingineria Sistemelor și Informatică.",
+      "title": "Specializări",
+      "description": "Lista întreagă de specializări",
       "cta": {
-        "label": "Află ce vei studia",
-        "path": "/licenta/admitere/specializari"
+        "label": "Află mai multe!",
+        "path": "/master/admitere/specializari"
       },
       "items": [
         {
-          "width": "full",
-          "specialization": "calculatoare-și-tehnologia-informației"
+          "width": "half",
+          "specialization": "automotive-embedded-software"
         },
         {
           "width": "full",
-          "specialization": "ingineria-sistemelor"
+          "specialization": "sisteme-informatice-aplicate-în-producție-și-servicii"
+        },
+        {
+          "width": "full",
+          "specialization": "securitatea-informatiilor-si-a-sistemelor-cibernetice"
         },
         {
           "width": "half",
-          "specialization": "informatică"
+          "specialization": "tehnologii-informatice"
         },
         {
           "width": "half",
-          "specialization": "informatică-la-distanță"
+          "specialization": "ingineria-sistemelor-automate"
+        },
+        {
+          "width": "full",
+          "specialization": "sisteme-informatice-în-îngrijirea-sănătății"
+        },
+        {
+          "width": "full",
+          "specialization": "game-development"
+        },
+        {
+          "width": "half",
+          "specialization": "quantum-computing"
+        },
+        {
+          "width": "half",
+          "specialization": "cloud-computing-and-internet-of-things"
+        },
+        {
+          "width": "full",
+          "specialization": "software-engineering"
+        },
+        {
+          "width": "full",
+          "specialization": "digital-media-and-web-development"
+        },
+        {
+          "width": "half",
+          "specialization": "machine-learning"
         }
-      ],
-      "list": [
-        "licenta/admitere/calendarul-admiterii",
-        "licenta/admitere/rezultate",
-        "licenta/admitere/ultimele-anunturi",
-        "licenta/admitere/dupa-ce-esti-acceptat",
-        "licenta/admitere/unde-ma-inscriu",
-        "licenta/admitere/documente-necesare"
       ]
     },
     {
@@ -82,15 +106,6 @@
         "label": "Deschide harta",
         "path": "/harta"
       }
-    },
-    {
-      "type": "pages",
-      "list": [
-        "licenta/informatii-utile",
-        "licenta/admitere/documente-necesare",
-        "licenta/de-ce-ac/oportunitati-in-cariera",
-        "licenta/intrebari-frecvente"
-      ]
     }
   ]
 }
