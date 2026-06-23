@@ -37,60 +37,28 @@
     },
     {
       "type": "specializations",
-      "title": "Specializări",
-      "description": "Lista întreagă de specializări",
+      "title": "Listă specializări",
+      "description": "Specializări",
       "cta": {
-        "label": "Află mai multe!",
+        "label": "Mai multe detalii",
         "path": "/licenta/admitere/specializari/"
       },
       "items": [
         {
-          "width": "half",
-          "specialization": "automotive-embedded-software"
+          "width": "full",
+          "specialization": "calculatoare-și-tehnologia-informației"
         },
         {
           "width": "full",
-          "specialization": "sisteme-informatice-aplicate-în-producție-și-servicii"
+          "specialization": "ingineria-sistemelor"
         },
         {
           "width": "full",
-          "specialization": "securitatea-informatiilor-si-a-sistemelor-cibernetice"
-        },
-        {
-          "width": "half",
-          "specialization": "tehnologii-informatice"
-        },
-        {
-          "width": "half",
-          "specialization": "ingineria-sistemelor-automate"
+          "specialization": "informatică"
         },
         {
           "width": "full",
-          "specialization": "sisteme-informatice-în-îngrijirea-sănătății"
-        },
-        {
-          "width": "full",
-          "specialization": "game-development"
-        },
-        {
-          "width": "half",
-          "specialization": "quantum-computing"
-        },
-        {
-          "width": "half",
-          "specialization": "cloud-computing-and-internet-of-things"
-        },
-        {
-          "width": "full",
-          "specialization": "software-engineering"
-        },
-        {
-          "width": "full",
-          "specialization": "digital-media-and-web-development"
-        },
-        {
-          "width": "half",
-          "specialization": "machine-learning"
+          "specialization": "informatică-la-distanță"
         }
       ]
     },
