@@ -41,7 +41,7 @@
       "description": "Lista întreagă de specializări",
       "cta": {
         "label": "Află mai multe!",
-        "path": "/master/admitere/specializari"
+        "path": "/licenta/admitere/specializari/"
       },
       "items": [
         {
