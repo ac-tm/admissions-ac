@@ -29,10 +29,10 @@
     {
       "type": "pages",
       "list": [
-        "master/admitere/calendarul-admiterii-master-sesiunea-iulie",
-        "master/admitere/master",
-        "master/admitere/documente-necesare22",
-        "master/admitere/specializari"
+        "licenta/admitere/calendarul-admiterii",
+        "licenta/admitere/specializari",
+        "licenta/admitere/documente-necesare",
+        "licenta/admitere/arhiva-rezultate"
       ]
     },
     {
