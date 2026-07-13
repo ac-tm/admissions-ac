@@ -53,7 +53,7 @@ Necesare pentru situațiile deosebite, conform [ghidului](https://www.upt.ro/img
 
 <DocumentCheckbox text="Dovadă scutire de taxă (pentru candidații aflați în această situație) (e)"></DocumentCheckbox>
 
-<DocumentCheckbox text="Patru fotografii color tip diplomă (f)"></DocumentCheckbox>
+<DocumentCheckbox text="Două fotografii color tip diplomă (f)"></DocumentCheckbox>
 
 ## Etapa 3 - Prima zi a anului universitar (2026-2027)
 
