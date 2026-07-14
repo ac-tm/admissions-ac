@@ -16,6 +16,10 @@ Nu îți face griji, lucrurile sunt de destul de simple. Intri pe [platformă](h
 
 <DocumentCheckbox text="Copie foaie matricolă cu notele obținute pe parcursul facultății"></DocumentCheckbox>
 
+<DocumentCheckbox text="Copie carte de identitate (inclusiv reversul pentru cea electronică)"></DocumentCheckbox>
+
+<DocumentCheckbox text="Dovada domiciliului stabil, pentru posesorii de carte electronică de identitate*"></DocumentCheckbox>
+
 <DocumentCheckbox text="Copie certificat de naștere"></DocumentCheckbox>
 
 <DocumentCheckbox text="Adeverință medicală, eliberată de medicul de familie"></DocumentCheckbox>
@@ -25,6 +29,9 @@ Nu îți face griji, lucrurile sunt de destul de simple. Intri pe [platformă](h
 <DocumentCheckbox text="Copie după declarația pe proprie răspundere autentificată de un notariat privind nefinanțarea/finanțarea anterioară de la bugetul statului român pentru urmarea de studii universitare de master (în cazul candidaților care au absolvit facultatea înainte de 2026)"></DocumentCheckbox>
 
 <DocumentCheckbox text="Pentru masterul Game Development - portofoliu (vezi Anexa 2 si șablon portofoliu la pagina de Regulamente)"></DocumentCheckbox>
+
+* Dovada domiciliului se face conform răspunsului 7 de pe https://carteadeidentitate.gov.ro/utile/
+
 
 <Block color="yellow">
 
