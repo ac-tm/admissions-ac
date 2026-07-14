@@ -7,26 +7,28 @@ fullPath: master/admitere/ultimele-anunturi
 ---
 
 
-### Candidați înscriși la finalul zilei de 13 iulie: 91
+### Candidați înscriși la finalul zilei de 14 iulie: 170
 
 | **Program** | **Candidați** |
 | ----------- | ------------- |
-| CCIOT | 12 |
-| DMWD | 10 |
-| GD | 5 |
-| ISA | 3 |
-| ML | 15 |
-| QC | 1 |
-| SIAPS | 11 |
-| SIIS | 3 |
-| SISC | 12 |
-| TI | 7 |
-| TCCIOT | 1 |
-| TDMWD | 2 |
-| TGD | 2 |
-| TML | 3 |
-| TSISC | 3 |
-| TTI | 1 |
+| AES | 1 |
+| CCIOT | 20 |
+| DMWD | 12 |
+| GD | 7 |
+| ISA | 4 |
+| ML | 29 |
+| QC | 6 |
+| SE | 3 |
+| SIAPS | 21 |
+| SIIS | 6 |
+| SISC | 37 |
+| TI | 10 |
+| Taxă-CCIOT | 1 |
+| Taxă-DMWD | 2 |
+| Taxă-GD | 2 |
+| Taxă-ML | 3 |
+| Taxă-SISC | 4 |
+| Taxă-TI | 2 |
 
 
 
