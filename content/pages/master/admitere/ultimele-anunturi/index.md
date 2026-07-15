@@ -7,8 +7,10 @@ fullPath: master/admitere/ultimele-anunturi
 ---
 
 
-Datorita numarului mare de candidati inscrisi in ultimele ore, programarea pentru interviu va fi afisata aici in timp util, va rugam reveniti.
-Interviul constă într-o prezentare în care trebuie sa abordați următoarele subiecte: 
+Datorită numărului mare de candidați înscriși în ultimele ore, programarea pentru interviu va fi afișată aici în dimineața zilei de joi 16 iulie, vă rugăm reveniți.
+
+
+Interviul constă într-o prezentare în care trebuie sa abordați următoarele subiecte:
  - motivația pentru alegerea programului de masterat;
  - experiența și competențele dobândite până în prezent (programul de licență absolvit, proiecte realizate, tehnologii cunoscute, experiență profesională etc.);
  - ce anume vă propuneți să studiați/realizați la masterat – un exemplu de temă de studiu.
