@@ -1,5 +1,5 @@
 ---
-title: Calendarul admiterii licență - sesiunea iunie 2026
+title: Calendarul admiterii licență - sesiunea iulie 2026
 description: Abia așteptăm să fii studentul nostru! Marchează-ți în calendar
   datele următoare și... ne vedem din toamnă!
 image:
