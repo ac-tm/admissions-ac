@@ -6,15 +6,23 @@ image:
 fullPath: master/admitere/ultimele-anunturi
 ---
 
+## Programarea la interviu, etapa 1
 
-Datorită numărului mare de candidați înscriși în ultimele ore ale perioadei de înscrieri, programarea pentru interviu va fi afișată aici în dimineața zilei de joi 16 iulie, vă rugăm reveniți.
+Pentru candidații care nu au solicitat echivalarea notei de examen cu media multianuală, interviul de admitere se va desfășura online în data de vineri 17 iulie.
 
-Interviul de admitere se va desfășura online vineri 17 iulie.
+S﻿e recomandă prezența online cu cel puțin 30 de minute de ora programată, dar nu înainte de ora 7:45. Candidații care nu participă la interviu vor fi eliminați din concurs.
 
 Interviul constă într-o prezentare în care trebuie sa abordați următoarele subiecte:
  - motivația pentru alegerea programului de masterat;
  - experiența și competențele dobândite până în prezent (programul de licență absolvit, proiecte realizate, tehnologii cunoscute, experiență profesională etc.);
  - ce anume vă propuneți să studiați/realizați la masterat – un exemplu de temă de studiu.
+
+<Attachment label="Programări interviu și date de conectare, AES, GD, ISA, SIAPS, SIIS, SISC, TI" file="/uploads/ProgramariAIA-20260716.xlsx"></Attachment>
+<Attachment label="Programări interviu și date de conectare, CCIoT, DMWD, ML, QC, SE" file="/uploads/ProgramariCTI-20260716.xlsx"></Attachment>
+
+Datele de conectare vor fi trimise candidaților și prin e-mail în cursul zilei de joi la adresele înregistrate la înscriere.
+
+
 
 ## Verificare
 
