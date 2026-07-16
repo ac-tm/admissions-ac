@@ -7,7 +7,9 @@ fullPath: master/admitere/ultimele-anunturi
 ---
 
 
-Datorită numărului mare de candidați înscriși în ultimele ore, programarea pentru interviu va fi afișată aici în dimineața zilei de joi 16 iulie, vă rugăm reveniți.
+Datorită numărului mare de candidați înscriși în ultimele ore ale perioadei de înscrieri, programarea pentru interviu va fi afișată aici în dimineața zilei de joi 16 iulie, vă rugăm reveniți.
+
+Interviul de admitere se va desfășura online vineri 17 iulie.
 
 
 Interviul constă într-o prezentare în care trebuie sa abordați următoarele subiecte:
