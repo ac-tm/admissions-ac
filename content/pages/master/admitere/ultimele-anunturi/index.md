@@ -11,34 +11,51 @@ Datorită numărului mare de candidați înscriși în ultimele ore ale perioade
 
 Interviul de admitere se va desfășura online vineri 17 iulie.
 
-
 Interviul constă într-o prezentare în care trebuie sa abordați următoarele subiecte:
  - motivația pentru alegerea programului de masterat;
  - experiența și competențele dobândite până în prezent (programul de licență absolvit, proiecte realizate, tehnologii cunoscute, experiență profesională etc.);
  - ce anume vă propuneți să studiați/realizați la masterat – un exemplu de temă de studiu.
 
-### Candidați înscriși la finalul zilei de 14 iulie: 170
+## Verificare
+
+Toți candidații sunt obligați să verifice în lista de mai jos validitatea datelor de concurs.
+
+<Attachment label="Liste de verificare Enroll" file="/uploads/6m-liste-verificare-20260716.pdf"></Attachment>
+
+Eventualele contestații, pe adresa secretariatului care gestionează programul pe care l-ați precizat ca primă opțiune. Termen: **vineri, 17 iulie 2026, ora 9:00**.
+
+* Candidații cu prima opțiune **AES, GD, ISA, SIAPS, SIIS, SISC, sau TI**:
+  Adresă secretariat: secretariat@aut.upt.ro
+* Candidații cu prima opțiune **CCIoT, DMWD, ML, QC, sau SE**:
+  Adresă secretariat: secretariat@cs.upt.ro
+
+
+### Candidați înscriși la finalul zilei de 15 iulie: 437
 
 | **Program** | **Candidați** |
 | ----------- | ------------- |
-| AES | 1 |
-| CCIOT | 20 |
-| DMWD | 12 |
-| GD | 7 |
-| ISA | 4 |
-| ML | 29 |
-| QC | 6 |
-| SE | 3 |
-| SIAPS | 21 |
-| SIIS | 6 |
-| SISC | 37 |
-| TI | 10 |
-| Taxă-CCIOT | 1 |
-| Taxă-DMWD | 2 |
-| Taxă-GD | 2 |
-| Taxă-ML | 3 |
-| Taxă-SISC | 4 |
+| AES | 6 |
+| CCIOT | 39 |
+| DMWD | 30 |
+| GD | 23 |
+| ISA | 16 |
+| ML | 95 |
+| QC | 17 |
+| SE | 9 |
+| SIAPS | 49 |
+| SIIS | 14 |
+| SISC | 95 |
+| TI | 17 |
+| Taxă-CCIOT | 2 |
+| Taxă-DMWD | 3 |
+| Taxă-GD | 3 |
+| Taxă-ML | 7 |
+| Taxă-SE | 1 |
+| Taxă-SIAPS | 2 |
+| Taxă-SIIS | 2 |
+| Taxă-SISC | 5 |
 | Taxă-TI | 2 |
+
 
 
 
