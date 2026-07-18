@@ -6,6 +6,16 @@ image:
 fullPath: master/admitere/ultimele-anunturi
 ---
 
+## Admitere master, etapa 2
+
+Înscrierile pentru locurile rămase libere în ultima etapă de admitere sunt momentan suspendate pentru stabilirea programelor disponibile, vă rugăm reveniți luni 20 iulie.
+
+
+## 📰 Rezultate admitere master, etapa 1
+
+S-au afișat **rezultatele inițiale ale etapei 1**, pentru prima rundă de confirmări, [pe pagina dedicată](/master/admitere/rezultatele-admiterii/).
+
+
 ## Programarea la interviu, etapa 1
 
 Pentru candidații care nu au solicitat echivalarea notei de examen cu media multianuală, interviul de admitere se va desfășura online în data de vineri 17 iulie.
