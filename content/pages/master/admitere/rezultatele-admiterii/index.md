@@ -28,7 +28,7 @@ Pentru confirmare, sunt obligatorii plata taxei de înmatriculare și, pentru ca
 2. Depunerea tuturor actele necesare la dosar se poate face în zilele lucrătoare începând cu marți 21 iulie ora 9 și până miercuri 29 iulie ora 15) în biroul de confirmări, corpul B, clădirea Electro, sala B512 (dacă prima opțiune la înscriere a fost la CCIoT, DMWD, ML, QC, SE) sau sala B615 (pentru AES, GD, ISA, SIAPS, SIIS, SISC, TI), și include în **ORIGINAL** adeverința/diploma, 2 fotografii color tip diplomă, situația școlară/foaie matricolă/supliment la diplomă în **ORIGINAL**, adeverință medicală, și eventuala declarație notarială deja depuse în sistemul electronic Enroll de admitere.
 
    * Absolvenților AC UPT ai promoției 2026 care au făcut cerere în Campusul Virtual li se va transfera adeverința în original și foaia matricolă direct de la secretariatul facultății în dosarul de admitere master.
-Absolvenții AC UPT ai promoției 2026 care ocupă un loc bugetat, și nu au completat cererea (sau care și-au ridicat deja adeverința de la secretariat) sunt obligați să aducă adeverința sau diploma de licență în original până vineri 24 iulie la ora 13.
+   * Absolvenții AC UPT ai promoției 2026 care ocupă un loc bugetat, și nu au completat cererea (sau care și-au ridicat deja adeverința de la secretariat) sunt obligați să aducă adeverința sau diploma de licență în original până vineri 24 iulie la ora 13.
 
 
 O eventuală rundă 2 de confirmări se va desfășura marți 21 iulie, reveniți pe finalul zilei pentru rezultate.
