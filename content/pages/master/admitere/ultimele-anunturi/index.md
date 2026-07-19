@@ -8,7 +8,7 @@ fullPath: master/admitere/ultimele-anunturi
 
 ## Admitere master, etapa 2
 
-Înscrierile pentru locurile rămase libere în ultima etapă de admitere sunt momentan suspendate pentru stabilirea programelor disponibile, vă rugăm reveniți luni 20 iulie.
+Continuă înscrierile pentru [locurile rămase libere](/master/admitere/master/).
 
 
 ## 📰 Rezultate admitere master, etapa 1

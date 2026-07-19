@@ -9,7 +9,18 @@ fullPath: master/admitere/master
 
 # Etapa 2 (16–25 iulie)
 
-Numărul de locuri disponibile în ultima etapă de admitere este în curs de stabilire, vă rugăm reveniți luni 20 iulie.
+La ***Facultatea de Automatică și Calculatoare*** în ultima etapă de admitere ai locuri disponibile următoarele programe de studii universitare de masterat:
+
+| **Nume**                                              | **cod 6M** | **Locuri disponibile a doua etapă** |
+| ----------------------------------------------------- | ---------- | ----------------------------------- |
+| Automotive Embedded Software - cu taxă | TAES | 4 |
+| Cloud Computing and Internet of Things - cu taxă | TCCIOT | 7 |
+| Digital media and web development - cu taxă | TDMWD | 11 |
+| Game Development - cu taxă | TGD | 18 |
+| Ingineria Sistemelor Automate - cu taxă | TISA | 4 |
+| Sisteme Informatice în îngrijirea Sănătății - cu taxă | TSIIS | 2 |
+| Tehnologii Informatice - cu taxă | TTI | 3 |
+
 
 
 # Etapa 1 (8–15 iulie)
