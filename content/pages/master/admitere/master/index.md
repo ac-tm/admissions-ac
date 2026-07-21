@@ -13,6 +13,8 @@ La ***Facultatea de Automatică și Calculatoare*** în ultima etapă de admiter
 
 | **Nume**                                              | **cod 6M** | **Locuri disponibile a doua etapă** |
 | ----------------------------------------------------- | ---------- | ----------------------------------- |
+| Automotive Embedded Software - fără taxă | AES | 4 |
+| Ingineria Sistemelor Automate - fără taxă | ISA | 4 |
 | Automotive Embedded Software - cu taxă | TAES | 4 |
 | Cloud Computing and Internet of Things - cu taxă | TCCIOT | 7 |
 | Digital media and web development - cu taxă | TDMWD | 11 |
