@@ -1,9 +1,9 @@
 ---
-title: Ingineria Sistemelor
+title: Automatică, Informatică Aplicată și Sisteme Inteligente
 description: Tot timpul de actualitate.
 fullPath: licenta/admitere/specializari/ingineria-sistemelor
 ---
-Cum sună **Ingineria Sistemelor** pentru tine? Dar **System Engineering**? Dar **Automatică și Informatică Aplicată**? Important este că descriu unul și același lucru: o direcție **tot timpul în actualitate**.
+Cum sună **Automatică, Informatică Aplicată și Sisteme Inteligente** pentru tine? Dar **Automatică și Informatică Aplicată**? Important este că descriu unul și același lucru: o direcție **tot timpul în actualitate**.
 
 **DE CE?** Pentru că:
 
