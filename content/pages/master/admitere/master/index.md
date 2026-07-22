@@ -22,6 +22,7 @@ La ***Facultatea de Automatică și Calculatoare*** în ultima etapă de admiter
 | Ingineria Sistemelor Automate - cu taxă | TISA | 4 |
 | Sisteme Informatice în îngrijirea Sănătății - cu taxă | TSIIS | 2 |
 | Tehnologii Informatice - cu taxă | TTI | 3 |
+| Quantum Computing - cu taxă | TQC | 2 |
 
 
 
