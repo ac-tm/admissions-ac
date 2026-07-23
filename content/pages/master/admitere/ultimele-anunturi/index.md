@@ -6,6 +6,16 @@ image:
 fullPath: master/admitere/ultimele-anunturi
 ---
 
+ℹ️ Reveniți pentru instrucțiuni despre precazare.
+
+ℹ️ Reveniți pentru anunțuri despre materiile opționale din primul an de studii.
+
+Detalii despre **calendarul de plată a taxei de studii** sunt mai jos:
+Pentru candidații admiși pe locuri în regim cu taxă, neachitarea **primei rate** din taxa de școlarizare până în data de **31 august 2026** duce la anularea statului de admis la Universitatea Politehnica Timișoara.
+
+<Attachment label="Calendarul de plată a taxei de studii, master an 1" file="/uploads/termen-plata-admisi-pe-locuri-cu-taxa-20260723.pdf"></Attachment>
+
+
 ## Admitere master, etapa 2
 
 Continuă înscrierile pentru [locurile rămase libere](/master/admitere/master/).
