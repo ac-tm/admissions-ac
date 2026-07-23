@@ -20,7 +20,7 @@ Pentru candidații admiși pe locuri în regim cu taxă, neachitarea **primei ra
 
 Continuă înscrierile pentru [locurile rămase libere](/master/admitere/master/).
 
-Candidați înscriși la finalul zilei de 22 iulie: 13
+Candidați înscriși la finalul zilei de 23 iulie: 13
 
 | **Program** | **Candidați** |
 | ----------- | ------------- |
