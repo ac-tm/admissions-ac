@@ -7,6 +7,8 @@ fullPath: licenta/admitere/rezultate-sesiunea-iulie-2026
 ---
 
 
+<Attachment label="Rezultate 6L sesiunea iulie 2026 - R3" file="/uploads/6l-r2-v1.pdf"></Attachment>
+
 <Attachment label="Rezultate 12L sesiunea iulie 2026 - R1" file="/uploads/12l-r0-v1.pdf"></Attachment>
 
 <Attachment label="Rezultate 6L sesiunea iulie 2026 - R2" file="/uploads/6l-r1-v1.pdf"></Attachment>
