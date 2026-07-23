@@ -7,6 +7,24 @@ fullPath: master/admitere/rezultatele-admiterii
 ---
 
 
+## Rezultate admitere master - etapa 1 final
+
+Rezultate finale ale etapei 1, după două runde de confirmări:
+
+<Attachment label="Candidați admiși în etapa 1" file="/uploads/6m-etapa1-admiși-20260722.pdf"></Attachment>
+<Attachment label="Candidați respinși în etapa 1" file="/uploads/6m-etapa1-respinși-20260722.pdf"></Attachment>
+
+**[Rezultatele concursului pentru românii de pretutindeni se găsesc pe site-ul dedicat](https://www.upt.ro/international-students/admission/admitere-masterat-romani-de-pretutindeni)**
+
+
+
+ℹ️ Reveniți pentru calendarul de plată a taxei de studii.
+
+ℹ️ Reveniți pentru anunțuri despre precazare.
+
+ℹ️ Reveniți pentru anunțuri despre alegerea disciplinelor opționale din primul an.
+
+
 
 ## Rezultate admitere master - etapa 1, runda 1 de confirmări
 

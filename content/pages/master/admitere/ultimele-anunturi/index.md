@@ -13,8 +13,7 @@ Continuă înscrierile pentru [locurile rămase libere](/master/admitere/master/
 
 ## 📰 Rezultate admitere master, etapa 1
 
-S-au afișat **rezultatele inițiale ale etapei 1**, pentru prima rundă de confirmări, [pe pagina dedicată](/master/admitere/rezultatele-admiterii/).
-
+S-au afișat **rezultatele finale ale etapei 1**, [pe pagina dedicată](/master/admitere/rezultatele-admiterii/).
 
 ## Programarea la interviu, etapa 1
 
