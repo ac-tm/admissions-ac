@@ -10,6 +10,17 @@ fullPath: master/admitere/ultimele-anunturi
 
 Continuă înscrierile pentru [locurile rămase libere](/master/admitere/master/).
 
+Candidați înscriși la finalul zilei de 22 iulie: 13
+
+| **Program** | **Candidați** |
+| ----------- | ------------- |
+| ISA | 3 |
+| Taxă-CCIOT | 3 |
+| Taxă-DMWD | 1 |
+| Taxă-GD | 3 |
+| Taxă-QC | 2 |
+| Taxă-TI | 1 |
+
 
 ## 📰 Rezultate admitere master, etapa 1
 
