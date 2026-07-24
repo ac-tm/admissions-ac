@@ -1,5 +1,5 @@
 ---
-title: Aici
+title: Rezultate sesiunea iulie 2026
 description: |
   Rezultate sesiunea iulie 2026
 image:
