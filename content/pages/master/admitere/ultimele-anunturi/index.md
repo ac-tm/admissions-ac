@@ -18,18 +18,27 @@ Pentru candidații admiși pe locuri în regim cu taxă, neachitarea **primei ra
 
 ## Admitere master, etapa 2
 
-Continuă înscrierile pentru [locurile rămase libere](/master/admitere/master/).
+S-au încheiat înscrierile pentru [locurile rămase libere](/master/admitere/master/).
 
-Candidați înscriși la finalul zilei de 23 iulie: 13
+Candidați înscriși la finalul zilei de 25 iulie: 22
 
 | **Program** | **Candidați** |
 | ----------- | ------------- |
+| AES | 2 |
 | ISA | 3 |
-| Taxă-CCIOT | 3 |
-| Taxă-DMWD | 1 |
-| Taxă-GD | 3 |
-| Taxă-QC | 2 |
-| Taxă-TI | 1 |
+| TCCIOT | 7 |
+| TDMWD | 1 |
+| TGD | 4 |
+| TQC | 2 |
+| TSE | 2 |
+| TTI | 1 |
+
+
+## Programarea la interviu, etapa 2
+
+Pentru candidații care nu au solicitat echivalarea notei de examen cu media multianuală, interviul de admitere se va desfășura online în data de luni 27 iulie, începând cu ora 9.
+
+ℹ️ Reveniți pentru programare în cursul zilei de duminică 26 iulie.
 
 
 ## 📰 Rezultate admitere master, etapa 1
