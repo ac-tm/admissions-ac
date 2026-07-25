@@ -34,11 +34,26 @@ Candidați înscriși la finalul zilei de 25 iulie: 22
 | TTI | 1 |
 
 
+### Verificare
+
+Toți candidații sunt obligați să verifice în lista de mai jos validitatea datelor de concurs.
+
+<Attachment label="Liste de verificare Enroll" file="/uploads/6M-liste-verificare-E2-20260725.pdf"></Attachment>
+
+Eventualele contestații, pe adresa secretariatului care gestionează programul pe care l-ați precizat ca primă opțiune. Termen: **luni, 27 iulie 2026, ora 9:00**.
+
+* Candidații cu prima opțiune **AES, GD, ISA, SIAPS, SIIS, SISC, sau TI**:
+  Adresă secretariat: secretariat@aut.upt.ro
+* Candidații cu prima opțiune **CCIoT, DMWD, ML, QC, sau SE**:
+  Adresă secretariat: secretariat@cs.upt.ro
+
+
 ## Programarea la interviu, etapa 2
 
 Pentru candidații care nu au solicitat echivalarea notei de examen cu media multianuală, interviul de admitere se va desfășura online în data de luni 27 iulie, începând cu ora 9.
 
-ℹ️ Reveniți pentru programare în cursul zilei de duminică 26 iulie.
+ℹ️ Reveniți pentru detalii despre interviu în cursul zilei de duminică 26 iulie.
+
 
 
 ## 📰 Rezultate admitere master, etapa 1
