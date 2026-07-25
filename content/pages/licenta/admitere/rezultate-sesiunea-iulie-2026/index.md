@@ -5,7 +5,7 @@ image:
   src: /uploads/accepted-application.jpg
 fullPath: licenta/admitere/rezultate-sesiunea-iulie-2026
 ---
-
+<Attachment label="Rezultate 12L sesiunea iulie 2026 - R3" file="/uploads/12l-r2_removed.pdf"></Attachment>
 
 <Attachment label="Rezultate 12L sesiunea iulie 2026 - R2" file="/uploads/12l-r1_removed.pdf"></Attachment>
 
