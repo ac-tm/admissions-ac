@@ -30,7 +30,7 @@ Interviul constă într-o prezentare în care trebuie sa abordați următoarele 
 
 <Attachment label="Programări interviu și date de conectare, Etapa 2" file="/uploads/ProgramariE2-20260727.xlsx"></Attachment>
 
-Datele de conectare vor fi trimise candidaților și prin e-mail în cursul zilei de joi la adresele înregistrate la înscriere.
+Eventuale instrucțiuni suplimentare vor fi trimise candidaților prin e-mail în cursul zilei de duminică la adresele înregistrate la înscriere.
 
 
 
