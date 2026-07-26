@@ -16,6 +16,24 @@ Pentru candidații admiși pe locuri în regim cu taxă, neachitarea **primei ra
 <Attachment label="Calendarul de plată a taxei de studii, master an 1" file="/uploads/termen-plata-admisi-pe-locuri-cu-taxa-20260723.pdf"></Attachment>
 
 
+
+## Programarea la interviu, etapa 2
+
+Pentru candidații care nu au solicitat echivalarea notei de examen cu media multianuală, interviul de admitere se va desfășura online în data de luni 27 iulie, începând cu ora 9.
+
+S﻿e recomandă prezența online cu cel puțin 30 de minute de ora programată, dar nu înainte de ora 8:45. Candidații care nu participă la interviu vor fi eliminați din concurs.
+
+Interviul constă într-o prezentare în care trebuie sa abordați următoarele subiecte:
+ - motivația pentru alegerea programului de masterat;
+ - experiența și competențele dobândite până în prezent (programul de licență absolvit, proiecte realizate, tehnologii cunoscute, experiență profesională etc.);
+ - ce anume vă propuneți să studiați/realizați la masterat – un exemplu de temă de studiu.
+
+<Attachment label="Programări interviu și date de conectare, Etapa 2" file="/uploads/ProgramariE2-20260727.xlsx"></Attachment>
+
+Datele de conectare vor fi trimise candidaților și prin e-mail în cursul zilei de joi la adresele înregistrate la înscriere.
+
+
+
 ## Admitere master, etapa 2
 
 S-au încheiat înscrierile pentru [locurile rămase libere](/master/admitere/master/).
@@ -47,12 +65,6 @@ Eventualele contestații, pe adresa secretariatului care gestionează programul 
 * Candidații cu prima opțiune **CCIoT, DMWD, ML, QC, sau SE**:
   Adresă secretariat: secretariat@cs.upt.ro
 
-
-## Programarea la interviu, etapa 2
-
-Pentru candidații care nu au solicitat echivalarea notei de examen cu media multianuală, interviul de admitere se va desfășura online în data de luni 27 iulie, începând cu ora 9.
-
-ℹ️ Reveniți pentru detalii despre interviu în cursul zilei de duminică 26 iulie.
 
 
 
