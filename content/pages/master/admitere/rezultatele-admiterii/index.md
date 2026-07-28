@@ -7,6 +7,41 @@ fullPath: master/admitere/rezultatele-admiterii
 ---
 
 
+ℹ️ Reveniți pentru instrucțiuni despre precazare.
+
+ℹ️ Reveniți pentru anunțuri despre materiile opționale din primul an de studii.
+
+Detalii despre **calendarul de plată a taxei de studii** sunt mai jos:
+Pentru candidații admiși pe locuri în regim cu taxă, neachitarea **primei rate** din taxa de școlarizare până în data de **31 august 2026** duce la anularea statului de admis la Universitatea Politehnica Timișoara.
+
+<Attachment label="Calendarul de plată a taxei de studii, master an 1" file="/uploads/termen-plata-admisi-pe-locuri-cu-taxa-20260723.pdf"></Attachment>
+
+
+
+
+## Rezultate admitere master - etapa 2
+
+<Attachment label="Rezultate concurs admitere master - etapa 2" file="/uploads/6M-E2-20260727.pdf"></Attachment>
+
+**[Rezultatele concursului pentru românii de pretutindeni se găsesc pe site-ul dedicat](https://www.upt.ro/international-students/admission/admitere-masterat-romani-de-pretutindeni)**
+
+**IMPORTANT: Candidații trebuie să confirme locul obținut! Nefinalizarea procedurii de confirmări, în termenul afișat, atrage eliminarea candidatului din concurs, inclusiv pentru studenții declarați admiși.**
+
+
+Pentru confirmare, sunt obligatorii plata taxei de confirmare și, pentru candidații admiși pe locuri fără taxă, depunerea la dosar a **diplomei sau adeverinței de licență** în **ORIGINAL** si **foaia matricola** tot in **ORIGINAL**. 
+
+1. Plata taxei de înmatriculare (200 lei) se face electronic, prin una din cele două căi:
+
+   * Din aplicația de admitere Enroll, cu cardul bancar (preferabil)
+   * Prin transfer bancar în contul UPT și încărcare a dovezii plății în aplicația de admitere Enroll ([detalii bancare](https://www.upt.ro/admitere/masterat/taxe#taxa-de-inmatriculare))
+
+2. Depunerea tuturor actele necesare la dosar se poate face în zilele lucrătoare începând de marți 28 iulie și până miercuri 29 iulie ora 15) în biroul de confirmări, corpul B, clădirea Electro, sala B512 (dacă prima opțiune la înscriere a fost la CCIoT, DMWD, ML, QC, SE) sau sala B615 (pentru AES, GD, ISA, SIAPS, SIIS, SISC, TI), și include în **ORIGINAL** adeverința/diploma, 2 fotografii color tip diplomă, situația școlară/foaie matricolă/supliment la diplomă în **ORIGINAL**, adeverință medicală, și eventuala declarație notarială deja depuse în sistemul electronic Enroll de admitere.
+
+   * Absolvenților AC UPT ai promoției 2026 care au făcut cerere în Campusul Virtual li se va transfera adeverința în original și foaia matricolă direct de la secretariatul facultății în dosarul de admitere master.
+   * Absolvenții AC UPT ai promoției 2026 care ocupă un loc bugetat, și nu au completat cererea (sau care și-au ridicat deja adeverința de la secretariat) sunt obligați să aducă adeverința sau diploma de licență în original până miercuri 29 iulie ora 15.
+
+
+
 ## Rezultate admitere master - etapa 1 final
 
 Rezultate finale ale etapei 1, după două runde de confirmări:
@@ -17,12 +52,6 @@ Rezultate finale ale etapei 1, după două runde de confirmări:
 **[Rezultatele concursului pentru românii de pretutindeni se găsesc pe site-ul dedicat](https://www.upt.ro/international-students/admission/admitere-masterat-romani-de-pretutindeni)**
 
 
-
-ℹ️ Reveniți pentru calendarul de plată a taxei de studii.
-
-ℹ️ Reveniți pentru anunțuri despre precazare.
-
-ℹ️ Reveniți pentru anunțuri despre alegerea disciplinelor opționale din primul an.
 
 
 

@@ -16,6 +16,10 @@ Pentru candidații admiși pe locuri în regim cu taxă, neachitarea **primei ra
 <Attachment label="Calendarul de plată a taxei de studii, master an 1" file="/uploads/termen-plata-admisi-pe-locuri-cu-taxa-20260723.pdf"></Attachment>
 
 
+## 📰 Rezultate admitere master, etapa 2
+
+S-au afișat **rezultatele inițiale ale etapei 2**, [pe pagina dedicată](/master/admitere/rezultatele-admiterii/).
+
 
 ## Programarea la interviu, etapa 2
 
