@@ -9,9 +9,11 @@ fullPath: licenta/admitere/rezultate-sesiunea-iulie-2026
 
 R﻿ezultate finale secțiunea 6L:
 
-<Attachment label="Admiși - toate categoriile fără olimpici" file="/uploads/6l-rf-b.pdf"></Attachment>
+<Attachment label="Admiși - general" file="/uploads/6l-rf-b.pdf"></Attachment>
 
 <Attachment label="Admiși olimpici" file="/uploads/6l-rf-o.pdf"></Attachment>
+
+<Attachment label="Admisi rural" file="/uploads/6l-rf-u.pdf"></Attachment>
 
 <Attachment label="Admiși studenți" file="/uploads/6l-rf-s.pdf"></Attachment>
 
