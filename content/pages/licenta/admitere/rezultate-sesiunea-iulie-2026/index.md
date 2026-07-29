@@ -5,6 +5,20 @@ image:
   src: /uploads/accepted-application.jpg
 fullPath: licenta/admitere/rezultate-sesiunea-iulie-2026
 ---
+<Block color="yellow">
+
+R﻿ezultate finale secțiunea 6L:
+
+<Attachment label="Admiși - toate categoriile fără olimpici" file="/uploads/6l-rf-b.pdf"></Attachment>
+
+<Attachment label="Admiși olimpici" file="/uploads/6l-rf-o.pdf"></Attachment>
+
+<Attachment label="Admiși studenți" file="/uploads/6l-rf-s.pdf"></Attachment>
+
+<Attachment label="Respinși" file="/uploads/6l-rf-respinsi.pdf"></Attachment>
+
+</Block>
+
 <Attachment label="Rezultate 12L sesiunea iulie 2026 - R3" file="/uploads/12l-r2_removed.pdf"></Attachment>
 
 <Attachment label="Rezultate 12L sesiunea iulie 2026 - R2" file="/uploads/12l-r1_removed.pdf"></Attachment>
