@@ -13,6 +13,10 @@ R﻿ezultate finale secțiunea 6L:
 
 <Attachment label="Admiși olimpici" file="/uploads/6l-rf-o.pdf"></Attachment>
 
+<Attachment label="Admiși studenți" file="/uploads/6l-rf-s.pdf"></Attachment>
+
+<Attachment label="Respinși" file="/uploads/6l-rf-respinsi.pdf"></Attachment>
+
 </Block>
 
 <Attachment label="Rezultate 12L sesiunea iulie 2026 - R3" file="/uploads/12l-r2_removed.pdf"></Attachment>
