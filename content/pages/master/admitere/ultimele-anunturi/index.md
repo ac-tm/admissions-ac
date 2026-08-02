@@ -6,14 +6,41 @@ image:
 fullPath: master/admitere/ultimele-anunturi
 ---
 
-ℹ️ Reveniți pentru instrucțiuni despre precazare.
 
 ℹ️ Reveniți pentru anunțuri despre materiile opționale din primul an de studii.
 
-Detalii despre **calendarul de plată a taxei de studii** sunt mai jos:
-Pentru candidații admiși pe locuri în regim cu taxă, neachitarea **primei rate** din taxa de școlarizare până în data de **31 august 2026** duce la anularea statului de admis la Universitatea Politehnica Timișoara.
+
+### Precazarea candidaților admiși în anul I Master în sesiunea de admitere iulie 2026, pentru anul universitar 2026-2027
+
+Procesul de precazare se desfășoară online la adresa: [https://student.upt.ro](https://student.upt.ro).
+
+Distribuirea în cămine se va face în funcție de media de admitere și de numărul de locuri disponibile în fiecare cămin.
+Pentru soluționarea eventualelor probleme întâmpinate pe parcursul procesului de precazare vă rugăm să transmiteți un email la adresa: maria.palfalvi@upt.ro.
+
+Pentru autentificare pe platforma student.upt.ro, candidații absolvenți ai UPT vor folosi în continuare conturile instituționale utilizate pe durata ciclului de licență.
+Pentru candidații absolvenți ai altor universități, se vor crea conturi de student Universitatea Politehnica Timișoara (prenume.nume@student.upt.ro) care le vor fi comunicate, anterior procesului de precazare, prin email la adresa indicată în formularul de înscriere, respectiv prin mesaj la numărul de telefon declarat la înscriere.
+
+
+### Plată taxă de studii
+
+Pentru candidații admiși pe locuri în regim cu taxă, neachitarea **primei rate** din taxa de școlarizare până în data de **31 august 2026** duce la anularea statului de admis la Universitatea Politehnica Timișoara:
 
 <Attachment label="Calendarul de plată a taxei de studii, master an 1" file="/uploads/termen-plata-admisi-pe-locuri-cu-taxa-20260723.pdf"></Attachment>
+
+
+### Calendar admitere septembrie 2026
+
+Înscriere candidați:
+- 11.09.2026 - 15.09.2026 până la ora 14:00 (preferabil online [https://enroll.upt.ro/](https://enroll.upt.ro/)), sau fizic la birourile de înscriere AC, conform orarului afișat).
+
+Concurs de admitere (interviu):
+- 16.09.2026
+
+Rezultatele concursului:
+- 16.09.2026, ora 16:00
+
+Definitivarea rezultatelor (runde de confirmări):
+- 17.09.2026 - 18.09.2026
 
 
 ## 📰 Rezultate admitere master, etapa 2
