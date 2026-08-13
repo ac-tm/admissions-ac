@@ -1,10 +1,16 @@
 ---
-title: Rezultate sesiunea iulie 2026
-description: Rezultate sesiunea iulie 2026
+title: Rezultate sesiunea iulie și septembrie 2026
+description: Rezultate sesiunea iulie și septembrie 2026
 image:
   src: /uploads/accepted-application.jpg
 fullPath: licenta/admitere/rezultate-sesiunea-iulie-2026
 ---
+<Block color="green">
+
+R﻿ezultate finale secțiunea 12L:
+
+</Block>
+
 <Block color="yellow">
 
 R﻿ezultate finale secțiunea 6L:
