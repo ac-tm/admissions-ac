@@ -10,7 +10,20 @@ fullPath: master/admitere/master
 
 La ***Facultatea de Automatică și Calculatoare*** în sesiunea de admitere din septembrie ai locuri disponibile următoarele programe de studii universitare de masterat:
 
-
+| Nume masterat | Nr. locuri buget | Nr. locuri taxă |
+|---|---:|---:|
+| Cloud Computing and Internet of Things (Procesare cloud și internetul lucrurilor) – lb. engleză | 0 | 5 |
+| Machine Learning (Învățare Automată) – lb. engleză | 0 | 0 |
+| Software Engineering (Inginerie software) – lb. engleză | 0 | 5 |
+| Quantum Computing (Calcul cuantic) – lb. engleză | 0 | 5 |
+| Media digitală și dezvoltare web / Digital Media and Web Development – lb. engleză | 0 | 10 |
+| Automotive Embedded Software (Sisteme incorporate pentru domeniul auto) – lb. engleză | 2 | 5 |
+| Ingineria sistemelor automate | 2 | 5 |
+| Sisteme informatice aplicate în producție și servicii | 0 | 5 |
+| Sisteme informatice în îngrijirea sănătății | 0 | 5 |
+| Securitatea informațiilor și a sistemelor cibernetice | 0 | 0 |
+| Game Development (Dezvoltare de jocuri video) – lb. engleză | 0 | 5 |
+| Tehnologii informatice | 2 | 5 |
 
 # Etapa 2 (16–25 iulie)
 
