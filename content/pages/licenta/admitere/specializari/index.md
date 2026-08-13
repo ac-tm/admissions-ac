@@ -18,27 +18,27 @@ Noi îți oferim 5 posibilități, **decizia e la tine**!
 
 <Block color="yellow">
 
-**Pentru anul universitar 2026-2027, sesiunea iulie 2026 avem disponibile următoarele locuri:**
+**Pentru anul universitar 2026-2027, sesiunea septembrie 2026 avem disponibile următoarele locuri:**
 
 1. **Calculatoare şi tehnologia informaţiei (română)**
 
-   * 175 - buget
-   * 25 - taxă
+   * 3 - buget
+   * 5 - taxă
 2. **Automatică, informatică aplicată și sisteme inteligente** 
 
-   * 180 - buget
-   * 4﻿5 - taxă
+   * 25 - buget
+   * 5 - taxă
 3. **Calculatoare şi tehnologia informaţiei (engleză)**
 
-   * 85 - buget
-   * 5 - taxă
+   * 0 - buget
+   * 0 - taxă
 4. **Informatică**
 
-   * 71 - buget
-   * 30 - taxă
+   * 10 - buget
+   * 5 - taxă
 5. **Informatică (la distanță)**
 
-   * 120 - taxă
+   * 22 - taxă
 
 </Block>
 
