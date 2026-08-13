@@ -1,6 +1,6 @@
 ---
-title: Rezultate sesiunea iulie 2026
-description: Rezultate sesiunea iulie 2026
+title: Rezultate sesiunea iulie și septembrie 2026
+description: Rezultate sesiunea iulie și septembrie 2026
 image:
   src: /uploads/accepted-application.jpg
 fullPath: licenta/admitere/rezultate-sesiunea-iulie-2026
