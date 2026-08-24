@@ -7,8 +7,7 @@ fullPath: master/admitere/ultimele-anunturi
 ---
 
 
-ℹ️ Reveniți pentru anunțuri despre materiile opționale din primul an de studii.
-
+ℹ️ Informații privind alegerea materiile opționale din primul an de studii pentru masteratele din cadrul domeniului CTI găsiți aici: https://cs.upt.ro/education/master/electives iar pentru masteratele din cadrul domeniului AIASI (IS) și INFO găsiți aici: https://www.aut.upt.ro/alegere_optionale.php
 
 ### Precazarea candidaților admiși în anul I Master în sesiunea de admitere iulie 2026, pentru anul universitar 2026-2027
 

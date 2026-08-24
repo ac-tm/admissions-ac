@@ -7,11 +7,20 @@ fullPath: master/admitere/rezultatele-admiterii
 ---
 
 
-ℹ️ Reveniți pentru instrucțiuni despre precazare.
+ℹ️ Informații privind alegerea materiile opționale din primul an de studii pentru masteratele din cadrul domeniului CTI găsiți aici: https://cs.upt.ro/education/master/electives iar pentru masteratele din cadrul domeniului AIASI (IS) și INFO găsiți aici: https://www.aut.upt.ro/alegere_optionale.php
 
-ℹ️ Reveniți pentru anunțuri despre materiile opționale din primul an de studii.
+ℹ️ Precazarea candidaților admiși în anul I Master în sesiunea de admitere iulie 2026, pentru anul universitar 2026-2027
 
-Detalii despre **calendarul de plată a taxei de studii** sunt mai jos:
+Procesul de precazare se desfășoară online la adresa: [https://student.upt.ro](https://student.upt.ro).
+
+Distribuirea în cămine se va face în funcție de media de admitere și de numărul de locuri disponibile în fiecare cămin.
+Pentru soluționarea eventualelor probleme întâmpinate pe parcursul procesului de precazare vă rugăm să transmiteți un email la adresa: maria.palfalvi@upt.ro.
+
+Pentru autentificare pe platforma student.upt.ro, candidații absolvenți ai UPT vor folosi în continuare conturile instituționale utilizate pe durata ciclului de licență.
+Pentru candidații absolvenți ai altor universități, se vor crea conturi de student Universitatea Politehnica Timișoara (prenume.nume@student.upt.ro) care le vor fi comunicate, anterior procesului de precazare, prin email la adresa indicată în formularul de înscriere, respectiv prin mesaj la numărul de telefon declarat la înscriere.
+
+
+ℹ️ Detalii despre **calendarul de plată a taxei de studii** sunt mai jos:
 Pentru candidații admiși pe locuri în regim cu taxă, neachitarea **primei rate** din taxa de școlarizare până în data de **31 august 2026** duce la anularea statului de admis la Universitatea Politehnica Timișoara.
 
 <Attachment label="Calendarul de plată a taxei de studii, master an 1" file="/uploads/termen-plata-admisi-pe-locuri-cu-taxa-20260723.pdf"></Attachment>
