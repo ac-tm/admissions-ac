@@ -7,6 +7,12 @@ fullPath: licenta/admitere/rezultate-sesiunea-iulie-2026
 ---
 <Block color="green">
 
+<Attachment label="R﻿ezultate finale secțiunea 6L septembrie 2026:" file="/uploads/6l-toamna-r0v2.pdf"></Attachment>
+
+</Block>
+
+<Block color="green">
+
 R﻿ezultate finale secțiunea 12L:
 
 </Block>
