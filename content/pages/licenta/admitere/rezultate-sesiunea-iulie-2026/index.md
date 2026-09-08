@@ -7,6 +7,12 @@ fullPath: licenta/admitere/rezultate-sesiunea-iulie-2026
 ---
 <Block color="green">
 
+
+
+</Block>
+
+<Block color="green">
+
 R﻿ezultate finale secțiunea 12L:
 
 </Block>
