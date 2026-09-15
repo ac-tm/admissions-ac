@@ -6,6 +6,26 @@ image:
 fullPath: master/admitere/ultimele-anunturi
 ---
 
+
+## Programarea la interviu, sesiunea septembrie
+
+Pentru candidații care nu au solicitat echivalarea notei de examen cu media multianuală, interviul de admitere se va desfășura online în data de miercuri 16 septembrie începând cu ora 9.
+
+S﻿e recomandă prezența online cu cel puțin 30 de minute de ora programată, dar nu înainte de ora 8:45. Candidații care nu participă la interviu vor fi eliminați din concurs.
+
+Interviul constă într-o prezentare în care trebuie sa abordați următoarele subiecte:
+ - motivația pentru alegerea programului de masterat;
+ - experiența și competențele dobândite până în prezent (programul de licență absolvit, proiecte realizate, tehnologii cunoscute, experiență profesională etc.);
+ - ce anume vă propuneți să studiați/realizați la masterat – un exemplu de temă de studiu.
+
+<Attachment label="Programări interviu și date de conectare, AES, GD, ISA, SIAPS, SIIS, SISC, TI" file="/uploads/ProgramariAIA-20260916.xlsx"></Attachment>
+<Attachment label="Programări interviu și date de conectare, CCIoT, DMWD, ML, QC, SE" file="/uploads/ProgramariCTI-20260916.xlsx"></Attachment>
+
+
+Eventuale instrucțiuni suplimentare vor fi trimise candidaților prin e-mail în cursul zilei de marți la adresele înregistrate la înscriere.
+
+
+
 ## Admitere master, sesiunea septembrie
 
 S-au încheiat înscrierile pentru [locurile alocate](/master/admitere/master/).
@@ -25,8 +45,19 @@ Candidați înscriși la finalul zilei de 15 septembrie: 38
 | TSE | 2 |
 | TSIIS | 1 |
 
+### Verificare
 
-ℹ️ Interviul de admitere se va desfășura online în data de miercuri 16 septembrie începând cu ora 9, reveniți azi în jurul orei 18 pentru detalii.
+Toți candidații sunt obligați să verifice în lista de mai jos validitatea datelor de concurs.
+
+<Attachment label="Liste de verificare Enroll" file="/uploads/6M-liste-verificare-20260915.pdf"></Attachment>
+
+Eventualele contestații, pe adresa secretariatului care gestionează programul pe care l-ați precizat ca primă opțiune. Termen: **miercuri, 16 septembrie, ora 9:00**.
+
+* Candidații cu prima opțiune **AES, GD, ISA, SIAPS, SIIS, SISC, sau TI**:
+  Adresă secretariat: secretariat@aut.upt.ro
+* Candidații cu prima opțiune **CCIoT, DMWD, ML, QC, sau SE**:
+  Adresă secretariat: secretariat@cs.upt.ro
+
 
 
 ### Calendar admitere septembrie 2026
