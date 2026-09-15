@@ -6,6 +6,45 @@ image:
 fullPath: master/admitere/ultimele-anunturi
 ---
 
+## Admitere master, sesiunea septembrie
+
+S-au încheiat înscrierile pentru [locurile alocate](/master/admitere/master/).
+
+Candidați înscriși la finalul zilei de 15 septembrie: 38
+
+| **Program** | **Candidați** |
+| ----------- | ------------- |
+| AES | 4 |
+| ISA | 4 |
+| TI | 8 |
+| TAES | 3 |
+| TCCIOT | 8 |
+| TDMWD | 4 |
+| TGD | 3 |
+| TQC | 1 |
+| TSE | 2 |
+| TSIIS | 1 |
+
+
+ℹ️ Interviul de admitere se va desfășura online în data de miercuri 16 septembrie începând cu ora 9, reveniți azi în jurul orei 18 pentru detalii.
+
+
+### Calendar admitere septembrie 2026
+
+Înscriere candidați:
+- 11.09.2026 - 15.09.2026 până la ora 14:00 (preferabil online [https://enroll.upt.ro/](https://enroll.upt.ro/)), sau fizic la birourile de înscriere AC, conform orarului afișat).
+
+Concurs de admitere (interviu online):
+- 16.09.2026
+
+Rezultatele concursului:
+- 16.09.2026, ora 16:00
+
+Definitivarea rezultatelor (runde de confirmări):
+- 17.09.2026 - 18.09.2026
+
+
+
 
 ℹ️ Informații privind alegerea materiile opționale din primul an de studii pentru masteratele din cadrul domeniului CTI găsiți aici: https://cs.upt.ro/education/master/electives iar pentru masteratele din cadrul domeniului AIASI (IS) și INFO găsiți aici: https://www.aut.upt.ro/alegere_optionale.php
 
@@ -27,19 +66,6 @@ Pentru candidații admiși pe locuri în regim cu taxă, neachitarea **primei ra
 <Attachment label="Calendarul de plată a taxei de studii, master an 1" file="/uploads/termen-plata-admisi-pe-locuri-cu-taxa-20260723.pdf"></Attachment>
 
 
-### Calendar admitere septembrie 2026
-
-Înscriere candidați:
-- 11.09.2026 - 15.09.2026 până la ora 14:00 (preferabil online [https://enroll.upt.ro/](https://enroll.upt.ro/)), sau fizic la birourile de înscriere AC, conform orarului afișat).
-
-Concurs de admitere (interviu):
-- 16.09.2026
-
-Rezultatele concursului:
-- 16.09.2026, ora 16:00
-
-Definitivarea rezultatelor (runde de confirmări):
-- 17.09.2026 - 18.09.2026
 
 
 ## 📰 Rezultate admitere master, etapa 2
