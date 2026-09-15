@@ -19,7 +19,7 @@ Interviul constă într-o prezentare în care trebuie sa abordați următoarele 
  - ce anume vă propuneți să studiați/realizați la masterat – un exemplu de temă de studiu.
 
 <Attachment label="Programări interviu și date de conectare, AES, GD, ISA, SIAPS, SIIS, SISC, TI" file="/uploads/ProgramariAIA-20260916.xlsx"></Attachment>
-<Attachment label="Programări interviu și date de conectare, CCIoT, DMWD, ML, QC, SE" file="/uploads/ProgramariCTI-20260916.xlsx"></Attachment>
+<Attachment label="Programări interviu și date de conectare, CCIoT, DMWD, ML, QC, SE" file="/uploads/ProgramariCTI-20260916-.xlsx"></Attachment>
 
 
 Eventuale instrucțiuni suplimentare vor fi trimise candidaților prin e-mail în cursul zilei de marți la adresele înregistrate la înscriere.
