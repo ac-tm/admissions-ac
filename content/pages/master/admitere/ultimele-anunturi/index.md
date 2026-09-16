@@ -49,7 +49,7 @@ Candidați înscriși la finalul zilei de 15 septembrie: 38
 
 Toți candidații sunt obligați să verifice în lista de mai jos validitatea datelor de concurs.
 
-<Attachment label="Liste de verificare Enroll" file="/uploads/6M-liste-verificare-20260915.pdf"></Attachment>
+<Attachment label="Liste de verificare Enroll" file="/uploads/6M-liste-verificare-20260915-.pdf"></Attachment>
 
 Eventualele contestații, pe adresa secretariatului care gestionează programul pe care l-ați precizat ca primă opțiune. Termen: **miercuri, 16 septembrie, ora 9:00**.
 
