@@ -7,23 +7,34 @@ fullPath: master/admitere/rezultatele-admiterii
 ---
 
 
-ℹ️ Informații privind alegerea materiile opționale din primul an de studii pentru masteratele din cadrul domeniului CTI găsiți aici: https://cs.upt.ro/education/master/electives iar pentru masteratele din cadrul domeniului AIASI (IS) și INFO găsiți aici: https://www.aut.upt.ro/alegere_optionale.php
+## Rezultate admitere master - sesiunea septembrie, runda 1 de confirmări
 
-ℹ️ Precazarea candidaților admiși în anul I Master în sesiunea de admitere iulie 2026, pentru anul universitar 2026-2027
+**[Rezultatele concursului pentru românii de pretutindeni se găsesc pe site-ul dedicat](https://www.upt.ro/international-students/admission/admitere-masterat-romani-de-pretutindeni)**
 
-Procesul de precazare se desfășoară online la adresa: [https://student.upt.ro](https://student.upt.ro).
+Locul ocupat în urma interviurilor de admitere este disponibil în contul candidaților din platforma Enroll de înscriere.
 
-Distribuirea în cămine se va face în funcție de media de admitere și de numărul de locuri disponibile în fiecare cămin.
-Pentru soluționarea eventualelor probleme întâmpinate pe parcursul procesului de precazare vă rugăm să transmiteți un email la adresa: maria.palfalvi@upt.ro.
+Candidații care nu au fost admiși în prima rundă vor aștepta runda a doua de confirmări.
 
-Pentru autentificare pe platforma student.upt.ro, candidații absolvenți ai UPT vor folosi în continuare conturile instituționale utilizate pe durata ciclului de licență.
-Pentru candidații absolvenți ai altor universități, se vor crea conturi de student Universitatea Politehnica Timișoara (prenume.nume@student.upt.ro) care le vor fi comunicate, anterior procesului de precazare, prin email la adresa indicată în formularul de înscriere, respectiv prin mesaj la numărul de telefon declarat la înscriere.
+**IMPORTANT: Candidații trebuie să confirme locul obținut! Nefinalizarea procedurii de confirmări, în termenul afișat, atrage eliminarea candidatului din concurs, inclusiv pentru studenții declarați admiși.**
+
+Pentru confirmare, sunt obligatorii plata taxei de înmatriculare și, pentru candidații admiși pe locuri fără taxă, depunerea la dosar a **diplomei sau adeverinței de licență** în **ORIGINAL** și **foaia matricola** tot în **ORIGINAL**. 
+
+1. Plata taxei de înmatriculare (200 lei) se face electronic, de azi până joi 17 septembrie ora 16, prin una din cele două căi:
+
+   * Din aplicația de admitere Enroll, cu cardul bancar (preferabil)
+   * Prin transfer bancar în contul UPT și încărcare a dovezii plății în aplicația de admitere Enroll ([detalii bancare](https://www.upt.ro/admitere/masterat/taxe#taxa-de-inmatriculare))
+
+2. Depunerea tuturor actele necesare la dosar se poate face joi 16 septembrie între orele 9 și 16 în biroul de confirmări, corpul B, clădirea Electro, sala B512 (daca prima optiune la înscriere a fost la CCIoT, DMWD, ML, QC, SE) sau sala B615 (pentru AES, GD, ISA, SIAPS, SIIS, SISC, TI), și include în **ORIGINAL** adeverința/diploma, 2 fotografii color tip diplomă, situația școlară/foaie matricolă/supliment la diplomă în **ORIGINAL**, adeverință medicală, și eventuala declarație notarială deja depuse în sistemul electronic Enroll de admitere.
+
+   * Absolvenților AC UPT ai promoției 2026 care au făcut cerere în Campusul Virtual li se va transfera adeverința în original și foaia matricolă direct de la secretariatul facultății în dosarul de admitere master.
+Absolvenții AC UPT ai promoției 2026 care ocupă un loc bugetat, și nu au completat cererea (sau care și-au ridicat deja adeverința de la secretariat) sunt obligați să aducă adeverința sau diploma de licență în original până joi 17 septembrie ora 16.
 
 
-ℹ️ Detalii despre **calendarul de plată a taxei de studii** sunt mai jos:
-Pentru candidații admiși pe locuri în regim cu taxă, neachitarea **primei rate** din taxa de școlarizare până în data de **31 august 2026** duce la anularea statului de admis la Universitatea Politehnica Timișoara.
+O eventuală rundă 2 de confirmări se va desfășura vineri 18 septembrie, reveniți pe finalul zilei de joi.
+**IMPORTANT: Candidații care au confirmat în prima rundă nu mai trebuie să confirme și în runda 2. Candidații fără loc în prima rundă și admiși în runda 2 trebuie să confirme locul obținut în runda 2; nefinalizarea procedurii de confirmări, în termenul afișat, atrage eliminarea candidatului din concurs, inclusiv pentru studenții declarați admiși.**
 
-<Attachment label="Calendarul de plată a taxei de studii, master an 1" file="/uploads/termen-plata-admisi-pe-locuri-cu-taxa-20260723.pdf"></Attachment>
+
+
 
 
 

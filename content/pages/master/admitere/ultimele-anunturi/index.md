@@ -6,6 +6,11 @@ image:
 fullPath: master/admitere/ultimele-anunturi
 ---
 
+## 📰 Rezultate admitere master, sesiunea septembrie
+
+S-au afișat **rezultatele inițiale ale sesiunii septembrie**, [pe pagina dedicată](/master/admitere/rezultatele-admiterii/).
+
+
 
 ## Programarea la interviu, sesiunea septembrie
 
